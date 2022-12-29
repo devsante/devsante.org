@@ -6,6 +6,9 @@
     "batch-index": "php -c php.ini site/plugins/kirby-algolia/batch-index.php"
   },
   "config": {
-    "optimize-autoloader": true
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
   }
 }
