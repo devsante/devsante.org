@@ -31,6 +31,7 @@
     "build": "gulp prod",
     "deploy": "rsync -avz --delete --exclude-from=.rsyncexclude . devsante.org:devsante.org",
     "deploy:beta": "rsync -avz --delete --exclude-from=.rsyncexclude-beta . devsante.org:beta.devsante.org",
-    "refresh": "rsync -avz --delete devsante.org:devsante.org/content/ ./content"
+    "refresh": "rsync -avz --delete devsante.org:devsante.org/content/ ./content",
+    "export-archive": "curl -s http://localhost:3000/export-archive > /dev/null"
   }
 }
