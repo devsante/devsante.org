@@ -46,6 +46,11 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
 
         $pages = $articles->merge($actualites)->sortBy("datetime", "desc");
 
+        $summary = [
+          "## Archive devsante.org (1976 - 2022)",
+          "- [Avant-propos](README.md)",
+        ];
+
         // Transform the content of each page into a standard Markdown file,
         // using standard frontmatter, and removing kirbytext.
         foreach ($pages as $page) {
