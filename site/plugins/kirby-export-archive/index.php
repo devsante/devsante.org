@@ -5,19 +5,19 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
     [
       "pattern" => "export-archive",
       "action" => function () {
-        $summary = [
-          "## Archive devsante.org (1976 - 2022)",
-          "- [Avant-propos](README.md)",
-        ];
-        $pages = page("articles")
-          ->children()
-          ->listed()
-          ->flip()
-          ->limit(5);
+        // Copy the content/articles/ directory to archive/articles/ in an indempotent way
+        exec(
+          "rm -r archive/articles ; cp -rf content/articles/. archive/articles"
+        );
+        exec("rm -r archive/articles/*/article.txt");
+        exec("rm -r archive/articles/articles-list.txt");
 
-        // Copy the content/articles/ directory to book/articles/ in an indempotent way
-        exec("rm -r book/articles ; cp -rf content/articles/. book/articles");
-        exec("rm -r book/articles/*/article.txt");
+        // Copy the content/actualites/ directory to archive/actualites/ in an indempotent way
+        exec(
+          "rm -r archive/actualites ; cp -rf content/actualites/. archive/actualites"
+        );
+        exec("rm -r archive/actualites/*/news.txt");
+        exec("rm -r archive/actualites/news-list.txt");
 
         // Remove the datetime prefix in the subdirectory names. The folder
         // names are used as slugs by Honkit.
@@ -28,7 +28,23 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
         // article (probably an udpated version of the original article) is the
         // one that is kept (which is what is happening on Kirby's side as
         // well).
-        exec("cd book/articles && ls -r | rename 's/\d{12}_//'");
+        exec("cd archive/articles && ls -r | rename 's/\d{12}_//'");
+        // Same with actualites, but with sequential numbers instead of dates
+        exec("cd archive/actualites && ls -r | rename 's/\d+_//'");
+
+        $articles = page("articles")
+          ->children()
+          ->listed()
+          ->flip()
+          ->limit(5);
+
+        $actualites = page("actualites")
+          ->children()
+          ->listed()
+          ->flip()
+          ->limit(5);
+
+        $pages = $articles->merge($actualites)->sortBy("datetime", "desc");
 
         // Transform the content of each page into a standard Markdown file,
         // using standard frontmatter, and removing kirbytext.
@@ -41,10 +57,10 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
           $frontmatter = arrayToFrontmatter($frontmatterFields);
           $teaser = $page->teaser()->value();
           $text = kirbytextImageToMarkdown($page->text()->value());
-          $slug = $page->slug();
+          $page_path = "{$page->parent()->slug()}/{$page->slug()}";
 
           file_put_contents(
-            "book/articles/$slug/index.md",
+            "archive/$page_path/index.md",
             join(
               "\n",
               array_filter([$frontmatter, $teaser, $text], function ($value) {
@@ -53,12 +69,12 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
             )
           );
 
-          $summary[] = "- [{$page->title()->value()}](articles/$slug/index.md)";
+          $summary[] = "- [{$page->title()->value()}]($page_path/index.md)";
         }
 
         // Add a summary page to the book
         file_put_contents(
-          "book/SUMMARY.md",
+          "archive/SUMMARY.md",
           join("\n", ["# Summary", ...$summary])
         );
       },
