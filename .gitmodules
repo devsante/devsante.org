@@ -3,4 +3,4 @@
 	url = git@github.com:mlbrgl/kirby-algolia.git
 [submodule "archive"]
 	path = archive
-	url = git@github.com:mlbrgl/devsante.org-archive.git
+	url = git@github.com:devsante/devsante.org-archive.git
