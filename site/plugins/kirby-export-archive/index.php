@@ -29,6 +29,9 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
         // one that is kept (which is what is happening on Kirby's side as
         // well).
         exec("cd archive/articles && ls -r | rename 's/\d{12}_//'");
+        // Remove the colliding folders that weren't renamed
+        exec("cd archive/articles && ls | grep '^[0-9]\{12\}' | xargs rm -r");
+
         // Same with actualites, but with sequential numbers instead of dates
         exec("cd archive/actualites && ls -r | rename 's/\d+_//'");
 
