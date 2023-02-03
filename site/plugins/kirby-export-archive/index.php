@@ -35,14 +35,12 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
         $articles = page("articles")
           ->children()
           ->listed()
-          ->flip()
-          ->limit(5);
+          ->flip();
 
         $actualites = page("actualites")
           ->children()
           ->listed()
-          ->flip()
-          ->limit(5);
+          ->flip();
 
         $pages = $articles->merge($actualites)->sortBy("datetime", "desc");
 
