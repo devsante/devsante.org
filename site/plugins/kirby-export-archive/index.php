@@ -59,17 +59,26 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
             "title" => $page->title()->value(),
             "author" => $page->author()->value(),
             "date" => $page->datetime()->toDate("%Y-%m-%d"),
+            // placing the teaser in the frontmatter means that markdown in the
+            // teaser won't be rendered (at least with the page template code in
+            // page.html). This doesn't seem to be an issue after a cursory
+            // glance. A more thorough evaluation of the teaser content on more
+            // pages might reveal a higher occurence of markdown in the teaser,
+            // which would then make processing markdown there worthwhile. Long
+            // teasers with paragraphs might also become an issue with this
+            // approach, although the solution probably needs to be editorial
+            // through shorter teasers.
+            "teaser" => $page->teaser()->value(),
           ];
           $frontmatter = arrayToFrontmatter($frontmatterFields);
-          $teaser = $page->teaser()->value();
           $text = kirbytextImageToMarkdown($page->text()->value());
           $page_path = "{$page->parent()->slug()}/{$page->slug()}";
 
           file_put_contents(
             "archive/$page_path/index.md",
             join(
-              "\n",
-              array_filter([$frontmatter, $teaser, $text], function ($value) {
+              "\n\n",
+              array_filter([$frontmatter, $text], function ($value) {
                 return !empty($value);
               })
             )
@@ -98,7 +107,7 @@ function arrayToFrontmatter($array)
     $escapedValue = addcslashes($value, "\"");
     $frontmatter .= "$key: \"$escapedValue\"\n";
   }
-  $frontmatter .= "---\n";
+  $frontmatter .= "---";
   return $frontmatter;
 }
 
