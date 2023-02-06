@@ -117,13 +117,14 @@ function arrayToFrontmatter($array)
   return $frontmatter;
 }
 
+// convert kirbytext images to markdown and start them on a new line. Images
+// already starting on a new line will get caught by this regex and get an extra
+// new line, but that's ok.
 function kirbytextImageToMarkdown($kirbytext)
 {
   return preg_replace(
-    // remove leading spaces, as they break image rendering. We need to capture
-    // non-breaking spaces as well as regular spaces, but not newlines.
-    "/[^\S\r\n]*\(image:\s*(.*?)\)/u",
-    '![]($1)',
+    "/^(.*?)\(image:\s*(.*?)\)/mu",
+    "$1\n![]($2)",
     $kirbytext
   );
 }
@@ -142,7 +143,7 @@ function kirbytextNewlineToMarkdown($kirbytext)
 // Make sure <table> tags start on a new line
 function kirbytextTableOpenToMarkdown($kirbytext)
 {
-  return preg_replace("/^([^\n]+?)<table>/m", "$1\n<table>", $kirbytext);
+  return preg_replace("/^(.+?)<table>/m", "$1\n<table>", $kirbytext);
 }
 
 // Add a extra new line after closing </table> tags to get them recognized
