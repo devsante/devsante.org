@@ -71,7 +71,11 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
             "teaser" => $page->teaser()->value(),
           ];
           $frontmatter = arrayToFrontmatter($frontmatterFields);
-          $text = kirbytextImageToMarkdown($page->text()->value());
+          $text = kirbytextTableOpenToMarkdown(
+            kirbytextTableCloseToMarkdown(
+              kirbytextImageToMarkdown($page->text()->value())
+            )
+          );
           $page_path = "{$page->parent()->slug()}/{$page->slug()}";
 
           file_put_contents(
@@ -120,4 +124,16 @@ function kirbytextImageToMarkdown($kirbytext)
     '![]($1)',
     $kirbytext
   );
+}
+
+// Make sure <table> tags start on a new line
+function kirbytextTableOpenToMarkdown($kirbytext)
+{
+  return preg_replace("/^([^\n]+?)<table>/m", "$1\n<table>", $kirbytext);
+}
+
+// Add a extra new line after closing </table> tags to get them recognized
+function kirbytextTableCloseToMarkdown($kirbytext)
+{
+  return preg_replace("/<\/table>\n([^\n])/", "</table>\n\n$1", $kirbytext);
 }
