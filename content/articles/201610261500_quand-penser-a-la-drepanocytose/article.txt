@@ -1,0 +1,50 @@
+Title: Quand penser à la drépanocytose ?
+
+----
+
+Author: Dr Françoise Bernaudin, pédiatre, Créteil, France
+
+----
+
+Datetime: 2016-10-26 15:00:00
+
+----
+
+Teaser:
+
+La drépanocytose est une maladie génétique transmise par les parents porteurs du gène mais non malades.
+Par contre, dans une famille, lorsque les 2 parents AS sont porteurs, un enfant sur 4 en moyenne est atteint de la maladie drépanocytaire SS.
+
+----
+
+Text:
+
+(image: penser-drepano-image002.gif)
+
+L’hémoglobine normale A contenue dans le globule rouge transporte l’oxygène aux tissus mais est remplacée, en cas de drépanocytose, par l’hémoglobine anormale S qui polymérise (se solidifie au lieu de rester soluble) à l’intérieur du globule rouge. Celui-ci, au lieu de rester souple et capable de passer dans des petits vaisseaux de 2 µ, devient rigide et se déforme en faucille et se coince dans les petits vaisseaux. Le sang, et donc l’oxygène, n’arrivent plus dans les extrémités, comme les mains et les pieds par exemple, qui deviennent douloureux : c’est ce qu’on appelle la « crise vaso-occlusive ».
+
+La **rate**, qui est l’organe dans lequel les vaisseaux sont les plus petits, retient ces globules rouges "falciformés" et les détruit. On parle de **"crise de séquestration splénique"** lorsque ces globules rouges sont emprisonnés dans la rate. Leur destruction est responsable de l’anémie (manque de globules rouges) et donc de la pâleur et des signes d’hémolyse avec libération de la bilirubine colorant le blanc des yeux en jaune (ictère).
+                                              
+
+Par ailleurs, le rôle de la rate est majeur dans la lutte anti-microbienne tant que l’organisme n’a pas fabriqué les anticorps. Or, la rate va très rapidement, dès les premiers mois de vie, devenir non fonctionnelle, exposant ainsi l’enfant drépanocytaire aux infections foudroyantes, par pneumocoques, *haemophilus*, méningocoques, salmonelles, justifiant la mise en route d’un traitement prophylactique systématique par pénicilline orale biquotidienne et par les vaccinations précoces.
+
+Durant les premiers mois de vie, le taux de l’hémoglobine fœtale (HbF) est très élevé et sa présence avec l’HbS anormale va protéger le nourrisson en général pendant quelques mois et c’est souvent à partir de l’âge de 6 mois que les premiers signes vont apparaître
+
+##1. Devant un nourrisson
+
+Il faudra évoquer la drépanocytose devant un nourrisson jusque là bien potelé et vif mais dont la **courbe pondérale s’infléchit** sans raison apparente. Cela peut être dû à l’installation progressive d’une anémie chronique.
+Ce peut-être devant une manifestation aiguë telle que la "crise de séquestration splénique" : les globules rouges, coincés dans la rate, sont responsables d’une anémie aiguë révélée par une **pâleur inhabituelle** et une diminution du tonus et de l’appétit. Il faut savoir la détecter en regardant la couleur des paumes des mains et des conjonctives et rechercher une **augmentation du volume de la rate (splénomégalie)**. Il s’agit d’une urgence vitale pouvant nécessiter une transfusion en urgence. 
+(image: penser-drapano-image008.gif)
+Le plus souvent, ce sera devant un **gonflement du dos des pieds et des mains (syndrome pied-main)** chez un nourrisson par ailleurs douloureux nécessitant la prescription d’antalgiques. 
+(image: penser-drepano-image006.gif)
+                                                                       
+Il est important de rechercher à l’interrogatoire la notion de décès précoce dans la fratrie ou de signes identiques déjà observés dans la famille
+
+##2. Devant un enfant
+
+Il faudra évoquer la drépanocytose devant un enfant **douloureux au niveau des membres** qui peuvent présenter des tuméfactions ou devant des **douleurs abdominales inexpliquées**.
+Devant un enfant fatigable, maigre avec distension abdominale, il faudra rechercher une anémie chronique pouvant révéler la drépanocytose.
+La survenue d’un épisode de **priapisme (érection anormale car prolongée et douloureuse)** devra faire penser à ce diagnostic.
+Tout épisode fébrile devra non seulement faire penser à la crise de paludisme mais aussi à la drépanocytose qui peut se compliquer d’infections bactériennes foudroyantes.
+Il faudra y penser également devant une paralysie d’un membre, pouvant évoquer un accident vasculaire cérébral ou une complication infectieuse comme une méningite.
+Tous ces signes d’appel doivent conduire à demander une **électrophorèse de l’hémoglobine** qui seule permettra d’affirmer le diagnostic.

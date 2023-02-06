@@ -1,0 +1,43 @@
+Title: Les trop lents progrès de la santé dans le monde
+
+----
+
+Author: Christian Mongin, médecin, Paris
+
+----
+
+Datetime: 2017-11-20 13:00:00
+
+----
+
+Teaser: 
+
+----
+
+Text: 
+
+Les Nations Unies ont défini des Objectifs de Développement Durable (ODD) à atteindre avant 2030 pour  "ne laisser personne derrière". Cinquante de ces objectifs sont liés à la santé.        
+Une revue internationale de médecine, *The Lancet*, vient de publier un article important qui analyse  l’évolution de 37 de ces 50 ODD dans 135 pays :  
+<http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17)32336-X.pdf>
+
+Les indicateurs utilisés sont très variés. Ils vont par exemple du retard de croissance de l’enfant aux nouveaux cas d’infection à VIH en passant par le taux de vaccination, le suicide, l’accès à l’eau potable et à l’hygiène, etc. 
+Chaque indicateur est noté, ce qui permet d’attribuer une note par pays.
+Ce travail a été réalisé par le groupe d’étude de la "charge mondiale des maladies "  ( *Global burden of diseases*) qui a mobilisé 2500 chercheurs et a été coordonné par le prestigieux *Institute for Health Metrics and Evaluation* de l’université de Washington à Seattle.
+
+Les résultats de ce travail n’invitent pas à l’optimisme.
+Rien n’est moins sûr que ces objectifs de développement durable concernant la santé soient atteints en 2030.
+Incontestablement, dans certains domaines l’espoir est permis. Ainsi, plus de 60 % des pays devraient atteindre les objectifs prévus pour les mortalités néonatale, infantile et maternelle ainsi que pour le paludisme. 
+En revanche, en ce qui concerne la mortalité routière, l’obésité des enfants ou la tuberculose, moins de 5 % des pays approcheront le but affiché.
+Les pays qui ont obtenu la meilleure note n’auront pas trop de problèmes pour atteindre la plupart de ces objectifs comme Singapour, l’Islande ou la Suède qui caracolent en tête du classement. 
+
+Cependant, selon les tendances observées, seulement la moitié des pays atteindraient les objectifs concernant l’accouchement en présence de professionnels de santé, de la qualité de l’air intérieur ou de registres de décès fiables. Moins de 10 %  seront capables d’atteindre les objectifs concernant le contrôle du VIH, l’obésité des enfants, la mortalité par suicide ou la mortalité routière.
+Mais les résultats les plus inquiétants concernent les pays d’Afrique subsaharienne, notamment la République centrafricaine et la Somalie, qui sont les derniers de la liste avec l’Afghanistan.
+
+Ces résultats sont confirmés et précisés par une autre étude : *The path to longer and healthier lives for all Africans*
+<http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17)31509-X.pdf>. Cette étude met en avant le contexte particulier de l’Afrique et ses facteurs de vulnérabilité, malgré un dynamisme indiscutable dans de nombreux domaines :
+- Nombreux pays fragiles économiquement, zones rurales isolées, bidonvilles, guerres, réfugiés ;
+- Existence d’une « double peine » : persistance de pathologies anciennes : maladies infectieuses, malnutrition, mortalité infantile et maternelle qui s’associent maintenant à l’apparition de maladies chroniques non transmissibles : HTA, diabète, obésité, cancers ,santé mentale, et pathologie liée au réchauffement climatique et à la dégradation de l’environnement ,
+- Et surtout, l’inadéquation et l’inefficacité de la mise en oeuvre en Afrique de démarches ou d’organisation importées de pays du Nord (qui , d’ailleurs, ne savent plus comment faire face à l’augmentation des coûts de la santé chez eux).
+
+Les auteurs de cet article, dont la plupart sont des universitaires africains,  en appellent à une mobilisation professionnelle et citoyenne de chacun des pays africains afin qu’ils élaborent des politiques de santé originales et innovantes impliquant les communautés concernées et sachant utiliser les nouvelles technologies dans le respect de leur culture et de leurs valeurs.
+<http://www.thelancet.com/infographics/future-health-Africa>

@@ -1,0 +1,155 @@
+Title: Anesthésie chez un malade porteur d'une drépanocytose
+
+---- Author: Yveline Tourner
+
+----  
+Datetime: 1984-10-03 00:00
+
+----  
+Text:
+
+**Anesthésie chez un malade porteur d'une drépanocytose**
+
+**par Yveline Tourner**
+
+Le risque de l'anesthésie chez les sujets porteurs d'une drépanocytose est d'induire une crise vaso-occlusive en augmentant la falciformation si les conditions ventilatoires ou circulatoires ne sont pas efficaces.
+
+Ce danger est très supérieur chez les sujets homozygotes. Il est donc essentiel de prendre des précautions avant, pendant et après tout acte chirurgical.
+
+**Avant l'intervention**
+
+Il faut rechercher l'existence d'une hémoglobine anormale par :
+
+**a. l'interrogatoire :**
+
+- notion de crises douloureuses, - histoire familiale.
+
+**b. tests simples**
+
+- examen du frottis sanguin et test d' Emmel
+
+_(cf. D.S.. n° 7)._
+
+**c. électrophorèse de l'hémoglobine.** Celle-ci affirme avec certitude le diagnostic de la forme homo ou hétérozygote mais le délai nécessaire la rend inutile en chirurgie d'urgence.
+
+Faire un examen précis et complet du patient à la recherche de complications
+
+• **L'anémie :** elle est constante avec un taux d'hémoglobine moyen de 7 g/100 ml. Elle est relativement bien tolérée.
+
+• **Recherche d'un foyer infectieux:** les infections de la sphère ORL et pulmonaire sont fréquentes, susceptibles de déclencher une crise drépanocytaire.
+
+*   **Une atteinte cardio-vasculaire**
+
+- souffles orificiels,
+
+- cardiomégalie,
+
+- une insuffisance cardiaque droite secondaire aux infarctus et infections pulmonaires répétées.
+
+**• Une atteinte hépatique des voies biliaires et une atteinte rénale** qui peuvent modifier la conduite à tenir de l'anesthésie.
+
+*   **Une atteinte osseuse**
+*   **-** nécrose,
+
+- ostéite.
+
+*   **Une atteinte pulmonaire.**
+*   • **Une crise drépanocytaire** en cours avec son polymorphisme possible.
+
+• **La grossesse :** elle aggrave la maladie. Les avortements spontanés, les morts foetales sont fréquentes. Les crises se produisent surtout pendant :
+
+- le dernier trimestre,
+
+- le travail, un accouchement laborieux. Il ne faut pas hésiter à césariser ou à effectuer une
+
+délivrance artificielle dès qu'une complication survient.
+
+**Sauf en cas d'extrême urgence, il faut préparer le sujet à l'intervention.**
+
+**1. Correction de l'anémie**
+
+Celle-ci dépend beaucoup des possibilités transfusionnelles à la disposition de l'anesthésiste, car les pays les plus touchés sont ceux où le don du sang est le moins organisé. Quand ces possibilités sont limitées, il est préférable, étant donné que le taux de l'hémoglobine évolue de façon cyclique, de choisir une période où ce taux est relativement élevé, en principe **supérieur à** 7 g/100 ml. L'administration de fer est inutile. L'administration d'acide folique est recommandée.
+
+**Si elle est possible, la transfusion sanguine représente la meilleure préparation à l'anesthésie. Elle est souhaitable avec du sang frais isogroupe. L'importance de celle-ci dépend de l'intervention projetée.**
+
+L'exsanguino-transfusion partielle consiste à remplacer la moitié de la masse sanguine. Elle est idéale en cas d'intervention majeure et très hémorragique mais, techniquement difficile à réaliser en l'absence d'une banque de sang.
+
+**2. Traitement d'un foyer infectieux et parasitaire, et prophylaxie des infections pulmonaires.**
+
+**3. Maintien d'une bonne hydratation et traitement d'un déséquilibre hydroélectrolitique.**
+
+*   Éviter un jeûne abusif.
+
+• Une alcalinisation peut être effectuée sous forme de bicarbonates à doses suffisantes pour alcaliniser les urines (pH urinaire à la bandelette supérieur à 7).
+
+**4. La prémédication**
+
+Elle est réduite au minimum. Pas d'administration de produits pouvant entraîner une dépression respiratoire.
+
+**5. Préparer la salle d'opération** Avoir à porter de la main :
+
+- de **l'oxygène,**
+
+- un ambu ou autre matériel d'assistance
+
+respiratoire,
+
+- un matériel d'aspiration manuel ou mural,
+
+- de quoi poser un abord veineux,
+
+- des solutés de remplissage et de perfusion,
+
+- un appareil de prise de tension artérielle.
+
+Il faut se mettre d'accord avec l'équipe chirurgicale sur :
+
+*   La position du patient sur la table d'opération: choisir celle qui, sans gêner l'acte chirurgical, évitera des points de compression.
+*   Les billots, si nécessaires, doivent être mis par l'anesthésiste ou le chirurgien lui-même.
+*   La pose des garrots est déconseillée. Ceux-ci, même sur un membre bien vidé de sang (exsanguiné), induit une hypoxie et une acidose capables de déclencher une crise drépanocytaire grave en cours d'intervention. Cependant, si le pronostic vital est en jeu pour une hémostase, celui-ci peut être mis mais en tous les cas pour un laps de temps très court.
+
+**Pendant l'intervention**
+
+Le choix des drogues pour anesthésier importe peu pourvu que l'on pallie leurs effets dépresseurs.
+
+**L'anesthésie locale et les blocs tronculaires sont recommandés.**
+
+Les anesthésies loco-régionales, type péridurale et rachidienne peuvent entraîner une hypotension et ne doivent être employées que faute d'autres moyens d'anesthésier ces patients.
+
+Il faut :
+
+*   Ventiler efficacement avec de l'air enrichi d'oxygène (mélange 2/3 - 1/3).
+
+*   Ne pas utiliser le protoxyde d'azote.
+
+• Compenser les pertes sanguines. Éviter toute hypertension.
+
+*   Bien hydrater.
+
+• Empêcher le refroidissement mais aussi l'hyperthermie. Il convient donc de prendre la température du patient pendant l'intervention (exemple : dans la bouche, sous la langue) et surveiller la diurèse.
+
+**Après l'intervention**
+
+**1. Le réveil**
+
+• Il constitue une période délicate à cause du frisson _et de_ la dépression ventilatoire résiduelle.
+
+• En fonction de l'acte chirurgical, une ventilation artificielle peut être à effectuer.
+
+**2. Post-opératoire**
+
+• **Les** mêmes mesures de réanimation sont continuées, axées surtout sur le maintien d'une ventilation efficace.
+
+• L'oxygénothérapie par sonde nasale, si c'est possible, est recommandée, pendant 48 heures.
+
+• Une kinésithérapie respiratoire doit être instituée très tôt afin de prévenir les complications pulmonaires.
+
+• Lutter contre la fièvre ; une antibiothérapie par Pénicilline est nécessaire en permanence chez le drépanocytaire.
+
+• L'équilibre hydro-électrolytique doit être suivi attentivement car la déshydratation est un des principaux facteurs de survenue de crise drépanocytaire.
+
+• La douleur post-opératoire. Les dérivés de la morphine ayant un risque de dépression respiratoire ne sont pas conseillés.
+
+• L'aspirine, par son effet antalgique et antiagrégant plaquettaire semble être le médicament de choix.
+
+*   Compenser les pertes sanguines.

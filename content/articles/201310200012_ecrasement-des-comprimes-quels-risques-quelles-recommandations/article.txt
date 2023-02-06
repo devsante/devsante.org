@@ -1,0 +1,126 @@
+Title: Ecrasement des comprimés : quels risques, quelles recommandations ?
+
+---- Author: Pascale Lesseur, Pharmacien, Paris, France. Philippe Reinert, Pédiatre, Créteil, France.
+
+----  
+Datetime: 2013-10-20 00:00
+
+----  
+Teaser:
+
+Les médicaments destinés à la voie orale sont présentés sous des formes galéniques complexes, adaptées à leur utilisation, mais qui ne sont pas conçues pour être administrées différemment des recommandations du fabricant. Pourtant, dans la pratique, la prise de médicaments en comprimés ou en gélules s’avère difficile chez certains patients. Le recours à l’écrasement d’un comprimé ou à l’ouverture d’une gélule doit être bien réfléchi car cela comporte des risques.
+
+----  
+Text:
+
+## I. Pourquoi écraser un médicament avant l’administration par voie orale ?
+
+Dans certaines situations cliniques, chez l’adulte de tout âge et plus particulièrement chez les personnes âgées atteintes de **troubles de la déglutition, de la conscience ou de troubles psychiatriques,** il est parfois impossible d’avaler des comprimés ou des gélules, et souvent le médicament n’existe pas sous forme liquide.
+
+Chez l’enfant de moins de 6 ans, il est formellement interdit de prescrire des comprimés ou des gélules en raison du **risque de fausse route** qui peut provoquer une asphyxie, dans certains cas mortelle, ou une obstruction bronchique responsable d’infection pulmonaire aiguë ou chronique parfois grave. Malheureusement, pour de nombreux médicaments essentiels, il n’existe pas de forme pédiatrique.  
+Dans ces situations, couper ou écraser un comprimé ou ouvrir une gélule peut être la seule solution.
+
+## II. Les risques associés à l’écrasement des médicaments
+
+### 1. Pour le patient
+
+Inexactitude des doses réellement administrées par perte du médicament lors de la préparation ou par modification de l’absorption : sur ou sous-dosage.
+
+*   Toxicité locale avec irritation ou ulcération des muqueuses digestives.
+*   Pour les formes galéniques spécifiques : modification des propriétés physico-chimiques (stabilité du principe actif, incompatibilité), des caractéristiques pharmacocinétiques (libération du principe actif, biodisponibilité) et/ou pharmacodynamiques (dose efficace, durée de l’effet) du médicament ; ces effets peuvent engendrer :
+    *   une toxicité,
+    *   une perte d’effet (exemple des comprimés gastro-résistants dont le principe actif est détruit par le liquide gastrique).
+*   Interactions médicamenteuses en cas de mélange de plusieurs médicaments.
+*   Interactions entre le médicament et le produit utilisé pour l’administration.
+*   Variabilité des horaires d’administration (par rapport aux repas) et donc des intervalles entre deux administrations.
+*   Administration de médicaments non destinés à un patient (traçabilité).
+*   Interactions entre les médicaments de plusieurs patients.
+
+### 2. Pour le personnel soignant et l’environnement
+
+*   Le personnel soignant peut être exposé à des accidents allergiques ou toxiques par contact cutané ou inhalation de particules médicamenteuses.
+*   Le risque environnemental est lié à la non-destruction des médicaments mélangés à des aliments incomplètement consommés.
+
+## III. Règles générales
+
+En l’absence de rainure sur un comprimé, la division est difficile et aléatoire et doit être évitée (risque d’erreur de dosage).
+
+### **Il ne faut pas couper, écraser, ouvrir les formes orales suivantes :**
+
+*   **Les formes gastro-résistantes**  
+    L’enrobage gastro-résistant protège le principe actif de l’acidité du liquide gastrique. Le principe actif est libéré dans l’intestin où le pH est beaucoup moins acide. Ces formes sont conçues pour protéger le principe actif ou la muqueuse de l’estomac.  
+    _En revanche, les gélules à base de microgranules gastro-résistantes peuvent être ouvertes, mais les microgranules ne doivent pas être broyées._
+*   **Les formes à libération modifiée (retard, LP)**  
+    Dans les formes LP (LP : libération prolongée) : la libération du principe actif est différée, régulière et/ou prolongée, ce qui permet de maintenir plus longtemps les concentrations plasmatiques efficaces.  
+    _Les gélules LP contenant des microgranules d’action prolongée peuvent être ouvertes, mais leur contenu ne doit pas être écrasé._
+
+*   **Les capsules molles**  
+    Les capsules molles sont des enveloppes constituées de gélatine, entièrement closes, destinées à contenir des liquides, souvent des médicaments liquides huileux.  
+    _S’il n’y a pas d’alternative, elles peuvent éventuellement être dissoutes dans un peu d’eau tiède ou percées avec une aiguille pour récupérer le contenu (imprécis, liquide souvent visqueux)._
+*   **Les comprimés enrobés (dragées et comprimés pelliculés)**  
+    L’enrobage protège le principe actif contre la lumière et les agents atmosphériques. Il permet de masquer une saveur, un goût ou une odeur désagréables et rend le médicament facile à administrer.  
+    _Si l’on considère que l'enrobage est un critère de confort et qu’il n’y a pas d’autre alternative, ces comprimés peuvent être écrasés._
+*   **Les comprimés linguaux**  
+    Les comprimés sont gardés dans la bouche jusqu’à complète dissolution, le principe actif résistant au pH de la salive. Leur administration est facile.
+*   **Comprimés orodispersibles ou à sucer**  
+    Ils fondent sur la langue et sont avalés avec la salive. Leur absorption est digestive comme pour les comprimés simples. Ils peuvent aussi être dilués dans un peu d’eau.
+*   **Les lyophilisats oraux : Lyoc ou comprimés sublinguaux**  
+    Ils fondent sous la langue et ne doivent pas être avalés (inefficacité). Ils sont conçus pour une absorption du principe actif par la muqueuse buccale d’où ils passent rapidement dans la circulation générale.
+
+*   **Les formes contenant** :
+
+    *   des **principes actifs instables** à l’humidité, à l’air ou à la lumière (vitamines A, B, C)
+
+    *   des **substances irritantes** (fer, chlorure de potassium,..),
+
+    *   des principes actifs à marge thérapeutique étroite (digoxine, antivitamine K, théophylline…).
+
+## IV. Les recommandations, en pratique
+
+Ces recommandations sont destinées à améliorer les pratiques et à limiter les risques pour les patients comme pour les soignants.  
+En fonction de l’organisation du centre de soins, il est possible qu’elles puissent ne pas être suivies. Dans ce cas, il est déconseillé de ne pas modifier la forme du médicament.
+
+### 1. La prescription
+
+*   S’assurer que la voie orale est la mieux adaptée (autre voie d’administration possible ?) et limiter la prescription aux médicaments indispensables.
+*   Vérifier si le médicament ne peut pas être remplacé par :
+    *   Une autre forme galénique : solution buvable, sachet, comprimé effervescent ou dispersible (dissout dans l’eau) 
+    *   Un autre médicament (principe actif équivalent avec une forme galénique adéquate)
+    *   Des alternatives non médicamenteuses.
+*   Contacter le pharmacien pour les médicaments nécessitant des précautions particulières de préparation ou pour trouver une alternative thérapeutique
+
+### 2. La préparation par le personnel soignant
+
+*   La préparation doit être assurée par le personnel soignant qui administre le médicament au patient.
+*   IVérifier auprès du pharmacien si le comprimé peut être écrasé ou coupé, si la gélule peut être ouverte.
+*   Se laver les mains avant et après la manipulation.
+*   Porter des gants et d’un masque dans la mesure du possible (risque d’inhalation du produit par le personnel soignant).
+*   Utiliser un système écraseur-broyeur ou un mortier pour chaque patient.
+
+​(image: 02-0.jpg)
+
+
+*   Les principes actifs pouvant être instables à l’air, à l’humidité ou à la lumière, ne pas écraser les comprimés à l’avance, mais immédiatement avant l’administration.
+*   Ne pas écraser plusieurs comprimés en même temps en raison du risque d’interaction.
+*   Pulvériser les médicaments le plus finement possible.
+*   Ajouter un volume suffisant de liquide ou d’aliment pour masquer un goût désagréable.
+*   Laver le matériel à l’eau et savon après chaque préparation.
+
+​
+
+### 3. L'administration par le personnel soignant
+
+*   Éviter d’utiliser un récipient intermédiaire entre l’écrasement et le transfert dans la substance-véhicule. Sinon, en utiliser un sans relief, avec le nom du patient et du médicament (exemple : cupule en aluminium)
+*   Utiliser, pour l’administration des médicaments, le véhicule le plus neutre possible : eau ou eau épaissie.
+*   Pour une administration par sonde, rincer la sonde avant et après le passage du médicament.
+*   Administrer les médicaments un à un.
+*   Respecter les horaires d’administration par rapport aux repas.
+*   Se laver les mains entre chaque patient.
+
+## Conclusion
+
+Selon la situation clinique ou l’âge, de nombreux patients ne peuvent pas ingérer un médicament solide par voie orale. Il n’existe parfois aucune alternative, en particulier pour les enfants. Afin d’éviter des risques potentiels pour le patient ou le soignant, il est toujours préférable d’administrer une forme liquide lorsqu’elle existe. Il n'est pas toujours possible, en pratique, de suivre ces recommandations, dans ce cas, il faut utiliser la forme disponible.
+
+Liste de médicaments ayant fait l'objet d'études concernant l'ouverture ou l'écrasement des comprimés/gélules
+
+[http://pharmacie.hug-ge.ch/infomedic/utilismedic/tab_couper_ecraser.pdf](http://pharmacie.hug-ge.ch/infomedic/utilismedic/tab_couper_ecraser.pdf)

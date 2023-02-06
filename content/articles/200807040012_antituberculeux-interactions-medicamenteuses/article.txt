@@ -1,0 +1,66 @@
+Title: Antituberculeux : interactions médicamenteuses
+
+----  
+Datetime: 2008-07-04 00:00
+
+----  
+Teaser:
+
+La plupart des médicaments antituberculeux interagissent avec d'autres médicaments sou­vent prescrits, pouvant diminuer où augmenter les taux sériques donc l'activité de ces der­niers. Il est donc très important de connaître ces interactions.
+
+----  
+Text:
+
+## 1. Rifampicine
+
+C'est un inducteur de plusieurs enzymes hépa­tiques qui dégradent certains médicaments. Cet effet inducteur apparaît dès la dose de 600 mg/jour au bout de quelques jours. Cet effet persiste 1 à 4 semaines après l'arrêt du traitement.
+
+### Anti VIH
+
+Antiprotéases : indinavir, ritonavir, sequinavir.
+
+### Névirapine
+
+### Contraceptifs oestro-progestatifs et progestatifs
+
+Il faut donc conseiller une contraception mécanique pendant la durée du traitement.
+
+### Anticoagulants oraux _(antivitamine K)_
+
+Tous ces médicaments voient leur activité diminuée : il faut donc réajuster les doses, ou changer de traitement.
+
+## 2. Isoniazide (INH)
+
+### Topiques gastro-intestinaux à base d'aluminium
+
+Ils diminuent l'absorption de l'isoniazide : il faut les absorber au moins 2 heures après la prise d'INH.
+
+### Carbamazépine (antiépileptique)
+
+L'INH augmente rapidement, les taux sériques pouvant entraîner des troubles de la conscience, voire un coma.
+
+### Kétoconazole
+
+Diminution des taux sériques.
+
+## 3. Pyrazinamide
+
+Addition des effets hépatotoxiques de l'INH.
+
+## 4. Ethambutol
+
+### Topiques gastro-intestinaux à base d'aluminium :
+
+Ils diminuent l'absorption intestinale de l'éthambutol : les prendre au moins 2 heures après la prise de l'éthambutol.
+
+## 5. Streptomycine
+
+### Anticoagulants oraux _(antivitamine K)_
+
+La streptomycine peut déséquilibrer l'action anticoagulante des antivitamine K en aug­mentant l'effet anticoagulant.
+
+### Anesthésiques
+
+De nombreuses interactions ont été décrites, mais aussi avec les curarisants et les myore­laxants : mieux vaut interrompre le traitement par streptomycine avant une anesthésie.
+
+_Développement et Santé, n°190, 2008_

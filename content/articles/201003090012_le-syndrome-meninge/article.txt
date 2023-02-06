@@ -1,0 +1,115 @@
+Title: Le syndrome méningé
+
+----  
+Datetime: 2010-03-09 00:00
+
+----  
+Text:
+
+## I. Définition
+
+Ensemble de signes liés à une infection des enveloppes du cerveau et de la moelle épinière (les méninges) par des bactéries, des virus, des champignons ou des parasites.
+
+## II. Objectif du soin
+
+Evaluer, soulager et référer.
+
+## III. Gestes et surveillance infirmiers
+
+### a) Diagnostiquer
+
+Les principaux signes cliniques du syndrome méningé sont les céphalées :
+
+*   Violentes, diffuses, souvent pulsatiles
+*   Constantes
+*   Aggravées par la lumière, les mouvements de la tête, le bruit
+*   Ne cédant pas aux antalgiques habituels
+*   Irradiant vers le cou et le rachis
+
+Ces céphalées sont accompagnées de vomissements, sans nausée préalable, sans effort (lors des changements de position).
+
+D'autres signes peuvent également être présents : troubles du rythme cardiaque (pouls ralenti = bradycardie), troubles respiratoires (fréquence ralentie avec pauses respiratoires) et hypertension artérielle.
+
+#### A l'examen clinique, les signes du syndrome méningé sont :
+
+*   La **raideur de la nuque** : c'est le signe de méningite le plus précoce et le plus constant. Elle se recherche par la flexion passive de la tête sur le thorax. Le mouvement est limité par la contracture douloureuse des muscles cervicaux postérieurs. Les mouvements latéraux sont moins douloureux et possibles.
+*   **L'attitude « en chien de fusil »** : elle est due à la contracture rachidienne.
+*   Le signe de Kernig : il se recherche en pliant les membres inférieurs sur le bassin, jambes étendues : une douleur s'oppose à ce mouvement et oblige le patient à plier les jambes.
+*   Le **signe de Brudzinski** : les tentatives de flexion de la tête vers l'avant entraînent une flexion involontaire des membres inférieurs.
+
+### b) Evaluer la gravité
+
+Les signes de gravité sont :
+
+*   Les troubles de la conscience (obnubilation, états confusionnels, coma)
+*   Les convulsions, surtout chez les enfants.
+*   Le purpura : toute éruption purpurique (taches de couleur violette) doit évoquer une méningite à méningocoques et faire débuter immédiatement une antibiothérapie avant le transfert.
+
+**_=>Alerter_** **et préparer le transfert**
+
+### d) Agir
+
+*   Soulager : mettre le patient dans un local calme, aéré, dans l'obscurité, le couvrir avec des linges humides pour le rafraîchir et faire baisser la température.
+*   Traiter par paracétamol.
+
+Tout syndrome méningé doit, si possible, être confirmé par un examen du liquide céphalo-rachidien (LCR)  
+Cet examen nécessite une ponction lombaire (PL). Dans certains pays, les infirmiers sont autorisés à la faire, dans d'autres il faut transférer à l'hôpital de district.
+
+La décision concernant le syndrome méningé dépend de deux facteurs :
+
+*   soit vous êtes dans une zone où sévit la méningite à méningocoque et/ou en période épidémique (de février à avril) ;
+*   soit il est possible que le patient soit infecté par le VIH.
+
+Dans le cas d'une **méningite bactérienne**, le **LCR** a les caractéristiques suivantes :
+
+*   aspect très trouble,
+*   présence de nombreux lymphocytes (vus à l'examen microscopique),
+*   concentration en protéines (protéinorachie) élevée,
+*   présence de _cocci_ Gram négatif groupés par deux (ou antigène positif au test au latex) s'il s'agit de méningocoques.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>
+
+Un traitement antibiotique doit être débuté en urgence en cas de méningite bactérienne.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Le chloramphénicol huileux (retard) et/ou la ceftriaxone peuvent être utilisés.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Les deux produits agissent dès la première injection =>
+
+Chloramphénicol retard en suspension huileuse et ceftriaxone sont actifs en injection unique.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+(image: image001.gif)
+
+
+La **méningite tuberculeuse** est d'évolution progressive, avec un LCR clair, une protéinorachie élevée et une glycorachie (teneur en glucose dans le LCR) diminuée. Il est rare de trouver des BAAR à l'examen bacilloscopique, il faut attendre la culture.
+
+La **méningite à cryptocoque** est d'évolution lente, avec un LCR légèrement trouble contenant peu de cellules, une protéinorachie augmentée, une glycorachie diminuée. On ne voit rien à l'examen microscopique tant que l'on n'examine pas le LCR avec une goutte d'encre de Chine : les coques apparaissent en négatif entourés d'un halo clair (il existe aussi un test au latex).

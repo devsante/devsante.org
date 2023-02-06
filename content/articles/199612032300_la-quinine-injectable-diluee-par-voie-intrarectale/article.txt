@@ -1,0 +1,164 @@
+Title: La quinine injectable diluée par voie intrarectale
+
+---- Author: par H. Barennes*, A. Mahaman Sani, F. Clavier, S. Mamadou, E. Pussard, F. Verdier * Bp 792, Niamey, Niger.
+
+----  
+Datetime: 1996-12-03 00:00
+
+----  
+Text:
+
+La quinine injectable diluée par voie intrarectale : une solution face aux dangers des intramusculaires de quinine chez le jeune enfant ? Bilan des études cliniques et pharmacologiques et impact en santé publique
+
+**_Devant l'apparition de la_** **_chloroquinorésistance en Afrique, la quinine a_** **_retrouvé de son intérêt face aux molécules récentes, de par son coût modéré, sa_** **_disponibilité et son efficacité. Utilisée en intramusculaire (IM), la_** **_quinine est souvent responsable de complications graves: abcès, paralysies sciatiques,_** **_transmission d'infections. La voie intraveineuse (IV) nécessite du matériel et un_** **_personnel compétent. La voie intrarectale (IR), facile d'utilisation et présentant_** **_peu d'effets secondaires, a été étudiée successivement à Madagascar et au_** **_Niger. Une synthèse des travaux, entrepris avec le bichlorhydrate de quinine_** **_(Quinimax®) est présentée. Deux études, entreprises à Niamey, Niger, de 1992 à_** **_1994, réalisées sur des échantillons de 66 et 13 enfants, ont confirmé_** **_l'efficacité clinique et parasitologique, précisé la pharmacocinétique de la_** **_voie_** **_IR, par rapport à la voie IM et IV. Après administration de 20 mglkg de_** **_Quinimax® injectable dilué avec 2 cc d'eau en IR, le temps d'obtention du pic_** **_sanguin (Tmax) est 1,7± 1,6 heure, le taux sanguin maximum (Cmax) est 5,1_** **_±1,7 mg/l, la demi-vie est 3,0 ±1,7 heure. Le rythme d'administration toutes les_** **_12 heures présente une bonne efficacité. En décembre 1994, la quinine en_** **_intrarectale est adoptée officiellement au Niger pour le traitement des accès_** **_simples nécessitant un traitement parentéral (vomissements, convulsions). La_** **_diarrhée constitue un facteur limitant. La tolérance, appréciée au long cours,_** **_est bonne et nécessite une formation simple du personnel afin d'éviter les_** **_erreurs. La dilution avec 2 à 3 cc est impérative. L'impact en santé publique_** **_s'est traduit par une disparition progressive des paralysies post-injectionnelles_** **_et des complications septiques ainsi que par l'allégement_** de la **_charge de_** **_travail des services de pédiatrie. Des études pour apprécier l'efficacité de la_** **_voie IR versus voie IV dans les neuropaludismes sont en cours à Niamey._**
+
+Les intramusculaires de quinine (IM), très utilisées en Afrique, souvent en indications excessives et dans des conditions incorrectes sont responsables d'inconvénients souvent redoutables chez le jeune enfant : abcès, paralysies sciatiques, transmission d'infections comme le tétanos, les hépatites ou le VIH ; leur rôle dans l'aggravation de la poliomyélite a été souligné [1, 4]. Le rôle du pH bas et d'une concentration élevée des ampoules en quinine (supérieures à 60 mg/ml) a été incriminé.
+
+Les suppositoires de quinine, peu adaptés aux conditions tropicales, présentent une absorption très irrégulière et une mauvaise tolérance locale et ne sont plus guère utilisés.
+
+Devant l'apparition de la chloroquinorésistance en Afrique, la quinine a retrouvé de
+
+son intérêt face aux molécules récentes, de par son coût modéré, sa disponibilité et son efficacité. Il importe donc de l'utiliser dans les meilleures conditions pour le jeune enfant.
+
+Pour cette raison, nous présentons ici une synthèse des principaux résultats apportés par les études successives effectuées, depuis 1988, à Madagascar puis au Niger sur la quinine injectable administrée diluée en intrarectale (IR) [2, 31].
+
+Nous présentons aussi les effets qui ont pu être appréciés au Niger depuis l'adoption officielle de cette technique en décembre 1994 : impact sur la fréquence des paralysies postinjectionnelles et sur la gravité des paludismes admis dans les services de pédiatrie.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>Note de la rédaction
+
+La quinine par voie rectale
+
+Cette technique constitue certainement un progrès important dans le traitement du paludisme par sa fragilité, son faible coût et sa rapidité.
+
+Il faut toutefois préciser que l'administration par voie rectale des médicaments est imprécise (fuites, passage sanguin variable).
+
+Il est donc trop tôt pour en généraliser l'utilisation aux accès sévères.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## **I. Les premiers résultats** **d'efficacité clinique** **et parasitologique** **à Madagascar (étude** **de 1987 à 1989) [2]**
+
+Le Quinimax® injectable diluée avec 2 cc d'eau, administré en intrarectale, a été utilisé de manière empirique depuis 1985 à Madagascar, à la dose de 20 mg/kg dans un contexte de pénurie de solutés et de matériel, chez les enfants avec accès palustres justifiant un traitement parentéral (convulsions, vomissements, coma), (à l'exclusion des paludismes avec diarrhée). L'efficacité clinique et l'élimination de la quinine dans les urines ont été étudiés de 1987 à 1989. Parmi les 64enfants de l'étude, positifs pour le _Plasmodium falciparum,_ 28 convulsaient, 2 étaient en coma profond et 20 étaient obnubilés (coma _vigil),_ 9 présentaient une réaction méningée, 49 présentaient une température supérieure à 39°. La densité moyenne des hématies parasitées était de 6 600 (extrêmes 500-14 600). La réponse au traitement a été rapide : au 2e jour, 10 enfants avaient une température encore supérieure à 39°, et aucun après le 3e jour. Tous les enfants, excepté deux, avaient repris conscience au 2e jour et récupérèrent sans complications. Deux enfants sont décédés, un de septicémie et un de méningite décapitée associée. La parasitémie persistait à 24 heures chez 25 enfants et, au bout de 48 heures, chez 5 enfants, avant de s'annuler à la 72e heure.
+
+L'étude des quininuties après injection de quinine par voie intrarectale (QIR) a montré une absorption et une élimination rapide de la quinine [2].
+
+## **II.** **Détermination de la pharmacocinétique** **de la quinine** **par voie intrarectale** **et comparaison avec** **les intramusculaires** **et les perfusions** **de quinine : trois études** **au Niger (1992-1994)**
+
+### **1. Méthodologie**
+
+Trois études ont été réalisées dans le service de pédiatrie B de l'Hôpital National de Niamey, lors de la saison palustre (juillet à décembre), pendant les années 1992 à 1994 chez des enfants impaludés nécessitant une hospitalisation.
+
+La température était mesurée toutes les 12 heures, les parasitémies sur frottis toutes les 4 heures le premier jour, puis toutes les 8 heures. La quininémie était dosée par chromatographie liquide à haute performance, à l'INSERM U. 13 Paris, aux temps suivants : H0, H0,5, H1, H2, H3, H4, H6, H8, H16, H24, H32, H40, H48 dans le plasma (1<sup>re</sup> étude) puis dans le sang total (études suivantes) et analysée sur logiciel APIS.
+
+### **2. Résultats de la première étude** **au Niger : la quinine par voie** **intrarectale est une alternative** **efficace aux intramusculaires**
+
+La première étude a été réalisée chez 66 enfants traités par le Quinimax® toutes les 12 heures pendant 48 heures : 55 enfants ont été traités en intrarectale (20 mg/kg dilué dans 2 cc administré avec une seringue sans canule), 5 enfants en intramusculaire et 6 enfants en perfusion (intraveineuse) (12,5 mg/kg). Les quininémies de 15 enfants en intrarectale, et 5 en intramusculaire ont été étudiées.  
+Le _tableau n° 1_ présente les caractéristiques des 66 enfants étudiés au Niger lors de la première étude. La _figure n° 1_ reprend l'évolution de la température dans les trois groupes intrarectale, intramusculaire, intraveineuse. Le temps de retour de la température à 37° ainsi que les temps d'élimination des parasites dans le sang (clairance) étaient similaires dans les trois groupes intraveineuse, intramusculaire et intrarectale.
+
+Les données de la pharmacocinétique _(tableau n_° 2) montrent une concentration moins élevée de la quinine après la voie intrarectale qu'après la voie intramusculaire, le temps d'obtention du pic de concentration maximale et la demi-vie sont similaires.
+
+(image: i711-1.jpg)
+(image: i711-2.jpg)
+
+
+### **3. Résultats de la deuxième étude** **au Niger : confirmation du** **schéma thérapeutique optimal**
+
+La deuxième étude a permis d'envisager le meilleur schéma thérapeutique entre les doses de 8 mg/kg et 13 mg/kg toutes les 8 heures, et 20 mg/kg toutes les 12 heures.
+
+L'état clinique et parasitaire des 13 enfants admis lors de la deuxième étude au Niger était similaire dans les trois groupes. Le retour de la température à la normale a été de 36 heures dans les trois groupes, mais l'élimination totale des parasites n'a été obtenue à 48 heures qu'avec la posologie de 20 mg/kg/12 h. Tous les enfants étaient aparasitémiques au 7e jour.
+
+Les concentrations de quinine dans le sang total _(tableau_ _n°3)_ augmentent linéairement avec la dose (permettant théoriquement de prévoir les concentrations obtenues) et sont les plus élevées avec la dose 20 mg/kg/12 heures sans atteindre de taux toxiques [4]. Le rythme d'administration toutes les 8 heures permet d'avoir en permanence un taux sanguin supérieur au taux considéré efficace (2-3 mg/l).
+
+Une simulation pharmacocinétique permet de proposer l'administration de 20 mg/kg de bichlorhydrate de quinine toutes les 8 heures comme schéma efficace et non toxique.
+
+### **4. Résultats de la troisième étude** **au Niger : la recherche d'une** **préparation spécifiquement** **adaptée à la voie intrarectale**
+
+Une troisième étude, réalisée avec une crème de gluconate de quinine (Sanofi-Whinthrop), spécifiquement conçue pour la voie rectale a montré une bonne efficacité de cette voie comparée à la voie intramusculaire et intraveineuse sur un échantillon randomisé de 34 enfants. Pour des raisons économiques, la commercialisation de cette crème intrarectale n'est pas encore envisagée.
+
+## **III. Discussion**
+
+### **1. La tolérance et les indications**
+
+La tolérance de la voie intrarectale a été bonne : aucun enfant n'a présenté de complications locales. La dilution systématique de la quinine par 2 à 5 cc d'eau bouillie est impérative, afin d'éviter des complications locales, la quinine étant potentiellement irritante.
+
+(image: i711-3.jpg)
+
+
+L'administration est réalisée à l'aide d'une simple seringue de 5 à 10 ml du commerce sans utiliser ni canules ni aiguilles. (L'absence d'utilisation de canule se justifie par les particularités du drainage veineux de la partie inférieure du rectum qui court-circuite la dégradation hépatique ; la partie haute du rectum étant drainé dans la veine porte et le foie.)
+
+Les inconvénients les plus courants sont le rejet du produit, prévenue par une pincée des fesses après l'administration ou l'apparition de selles molles, notablement améliorée par un régime à base de riz. Beaucoup plus rare, l'apparition de selles glaireuses ou de glairo-sanglantes doit être différenciée d'une salmonellose ou d'une amibiase préexistantes et cède dès l'arrêt de la quinine par voie intrarectale.
+
+En cas de diarrhée, la voie intrarectale est déconseillée, de même que dans un contexte de gastro-entérite.
+
+Le rythme d'administration toutes les 8 heures donne de meilleurs résultats pharmacologiques. L'administration de 20 mg/kg toutes les 12 heures, plus facilement réalisable, présente une bonne efficacité. La durée du traitement par la voie rectale peut être de 12, 24 ou 48 heures selon l'état du malade. On veillera au passage à la voie orale dès amélioration de l'enfant. En cas de rejet dans le quart d'heure qui suit, une demi-dose est réadministrée.
+
+Une bonne formation préalable des infirmiers est nécessaire afin d'éviter des accidents tels
+
+que l'utilisation d'une aiguille pour l'administration dans le rectum, l'utilisation de la quinine pure ou l'utilisation de doses trop élevées. En 1994, lors de la diffusion de la technique dans les Centres de Santé Maternelle et Infantile (CSMI) de Niamey, un enfant a ainsi réalisé une fistule rectale, par absence de dilution et a dû être opéré. L'évolution a été bonne.
+
+En 1995, une surveillance hebdomadaire de 7 CSMI de Niamey a été instaurée et aucune complication n'a été apportée _(tableau n° 4)._ Le service de pédiatrie de Morondava à Madagascar utilise la quinine par voie intrarectale depuis 1985 et le service de pédiatrie A de Niamey, qui hospitalise annuellement près de 2 800 enfants/an de 0 à 1 an et qui a remplacé l'intramusculaire par l'intrarectale depuis 1992, n'ont rapporté aucune complication en dehors des inconvénients déjà cités.
+
+Le personnel doit aussi être conscient du respect des indications. Même si la voie intrarectale est rapidement efficace, son utilisation ne saurait être en première intention si l'enfant est capable de prendre un traitement oral.
+
+En effet, l'utilisation répétée de produits en intrarectal, telle l'ergométrine (utilisée en suppositoires quotidiens sur plusieurs mois), a été décrite comme responsable de lésions locales : rectite, anite. Ce risque potentiel incite à limiter l'usage de la quinine par voie intrarectale aux accès palustres avec impossibilité de prise orale.
+
+(image: i711-4.jpg)
+(image: i711-5.jpg)
+
+
+### **2. Les avantages de la méthode**
+
+La quinine par voie intrarectale est une méthode facile d'utilisation, à la portée des structures sanitaires disposant de peu de moyens ou des services surchargés de malades et ne disposant pas de personnel suffisant.
+
+Son efficacité et sa rapidité d'action en font un traitement de choix chez le jeune enfant impaludé, présentant des convulsions ou des vomissements ou une obnubilation. Elle permet d'éviter l'aggravation vers un accès palustre pernicieux.
+
+### **3. Quel impact****en santé publique ?**
+
+*   #### **La disparition des paralysies** **postinjectionnelles**
+
+Cet impact a été apprécié, depuis 1993, auprès du chirurgien orthopédiste (Dr Hoekman) et du centre de kinésithérapie de Niamey qui reçoivent les séquelles d'injection de toute la région. L'impact a été aussi apprécié auprès de la consultation spécialisée de pédiatrie de l'hôpital de Niamey (Dr Degbey). Depuis l'installation de la quinine par voie intrarectale dans les CSMI de Niamey, ce motif de consultation, fréquent avant 1994, a disparu progressivement dans ces trois consultations et ne concerne plus que les enfants venus de l'extérieur de Niamey ou les jeunes adolescents.
+
+*   #### **Un allégement de la charge de travail des services de pédiatrie**
+
+Au Niger, les services de pédiatrie sont saturés avec deux voire trois malades par lit, de juillet à décembre, lors de la transmission palustre _(tableau n° 5)_. La létalité est élevée (de 18 à 33 % selon le mois en 1994), car le personnel et le matériel sont notablement insuffisants. La part des malades atteints d'accès palustres modérés hospitalisés en pédiatrie était importante jusqu'en 1995, (36 % en 1993, 48 % en 1994). Le traitement précoce de ces enfants par la quinine par voie intrarectale dans les Centres de santé infantiles permet de limiter les évacuations sur l'Hôpital de Niamey et de limiter ainsi l'encombrement du service qui peut alors se consacrer davantage aux accès sévères.
+
+### **4. Les perspectives**
+
+Au Niger, faute de moyens et de personnel suffisant, aucun des services hospitaliers ne réalise de traitement correct des neuropaludismes par la perfusion de quinine. Les enfants reçoivent, selon les services, une à deux intramusculaires par jour ou une perfusion unique ; les surdosages et l'impossibilité de surveillance correcte sont fréquemment à l'origine des décès ou de complications iatrogènes. En 1995, nous avons étudié l'efficacité de la quinine par voie intrarectale à la dose de 20 mg/kg en dose de charge, suivie de 15 mg/kg toutes les 8 heures comparativement au traitement préconisé par l'OMS de trois perfusions de quinine dans les neuropaludismes [10]. Les premiers résultats sont prometteurs.
+
+(image: i711-6.jpg)
+
+
+### **Conclusion**
+
+La quinine en intrarectale présente une efficacité rapide, alternative intéressante face aux dangers des intramusculaires de quinine chez le jeune enfant. Facile à réaliser dans les formations sanitaires, sa tolérance est bonne mais exige une formation et une sensibilisation préalable du personnel. Les travaux réalisés à Madagascar et au Niger ont permis de confirmer l'efficacité de cette voie et d'en étudier la pharmacocinétique. Certains services de pédiatrie au Niger et à Madagascar disposent d'une expérience de 5 à 8 ans dans son utilisation et l'utilisent de préférence aux intramusculaires. Son indication principale demeure les accès palustres du jeune enfant justifiant un traitement parentéral (convulsions, vomissements, obnubilation). Les contre-indications principales sont : la diarrhée et la possibilité de prise orale... La voie intrarectale remplace peu à peu l'intramusculaire dans les centres de santé, réduisant les paralysies postinjectionnelles. La voie intrarectale décongestionne les services de pédiatrie lors des épidémies palustres, en permettant un traitement précoce réalisable dans les dispensaires.
+
+Des études, aux premiers résultats prometteurs, étudient actuellement l'efficacité de la quinine par voie intrarectale dans le traitement des accès sévères, par rapport aux protocoles standards de l'OMS.
+
+### **Remerciements**
+
+Au personnel du service de pédiatrie B (Pr A. Sanda) ; au personnel du laboratoire de l'Hôpital National de Niamey pour la réalisation des examens, aux docteurs Fouad Kahia Tani, Salomon N'Djinfountawoo et Fernan Mohamed, pour le suivi des malades, à la Coopération française et au laboratoire Sanofi Winthrop pour l'aide financière.
+
+### **Références**
+
+1. Barennes H, Ranaivo S, Delorme E. Intramusculaires et déficit du membre inférieur, à propos de 18 cas. _Médecine Tropicale,_ 1993 ; 53 : 373-8.
+
+2. Barennes H, Renouil M, Macaigne F, _et al._ Efficacité de la quinine injectable diluée en intrarectale dans le paludisme de'l'enfant et excrétion urinaire de la quinine. _Médecine dAfrique Noire,_ 1993; 40: 401-3 .
+
+3. Barennes H, Kahiatani F, Clavier F, Meynard D, _et al._ La quinine en intrarectale, une alternative aux injections parentérales pour le traitement du paludisme du jeune enfant. Etude clinique, parasitologique et pharmacologique. _Médecine Tropica_le, 1995 ; 55 : 91-4.
+
+4. OMS. _Paludisme grave et compliqué._ TDR, deuxième édition. Transaction of the Royal Society of Tropical Medicine and Hygiene, 1990, supplément 2.
+
+_Développement et Santé, n° 126, décembre 1996_

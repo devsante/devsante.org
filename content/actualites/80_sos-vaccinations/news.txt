@@ -1,0 +1,35 @@
+Title: SOS vaccinations
+
+----
+
+Datetime: 2016-08-24 00:00:00
+
+----
+
+Text: 
+
+Le Projet Karangué primé au salon Viva Technology à Paris
+
+Parmi les 35 startup en course, le projet Karangué, présenté par Mamadou SALL, a remporté le premier prix Grand Public de Orange le 2 Juillet 2016, à Paris.
+
+Le projet Karangué a pour objectif de réduire la mortalité maternelle et infantile.
+
+Lancé au Sénégal comme un SOS numérique pour une vaccination massive et intrusive, Karangué est un système d’alertes automatiques qui propose un service simple, rapide et efficace.
+
+Disponible sur une application mobile, il envoie des messages écrits et vocaux en langues locales, rappelant la date et l’importance des rendez-vous de vaccination ou de visites pré et post-natales pour s’assurer que les femmes ne manquent pas ces consultations.
+
+Karangué garantit ainsi un meilleur suivi médical, en diminuant le risque d’oubli et en permettant un accès à tous, quel que soit le niveau d’alphabétisation.
+
+Ayant déjà remporté plusieurs distinctions, Karangué espère pouvoir développer ce projet, en particulier dans d’autres pays d’Afrique.
+
+Le lauréat sera invité à la Silicone Valley afin de rencontrer des investisseurs potentiels et de partager son expérience au niveau du fab lab d’Orange Silicone Valley.
+
+[http://www.karangue.com](http://www.karangue.com "http://www.karangue.com")
+
+----
+
+Author: Françoise Balédent, Biologiste, Paris
+
+----
+
+Teaser: 

@@ -1,0 +1,35 @@
+Title: Hépatite B
+
+---- Author: Gilles Brücker
+
+----  
+Datetime: 2001-02-19 00:00
+
+----  
+Text:
+
+**Hépatite B**
+
+**par Gilles Brücker**
+
+Directeur de l'Institut Santé et Développement, 15-21, rue de l'Ecole de Médecine, 75006 Paris, France.
+
+L'hépatite B demeure une véritable priorité de santé publique à l'échelon planétaire. La situation épidémiologique dans le monde en témoigne : 2 milliards de personnes ont contracté le virus de l'hépatite B, et plus de 350 millions sont des porteurs chroniques de ce virus. Ce portage chronique constitue l'essentiel de la gravité de la maladie en raison des complications qu'il engendre : cirrhose hépatique puis cancer du foie.
+
+Les études épidémiologiques montrent que la répartition de ce portage chronique est inégale dans le monde ; on peut distinguer des zones de faible prévalence (inférieure à 2%) Europe de l'Ouest, Amérique du Nord et Australie, de moyenne prévalence (2 à 8%) pourtour méditerranéen, Moyen-Orient, Asie du Sud, Amérique du Sud, Europe de l'Est, et des régions de forte prévalence (plus de 8 %) en Afrique subsaharienne et en Asie du Sud-Est. Si aucune région du monde n'est épargnée, l'importance du problème doit cependant tenir compte du niveau d'endémicité, et le risque demeure plus élevé dans les pays en développement. Les coûts élevés des stratégies thérapeutiques, et les incertitudes de leurs résultats, soulignent l'importance essentielle des stratégies de prévention. L'efficacité de ces stratégies repose sur la définition des populations exposées qui doivent disposer en priorité des mesures de protection et de prévention. Les modes de transmission du virus permettent de cerner ces populations exposées : transmission mère-enfant lors de la grossesse et de l'accouchement si la mère est porteuse chronique du virus, transmission lors des relations sexuelles, transmission par la seringue ou tout objet souillé de sang, ce qui concerne non seulement les toxicomanes injecteurs, mais également tous les professionnels de santé largement exposés à ce risque lors des soins, lors des blessures ou de toute autre exposition au sang des patients. La transfusion sanguine fut aussi un mode important de transmission du virus.
+
+La prévention des expositions constitue donc le premier élément d'une politique de santé à l'égard de l'hépatite B. Ces mesures concernent, pour les expositions sexuelles, l'information des populations, la lutte contre le multipartenariat sexuel, mais aussi l'usage du préservatif ; l'impact attendu est majeur puisqu'il s'étend à l'ensemble des MST (maladies sexuellement transmissibles), dont l'infection à VIH. Pour la transfusion sanguine, le dépistage des donneurs doit être aujourd'hui assuré dans tous les centres de transfusion.
+
+Pour les professionnels de santé, la mise en place de programme de prévention contre les accidents exposant au sang constitue une priorité essentielle capable là encore de prévenir les risques de transmission de tous les agents infectieux présents dans le sang des malades, virus des hépatites, VIH, etc.
+
+Cependant, nous savons que l'observance de ces mesures ne peut être parfaite et que l'évitabilité des expositions restera toujours limitée par les comportements individuels.
+
+La possibilité de recourir à une vaccination, disponible depuis 1982 pour l'hépatite B, représente bien entendu un atout considérable. Une politique vaccinale est d'autant plus importante que la maladie est grave et largement répandue dans la population. De ce fait cette vaccination s'impose à l'échelon planétaire, mais avec une nécessité majeure dans les pays de forte endémicité. C'est le sens de l'engagement de l'Organisation mondiale de la santé qui a inscrit cette vaccination dans son programme, au travers du groupe Alliance globale pour la vaccination. L'objectif principal est la vaccination de tous les enfants, avec un soutien financier pour la mise en oeuvre de ce programme pour les pays les plus démunis. La stratégie vaccinale doit savoir prendre en compte les besoins d'immunisation des différents groupes exposés. A la vaccination systématique des enfants il faut ajouter la protection spécifique des groupes les plus exposés, notamment les professionnels de santé qui sont en France tenus à une obligation vaccinale depuis 1991. Les autres groupes vulnérables ont été définis par le Conseil supérieur d'hygiène publique de France : enfants nés de mères porteuses chroniques du VHB, injecteurs de drogues, multipartenariat sexuel.
+
+La maîtrise du risque de transmission en milieu de soins concerne également les malades ; la transfusion sanguine a longtemps représenté un mode majeur de transmission aujourd'hui prévenu par le dépistage systématique des donneurs de sang porteurs chroniques de ce virus. Mais bien d'autres modes de transmission demeurent possibles en milieu de soins, notamment par l'instrumentation souillée et, plus généralement, par l'usage des dispositifs médicaux, notamment leur réutilisation. Le respect très scrupuleux des règles d'hygiène, et notamment le nettoyage et la désinfection des matériels médicaux, constitue un impératif qui s'impose à tous les soignants. Faut-il souligner qu'il faut s'abstenir de toute réutilisation du matériel à usage unique ?
+
+Ainsi l'hépatite B apparaît-elle comme une maladie maîtrisable, que l'on doit pouvoir contrôler, et dont l'endémicité doit reculer. Cependant cette maîtrise ne peut se faire que si une véritable stratégie de santé publique est mise en place, prenant en compte les différents niveaux possibles d'intervention pour prévenir la transmission du virus. La vaccination occupe une place centrale dans cette politique. Une polémique s'est instaurée en France ces dernières années sur l'innocuité du vaccin. Des études avaient été menées pour mesurer les corrélations possibles avec la survenue de maladies neurologiques de type sclérose en plaques, ou démyélinisation du système nerveux. Aucune étude n'a jamais pu démontrer l'existence d'un lien entre le vaccin et des manifestations ou complications neurologiques. Mieux encore, deux importantes études publiées ces dernières semaines dans le _New England Journal of_ _Medicine_ écartent toute imputabilité du vaccin dans la survenue de complications neurologiques. Ainsi l'hépatite B demeure l'une des priorités en matière de lutte contre les maladies infectieuses. La grande transmissibilité de ce virus, la fréquence de son portage chronique et la gravité de ses complications justifient la nécessité d'une stratégie de santé publique définie à l'échelon mondial. Les traitements aujourd'hui disponibles contre ce virus sont coûteux, de maniements difficiles et de résultats encore peu satisfaisants.
+
+La prévention constitue donc l'essentiel des mesures de lutte. Il s'agit de favoriser d'une part le contrôle des risques liés aux relations sexuelles, d'autre part d'améliorer la sécurité des actes en milieu de soin. La vaccination assurée pour l'ensemble de la population dans les pays de haute endémicité constitue sans doute le seul moyen de faire reculer durablement et efficacement cette maladie.
+
+_Développement et Santé, n°151, février 2001_

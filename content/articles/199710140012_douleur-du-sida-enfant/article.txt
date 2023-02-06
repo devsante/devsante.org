@@ -1,0 +1,78 @@
+Title: Douleur du SIDA (enfant)
+
+---- Author: Catherine Dollfus Hôpital d'enfants Armand -Trousseau, 75012 Paris.
+
+----  
+Datetime: 1997-10-14 00:00
+
+----  
+Text:
+
+En même temps que l'on assistait à l'extension du sida dans le monde, ces dix dernières années ont vu d'importants progrès se réaliser dans la connaissance et la prise en charge de la douleur chez l'enfant. Parallèlement à la prise en charge préventive ou thérapeutique de l'enfant atteint par l'infection à VIH, il est important de prendre en compte la ou les douleurs qui en résultent, de façon adaptée.
+
+## **I. Épidémiologie**
+
+Actuellement l'OMS estime que le nombre de nouveaux cas d'infection à VIH chez l'enfant est de 1 000 par jour à travers le monde, les continents les plus massivement touchés étant l'Afrique (67 %), l'Asie du Sud et du Sud-Est (30 %), l'Amérique latine (3 %). On estime que 1,7 million d'enfants ont été atteints de sida dans le monde depuis le début de l'épidémie, dont 85 % en Afrique subsaharienne et que 1,3 million d'entre eux sont décédés. Le mode de contamination de l'enfant est avant tout la transmission de la mère à l'enfant (grossesse/accouchement/allaitement), les autres cas pouvant être attribués à des transfusions de sang contaminé ou des injections utilisant un matériel souillé, mal stérilisé.
+
+## **II. Présentation clinique**
+
+Chez les enfants contaminés par voie maternofoetale, on constate deux types de profils évolutifs : une forme sévère précoce, dévolution habituellement létale avant l'âge de quatre ans et une forme usuelle d'évolution progressive dont le taux de survie dépasse 80 % à l'âge de 7 ans et dont les plus âgés actuellement connus ont environ 15 ans.
+
+Dans la forme sévère, l'atteinte neurologique est fréquente et précoce, se manifestant dès 3 ou 6 mois par des anomalies de tonus, un retard d'acquisition psychomotrice, voire une perte des acquis antérieurs, une microcéphalie. A un stade plus évolué, on note une spasticité majeure très douloureuse et des troubles de la déglutition.
+
+## **III. Étiologie des douleurs**
+
+Les douleurs peuvent être liées spécifiquement au VIH et à ses complications viscérales ou résulter des infections intercurrentes à germes usuels ou opportunistes favorisées par l'immunodépression. Elles sont parfois en rapport avec le traitement ou les examens complémentaires. Enfin, il ne faut pas négliger la composante parfois très importante de "douleur morale", vécue par ces enfants.
+
+### **1. Douleur d'origine infectieuse**
+
+Les enfants sont plus sujets aux infections bactériennes que les adultes séropositifs et ces infections tendent à être plus récurrentes, prolongées et douloureuses que chez l'enfant immunocompétent. Le diagnostic d'une origine infectieuse ne doit pas empêcher la prescription à la phase initiale, en plus de l'antibiothérapie spécifique, d'une thérapeutique antalgique adaptée à l'intensité des douleurs qui sera interrompue dès que l'évolution clinique le permettra.
+
+Les infections les plus fréquentes sont les broncho-pneumopathies, les infections ORL (sinusites, otites), les méningites, les infections cutanées (abcès, cellulite), les diarrhées et les infections bucco-dentaires.
+
+### **2. Encéphalopathie**
+
+Les enfants atteints d'encéphalopathie à VIH, généralement des nourrissons, présentent le plus souvent une allodynie, une irritabilité extrême et une spasticité sévère. L'allodynie (sensation douloureuse résultant de stimulus en principe non douloureux tels : caresses, effleurements ... ) interfère de façon cruciale avec leur prise en charge quotidienne, à laquelle se surajoutent les difficultés posturales, les troubles de la déglutition et des troubles du sommeil. La spasticité est douloureuse en elle-même ainsi que la mobilisation passive des segments des membres. On observe fréquemment des accès de pleurs soudains, vraisemblablement en rapport avec des fulgurances neuropathiques.
+
+### **3. Douleurs abdominales**
+
+Leur étiologie est souvent multifactorielle, plus ou moins bien élucidée, et les thérapeutiques habituelles se révèlent souvent peu efficaces. Elles peuvent être en rapport avec une hépatomégalie ou des adénopathies mésentériques volumineuses profondes et sensibles ; les étiologies les plus fréquentes sont les mycobactéries atypiques, les infections fongiques (aspergillose, candidose), un syndrome d'activation macrophagique, un lymphome, certaines hépatites virales actives.
+
+Il peut exister des troubles du transit associés de type iléus reflexe posant de difficiles problèmes thérapeutiques. Les pancréatites, infectieuses ou toxiques sont parfois douloureuses. Il peut s'agir aussi de douleurs colopathiques associées à une diarrhée chronique. Chez des enfants atteints de diarrhée chronique ou sévère, on peut voir des douleurs anales fissulaires. Ces diverses douleurs abdominales entraînent fréquemment une anorexie et contribuent à la dénutrition.
+
+### **4. Douleurs inexpliquées diffuses**
+
+Certains enfants, souvent atteints d'un sida évolué et dénutris, se plaignent de douleurs diffuses ostéo-articulaires ou musculaires qui restent souvent mal expliquées après bilan métabolique, hématologique et infectieux. On peut retrouver certaines carences nutritionnelles en oligo-éléments, une hypomagnésémie, hypokaliémie, des perturbations du bilan phosphocalcique.
+
+La plupart des _céphalées isolées,_ quelle que soit leur intensité, restent inexpliquées.
+
+### **5. Douleur iatrogène**
+
+Pour beaucoup d'enfants, les examens pratiqués pour surveillance ou diagnostic sont considérés comme pire que la maladie elle-même. En plus des prélèvements veineux de routine, ils peuvent avoir à subir des examens plus invasifs tels que ponction lombaire, myélogramme, endoscopie digestive, endoscopie bronchique, lavage broncho-alvéolaire... ou des gestes tels que pose de sonde gastrique, sonde urinaire, cathéter central. Il est très important de peser les indications de ces examens, de tenter de les regrouper et de développer des protocoles d'analgésie adaptés à chaque procédure et aux éventuelles douleurs " postopératoires ".  
+Certaines thérapeutiques peuvent être responsables de douleurs ou d'inconfort : AZT (neuropathies, myalgies, céphalées), ddI (troubles digestifs, pancréatite), ddC (neuropathie, pancréatite, stomatite). Il faut noter cependant une meilleure tolérance au traitement antirétroviral chez l'enfant, par rapport à l'adulte. Certains antibiotiques, voire même certains antalgiques ont aussi leurs effets indésirables à prendre en compte (nausées, prurit, céphalées, douleurs articulaires, distension abdominale...
+
+## **IV. Traitement**
+
+On utilisera les médicaments adaptés selon la graduation des trois paliers de l'OMS, en fonction de l'intensité de la douleur et de l'efficacité de la thérapeutique du palier précédent avec malheureusement une absence d'AMM pédiatrique en France pour les spécialités du palier Il. Dans les douleurs neuropathiques telles les douleurs de désafférentation souvent notées en cas d'encéphalopathie à VIH ou dans les atteintes neurologiques liées au CMV, on peut utiliser les _antidépresseurs_ tels que l'amitryptiline ou des _anticonvulsivants,_ clonazépam ou carbamazépine, ce d'autant qu'existent des douleurs fulgurantes. La spasticité douloureuse peut être améliorée par des _myorelaxants_ tels que lorazépam (Témesta®) ou diazépam (Valium®). Tous ces traitements influent sur le tonus, l'éveil et la vigilance de l'enfant et doivent être débutés à doses faibles avec augmentation lente, progressive. Les morphiniques sont parfois nécessaires dans cette indication.
+
+Chez l'enfant déjà grand présentant des douleurs modérées non calmées par les médicaments du palier 1, on peut utiliser la codéine existant sous forme d'association à du paracétamol (Codolipran®, ou Efféralgan codéiné®), le dextropropoxyphène ou Antalvic®) : 5 à 10 mg/kg/jour, qui existe aussi associé au paracétamol (Di-Antalvic®) et à l'aspirine (Propofan®).
+
+### **1. Les traitements** **non pharmacologiques**
+
+Ils sont mai connus mais méritent d'être développés chez ces enfants déjà polymédicamentés.
+
+Les enfants sont très réceptifs à des méthodes comportementales telles les techniques de relaxation, d'hypnose, de distraction qui peuvent les aider à maîtriser certains symptômes douloureux, en particulier en cas de douleur chronique ou liée au traitement. Par ailleurs, les moyens " physiques ", massage, kinésithérapie, chaud, froid, bains, acupressure, peuvent améliorer le confort.
+
+Une prise en charge précoce des problèmes nutritionnels peut contribuer également à améliorer leur qualité de vie.
+
+### **2. Prévention des douleurs liées** **au diagnostic et au traitement**
+
+Le geste le plus fréquent est la ponction veineuse, pour prélèvement ou perfusion pour laquelle l'utilisation de la crème Emla®, sous pansement occlusif une heure avant le geste, permet une analgésie de bonne qualité avec une excellente tolérance.
+
+Pour les examens invasifs, il est nécessaire de développer selon les ressources matérielles et humaines présentes, des protocoles de prémédication/analgésie per- et post-" opératoires ". L'inhalation autocontrôlée d'un mélange gazeux équimolaire de 50 % de protoxyde d'azote50 % d'oxygène a une efficacité remarquable en ce qui concerne les ponctions lombaires, les myélogrammes ou ponctions ganglionnaires.
+
+### **3. Obstacle au traitement** **efficace de la douleur**
+
+La mère, voire les deux parents sont souvent malades eux-mêmes et portent une culpabilité vis-à-vis de la maladie de leur enfant et de leur impuissance à la guérir, qui se manifeste souvent pas un déni de la maladie et de la souffrance de leur enfant. L'angoisse de mort qui les habite les rend intolérants à toute somnolence ou besoin de sommeil de leur enfant. Ils préfèrent le voir éveillé quitte à minimiser l'intensité des douleurs vécues par leur enfant.
+
+_Développement et Santé, n°_ _131, octobre 1997_

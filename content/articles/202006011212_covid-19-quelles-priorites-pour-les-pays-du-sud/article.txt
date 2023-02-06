@@ -1,0 +1,78 @@
+Title: COVID-19 : quelles priorités pour les pays du Sud ?
+
+----
+
+Author: Thierry Comolet, médecin, épidémiologiste, santé publique
+
+----
+
+Datetime: 2020-06-01 12:00:00
+
+----
+
+Teaser: 
+
+L’épidémie de Covid-19, due au nouveau virus émergent SARS-Cov-2, atteint tous les pays du monde. Sa progression est variable et on observe des différences de vitesse de propagation entre les continents [1]. 
+En l’absence de traitement ou de prophylaxie vraiment efficaces, la plupart des gouvernements ont adopté, plus ou moins précocement et autoritairement, des mesures visant à diminuer les contacts interhumains pour tenter d'en maîtriser la transmission. Les mesures prises par les différents pays devraient cependant être davantage adaptées aux contextes locaux et non pas copiées dans la précipitation.
+
+----
+
+Text: 
+
+Nous ne savons certes pas encore beaucoup de choses de cette nouvelle maladie - notamment parce que nous ne disposons pas encore d’étude sérologique rétrospective permettant de savoir qui  finalement a ou aura été infecté par ce virus - et nous comprenons encore mal pourquoi son expression est si différente selon un nombre de facteurs encore indéterminé (âge, sexe, comorbidités…), mais nous avons déjà des informations pour les prises de décision.
+Elle est très contagieuse, et toutes les études convergent pour dire que, en l’absence d’immunité et de mesures barrière, le Covid-19 est bien plus contagieux que la grippe ou la maladie à virus Ebola, mais moins que la rougeole par exemple.
+Cette contagiosité élevée peut être réduite par des interventions permettant de limiter les contacts entre individus et d’isoler suspects et malades : cette « mitigation » du taux de reproduction (R) est devenue un concept épidémiologique très populaire. 
+
+En raison de cette forte transmissibilité, dès que le virus « circule » largement dans une communauté, d’une manière souvent très hétérogène, il devient quasiment impossible de l’arrêter par des mesures d’isolement. La vitesse de progression diffère selon les pays et même les continents.
+De fait, les perspectives de fin de l’épidémie ne sont globalement pas encore en vue. Ce virus semble être là pour rester, en attendant que des traitements ou vaccins soient mis au point, ou qu’un effet saisonnier apparaisse ou faute de mieux, qu’une proportion suffisante de la population ait été infectée (immunité dite de groupe) pour empêcher l’épidémie de toucher les sujets non immunisés sensibles.
+
+Les rares pays qui ont réussi à interrompre significativement la transmission locale du virus ont mis en œuvre de façon précoce des mesures techniques et industrielles, et/ou des interventions de santé publique extrêmement systématiques et sérieuses de contrôle social et de suivi épidémiologique. Paradoxalement, en dehors de la Chine, aucun grand pays industrialisé, si riche fût-il, n’a réussi à en faire autant, alors que des états pauvres comme le Vietnam ou le Kerala (en Inde) sont pratiquement parvenus à juguler l’épidémie.
+
+Les pays développés, avec un retard évident, ont tous opté en catastrophe pour des mesures de sauvegarde extrêmes devenues nécessaires, non pas pour arrêter l’épidémie mais pour la ralentir, afin de se donner le temps d’organiser la prise en charge des cas sévères qui relèvent d’une réanimation lourde et longue. 
+Ceci suppose donc de disposer d’infrastructures et de personnel hospitalier formé en nombre suffisant et accessibles financièrement. 
+Suivant cet exemple, une grande partie de la planète a été confinée d’office, les pays développés n’ayant aucune expérience récente d’épidémie de cette ampleur.
+
+Pourtant, le Covid-19 est jusqu’à présent une maladie dans l’ensemble bénigne. La très grande majorité des personnes infectées ne développent que peu ou pas de symptômes et la mortalité ultime de cette infection est encore débattue, car elle doit se fonder sur le nombre total de personnes qui ont rencontré le virus.  Ce taux réel de mortalité-rapporté aux sujets infectés-serait de l’ordre de 0,3% (selon les travaux les mieux documentés) [2].
+Il est impossible de comparer entre pays les « taux de mortalité » annoncés qui traduisent seulement l’exhaustivité relative de la pratique des tests de dépistage dans chaque situation. 
+Des prélèvements de cas contacts asymptomatiques et des études sérologiques mettent en évidence l’importance du nombre de cas bénins asymptomatiques ou méconnus. 
+
+On sait surtout de façon certaine que la maladie est plus grave chez les personnes âgées, d’autant plus si elles présentent des comorbidités telles qu’hypertension, diabète, coronaropathie, insuffisance rénale ou respiratoire… Le rôle propre de ces comorbidités comme facteur de gravité intrinsèque est difficile à analyser. La visualisation en pyramide ds cas et des décès par classes d’âge, comparée à la répartition de la population est très instructive [3].
+
+Les formes graves de la maladie sont également plus fréquentes chez les malades de sexe masculin (facteur de très forte surmortalité, mais pas de surmorbidité), sans que l’on n’ait d’explication claire, d’autant que les femmes sont plus nombreuses aux âges avancés. 
+L’obésité apparaît comme un facteur important favorisant la mortalité du Covid-19, indépendamment de l’âge. 
+Le fait d’être infecté par le VIH n’apparaît pas comme un facteur péjoratif. 
+Les enfants sont beaucoup moins concernés par les conséquences directes de cette épidémie. Cela constitue une surprise car les virus à tropisme respiratoire touchent généralement beaucoup les enfants. Assez peu d’enfants sont trouvés porteurs de virus (on se sait pas encore s’ils ont été infectés sans le savoir), très peu en sont malades et une fraction infinitésimale en décède.
+
+Même en analysant tous les cas pédiatriques observés en Chine, on ne trouve actuellement qu’un seul décès et les formes graves observées ne sont pas clairement liées au coronavirus, puisque les autres pneumopathies virales des enfants persistent et que beaucoup de cas pris en charge n’ont pas été testés pour le Covid-19. Certes on observe et on observera des décès chez les enfants, les adolescents et quelques adultes jeunes, voire des complications d’ordre immunologique. Mais ces drames individuels – à fort retentissement médiatique - ne doivent pas masquer la réalité épidémiologique de fond qui est que, à ce jour, le Covid-19 ne concerne pas les enfants de moins de 10 ans, quasiment pas ceux de moins de 20 ans et assez peu les adultes entre 20 et 40 ans.
+
+L’épidémie de Covid-19 n’empêche pas la survenue d’autres maladies ou accidents : on assiste à une nette augmentation de la mortalité à domicile pour des pathologies routinières n’ayant rien à voir avec un coronavirus ; il est difficile de savoir maintenant si la surmortalité est due au coronavirus ou aux autres pathologies non prises en charge. Les malades craignent de venir à l’hôpital, par peur d’y mourir ou d’ "attraper" le virus. Les urgences ont pu être prises en charge, les fractures ont été opérées et les chimiothérapies réalisées, malgré des délais de prise en charge parfois plus longs.
+
+Les autres pathologies  persistent : le VIH et la tuberculose doivent toujours être dépistés et soignés, les affections digestives traitées, les épidémies (dengue, paludisme) ne vont pas s’arrêter. Il est même probable que toutes les autres maladies puissent "flamber" car tous les regards et les efforts sont tournés vers le coronavirus. Les organisations spécialisées et certaines ONG ont fini par tirer la sonnette d’alarme. 
+
+Citons le problème des vaccinations : le tétanos et la rougeole risquent de progresser, on en connaît les ravages.
+Ceci est particulièrement vrai pour les enfants : selon les connaissances actuelles, ils ne devraient pas souffrir beaucoup du coronavirus (sauf mauvaise surprise épidémiologique) mais ils pourraient certainement souffrir –et mourir - de la négligence des autres pathologies, principalement dans les pays du Sud où ils sont nombreux et fragiles.
+
+On pouvait penser que le déroulé de l’épidémie de Covid-19 serait donc très différent selon la démographie de chaque pays. (Beam Dowl et all, Oxford University) [4].
+Cependant, les mesures mises en place (tests, isolement, masques) et surtout leur précocité ont montré leur efficacité dans plusieurs pays dont le Vietnam, qui compte à ce jour moins de 350 cas diagnostiqués et aucun décès, alors que la population est d’environ 96 millions d’habitants. Mais la pandémie n’est pas terminée.
+On sait que la densité de la population, l’intensité des échanges et des communications facilitent la croissance rapide de l’épidémie et que l’inverse se vérifie. 
+On peut même imaginer que des populations extrêmement jeunes, comme celles d’Afrique subsaharienne, vont rapidement voir leurs jeunes s’infecter, sans conséquences individuelles, et ainsi créer cette fameuse immunité de groupe ou ce bouclier immunologique que toutes les nations appellent de leurs vœux. 
+
+On ne sait pas encore de manière certaine si le climat, la pollution atmosphérique, l’humidité, la température de l’air ou d’autres facteurs jouent un rôle réel sur la dynamique de l’épidémie. On ne sait pas clairement si la malnutrition aggrave le pronostic puisque les populations des pays affectés à ce jour sont plutôt suralimentés (l’obésité constitue un facteur de gravité de la maladie). Il est possible que la circulation intense d’autres pathogènes de l’environnement constitue une certaine protection immunologique indirecte pour les habitants des pays les plus pauvres (comme c’est le cas pour les entérovirus/polio ou les mycobactéries/BCG), mais cela reste à prouver.
+
+Au-delà de ces hypothèses, on sait et on ne le dit pas assez que le coronavirus risque de tuer indirectement beaucoup plus d’enfants par négligence ou par les conséquences socio-économiques et nutritionnelles liées aux mesures de confinement  que par lui-même.
+
+L’épidémiologie du Covid-19 dépend de la composition démographique de chaque pays pour sa morbidité et des capacités de leur système de santé pour sa létalité, et la stratégie de lutte contre cette maladie devrait en tenir compte. Autant il est légitime – faute de mieux - pour les nations riches de confiner et bloquer des pays entiers pour laisser le temps aux équipes hospitalières de faire face à la montée en puissance des cas graves en "étalant" la courbe épidémique, autant cette stratégie pose des questions dans les pays où de toute façon les structures hospitalières sont indigentes, et ne pourront probablement jamais prendre en charge l’ensemble des malades nécessitant une hospitalisation, voire une réanimation très technique et longue. 
+
+Rares sont les dirigeants du Sud qui admettent que l’épidémie va avancer quoi qu’il arrive, et qu’on peut juste espérer en protéger, par des petits moyens, les personnes âgées les plus vulnérables : sans se faire trop d’illusions car le confinement et l’application efficace et durable de mesures barrière sont impossibles dans la plupart des foyers des pays pauvres. Il est difficile d’admettre que bien des pays ne pourront pas durablement empêcher la progression du coronavirus : à quoi les tests pratiqués serviront-ils vraiment sinon à notifier une avancée inexorable s’il n’est plus possible d’isoler les foyers de contamination ?  Quelle est l’utilité des masques, de l’alcool et du confinement ? Retarder de quelques semaines ou mois peut-être, mais après ? Est-il utile de prolonger une épidémie dans un pays qui n’a pas de réelles capacités de soins intensifs et ne peut s’en créer en quelques semaines ?
+
+La prise en charge médicale d’une personne atteinte du Covid-19 est malheureusement assez binaire, et on s’en aperçoit dans la stratégie des pays riches : soit l’infection est bénigne et il faut rester chez soi (ce qui pose des problèmes dans les logements exigus où beaucoup de personnes vivent ensemble) ou dans un lieu de quarantaine (avec investigations parallèle des sujets contacts pour les isoler si on veut arrêter l’épidémie), soit l’infection s’aggrave secondairement assez brutalement et nécessite alors des soins médicaux importants (oxygène surtout, bronchodilatateurs, antibiotiques de précaution, équilibre des autres fonctions, traitement des comorbidités…) et parfois des soins intensifs en réanimation, le pronostic étant alors assez sombre. 
+La place des soins primaires y est donc limitée, tant que l’on ne peut proposer aucun traitement de post exposition, ce qui explique le succès populaire des petites mesures "de soutien" qui donnent l’impression de faire quelque chose (médecine traditionnelle par les plantes chinoises, infusions multiples dont le CovidOrganic malagasy, tentatives de prévention par chloroquine), mais qui peuvent être dangereuses.
+
+Dans ce contexte, la société civile et les ONG peuvent jouer un rôle important, notamment prendre les mesures de sauvegarde tout en suivant les recommandations générales des ministères de la santé. Elles devraient pouvoir assurer et conforter la résilience des systèmes de santé et la continuité des soins aux personnes qui souffriront le l’interruption des services, alors qu’elles ne souffriraient que peu du passage du coronavirus.
+
+
+**Références**
+1-  https://ourworldindata.org/covid-deaths
+2- https://ourworldindata.org/coronavirus-testing#tests-per-case-how-many-tests-to-find-one-covid-19-case   et https://ourworldindata.org/mortality-risk-covid#the-current-case-fatality-rate-of-covid-19 
+3- https://www.lemonde.fr/les-decodeurs/article/2020/05/05/coronavirus-age-mortalite-departements-pays-suivez-l-evolution-de-l-epidemie-en-cartes-et-graphiques_6038751_4355770.html paragraphe répartition des déces 
+4- https://www.pnas.org/content/117/18/9696

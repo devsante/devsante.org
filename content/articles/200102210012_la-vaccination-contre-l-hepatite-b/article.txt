@@ -1,0 +1,64 @@
+Title: La vaccination contre l'hépatite B
+
+---- Author: François Denis Service de bactériologie-virologie-hygiène, CHU Dupuytren, Limoges, France
+
+----  
+Datetime: 2001-02-21 00:00
+
+----  
+Teaser:
+
+Parmi les sujets infectés par le virus de l'hépatite B (VHB), 8 à 10 % d'entre eux deviennent porteurs chroniques du virus, les autres parviennent à l'éliminer de leur organisme, ils guérissent et produisent des anticorps anti-HBs dirigés contre l'enveloppe du virus (AgHBs). Ces anticorps sont protecteurs. On a très tôt pu démontrer que l'administration de ces anticorps anti-HBs purifiés (immunoglobulines spécifiques), quand ils étaient administrés dans les heures qui suivaient une contamination par le VHB, protégeaient les sujets qui n'avaient pas rencontré jusque là le virus.  
+C'est donc très logiquement que cet antigène de surface l'AgHBs est devenu le «candidat» le plus sérieux pour élaborer un vaccin. Malheureusement on s'est heurté à une difficulté majeure, l'impossibilité de cultiver le virus en laboratoire, donc d'obtenir facilement l'antigène vaccinal.
+
+----  
+Text:
+
+## I. Les vaccins contre l'hépatite B
+
+Tous les vaccins antiviraux avaient, avant 1975, été obtenus par culture. L'idée origina¬le de Philippe Maupas, père du premier vaccin mondial contre l'hépatite B, a été d'obtenir le précieux antigène à partir d'un produit biolo¬gique où il se trouvait en quantité importante... en l'occurrence, le plasma des porteurs chro-niques du virus !  
+L'antigène obtenu à partir du plasma était concentré et inactivé pour détruire toute infec¬tiosité, c'est ainsi qu'a été créé le premier vac¬cin contre l'hépatite B.  
+Son efficacité était remarquable, mais on a voulu assez vite disposer d'une source d'anti¬gène plus standardisable. On a alors fait pro¬duire l'AgHBs soit par des cellules de mammi¬fères, soit par des levures. Ces vaccins de deuxième génération ont ouvert la voie aux vaccins obtenus par génie génétique. Ces vac¬cins recombinants sont aussi immunogènes que les vaccins plasmatiques, mais peuvent être produits plus facilement à grande échelle. Les différentes présentations de vaccins com¬mercialisés contiennent des concentrations variables d'antigènes allant de 5 à 40 pg par dose, selon qu'ils sont destinés au nourrisson, à l'enfant ou à l'adulte.
+
+## II. Modalités d'administration
+
+### 1. Site d'injection
+
+Il est recommandé d'injecter le vaccin par voie intramusculaire dans la région antérolatérale de la cuisse chez les enfants en bas âge, dans la région deltoïdienne chez les enfants, les adolescents ou les adultes.
+
+### 2. Rythme des injections
+
+Deux protocoles ont été longtemps opposés (figure1), un schéma « à la française » avec trois injections distantes de 1 mois, rappel après un an (schéma dit 0-1-2-12) et un sché¬ma «anglo-saxon» avec deux injections initiales distantes d'un mois, rappel au bout de 6 mois (schéma dit 0-1-6).  
+Le schéma 0-1-6 est de plus en plus recom¬mandé (il permet de faire l'économie d'une injection), sauf si l'on souhaite obtenir une immunisation rapide, auquel cas le schéma 0-1-2-12 est préconisé.
+
+(image: image002-n151.jpg)
+
+
+## III. Immunogénécité
+
+Le pouvoir immunogène du vaccin peut être évalué par dosage des anticorps anti-Hbs.
+
+Quel que soit le schéma vaccinal, on peut considérer qu'une réponse protectrice est obtenue chez plus de 90 %, voire 95 % des vaccinés : nourrissons, adolescents, adultes jeunes et nouveau-nés de mères AgHBs positives ou négatives. Les facteurs de moindre réponse sont maintenant bien cernés : l'âge supérieur à 40 ans, mais aussi le sexe mascu¬lin. D'autres éléments interviennent défavora¬blement, tels l'obésité, le tabagisme, l'immu-nodépression.  
+Ces facteurs de moindre ou de non-réponse ne sont pas rencontrés chez les nouveau-nés, les nourrissons, les jeunes enfants et les adolescents.
+
+## IV. Protection
+
+L'efficacité de la vaccination a été vérifiée dès 1976, il a été prouvé que le vaccin permettait de prévenir très efficacement toutes les infec¬tions par le VHB : hépatites aiguës et portage chronique chez les sujets ou patients à haut risque. Ainsi, on a assisté à une quasi-dispari¬tion des hépatites B chez les professionnels de santé (figure 2). En ce qui concerne les populations vaccinées, on a obtenu, en fonction du taux de couverture (66 à 96 %), des réductions du portage chronique allant de 69 à 10 %. Initialement on avait, faute de recul, considéré qu'il y avait lieu de recommander des rappels tous les 5 ans après la vaccination complète initiale, maintenant, on sait à partir de plu¬sieurs analyses de la littérature que la durée de la protection conférée par la vaccination d'un sujet immunocompétent dépasse 10 ans. Pour les immunodéprimés, les insuffisants rénaux, des posologies plus élevées et des rappels res¬tent recommandés.  
+On a pu démontrer que la vaccination pouvait prévenir non seulement les hépatites aiguës et les hépatites chroniques, mais aussi les cancers primitifs du foie. Ainsi, à Taïwan, l'incidence des hépatomes chez les sujets de 6 à 14 ans est passée de 0,7/100 000 à 0,36/100 000 dans les 10 ans qui ont suivi la mise en place d'un programme de vaccination contre l'hépatite B. Ceci fait du vaccin contre l'hépatite B le premier vaccin anticancéreux, protégeant contre un cancer très fréquent en Afrique, l'hépatome ou hépatocarcinome dû le plus souvent au VHB.
+
+(image: image004-n151-12112.jpg)
+
+
+## V. Contre-indications et effets indésirables
+
+Des antécédents de sclérose en plaque avaient, en France, été considérés comme jus¬tifiant des précautions d'emploi, mais cette « contre-indication » n'a pas été retenue au niveau européen ou au niveau mondial par l'OMS. En effet, aucun lien entre la vaccination et des pathologies neurodégénératives n'a pu être démontré statistiquement ou argumenté scientifiquement.  
+Les polémiques qui se sont développées en France ne sauraient remettre en question les politiques vaccinales de l'OMS qui ont pour objectif, à court terme, la vaccination universele contre l'hépatite B, première cause de décès au niveau planétaire, évitable par la vaccination.
+
+## VI. Conclusion
+
+Le vaccin contre l'hépatite B a démontré une efficacité remarquable, il a permis une quasi-disparition des hépatites B chez les professionnels de santé et un très net recul chez les patients à risque d'exposition au sang. Son efficacité pour prévenir les infections transmises sexuellement ou de la mère à l'enfant a également été largement démontrée. Le vaccin, après 3 ou 4 injections, confère une protection de longue durée, probablement à vie. Vu la fréquence et la gravité des hépatites B notamment en Afrique, il est indispensable d'intégrer rapidement ce vaccin dans les calendriers vaccinaux des différents pays du continent africain. Cela peut être réalisé d'autant plus facile¬ment que le vaccin contre l'hépatite B peut être administré simultanément avec les autres vaccins, soit en des sites différents, soit dans la même seringue pour les vaccins combinés. Cette vaccination universelle devrait permettre de réduire rapidement le taux de portage chronique et à plus long terme (10 à 30 ans) de prévenir les hépatocarcinomes.
+
+_Les avantages de la vaccination l'emportent très largement sur les inconvénients hypothétiques qui n'ont jamais été démontrés.  
+La Rédaction_
+
+Développement et Santé, février 2001

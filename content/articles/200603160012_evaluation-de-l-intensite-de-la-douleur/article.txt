@@ -1,0 +1,123 @@
+Title: Evaluation de l'intensité de la douleur
+
+---- Author: Thierry Delorme, François Boureau Centre d'évaluation et de traitement de la douleur, hôpital Saint-Antoine, 75012 Paris.
+
+----  
+Datetime: 2006-03-16 00:00
+
+----  
+Teaser:
+
+La nature "individuelle" de la douleur justifie un abord clinique basé sur une évaluation globale du malade et pas uniquement de la maladie. Différents niveaux d'évaluation complémentaires sont à considérer :
+
+*   diagnostic de la (ou des) cause(s) de la douleur,
+*   mécanisme(s) de la douleur,
+*   intensité de la douleur perçue,
+*   impact de la douleur sur la qualité de vie et les capacités fonctionnelles,
+*   contexte psychologique et familial...
+
+La notion d'évaluation de la douleur est souvent réduite à la seule évaluation de son intensité. Certes, il s'agit d'une variable essentielle pour la décision des traitements symptomatiques, mais ce n'est pas la seule variable. Nous nous efforcerons donc de présenter la démarche d'une éva­luation globale de l'ensemble de la symptomatologie douloureuse. Nous dégagerons ainsi mieux l'apport clinique de l'évaluation de l'intensité de la douleur. Ceci aura aussi l'avantage de ne pas laisser planer des attentes excessives et non valides vis-à-vis de ces échelles.
+
+----  
+Text:
+
+## I. Pourquoi évaluer systématiquement l'intensité de la douleur ?
+
+Disposer d'un méthode d'évaluation de la dou­leur et du soulagement nous parait présenter de nombreux avantages en pratique courante :
+
+*   identification systématique des malades présentant une douleur car beaucoup de malades douloureux ne se plaignent pas spontanément ;
+*   améliorer la qualité de la relation médecin­malade en montrant au malade que l'on croit à sa plainte et que l'on ne le suspecte pas de majorer ou d'inventer sa douleur ;
+*   faciliter les prises de décisions de traitements symptomatiques analgésiques adaptés à l'intensité de la douleur (titration des doses efficaces de morphine orale au cours des douleurs cancéreuses par exemple) ;
+*   permettre aux différents membres de l'équi­pe soignante d'utiliser des critères communs, ce qui facilite les prises de décisions homo­gènes au sein de l'équipe ;
+*   permettre la transmission de l'information entre le malade et les soignants, entre les différents membres de l'équipe ;
+*   transcrire les informations devant figurer dans le dossier du malade, la réponse aux thérapeutiques antérieures ne dépendant plus uniquement du souvenir du malade ou des soignants,
+*   l'évaluation systématique et régulière qui aide à mieux soulager la douleur, ce qui est un des éléments essentiels de la qualité des soins.
+
+L'absence de moyens définis pour évaluer l'intensité de la douleur expose au risque de la sous-estimer, de la méconnaître ou de ne pas la croire.
+
+## Il. Les difficultés à évaluer l'intensité de la douleur
+
+Les problèmes posés par l'évaluation de la douleur rejoignent en fait ceux de tout autre phénomène subjectif, par exemple l'anxiété, la dépression et la qualité de vie.
+
+Une première règle est d'accepter que le malade soit en dernière analyse le seul véritable expert _pour apprécier l'intensité d'une douleur._
+
+Cela ne veut pas dire qu'il faut considérer que la plainte reflète de façon fiable et univoque une cause nociceptive. La notion de douleur laisse la place à des mécanismes variés et donne une place aux possibles facteurs psychologiques associés. Croire a priori la plainte du malade a l'intérêt de largement favoriser une relation médecin-malade de qualité.
+
+Divers facteurs peuvent conduire les patients à ne pas exprimer leur douleur ou à refuser un traitement antalgique, opioïde en particulier. Il peut s'agir de croyances, de craintes ou de désirs :
+
+*   idée que la douleur est inévitable, ou que le traitement doit être réservé aux douleurs intolérables ;
+*   crainte que le traitement utilisé "trop tôt" perde son efficacité (accoutumance) ;
+*   crainte des effets secondaires et de la dépendance aux opioïdes ;
+*   crainte que le traitement opioïde précipite l'évolution ;
+*   désir de se montrer vaillant face à la douleur ;
+*   crainte de mettre le médecin en difficulté en lui signifiant que le traitement n'est pas efficace ;
+*   volonté de ne pas alarmer les proches.
+
+Toutes ces variables peuvent masquer la plain­te spontanée. En outre, les douleurs n'indui­sent pas nécessairement des comportements spécifiques de douleur. L'évaluation s'appuie essentiellement sur ce que dit le patient et elle doit être systématique dans le suivi du malade cancéreux.
+
+L'évaluation peut aussi être biaisée par les soignants s'ils ont les mêmes craintes que les patients ; de plus, les contraintes réglemen­taires, le manque de temps et de disponibilité peuvent également constituer des freins à une bonne évaluation de la douleur.
+
+Enfin, les soi­gnants peuvent éviter d'aborder clairement le problème de la douleur pour se défendre d'un sentiment d'impuissance ou pour ne pas être confrontés à leur propre angoisse de mort. À l'aide d'échelles de mesure, on a comparé l'intensité de la douleur cotée par les patients à celle cotée par les médecins ou les infir­mières dans différentes situations cliniques. Les résultats de ces études montrent que les soignants tendent toujours à sous-estimer l'intensité de la douleur ressentie par les patients. Chez les patients cancéreux, cette sous-estimation est un des facteurs conduisant à une prise en charge insuffisante de la douleur.
+
+Il est essentiel d'encourager le patient à com­muniquer de manière détaillée ce qu'il ressent. Le médecin doit considérer a priori que l'in­tensité de la douleur n'est pas celle qu'il suppose mais celle que le patient rapporte.
+
+## III. Comment évaluer l'intensité de la douleur  
+en pratique quotidienne ?
+
+Les informations disponibles pour évaluer l'intensité d'une douleur sont le rapport verbal du patient (auto-évaluation) ou l'observation de son comportement (hétéro-évaluation). Évaluer "objectivement" une plainte ou un comportement est effectivement envisageable si l'on n'exige pas de l'évaluation des objectifs qû elle ne peut atteindre. Notamment, il faut clairement expliciter que les méthodes dispo­nibles permettent d'indiquer qu'il y a une plain­te de douleur, mais elles ne peuvent en aucun cas présumer de la cause de cette plainte et faire la part de l'organique et du psycholo­gique. Le problème posé est de recueillir l'information dans des conditions le plus stan­dardisées possible avec un instrument valide, reproductible, sensible aux thérapeutiques. Dans l'état actuel des connaissances, contrai­rement aux conditions du laboratoire, on ne dispose ni d'un moyen de mesure du stimulus responsable de la douleur pathologique, ni d'un marqueur neurobiologique valide.
+
+Pour la pratique courante, il convient de privi­légier la rapidité de passation, ce qui fait éliminer de nombreux instruments (question­naires et échelles) trop longs, qui n'ont pas de place dans ce contexte, tout au moins en rou­tine. Il est fortement recommandé de réaliser systématiquement une auto-évaluation des douleurs par le patient à l'aide d'une échelle de mesure validée. Cependant, le médecin devra éviter que l'utilisation d'un tel instrument se substitue à la communication et appauvrissè la relation avec le patient. Nous décrirons les échelles unidimensionnelles, globales puis des méthodes comportementales qui peuvent s'avérer indispensables chez le malade non conscient ou lorsque la communication verba­le n'est pas possible.
+
+### 1. Les échelles globales
+
+Différentes échelles se proposent d'apprécier globalement l'intensité de la douleur ou son soulagement : échelle verbale simple (EVS), échelle numérique (EN), échelle visuelle analo­gique (EVA). Elles permettent de comparer l'intensité de la douleur à différents moments chez un même patient. En revanche, elles ne peuvent être utilisées pour effectuer des com­paraisons d'un patient à un autre.
+
+Utilisées directement par le patient pour décrire sa douleur, ce sont des échelles d'auto­appréciation.
+
+L'EVS, dans sa présentation la plus usuelle, est constituée par 4 ou 5 catégories ordonnées de descripteurs. À chaque catégorie, un score correspondant est affecté (de 0 à 4). L'EN per­met au patient de donner une note de 0 à 10 (ou 100). La note 0 est définie par "douleur absente" et la note maximale par "douleur maximale imaginable" par exemple. Pour le soulagement, on peut évaluer la variation en pourcentage (de 0 à 100 %) par rapport à une douleur de référence antérieure.
+
+L'EVA dans sa forme habituelle, se présente sous la forme d'une ligne horizontale de 100 millimètres, orientée de gauche à droite. Les deux extrémités de la ligne sont définies par exemple, par "douleur - absente", "douleur maximale imaginable". Le patient répond en traçant une croix sur la ligne. La distance entre la position du trait et l'extrémité "douleur absente" sert d'indice numérique pour le trai­tement des données. La mesure s'effectue au millimètre près.
+
+(image: image002-eva-dlr-aigue-n-191-2.jpg)
+
+
+(image: image004.jpg)
+
+
+Les échelles "globales", (EVS, EN, EVA) ont l'avantage d'être simples, rapides à remplir, ce qui permet des mesures répétées, rappro­chées, intéressantes pour étudier la réponse à un traitement analgésique. Pour la pratique quotidienne, l'échelle numérique a l'avantage de ne pas nécessiter de support particulier (papier ou réglette), ce qui est un avantage certain à la généralisation de l'évaluation sys­tématique de la douleur. Intégrée à l'interroga­toire, l'échelle numérique aide à préciser les niveaux de douleur dans diverses activités de la vie courante (repos, marche, position assise...) et lors de l'examen lors des manoeuvres de provocation de la douleur. Elle permet égale­ment de faire une feuille de surveillance de la douleur.
+
+#### Evaluation chez l'enfant
+
+Echelle de visages - on dit à l'enfant : "Voici des bonshommes qui ont mal. Montre le visage qui a autant mal que toi".  
+Au dos de la règle apparaît la cotation en chiffre : 0, 2, 4, 6, 8, 10 en douleur croissante.
+
+(image: image004-dlr-aigue-eval-enfant-n-191-2.jpg)
+
+
+### 2. Autres méthodes
+
+L'EVA, l'EN et l'EVS sont des échelles unidi­mensionnelles : elles ne permettent pas de dis­criminer entre les différentes composantes de la douleur (caractéristiques sensorielles, com­posante affective, retentissement sur le com­portement, etc.). D'autres méthodes existent.
+
+L'appréciation de l'impact de la douleur sur le comportement du patient. Les répercussions d'une douleur sur l'individu et son comportement sont des indicateurs pré­cieux en clinique pour apprécier la "sévérité", d'une douleur : répercussions d'une douleur chronique sur la vie quotidienne (sommeil, activités, moral). Ces critères tout à fait valides pour indiquer la gravité d'un état de douleur, ne constituent toutefois pas des critères sen­sibles pour tester l'efficacité d'un traitement analgésique. L'efficacité du traitement analgé­sique se détecte plus facilement sur le rapport verbal que sur la reprise des activités.
+
+#### Les questionnaires d'évaluation de la douleur
+
+Une analyse fine est possible grâce à des ques­tionnaires dont l'utilisation demande beaucoup plus de temps que celle des échelles unidi­mensionnelles. Ces questionnaires peuvent poser des problèmes de compréhension à cer­tains patients, et, actuellement, ils ne semblent pas adaptés à l'évaluation de la douleur du cancer en pratique quotidienne.
+
+Il s'agit d'instruments tels que le McGill pain questionnaire (MPQ) et le brief pain inventory (BPI) dont les qualités métrologiques ont été vérifiées. Le questionnaire douleur Saint­Antoine (QDSA) est un équivalent français du MPQ ; le BPI a été traduit en plusieurs langues, dont le français (questionnaire concis sur les douleurs).
+
+#### Difficultés avec le malade non commu­nicant
+
+Dans ces situations, l'observation du compor­tement du malade donne les informations utiles sur l'intensité de la douleur (posture, faciès, limitation des mouvements, difficultés pour se déshabiller et s'habiller, etc.). Ces informations contribuent à l'évaluation, parti­culièrement chez les patients qui ne peuvent décrire leur douleur de manière suffisante (troubles de la conscience, difficultés d'expres­sion).
+
+**En pratique**, lorsqu'il n'est pas possible de communiquer avec le malade, il faut :
+
+*   interroger l'entourage sur l'existence de com­portements douloureux (expression faciale, attitudes antalgiques, gémissements...), leur apparition spontanée, provoquée par des soins ou par la mobilisation ;
+*   savoir confier l'observation du malade à une personne de l'entourage (membre de la famil­le, de l'équipe soignante).
+
+Au terme d'une évaluation globale du malade, il sera possible de combiner diverses stratégies thérapeutiques adaptées à la symptomatologie douloureuse. L'évaluation de l'intensité de la douleur systématique, régulière, continue, est indispensable lors de l'adaptation d'un traite­ment antalgique notamment morphinique. Une évaluation commune à l'équipe, figurant dans le dossier, tenue à jour, est valable à l'hôpital comme au domicile et implique une collaboration étroite de chaque intervenant d'une équipe soignante.
+
+(image: image006.jpg)
+
+
+_Développement et Santé, n°183, 2006_

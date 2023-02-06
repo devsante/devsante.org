@@ -1,0 +1,33 @@
+Title: Campagne de vaccination MenAfriVac
+
+----  
+Datetime: 2015-12-01 00:00
+
+----  
+Text:
+
+De très bons résultats, mais arrivée de nouveaux sérotypes
+
+En 1996, une épidémie de méningites à méningocoque A avait provoqué la mort de 25 000 personnes en Afrique subsaharienne et s’étendait du Sénégal à l’Ethiopie.
+
+Ce drame a déclenché une campagne de vaccination de masse, qui a débuté en 2010, utilisant le nouveau vaccin antiméningococcique A conjugué : en fixant l’anatoxine tétanique au polysaccharide capsulaire du méningocoque A, on obtient un vaccin conjugué,beaucoup plus actif que le vaccin méningococcique AC.
+
+Cette campagne cible les sujets de 1 à 29 ans, essentiellement au Burkina Faso, au Mali et au Niger. Le vaccin coute 0,5 dollar.
+
+Fin 2014, plus de 217 millions de doses avaient été délivrées.
+
+Selon l'OMS, entre 2004 et 2013,  le nombre de méningites a été divisé par 10. En 2013, seulement 4 cas de méningites à méningocoque A ont été signalés dans les 26 pays de la ceinture de la méningite.
+
+L’OMS préconise que ce vaccin soit introduit dans le calendrier vaccinal des nourrissons,avant un an dans les pays concernés.
+
+A cela, s'ajoutent deux autres bonnes nouvelles :
+
+Le vaccin, conjugué, induit la synthèse d’anticorps protecteurs qui persistent au moins 5 ans après la vaccination chez 90 % des vaccinés, et il fait pratiquement disparaitre le portage pharyngé du germe, portage qui est la cause des épidémies.
+
+MenAfriVac contient de l’anatoxine tétanique pour renforcer l’immunogénicité de l’antigène méningococcique : ainsi, on constate une chute de 25 % des tétanos néonataux.(le vaccin cible donc 2 germes !).
+
+Le seul grand problème est l’émergence de nouveaux sérotypes  :  W, C et B contre lesquels des vaccins existent (ACWY),  ils sont actuellement chers.
+
+Par Philippe Reinert, pédiatre, Créteil, France
+
+_Réf. L.Sambo,Chan M,Elias C et al. Clinical Infectious Diseases 2015 :61(Suppl 5)._

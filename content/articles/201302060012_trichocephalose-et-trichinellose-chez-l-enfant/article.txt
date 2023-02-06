@@ -1,0 +1,115 @@
+Title: Trichocéphalose et trichinellose chez l'enfant
+
+---- Author: Patrice Bourée Consultation des Maladies Parasitaires, Institut Alfred Fournier, Paris
+
+----  
+Datetime: 2013-02-06 00:00
+
+----  
+Text:
+
+## I. Trichocéphalose
+
+### 1. Epidémiologie
+
+Le trichocéphale (_Trichuris trichiura_) est un nématode cosmopolite, de 3 à 5 cm de long, composé d’une partie céphalique fine et d’une partie caudale plus épaisse. Il est situé dans le caecum. Les adultes sont fichés dans la muqueuse et pondent leurs œufs qui sont éliminés avec les selles. Après maturation à l’extérieur, les œufs sont ingérés avec l’eau ou les crudités. Les larves éclosent, restent dans l’intestin et deviennent adultes en 10 mois.
+
+### 2. Clinique
+
+Très souvent latente, l’infestation, quand elle est importante, peut provoquer des troubles digestifs : douleurs abdominales, diarrhées, ténesme, voire altération de l’état général, anémie ferriprive, rectite, rectorragies et même prolapsus rectal.
+
+### 3. Diagnostic et traitement
+
+L’hyperéosinophilie est modérée. Le diagnostic est affirmé par l’examen parasitologique des selles : œufs ovoïdes, en « citron », jaune orangé, non embryonnés, mesurant 50 x 20 µ. Il n’y a pas de sérodiagnostic. Parfois, en cas d’appendisectomie, on peut constater la présence de trichocéphale dans la coupe de l’organe.  
+Le traitement est identique à celui de l’ascaris (tableau I). En cas d’amaigrissement, le poids remonte rapidement après le traitement.
+
+Traitement de l'ascaridiose
+
+<table>
+<caption>Tableau I. Traitement de la trichocéphalose</caption>
+
+<thead>
+
+<tr>
+
+<th scope="col" style="width: 79px;">Nom  
+chimique</th>
+
+<th scope="col" style="width: 141px;">Présentation</th>
+
+<th scope="col" style="width: 180px;">Posologie</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="width: 83px;">Pamoate de pyrantel</td>
+
+<td style="width: 145px;">Cp à 125 mg et 250 mg  
+Suspension à 5 %</td>
+
+<td style="width: 184px;">1 cp ou 1 cuillère mesure/1 jour</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 83px;">Flubendazole</td>
+
+<td style="width: 145px;">Cp à 100 mg  
+Suspension à 25 mg/ml</td>
+
+<td style="width: 184px;">2 cp par jour ou 2 cuillères mesure / j / 3 jours</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 83px;">Mébendazole</td>
+
+<td style="width: 145px;">Cp à 100 mg  
+Suspension à 20 mg/ml</td>
+
+<td style="width: 184px;">2 cp par jour ou 2 cuillères mesure / j / 3 jours</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 83px;">Albendazole </td>
+
+<td style="width: 145px;">Cp à 400 mg</td>
+
+<td style="width: 184px;">Suspension à 4 % 1 cp ou 10 ml de suspension/1 jour</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## II. Trichinellose
+
+### 1. Epidémiologie
+
+La trichinellose (nom préférable à celui de trichinose) est une zooonose cosmopolite, qui survient par épidémie. Elle est due à l’ingestion de viande de porc ou de cheval contenant des kystes de _Trichinella spiralis_. En fait, il existe plusieurs espèces de _Trichinella._  
+Après ingestion de la viande infestée, les larves muent en adultes (de 1 à 4 mm) qui émettent des larves. Celles-ci passent dans la circulation et gagnent les muscles, où elles s’enkystent.
+
+### 2. Clinique
+
+Cette affection provoque, après une incubation moyenne de 5 jours, des symptômes assez caractéristiques : diarrhée, fièvre à 40°C, œdème de la face ou des paupières et myalgies. La trichinellose doit être évoquée devant l’association de tels troubles survenant simultanément chez plusieurs personnes, surtout si on a la notion d’ingestion de viande de porc, de sanglier, ou de cheval, ou éventuellement d’ours ou de phoque (dans le Grand Nord).
+
+### 3. Diagnostic et traitement
+
+Le **diagnostic** est établi, dans un tel contexte, sur l’hyperéosinophilie et l’élévation des enzymes musculaires (créatine-phosphokinase, lactico-déshydrogénase). Le sérodiagnostic se positive en trois semaines. La preuve formelle, qu’il ne faut pas attendre pour traiter, est basée sur la biopsie musculaire, montrant les kystes caractéristiques : ovoïdes, 500 x 250 µ, contenant une larve enroulée sur elle-même.
+
+_**Larve de trichine (biopsie musculaire)**_
+
+(image: page-7-fig-8-larve-trichine.jpg)
+
+
+Le **traitement** est basé sur l'albendazole : 2 à 5 comprimés/j, selon l’âge, pendant 5 jours. En cas d’atteinte de l’état général, les corticoïdes permettent de faire régresser rapidement les symptômes. La seule prophylaxie efficace serait de bien cuire la viande de porc (ce qui est habituellement réalisé) ou de cheval (ce qui est plus difficile à obtenir, car contraire aux habitudes.

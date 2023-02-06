@@ -1,0 +1,205 @@
+Title: Vaccin contre les méningocoques
+
+---- Author: Micheline Amzallag Pédiatre, Créteil, France
+
+----  
+Datetime: 2009-04-27 00:00
+
+----  
+Teaser:
+
+Depuis la mise en place de la vaccination contre l'_Haemophilus influenzae_, _Neisseria meningitidis_ partage avec _Streptococcus pneumoniae_ la responsabilité de la grande majorité des méningites purulentes chez l'enfant.
+
+----  
+Text:
+
+## I. Épidémiologie
+
+_Neisseria meningitidis_ est à l'origine d'épidémies de méningites.  
+Le germe a été isolé en 1887, mais la première description de méningococcie date de 1805, lors d'une flambée épidémique à Genève (Suisse).  
+Ce germe appartient à une famille composée de 12 sous-types ou séro-groupes dont 4 provoquent des épidémies : ce sont les sous-types A, B , C et W135. La pathogénicité, l'immunogénicité et le potentiel épidémique sont variables d'un groupe à l'autre, l'identification du sous-type est donc capitale pour enrayer une épidémie.  
+En Europe, en Amérique et en Océanie, on retrouve principalement les sous-types B et C, dont la progression a été importante ces 10 dernières années (flambée du méningocoque B en Nouvelle-Zélande). En Asie, il s'agit souvent du groupe C. En Afrique sévit tout particulièrement le sous-groupe A et, dans une moindre mesure, le C et le W135. Dans ces contrées, on assiste à des flambées épidémiques particulièrement mortelles. Le séro-groupe W135 sévit en Arabie Saoudite et sa propagation semble avoir été favorisée par le pèlerinage du Hadj en 2000-2001. En 2002, lors de l'épidémie du méningocoque W135, il a été recensé 13 000 cas dont 1000 décès.
+
+## II. Qu'appelle-t-on la ceinture africaine de la méningite ?
+
+Cette ceinture s'étend sur l'Afrique sub-saharienne du Sénégal à l'Éthiopie et couvre une population d'environ 300 millions d'habitants. Le climat et les habitudes sociales particulières favorisent l'extension de la maladie, de décembre à juin, du fait de vents chargés de poussières, des nuits froides qui favorisent les infections des voies aériennes supérieures, avec une diminution de l'immunité locale du pharynx et donc augmentation du risque de portage du méningocoque et donc de méningite. La transmission est également favorisée par un habitat familial surpeuplé et d'importants déplacements (pèlerinages, marchés traditionnels régionaux).  
+Il existe une immunité collective : blocage de la transmission si le pourcentage de population immunisée dépasse un certain seuil qui endigue l'extension de la maladie et explique l'évolution cyclique des épidémies en fonction du taux de personnes immunisées, notamment lors des campagnes de vaccination à l'occasion de flambées épidémiques.  
+En cas d'épidémie, le taux de personnes atteintes se situe entre 100 et 800 pour 100 000 habitants (parfois jusqu'à 1 000 cas pour 100 000), toute la population est touchée.  
+Dans les formes endémiques, ce sont surtout les jeunes enfants qui sont atteints (car non encore immunisés).  
+L'épidémie la plus importante a eu lieu en 1996, avec 250 000 cas dont 25 000 décès. De 1996 à 2002, 228000 cas ont été notifiés à l'OMS, les pays les plus touchés étant le Burkina Faso, le Tchad, l'Éthiopie et le Niger. En 2002, 65 % des cas concernaient le Burkina Faso, le Niger et l'Éthiopie.  
+Cette ceinture semble s'étendre vers le Sud. La région des grands lacs est touchée par des flambées épidémiques, notamment les villages et les camps de réfugiés.
+
+## III. Les recommandations de l'OMS
+
+Les recommandations d- en cas d'émergence du méningocoque W135, des accords ont été passés par l'OMS en 2003 avec le fabricant pour fournir à l'Afrique, à prix abordable, un vaccin polyosidique protégeant contre les 3 souches A, C et W135 (_voir plus bas_).  
+A la suite des grandes épidémies de 1995 et 1996 en Afrique, a été mis en place un GIC (Groupement International Coordonné) Pour l'approvisionne ment en vaccin anti-méningococcique, son objectif étant de permettre à la fois l'accès au vaccin, au matériel d'injection nécessaire et au chloramphéni¬col huileux, et ce de façon rapide, équitable et avec une utilisation à bon escient. Le GIC est composé de représentants (les Nations-Unies, d'ONG et de partenaires techniques du secteur privé.
+
+## IV. Mise en oeuvre pratique de moyens de prévention en cas de risque épidémique
+
+### 1. Les activités de surveillance
+
+Elles sont actuellement renforcées dans 12 pays africains : Bénin, Burkina Faso, Cameroun, Côte d'Ivoire, Ethiopie, Ghana, Mali, Niger, Nigeria, RCA, Tchad et Togo. La surveillance renforcée est assurée grâce à l'application des procédures opérationnelles standard (POS) qui s'appuient sur le seuil d'alerte et le seuil épidémiologique spécifiquement fixés pour les pays d'hyperendémie.
+
+### 2. La vaccination de circonstance
+
+Elle est déclenchée sous la menace épidémiologique détectée en utilisant les deux seuils épidémiologiques (OMS, 2000) :
+
+*   **le seuil d'alerte** : il permet de donner l'alarme et de lancer une enquête en début d'épidémie, de vérifier l'état de préparation pour faire face à une épidémie ; de déclencher une campagne de vaccination en cas d'épidémie dans une zone proche et de déterminer les zones prioritaires pour une campagne de vaccination au cours d'une épidémie ;
+*   **le seuil épidémique** : il permet de confirmer l'émergence d'une épidémie afin de renforcer les mesures de contrôle : vaccination de masse et prise en charge thérapeutique adaptée.
+
+La vaccination de circonstance n'est pas une arme prophylactique mais un recours en cas d'épidémie avérée.  
+La vaccination doit être programmée avec le vaccin polyosidique capsulaire bivalent A + C ou trivalent A + C + W135 en fonction du sérogroupe à l'origine de l'épidémie. Le vaccin A + C + W135 ne doit être utilisé que dans le cas d'épidémie à W135.
+
+### 3. Lorsque !e seuil épidémique est atteint
+
+La vaccination de masse est mise en oeuvre :
+
+*   elle doit toucher le maximum de population cible : âge de 1 à 15 ans ou mieux de 6 mois à 30 ans ;
+*   elle doit être commencée à l'épicentre de l'épidémie débutante, puis le long des principales voies de déplacement ;
+*   elle doit débuter en un minimum de temps : multiplicité des équipes de vaccinateurs, pistolets injecteurs sans aiguille sous pression, flacons de vaccin multidoses.
+
+Les résultats sont rapidement favorables : la vaccination de masse entraîne une chute brutale du taux d'incidence au 5ème jour.  
+La vaccination préventive des populations à risque intéresse les zones voisines des épidémies : seuil d'alerte de 5/100 000/semaine.
+
+## V. Vaccination systématique en dehors du risque épidémique
+
+Un certain nombre de doses de vaccin A + C ont été administrées en stratégie de prévention dans certains pays africains (Soudan, Mali, Burkina Faso, Tchad). La population cible va de 6 mois à 30 ans. Son efficacité est discutée. Actuellement, la vaccination contre les méningocoques des sérogroupes A, C et W135 est recom¬mandée pour les voyageurs se rendant en zone d'endémie, et chez les personnes se rendant un pélerinage à La Mecque (vaccin tétravalent A + C + Y + W135 exigé).  
+Le vaccin polyosidique monovalent contre le sérogroupe A sera le premier vaccin conjugué contre la MSGm introduit en Afrique pour la vaccination de m,asse. Il conviendra de l'intégrer dans le PEV et d'effectuer des campagnes de rattrapage pour maintenir l'immunité afin de stopper la transmission des méningocoques et de prévenir les épidémies.
+
+### Seuil d'alerte
+
+*   Cinq cas de MCSm pour 100000 habitants en une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.
+*   Deux cas en une semaine ou augmentation du nombre de cas par rapport aux années précédentes lorsque la population est inférieure à 30 000 habitants.
+
+### Seuil épidémique
+
+*   **Quinze cas pour 100 000** habitants par semaine pen¬dant une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.
+*   **Cinq cas en une semaine ou doublement des cas en 3 semaines** pour une population de moins de 30 000 habitants. Toutefois, quand le risque épidémique est élevé (par exemple, aucune épidémie depuis 3 ans ou seuil d'alerte dépassé au début de la saison sèche), le seuil épidémique recommandé est de 10 cas/100 000 personnes par semaine.
+*   A des fins opérationnelles, lorsqu'une épidémie est confirmée dans une zone limitée, le seuil d'alerte sert aussi de seuil épidémique.
+
+## VI. Indications particulières de la vaccination
+
+Enfants souffrant :
+
+*   d'asplénie fonctionnelle (drépanocytose) ou anatomique,
+*   de déficit immunitaire.
+
+Dans la ceinture africaine, après l'âge de 2 ans, la recommandation pour ces enfants est l'administration du vaccin polyosidique tétravalent ACYW135.
+
+## VII. Les différents vaccins
+
+*   Le vaccin méningococcique A + C, vaccin polyosidique non conjugué, est bien toléré, mais n'est efficace qu'à partir de l'âge de 2 ans. Il ne crée pas de mémoire immunologique et ne diminue pas le portage pharyngé. Le vaccin polyosidique A + C protège en principe pendant 4 ans. Il est utilisable à partir de l'âge de 9 mois et même de 6 mois en cas d'épidémie de méningocoque A. lI n'est pas utilisé dans les programmes de vaccination systématique du nourrisson.
+*   Le vaccin trivalent A + C + W135 est un vaccin polyosidique non conjugué qui a les mêmes caractéristiques que le vaccin A + C. Il est réservé aux épidémies dues à la souche du sérogroupe W135.
+*   Le vaccin tétravalent A + C + Y + W135 est destiné aux vaccinations des pélerins se rendant à La Mecque.
+*   Le vaccin C conjugué protège dès l'âge de 2 mois. Il a une mémoire immunologique (immunité T-dépendante avec possibilité de réponse anam-nestique), réduit le portage du germe et donc la contamination. Il est efficace et bien toléré dans toutes les classes d'âge, y compris chez le nourrisson, et est facile à introduire dans le calendrier des programmes de vaccination systématique de l'enfant.
+*   Un nouveau vaccin antiméningococcique A conjugué, spécialement destiné aux pays afri¬cains, est en cours de mise au point par le projet MVP (Projet Vaccin Méningite). Sa disponibilité est attendue pour 2011.
+
+Il n'existe pas de vaccin contre les méningocoques des groupes B et X.
+
+### Problème actuel : l'approvisionnement en vaccins
+
+On a observé une pénurie de vaccins en 2006. Les doses fractionnées sont une alternative pour augmenter les stocks, 1/5 de la dose induisant une séroconversion chez 77,2 % des sujets contre 86,2 % chez les sujets recevant la dose entière pour le sérogroupe A.  
+Les réserves, au début de l'année 2008, étaient de 7 millions de doses de vaccin polyosidique bivalent A/C et de 3,3 millions de doses de vaccin polyosi-dique trivalent A/C/W135.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>
+
+L'engagement de l'OMS :
+
+<ul><li>Eliminer la méningococcie en tant que problème de santé publique.</li><li>Veiller à ce que la lutte contre les cas sporadiques soit la plus efficace et la plus rapide possible.</li><li>Favoriser l'évaluation d'un vaccin amélioré.</li></ul></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td class="rtecenter" style="width: 73px;">Type de vaccin</td>
+
+<td class="rtecenter" style="width: 103px;">Méningocoque</td>
+
+<td class="rtecenter" style="width: 77px;">Schéma vaccinal</td>
+
+<td class="rtecenter" style="width: 63px;">Indications</td>
+
+<td class="rtecenter" style="width: 119px;">Âge de vaccination</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 73px;">Polyosidique</td>
+
+<td style="width: 103px;">
+
+A+C  
+A+C+W135  
+A+C+Y+W135
+
+</td>
+
+<td style="width: 77px;">Tous les 3-4 ans</td>
+
+<td style="width: 63px;">
+
+Epidémie A ou C  
+Epidémie W135  
+Vaccination  
+du sujet  à risque
+
+</td>
+
+<td style="width: 119px;">
+
+> 2 ans, si épidémie,  
+protection contre le méningocoque A  
+à partir de 6-9mois
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 73px;">Conjugué</td>
+
+<td style="width: 103px;">C</td>
+
+<td style="width: 77px;">
+
+Entre 2 mois et 12 mois : M0 + M + R 6 mois
+
+à 1 An après M2
+
+Après 12 mois :  
+une injection assure une protection d'au moins 10 ans
+
+</td>
+
+<td style="width: 63px;">Intégré dans le calendrier vaccinal du nourrisson</td>
+
+<td style="width: 119px;">A partir de 2 mois</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+(image: afrique.jpg)
+
+
+**Pays de la ceinture de la méningite de Lapeyssonnie.**
+
+Développement et Santé, n°195, 2009

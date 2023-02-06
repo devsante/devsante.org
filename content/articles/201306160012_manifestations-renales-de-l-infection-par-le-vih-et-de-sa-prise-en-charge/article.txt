@@ -1,0 +1,279 @@
+Title: Manifestations rénales de l'infection par le VIH et de sa prise en charge
+
+---- Author: Christian Mongin Médecin, Paris, France  
+
+----  
+Datetime: 2013-06-16 00:00
+
+----  
+Teaser:
+
+L'atteinte de la fonction rénale est fréquente au cours de l'infection à VIH.  
+Il existe des maladies rénales spécifiques de cette infection qui tendent à diminuer avec l'instauration de traitements antirétroviraux efficaces.  
+Mais l'utilisation de médicaments potentiellement toxiques pour les reins et l'allongement de la durée de vie des patients concernés favorisent la survenue d'atteintes rénales.  
+En effet, la coexistence fréquente d'autres facteurs de risque cardiovasculaires comme l'HTA, les dyslipidémies, le diabète et surtout le tabagisme, augmente la fréquence des néphropathies.  
+Il faut noter que les patients originaires d'Afrique subsaharienne ou des Antilles développent plus fréquemment des maladies rénales.
+
+----  
+Text:
+
+## I. Comment évaluer la fonction rénale
+
+La fonction rénale est classiquement estimée par le **dosage de la créatininémie**. Plus le débit de filtration glomérulaire (DFG) diminue, plus la créatininémie augmente, et inversement. Cependant, la créatininémie n'augmente pas de façon linéaire avec la baisse du DFG car elle dépend aussi du poids et de l'âge du patient.
+
+Il est donc nécessaire de recourir aux formules de Cockroft et Gault et, encore mieux, à celle du MDRD pour faire un diagnostic précis de l'insuffisance rénale.
+
+Il est possible de calculer directement la formule MDRD sur le site de la Société de néphrologie : [http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm](http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm "http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm").
+
+La **recherche d'une protéinurie à la bandelette** fait aussi partie du bilan de base de la fonction rénale.  
+En cas de positivité de la bandelette, il faut si possible confirmer le résultat par une protéinurie sur échantillon rapportée à la créatinurie (ce qui est beaucoup  plus juste que la protéinurie des 24h).
+
+<table>
+<caption>Définition d'une protéinurie clinique</caption>
+
+<tbody>
+
+<tr>
+
+<td style="width: 317px;">
+
+Protéinurie des 24 h > 0,5 g
+
+Si possible
+
+<ul><li>Ratio albuminurie/créatininurie > 30 mg/mmol (> 300 mg/g)</li><li>Ratio protéinurie/créatininurie > 50 mg/mmol (> 500 mg/g)</li></ul></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+L'utilisation d'une bandelette urinaire permet également de dépister une hématurie et une leucocyturie qui justifient la réalisation d'un examen cytobactériologique des urines :
+
+*   hématurie pathologique : GR > 10/mm<sup>3</sup> ou 10 000/ml
+*   leucocyturie pathologique : GB > 10/mm<sup>3</sup> ou 10 000/ml
+
+**Figure 1. Algorithme de dépistage de la maladie rénale chez un patient infecté par le VIH** (d'après "VIH : complications et comorbidités", coordonné par C. Katlama).
+
+(image: figure-1-vih-rein.jpg)
+
+
+## II. Quand évaluer la fonction rénale ?
+
+### 1. Au moment du diagnostic de l'infection à VIH
+
+*   Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.
+*   Bandelette urinaire : recherche d'une protéinurie.
+
+### 2. Avant l'initiation d'un traitement
+
+*   Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.
+*   Bandelette urinaire : recherche d'une protéinurie et d'une glycosurie (si la protéinurie est positive, faire un dosage).
+*   Dosage de la phosphorémie en fonction du traitement
+
+### 3.En suivi du traitement dans la durée
+
+Le bilan rénal s'intègre dans l'évaluation régulière de la tolérance des traitements antirétroviraux et doit comporter au minimum une estimation du DFG.
+
+## III. Les atteintes rénales du patient infecté par le VIH
+
+### 1. Insuffisance rénale aiguë (IRA)
+
+L'IRA est plus fréquente chez le patient infecté par le VIH que chez le patient séronégatif. Elle est favorisée par une insuffisance rénale préexistante.  
+Elle se définit comme une dégradation transitoire de la fonction rénale ave une augmentation rapide de la créatininémie.  
+Il faut faire une échographie.
+
+Il existe, comme dans la population générale, trois types de causes :
+
+*   Causes prérénales : il s'agit d'IRA fonctionnelles favorisées par la déshydratation, la dénutrition et l'hypoalbuminémie.
+*   Causes rénales : elles sont nombreuses et complexes. Il faut surtout insister sur les infections, le rôle de certains médicaments (notamment les AINS), et le syndrome de restauration immunitaire.
+*   Causes post-rénales : il s'agit d'un obstacle sur les voies urinaires.
+
+Un épisode d'IRA augmente la mortalité et favorise l'apparition d'une IRC.
+
+## 2. Insuffisance rénale chronique (IRC)
+
+**Définition de l'IRC**
+
+La gravité de l'insuffisance rénale est fonction de la diminution du débit de filtration glomérulaire.
+
+Tableau 1. Stades de gravité de l'insuffisance rénale
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Stade</th>
+
+<th scope="col" style="width: 233px;">Description</th>
+
+<th scope="col" style="width: 136px;">DFG (mL/min/1,73 m²)</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>1</td>
+
+<td style="width: 237px;">Maladie rénale chronique avec   
+DFG normal ou augmenté</td>
+
+<td class="rtecenter" style="width: 140px;">≥ 90</td>
+
+</tr>
+
+<tr>
+
+<td>2</td>
+
+<td style="width: 237px;">Maladie rénale chronique avec   
+DFG légèrement diminué</td>
+
+<td class="rtecenter" style="width: 140px;">60-89</td>
+
+</tr>
+
+<tr>
+
+<td>3</td>
+
+<td style="width: 237px;">Insuffisance rénale chronique modérée</td>
+
+<td class="rtecenter" style="width: 140px;">30-59</td>
+
+</tr>
+
+<tr>
+
+<td>4</td>
+
+<td style="width: 237px;">Insuffisance rénale chronique sévère</td>
+
+<td class="rtecenter" style="width: 140px;">15-29</td>
+
+</tr>
+
+<tr>
+
+<td>5</td>
+
+<td style="width: 237px;">Insuffisance rénale chronique terminale</td>
+
+<td class="rtecenter" style="width: 140px;">< 15  
+ </td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Les principaux facteurs d'atteinte rénale chronique sont l'âge, l'origine ethnique, les co-infections virales, un mauvais contrôle de l'infection à VIH et les facteurs de risque vasculaire comme le diabète, l'HTA et le tabac.
+
+Les causes des maladies rénales sont très nombreuses mais le VIH en est la principale (HIVAN pour HIV associated nephropathy ou néphropathie spécifiquement induite par le virus du VIH).
+
+Il est donc très important de protéger les reins. Il existe pour cela un certain nombre de principes à respecter résumés dans le tableau suivant
+
+**Tableau 2. Néphroprotection chez le patient infecté par le VIH** (d'après "VIH: complications et comorbidités" coordonné par C. Katlama).
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Principes de la néphroprotection chez le patient infecté  
+par le VIH  ayant un DFG < 60 mL/min</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td><ul><li>Contrôler l'infection par le VIH</li><li>Adapter les posologies des traitements pour éviter un surdosage</li><li>Surveiller la fonction rénale suivant les recommandations</li><li>Contrôler la pression artérielle avec un objectif cible de 130/80 ou 125/75 si protéinurie</li><li>Contrôler la protéinurie qui doit être < 0,5 g/jour</li><li>Utiliser préférentiellement les inhibiteurs du système rénine-angiotensine pour leurs propriétés antihypertensives et leur effet favorable sur la protéinurie</li><li>Contrôler strictement les autres facteurs de risque cardiovasculaires</li></ul></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## IV. Conséquences de l’insuffisance rénale  
+sur l’infection à VIH et réciproquement 
+
+La maladie rénale chronique augmente le risque cardiovasculaire et doit donc impérativement être prise en charge.
+
+Il est nécessaire d'adapter dans certains cas la posologie des médicaments antirétroviraux mais il ne s'agit pas de systématiquement en diminuer la dose. On peut être guidé, quand cela est possible, par des dosages résiduels d'antirétroviraux. De plus, certains médicaments sont contre-indiqués en cas d'insuffisance rénale. Il est donc impératif de référer le patient au médecin prescripteur du traitement ARV. L'objectif principal reste toujours l'indétectabilité de la charge virale.
+
+## V. Toxicité rénale des antiviraux
+
+**Tableau 3. Atteinte rénale induite par les antirétroviraux** (d'après "VIH : complications et comorbidités", coordonné par C. Katlama).
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Type d'atteinte rénale</th>
+
+<th scope="col">Médicaments en cause (cas cliniques)</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>IRA/nécrose tubulaire</td>
+
+<td>Didanosine, ritonavir, ténofovir</td>
+
+</tr>
+
+<tr>
+
+<td>IRA/néphropathie interstitielle aiguë  
+immuno-allergique</td>
+
+<td>Abacavir, atazanavir</td>
+
+</tr>
+
+<tr>
+
+<td>Lithiases rénales</td>
+
+<td>Indinavir, nelfinavir, saquinavir</td>
+
+</tr>
+
+<tr>
+
+<td>Tubulopathie proximale</td>
+
+<td>Ténofovir, didanosine, stavudine, lamivudine</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## Conclusion
+
+Si la maladie rénale due au VIH (HIVAN) diminue grâce à la diffusion de traitements efficaces, il ne faut pas pour autant diminuer de vigilance . La fonction rénale doit être régulièrement contrôlée et la toxicité des médicaments scrupuleusement évaluée. Les autres facteurs de risque cardiovasculaire doivent être prévenus et  traités si nécessaire.
+
+Enfin, il faut savoir adresser certains patients à un néphrologue - qui saura préciser le diagnostic en faisant, si cela est justifié, une biopsie rénale - et mettre en œuvre une dialyse voire envisager une greffe rénale.

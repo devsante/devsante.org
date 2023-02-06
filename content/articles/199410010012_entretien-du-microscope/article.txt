@@ -1,0 +1,118 @@
+Title: Entretien du microscope
+
+---- Author: Laurence Bonte* * Médecins Sans Frontières, Paris.
+
+----  
+Datetime: 1994-10-01 00:00
+
+----  
+Text:
+
+Le microscope est le principal outil de laboratoire en situation d'isolement. Il permet en effet le diagnostic de nombreuses infections bactériennes (tuberculose, méningite), parasitaires (paludisme, trypanosomiases) et il apporte aussi une aide au diagnostic par la numération et l'identification des cellules dans les produits pathologiques (globules blancs par exemple).
+
+Pour une lecture fiable, le microscope doit donc être en bon état. En effet, il est très difficile de lire avec des objectifs ou des oculaires sales ou rayés. On ne voit rien ou très mal. Les résultats rendus peuvent donc être incorrects à cause d'une mauvaise lecture.
+
+La qualité des examens de laboratoire dépend donc de l'état du microscope et l'état du microscope dépend de l'entretien qu'on lui apportera.
+
+Le microscope est également un instrument qui coûte très cher, c'est une raison supplémentaire pour en prendre grand soin.
+
+*   **Que faut-il entretenir sur le microscope ?**
+
+Toutes les parties du microscope sont à entretenir.
+
+*   **Contre quoi faut-il protéger son** **microscope ?**
+
+- de la poussière,
+
+- de l'humidité,
+
+- des chocs.
+
+*   **Comment entretenir son microscope ?**
+
+Cet article vous donnera quelques gestes indispensables à faire dans votre laboratoire.
+
+### **1. Entretien des oculaires**
+
+*   **Protection de la poussière:** après utilisation, mettre une housse sur le microscope.
+*   **Nettoyage des oculaires :** la lentille externe (où on met l'oeil) se nettoie avec un chiffon sec ou un papier qui ne raye pas (papier spécial pour les lentilles, kleenex, sopalin, papier toilette). Ne jamais utiliser de xylène.
+
+Si la lentille est sale (empreintes de doigts, taches de gras), on peut imbiber le chiffon ou le papier avec de l'alcool (éthanol, méthanol).
+
+Les lentilles internes des oculaires se nettoient uniquement avec un pinceau fin, jamais autre chose et jamais d'alcool ou de xylène, cela les endommagerait (elles sont imprégnées d'un produit antireflet qui partirait).
+
+Toujours éviter de dévisser les lentilles des oculaires (le faire uniquement lorsqu'il y a de la poussière à l'intérieur de l'oculaire).
+
+### **2. Entretien des objectifs**
+
+*   **Nettoyage de l'objectif x100 à** **immersion:** essuyer l'huile après chaque utilisation avec un papier qui ne raye pas (papier lentille, kleenex, papier toilette).
+
+Lorsque l'huile a séché, utiliser un papier imbibé légèrement avec du xylène ou du toluène. Ne jamais tremper l'objectif dans le xylène, cela décollerait les lentilles de l'objectif et rendrait le microscope inutilisable.
+
+*   **Pour les autres objectifs x40, X10:** on peut les nettoyer avec un chiffon imbibé avec de l'alcool ou un mélange alcool-éther. Faire attention à ne pas utiliser de l'huile à immersion avec ces objectifs.
+
+### **3. Entretien du condensateur**
+
+*   **Poussière:** essuyer la lentille du condensateur avec un chiffon ou un papier qui ne raye pas.
+*   **Diaphragme:** pour enlever la poussière, utiliser un pinceau fin ou souffler de l'air avec une poire (poire optique pour appareil photo).
+
+### **4. Entretien du miroir**
+
+Essuyer le miroir avec un chiffon ou un papier qui ne raye pas. On peut imbiber légèrement le papier avec de l'alcool, jamais de xylène.
+
+### **5. Entretien du système** **électrique**
+
+**Lampes, fusibles:** pas de réparation possible. Ce sont des pièces du microscope qui se changent, toujours en avoir en stock en faisant attention à avoir les bonnes références (il faut connaître les références de son microscope). Éviter de mettre les doigts sur la lampe en la changeant.
+
+(image: i610-1.jpg)
+
+
+### **6. Autres entretiens**
+
+*   **Graissage des crémaillères** (en général, elles sont protégées par une partie métallique): on peut les frotter avec de la cire, du savon si on n'a pas d'huile spéciale (ne jamais utiliser de l'huile de cuisine ou de l'huile à immersion).
+
+Ne jamais essayer de démonter le microscope soi-même pour nettoyer le prisme, l'intérieur des objectifs ou toute autre partie du microscope non apparente.
+
+*   **Entretien des parties peintes:** il s'agit du pied du microscope et de la platine. Elles se nettoient avec un chiffon sec ou un chiffon avec de l'alcool. Ne jamais utiliser d'acétone, ni de xylène.
+
+### **7. Protection contre l'humidité**
+
+Il est facile de nettoyer son microscope contre la poussière. Par contre, pour le nettoyer contre la présence de champignons qui se développent facilement dans un climat humide, il est préférable de recourir à des spécialistes.
+
+Cependant, certaines mesures peuvent être prises pour protéger son microscope contre l'humidité: par exemple, armoire chauffante, dessicant (réactif protégeant de l'humidité).
+
+*   **Armoire chauffante:** nécessité de l'électricité vingt-quatre heures sur vingt-quatre. Le microscope est placé dans une simple boîte ou armoire bien fermée avec une ou deux lampes de 40 watts. Les lampes doivent rester constamment allumées, même quand le microscope n'est pas à l'intérieur.
+
+*   **Utilisation d'un dessicant** (silicagel): le microscope est placé dans une boîte fermée hermétiquement dans laquelle on placera du dessicant. Le dessicant est laissé dans une soucoupe et il est très important de bien refermer hermétiquement la boîte même lorsque le microscope n'est pas à l'intérieur. On utilisera de préférence du dessicant avec indicateur de saturation; bleu: il est bon à être utilisé, rose: il est trop chargé en humidité et n'est plus efficace. Il suffit de le chauffer (dans une poêle sur le feu) pour qu'il retrouve sa couleur bleue et soit à nouveau efficace.
+
+*   **En absence d'électricité ou de boîte** **hermétique avec dessicant:** il ne faut pas ranger le microscope dans sa boîte en bois, mieux vaut le laisser à l'air libre recouvert de sa housse.
+*   **Comment se débarrasser des champignons:** seul un spécialiste peut débarrasser le microscope de ses champignons. Le spécialiste peut se trouver auprès du fabricant du microscope). L'idéal serait de faire nettoyer son microscope par un spécialiste au moins une fois par an.
+
+(image: i610-2.jpg)
+
+
+### **8. Protection contre les chocs**
+
+Au laboratoire, le microscope doit être posé sur un endroit bien stable, évitez de le déplacer trop souvent. Il faut toujours porter le microscope avec ses deux mains.
+
+*   **Comment protéger son microscope** **pour un transport en brousse :** il doit être calé dans une boîte rembourrée de mousse ou à défaut de papier. Pendant le voyage, une personne tiendra le microscope pour qu'il ne saute pas dans la voiture. Son transport ne se fera qu'en cas de nécessité (il faut éviter les transports au maximum). Il existe des boîtes spéciales permettant de fixer le microscope à la boîte (vis ou cale-pied).
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td valign="top">
+
+RAPPEL:
+
+<ul><li class="rtejustify">Toujours couvrir le microscope de sa housse après utilisation.</li><li class="rtejustify">Toujours essuyer l'huile sur l'objectif à immersion après utilisation.</li><li class="rtejustify">Ne jamais utiliser de xylène pour autre chose que l'objectif à immersion.</li><li class="rtejustify">Ne jamais faire tremper l'objectif dans le xylène.</li><li class="rtejustify">Ne jamais forcer sur la vis de mise au point.</li><li class="rtejustify">Ne jamais laisser le microscope en plein soleil.</li><li class="rtejustify">Toujours mettre le microscope sur un plan stable, le manipuler avec précaution.</li><li class="rtejustify">Ne jamais démonter soi-même le microscope.</li></ul></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+_Développement et Santé, n° 113, octobre 1994_

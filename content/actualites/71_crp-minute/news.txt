@@ -1,0 +1,32 @@
+Title: CRP minute
+
+----  
+Datetime: 2015-06-07 00:00
+
+----  
+Text:
+
+Un outil indispensable pour l'infirmier isolé ?
+
+La protéine C réactive (CRP) est l'une des protéines de la phase aiguë de l’inflammation dont le niveau s’élève dans le sérum et le plasma lors d’une infection ou une maladie inflammatoire (rhumatisme articulaire par exemple).
+
+La valeur normale de la CRP est < à 5 mg/litre. Ce seuil est souvent dépassé 4 à 8 heures après le début d’une infection, pouvant atteindre 20 à 500 mg/l.
+
+Son intérêt capital est que son élévation importante est presque toujours le témoin d’une infection bactérienne, alors qu’au cours des viroses, son taux ne dépasse pas 40mg/l.  
+Son élévation est plus rapide que la vitesse de sédimentation et le fibrinogène. Mais aussi, sa normalisation est le premier signe de guérison de l’infection.
+
+On voit donc son intérêt devant toute fièvre de l’enfant par exemple. Dans les infections pulmonaires, 50% sont virales et ne nécessitent pas de traitement antibiotique. Or, en pratique, le moindre tousseur fébrile reçoit un traitement antibiotique, ce qui explique le taux dramatique de résistance aux antibiotiques, en Afrique en particulier.
+
+En effectuant un micro est CRP "au lit du malade" en deux minutes, si la CRP est basse, pas d’antibiotique, pas d’examen complémentaire et simplement du paracétamol.  
+A l’opposé, si la CRP est supérieure à 100mg/l, il est urgent de traiter énergiquement par des antibiotiques.
+
+Différentes études effectuées par MSF ont prouvé l’intérêt de cette méthode, mais aussi ses limites : chez l’enfant dénutri dont la protéinémie est basse, la CRP s’élève peu même en cas de septicémie.
+
+La tuberculose et le paludisme  modifient peu le taux de CRP.
+
+Enfin,la fiabilité de la méthode n’est pas de 100 %,mais varie entre 70 % et 80 %. C’est dire si la clinique prime avant tout.
+
+En Amérique du Nord et en Europe, cette méthode permet une diminution de la prescription d’antibiotiques de 33 % et de la demande d’examens complémentaires de 40 %.
+
+Par Philippe Reinert  
+Pédiatre, Créteil

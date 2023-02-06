@@ -1,0 +1,315 @@
+Title: Conduite à tenir devant une infection chez l'enfant drépanocytaire
+
+---- Author: Philippe Reinert Pédiatre, Hôpital Intercommunal, Créteil, France.
+
+----  
+Datetime: 2006-12-10 00:00
+
+----  
+Teaser:
+
+Les infections bactériennes sont fréquentes et souvent graves chez le drépanocytaire ; elles sont responsables de la majorité des morts avant 5 ans ; leur rapidité d'évolution surtout pour les infections à Pneumocoque en fait une URGENCE VITALE.  
+C'est dire si l'infirmier doit réagir rapidement devant toute suspicion d'infection.
+
+----  
+Text:
+
+## I. Principes généraux
+
+Dans la grande majorité des cas, devant une suspicion d'infection, le traitement antibiotique est démarré de manière empirique sans attendre les résultats des prélèvements.
+
+En fonction du tableau clinique, il faut parier sur les germes (_Tableau1_).
+
+L'antibiothérapie probabiliste doit être :
+
+*   bactéricide et adaptée au site infectieux suspecté ou identifié : en cas de suspicion de méningite, il faudra choisir un antibiotique qui franchit la barrière méningée ;
+*   active sur le Pneumocoque, même si l'enfant est correctement vacciné et si les parents certifient que le traitement par Oracilline est bien administré ;
+*   large pour être aussi efficace sur _Haemophilus b_ et les salmonelles.
+
+<table>
+<caption>Tableau 1 : principaux germes à évoquer en fonction du tableau clinique</caption>
+
+<thead>
+
+<tr>
+
+<th scope="row" valign="top"> </th>
+
+<th scope="col" valign="top">Principaux</th>
+
+<th scope="col" valign="top">Autres</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<th scope="row" valign="top">Fièvre isolée</th>
+
+<td valign="top">Pneumocoque
+
+<em>Haemophilus influenzae b</em>
+
+</td>
+
+<td valign="top">Salmonelles
+
+Bacilles Gram - d'origine digestive
+
+</td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Méningite</th>
+
+<td valign="top">Pneumocoque
+
+<em>Haemophilus influenzae b</em>
+
+</td>
+
+<td valign="top">Méningocoque</td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Syndrome thoracique</th>
+
+<td valign="top">Pneumocoque
+
+<em>Mycoplasma pneumoniae</em>
+
+<em>Chlamydia pneumoniae</em>
+
+</td>
+
+<td valign="top">Virus (VRS)
+
+Légionelles
+
+</td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Ostéomyélite</th>
+
+<td valign="top">Salmonelle
+
+Staphylocoque doré
+
+Pneumocoque
+
+</td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Infection urinaire</th>
+
+<td valign="top">Colibacille
+
+Bacilles Gram - d'origine digestive
+
+</td>
+
+<td valign="top"> </td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Les situations sont bien différentes suivant le tableau :
+
+*   Fièvre isolée,
+*   Syndrome thoracique,
+*   Douleur ostéo-articulaire fébrile,
+*   Syndrome méningé.
+
+### 1. Devant une fièvre isolée
+
+Toute fièvre >38,5 chez un enfant drépanocytaire impose une consultation au dispensaire d'urgence et la réalisation d'une NFS, une radio pulmonaire, une bandelette urinaire : une ponction lombaire est indiquée s'il existe une altération de l'état général et le moindre doute sur un syndrome méningé. Idéalement, l'antibiothérapie d'urgence doit être parentérale : le Cefotaxime, la Ceftriaxone son parfaitement adaptés à la situation car ils sont efficaces sur les principaux germes et ils traversent facilement la barrière méningée.
+
+Ce traitement d'urgence est indispensable pour :
+
+*   Tous les enfants de moins de 3 ans avec une fièvre >38,5,
+*   Tous les enfants avec une fièvre >39,5 ou avec une atteinte de l'état général et/ou des troubles de la conscience,
+*   Tout enfant ayant un antécédent de septicémie et/ou présentant une radio pulmonaire anormale une hyperleucocytose >30 000 ou une leucopénie < 5 000 enfin une anémie avec Hg< 6gr/dl.
+
+Pour les autre enfant fébriles, un traitement per os suffit à condition que les parents soient éduqués et fiables et qu'une réévaluation clinique puisse être faite dans les 24 heures. L'Amoxicilline ou mieux l'amoxicilline-Acide clavulanique pendant 5 à 6 jours donnent de bons résultats (_Tableau II_).
+
+### 2. Syndrome thoracique aigu
+
+C'est une complication aigue et grave associant de façon variable : douleur thoracique, fièvre, polypnée et angoisse : il se rencontre à tous les ages. Les causes en sont multiples et intriquées : crise vaso-occlusive+embolie graisseuse à partir d'un infarctus osseux + infection pulmonaire +/- intervention chirurgicale : l'ensemble aboutit à une **hypoventilation** qui aggrave la falciformation.
+
+Le traitement comporte :
+
+*   Antibiothérapie : Cefotaxime ou Ceftriaxone IV +macrolides (Erythromycine).
+*   Transfusion : 2 à 3 ml/kg/heure.
+*   Antalgiques.
+*   Oxygénothérapie par voie nasale.
+*   Hydratation en limitant les volumes à 1,5 à 2 litres/m2/24 heures.
+*   S'il existe des sibilants à l'auscultation témoins d'un bronchospasme (antécédents d'asthme ?) présents dans 1/4 des cas, il faut ajouter des broncho-dilatateurs (Type Ventoline).
+
+### 3. Infections ostéo-articulaires
+
+Les manifestations ostéoarticulaires sont fréquentes dans la drépanocytose et relèvent de 3 mécanismes :
+
+*   **Hyperplasie médullaire** : dans toute anémie hémolytique chronique, il existe une prolifération des cellules souches des globules rouges dans la moelle osseuse : cette prolifération entraîne des déformations osseuses et des douleurs
+*   **Crises vaso-occlusives** : le petit calibre des vaisseaux osseux explique la fréquence de leurs occlusions : syndrome pied-main chez le nourrisson, infarctus diaphysaires chez le plus grand, enfin ostéonécrose de la tête fémorale chez l'adulte.
+*   **Infection hématogène** (ostéomyélite et arthrite).
+
+Les bactériémies sont fréquentes dans la drépanocytose : on comprend que la bactérie soit souvent "piégée" dans les vaisseaux osseux parfois obstrués.
+
+La prévalence de l'ostéomyélite est variable (jusqu'à 61 % des malades !) les salmonelles en sont souvent responsables ce qui guide l'antibiothérapie probabiliste.
+
+La grande difficulté diagnostique entre simple crise vaso-occlusive et infection tient au fait que les deux sont douloureuses et fébriles, que l'hyperleucocytose est banale dans les 2 cas et que la radiographie au début n'est pas contributive !
+
+L'idéal est de pouvoir faire des hémocultures, voire une ponction osseuse, avec la plus stricte asepsie.
+
+En pratique un traitement initial par hydratation+antalgiques associé à une surveillance clinique permet de voir venir et de débuter le traitement antibiotique si la fièvre s'élève et si les signes locaux se modifient. Le traitement antibiotique, en l'absence de germe identifié associe une céphalosporine de 3<sup>ème</sup> génération à la gentamycine.
+
+**L'arthrite septique** :
+
+Elle peut être secondaire à une bactériémie ou due à un foyer osseux contigu : ici le diagnostic clinique est plus facile : douleur sévère, gonflement articulaire, chaleur locale associée à la quasi impossibilité de mobiliser l'articulation. La ponction articulaire est recommandée en milieu chirurgical. Le traitement comportera une antibiothérapie identique à l'ostéomyélite associée à un drainage chirurgical de l'articulation pour éviter les séquelles (enraidissement articulaire).
+
+### 4. Syndrome méningé fébrile
+
+Les méningites à Pneumocoque se rencontrent surtout chez l'enfant de moins de 5 ans : elles ont pour particularité d'être fréquentes et souvent foudroyantes justifiant l'antibioprophylaxie dés les premiers mois puis la vaccination.
+
+La ponction lombaire est donc à faire en urgence chez tout enfant fébrile se plaignant de céphalées + ou - troubles du comportement ?
+
+_L'Haemophilus b_ est possible (la vaccination qui protège à 100 % est très vivement recommandée) le Méningocoque A et W135 en période d'épidémie est plus fréquent que chez l'enfant sain.
+
+Sans attendre les résultats du laboratoire, il faut administrer une Céphalosporine de 3<sup>ème</sup> génération IV.
+
+**Tableau 2 : principaux antibiotiques / posologie, voies d'administration**
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="row" valign="top"> </th>
+
+<th colspan="4" scope="col" valign="top">INDICATIONS</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<th scope="row" valign="top">Amoxicilline</th>
+
+<td valign="top">50à 100mgr/kg</td>
+
+<td style="width: 73px;" valign="top">3 prises/jour</td>
+
+<td style="width: 30px;" valign="top">PO, IV</td>
+
+<td valign="top">Infection pulmonaire
+
+ORL
+
+</td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Ceftriaxone</th>
+
+<td valign="top">50 à 100mg/kg</td>
+
+<td style="width: 73px;" valign="top">1 par jour</td>
+
+<td style="width: 30px;" valign="top">IV, IM</td>
+
+<td valign="top">Infection sévère</td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Cefotaxime</th>
+
+<td valign="top">75 à 200mg/kg</td>
+
+<td style="width: 73px;" valign="top">3 par jour</td>
+
+<td style="width: 30px;" valign="top">IV</td>
+
+<td valign="top">Infection sévère</td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Gentamycine</th>
+
+<td valign="top">3 à 7 mg/kg</td>
+
+<td style="width: 73px;" valign="top">2 par jour</td>
+
+<td style="width: 30px;" valign="top">IV, IM</td>
+
+<td valign="top">Ostéite  
+Infection urinaire</td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Erythromycine</th>
+
+<td valign="top">30 à 50 mg/kg</td>
+
+<td style="width: 73px;" valign="top">2 par jour</td>
+
+<td style="width: 30px;" valign="top">PO</td>
+
+<td valign="top">Inf. pulmonaire  
+(en association)</td>
+
+</tr>
+
+<tr>
+
+<th scope="row" valign="top">Amoxicilline Acide  
+clavulanique</th>
+
+<td valign="top">45 mg/kg</td>
+
+<td style="width: 73px;" valign="top">2 par jour</td>
+
+<td style="width: 30px;" valign="top">PO</td>
+
+<td valign="top">Inf. Pulmonaires Urinaires</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+**NB** : L'amoxicilline/acide clavulanique ne traverse pas la barrière méningée : il ne faut donc pas l'utiliser en cas de suspicion de méningite.
+
+Le chloramphénicol huileux est très utilisé dans les méningites, avec une efficacité proche des cephalosporines de 3ème génération chez l'enfant et l'adulte sain : il agit cependant moins rapidement, ce qui est un handicap dans les septicémies et méningites à pneumocoque parfois foudroyantes.
+
+_Développement et Santé, n°182, 2006_

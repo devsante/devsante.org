@@ -1,0 +1,358 @@
+Title: Elimination des déchets dans les centres de santé
+
+---- Author: Jean-Loup Rey
+
+----  
+Datetime: 2011-11-14 00:00
+
+----  
+Teaser:
+
+Toutes les activités de soins génèrent des déchets qui sont potentiellement dangereux pour les employés du centre, pour les patients et pour l’environnement extérieur. Les éliminer correctement est une activité importante dans l’intérêt de la communauté, des patients et des soignants.
+
+----  
+Text:
+
+Une structure de soins, quelle que soit sa taille, produit trois types de déchets :
+
+*   Les déchets contaminés ou potentiellement contaminés : sont considérés comme tels tous les déchets solides provenant de soins (pansements, seringues), les vêtements et la literie des malades, et des déchets liquides, les produits  biologiques (urines, sang, selles).
+*   Les objets piquants/coupants, qui sont tous les instruments pouvant créer chez toute personne une solution de continuité (effraction cutanée) tels que les  aiguilles, lames de bistouri.
+*   Les déchets "ni/ni" : ni contaminés, ni piquants ; ils sont dits courants, de même type que les déchets ménagers (ordures ménagères).
+
+La bonne gestion de ces déchets se fait en 4 étapes :
+
+1.  Tri
+2.  Stockage
+3.  Décontamination
+4.  Destruction
+
+Ces 4 étapes se déclinent pour les 3 types de déchets.
+
+Séparer les déchets en trois lots : les déchets contaminés (liquides dans un récipient spécifique et solides dans un autre), les objets piquants/coupants et les ordures ménagères (voir tableau  ci-dessous).
+
+<table>
+
+<thead>
+
+<tr>
+
+<th colspan="2" rowspan="1" scope="col" style="width: 242px;">Déchets contaminés</th>
+
+<th scope="col" style="width: 118px;">Objets piquants/  
+coupants</th>
+
+<th scope="col">"Ni-Ni"  
+(ordures ménagères</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="width: 129px;">Solides</td>
+
+<td style="width: 88px;">Liquides</td>
+
+<td style="width: 122px;"> </td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 129px;"> </td>
+
+<td style="width: 88px;"> </td>
+
+<td style="width: 122px;">Ne pas recapuchonner</td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 129px;">Mettre dans un seau fermé</td>
+
+<td style="width: 88px;">Mettre dans un seau fermé</td>
+
+<td style="width: 122px;">Mettre dans un récipient spécifique</td>
+
+<td>Mettre dans une poubelle</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 129px;">Mettre du chlore dans le seau en milieu de journée</td>
+
+<td style="width: 88px;"> </td>
+
+<td style="width: 122px;">A remplir aux 3/4</td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 129px;">Vider le seau tous les jour à la fin du travail</td>
+
+<td style="width: 88px;">Vider dans les latrines</td>
+
+<td style="width: 122px;"> </td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 129px;"> </td>
+
+<td style="width: 88px;"> </td>
+
+<td style="width: 122px;">Couler du ciment dans le récipient</td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 129px;">Stocker à l'abri des insectes et rongeurs</td>
+
+<td style="width: 88px;"> </td>
+
+<td style="width: 122px;">Fermer le récipient</td>
+
+<td>Stocker à l'abri des insectes et rongeurs</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 129px;">Ne pas stocker plus de 18 heures</td>
+
+<td style="width: 88px;"> </td>
+
+<td style="width: 122px;"> </td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 129px;">Incinérer puis enfouir</td>
+
+<td style="width: 88px;"> </td>
+
+<td style="width: 122px;">Incinérer puis enfouir (ou enfouir directement si enfermé dans un récipient en ciment)</td>
+
+<td>Vider quand elle est pleine et incinérer et/ou enfouir</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### 1. Récipients pour objets piquants/coupants
+
+Tous doivent être clairement identifiés.
+
+*   Utiliser des bouteilles ou bidons en plastique fort :
+    *   non transparents ni translucides,
+    *   récipients pour huile et produits chimiques.
+*   Pas de récipient pour boissons sauf ceux en aluminium.
+
+Les cannettes métalliques sont très bien mais il faut, quand elles sont pleines aux  trois quarts :
+
+*   les fermer ou
+*   couler du ciment liquide et laisser prendre.
+
+Ne pas utiliser de récipients en carton.
+
+### 2. Utilisation du chlore
+
+Deux sources possibles (voir ci-dessous) : l’eau de Javel et le trichlosène.  
+L’eau de Javel a l’avantage d’être en vente dans la plupart des magasins mais elle est souvent détériorée, elle est toxique et caustique, son efficacité diminue beaucoup quand elle est en présence de grandes quantités de matières organiques.  
+Le trichlosène, encore rare en Afrique, n’a pas les inconvénients de l’eau de Javel.
+
+### 3. Utilisation du ciment
+
+Cette méthode est utilisable pour les cannettes en aluminium contenant des objets piquants ou coupants. Préparer une petite quantité de ciment liquide, environ 10 cl pour une cannette, la couler dans le récipient et laisser totalement sécher.
+
+### 4. Incinération
+
+S’il existe un incinérateur dans la localité, prendre contact avec les responsables et apporter tous les jours en fin d’après midi les déchets à incinérer.
+
+#### S’il n’y a pas d’incinérateur
+
+Aménager un fût métallique de 200 litres selon les modalités suivantes à renouveler tous les 4 ou 6 mois (schéma ci-dessous) :
+
+1.  **Modalité la plus simple** : enlever un des cotés circulaires, le placer sur des briques et faire des trous dans le bas.
+2.  **Aménagement plus élaboré** : ménager un volume d’air dans la partie inférieure (réserver un cinquième du fût sur sa hauteur), positionner une grille et utiliser l’espace situé au-dessus de la grille.
+3.  **Encore mieux** : ménager, en plus de l’espace inférieur, un autre espace sur toute la hauteur du fût grâce à une grille verticale.
+
+Ces espaces sont destinés à faire circuler de l’air, donc de l’oxygène, qui permet d’obtenir des températures supérieures à 800° C. Au-dessus de 800° C, tous les agents pathogènes sont détruits, les fumées sont moins toxiques et les métaux fondent (en partie).  
+Les emballages en plastique des seringues et autres médicaments sont d’excellents starters pour le feu, il faut donc les garder et les mettre dans le bas du fût.  
+Enfin, il faut prévoir un couvercle pour la nuit et pour protéger de la pluie.
+
+#### Incinérer en respectant un horaire régulier :
+
+1.  Brûler le matin de bonne heure (arroser éventuellement avec du gazole avant d’allumer), laisser refroidir, vider puis enfouir les cendres.
+2.  Dans la journée, remplir de déchets contaminés et objets piquants/coupants.
+3.  Le soir, couvrir.
+4.  Mettre le feu le lendemain matin (il vaut mieux ne pas brûler le soir car les fumées stagnent).
+
+Enfouir dans un trou d’au moins 50 cm de profondeur et distant de plus de 50 mètres de toute source ou de tout forage. La masse de terre qui recouvre les ordures doit avoir au moins 30 cm de hauteur.
+
+**C’est la solution pour :**
+
+*   les ordures ménagères ou le "ni/ni" ;
+*   les pièces anatomiques, qui doivent être enfouies après avoir été recouvertes de chaux vive (ou crésyl si pas de chaux) ;
+*   les cendres et ce qui reste des métaux (aiguilles), qui doivent être fondus.
+
+(image: incinerateurs-4.jpg)
+
+
+##   
+Utilisation des désinfectants pour les DC
+
+### 1. Dérivés chlorés
+
+#### a. Eau de Javel  (hypochlorite de sodium ou de calcium)
+
+Eau de Javel du commerce à 12° (2,6% de chlore actif) : utiliser pure ou à diluer dans eau au 1/3  
+Sensible à la chaleur, aux rayons UV, au Ph, aux matières organiques.  
+Caustique pour les êtres vivants et corrosif pour les métaux.  
+Arroser le seau de déchets avec solution pure ou diluée au 1/3.
+
+####   
+b. Trochlosène
+
+Il existe deux formes le Klorsept et le Klor-Kleen qui contient un détergent. Ils se présentent sous forme de tablettes effervescentes qui dans l’eau donnent une solution désinfectante.  
+La substance chimique de base est le sodium dichloroisocyanurate (NaDCC) qui est un producteur organique de chlore. Ce produit est plus actif que l’hypochlorite, en particulier en présence de matières organiques, de plus les tablettes ne sont pas caustiques ni corrosives. Elles se conservent bien pendant 3 à 5 ans.
+
+Pour désinfecter des déchets contaminés il faut une solution de chlore à 1000mg/l.
+
+<table>
+<caption>Dosages obtenus avec les produits commerciaux disponibles</caption>
+
+<thead>
+
+<tr>
+
+<th scope="row"> </th>
+
+<th scope="col">Nombre  
+de tablettes</th>
+
+<th scope="col">Nombre de  
+litres d'au</th>
+
+<th scope="col">Concentration  
+Cl en mg/L</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<th scope="row">Klorsept 17</th>
+
+<td>
+
+1
+
+1
+
+5
+
+</td>
+
+<td>
+
+5
+
+1
+
+1
+
+</td>
+
+<td>
+
+200
+
+1 000
+
+5 000
+
+</td>
+
+</tr>
+
+<tr>
+
+<th scope="row">
+
+Klor Kleen*
+
+</th>
+
+<td>
+
+1
+
+1
+
+5
+
+</td>
+
+<td>
+
+5
+
+1
+
+1
+
+</td>
+
+<td>
+
+200
+
+1 000
+
+5 000
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+* Avec détergent
+
+###   
+2. Crésyl (phénols)
+
+Dénature les protéines et donc détruit parasites et bactéries.  
+Peu soluble dans l’eau.  
+Incompatible avec Chlore = ne pas mélanger avec les produits ci-dessus.  
+Irritant pour la peau et les voies respiratoires.  
+Très utile pour les matières fécales.

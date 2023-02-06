@@ -1,0 +1,113 @@
+Title: Conduite à tenir devant une hémorragie dentaire
+
+---- Author: Nadia Kessi Stomatologue, Attaché aux hôpitaux de Paris, France.
+
+----  
+Datetime: 1999-04-03 00:00
+
+----  
+Teaser:
+
+Une hémorragie dentaire est une urgence vraie qui nécessite une prise en charge rapide.
+
+C'est également une urgence assez fréquente dans les services hospitaliers pendant la nuit.
+
+----  
+Text:
+
+## **I.** Examen du malade
+
+*   État général du patient : prise de tension artérielle, faciès état fébrile, aspect des yeux et des lèvres, asthénie.
+*   Qualité et importance de l'hémorragie depuis quand l'hémorragie est-elle survenue ?
+
+## Il. Interrogatoire médical
+
+Antécédents médicaux connus :
+
+*   patients sous anticoagulants
+*   patient alcoolique
+*   hypertension artérielle
+*   perturbation de facteurs de l'hémostase
+*   atteinte hépatique (hépatite virale : temps plaquettaire en diminution) ;
+*   patients sous chimiothérapie
+*   traitement en cours ou médicaments absorbés par le patient : aspirine, AINS (anti-inflammatoire non stéroïdien), antivitamine K<sup>-</sup>;
+*   le patient a-t-il suivi toutes les recommandations données par le stomatologue suite à l'avulsion dentaire (ne pas cracher, abstention de prise d'alimentation et boisson chaude).
+
+## **III.** **Interrogatoire** quant au déroulement **de l'acte chirurgical**
+
+*   Heure à laquelle a eu lieu l'avulsion dentaire.
+*   Durée approximative de cet acte.
+
+## IV. Les examens complémentaires (si cela est possible)
+
+### Bilan radiologique
+
+Panoramique dentaire ou rétro-alvéolaire. Ce bilan radiographique doit permettre de déceler une fracture de l'alvéole dentaire, un apex fracturé laissé dans l'alvéole ou une lésion non curetée.
+
+### Bilan biologique
+
+Cela est nécessaire s'il existe une pathologie médicale décelée à l'interrogatoire. Exploration de l'hémostase : temps de saignement, taux de prothrombine, taux de céphaline activée.
+
+À partir de ces investigations et surtout de l'interrogatoire du malade, on est à même de qualifier le type de l'hémorragie et son degré de gravité :
+
+*   s'il n'y a pas de pathologie médicale grave, il s'agit d'une hémorragie dont le traitement est local ;
+*   s'il y a des perturbations biologiques importantes (taux de prothrombine inférieur à 30 %, hémophilie) une hospitalisation est impérative.
+
+## V. Traitement
+
+*   Le patient doit être en position assise.
+*   Le rassurer sur la non-gravité de son hémorragie, lui expliquer les étapes du traitement et tous les gestes que nous allons effectuer.
+
+On classe les hémorragies suivant leur survenance par rapport à l'avulsion dentaire :
+
+### a) L'hémorragie survient dans l'heure **qui suit l'avulsion dentaire**
+
+1 - Faire rincer la bouche du patient afin de nettoyer la cavité buccale.
+
+1.  Nettoyer avec des compresses afin d'apprécier l'hémorragie.
+2.  Si cela est nécessaire, refaire une anesthésie locale avec un vasoconstricteur (s'il n'y a pas de contre-indication médicale).
+3.  Nettoyer l'alvéole minutieusement.
+4.  Si le bilan radiographique l'a révélé, extraire l'apex résiduel. S'il existe une lésion apicale, la cureter.
+5.  Mettre en place une hémostase interne mais seulement après avoir levé l'agent causal. Bourrer l'alvéole par un hémostatique : Surgicel® ou Thrombase 500 en poudre.
+6.  Faire une compression qui sera maintenue pendant 20 minutes (on doit obtenir une bonne qualité du thrombus blanc ou caillot). Cette compression sera faite à l'aide d'un petit paquet de compresses roulées et placées au niveau de l'alvéole.
+7.  Le contrôle de l'arrêt de l'hémorragie s'effectuera 20 minutes après la mise en place de la compression ; si nécessaire changer les compresses. Cela nous permettra de constater la qualité de l'hémostase locale et l'arrêt de l'hémorragie.
+
+### b) L'hémorragie est causée par une lésion muqueuse
+
+1.  Procéder à une anesthésie locale.
+2.  Procéder à la remise en état de la muqueuse (régularisation du lambeau déchiré). Nettoyer la plaie.
+3.  Suture de cette plaie rigoureusement et soigneusement.
+4.  Compression externe (cf. a6/a7).
+
+### c) L'hémorragie est causée par une lésion osseuse
+
+1.  Procéder à une anesthésie locale.
+2.  Déposer le fragment osseux mobile en le détachant des tissus muqueux.
+3.  Mettre en place une hémostase locale de sécurité.
+4.  Compression externe (cf. a6/a7).
+
+### d) L'hémorragie survient plusieurs heures après l'acte chirurgical
+
+Le patient se présente un peu angoissé. Cette hémorragie peut être due à une infection locale qui a entraîné une dégradation de la qualité du caillot.
+
+1.  Procéder à une anesthésie locale après rinçage de la cavité buccale.
+2.  Nettoyer l'alvéole au sérum physiologique avec une petite seringue, il faut absolument que l'alvéole soit bien propre.
+3.  Mettre en place un hémostatique local (Surgicel®, etc.).
+4.  Faire une compression externe de sécurité et une surveillance de 20 minutes.
+
+## VI. La prescription médicale
+
+Elle est quasiment obligatoire pour éviter tous les problèmes infectieux.
+
+*   Antibiothérapie d'une durée de 5/6 jours. Amoxicilline : 1 g x 24 h ; Rodogyl : 6 comprimés x 24 h en 3 prises. Cette antibiothérapie sera adaptée à l'âge du patient (diminuer les doses pour les enfants).
+*   Antalgique : Paracétamol (aspirine contre-indiquée). Le patient sera revu dans les 24 heures qui suivent pour apprécier la qualité alvéolaire. S'il y a une prescription de bain de bouche, ceux-ci peuvent débuter 24 heures après les soins d'urgence.
+
+Nous insistons sur les points suivants :
+
+*   l'importance de l'interrogatoire du malade quant à ses antécédents médicaux et sur les traitements en cours ;
+*   l'importance de la compression qui va permettre la formation du caillot (capital dans le problème de l'hémorragie) ;
+*   si possible, garder le patient en surveillance pendant 2 heures dans la salle d'attente ou dans une salle de repos ;
+*   attirer l'attention du malade sur le risque non négligeable d'acheter ses médicaments au marché (on ne connaît pas leur qualité). Il faut absolument insister sur la nécessité de connaître la provenance des médicaments ;
+*   utiliser du matériel stérile autant que faire se peut ou au moins du matériel désinfecté qui a été nettoyé dans une solution contenant de l'eau de Javel. Ne jamais utiliser du matériel déjà utilisé. Se laver correctement les mains et si possible, utiliser des gants d'examen.
+
+_Développement et Santé, n°140, avril 1999_

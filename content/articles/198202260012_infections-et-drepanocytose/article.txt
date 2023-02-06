@@ -1,0 +1,169 @@
+Title: Infections et drépanocytose
+
+---- Author: Philippe Reinert
+
+----  
+Datetime: 1982-02-26 00:00
+
+----  
+Text:
+
+La survenue d'infections bactériennes graves, notamment à pneumocoques, est une cause importante de mortalité chez l'enfant atteint de drépanocytose homozygote SS (cf. D.S. n° 7, p. 3). Ce risque paraît considérable entre six mois et cinq ans.
+
+(image: i23-1.jpg)
+
+
+Les principaux facteurs qui augmentent le risque infectieux sont:
+
+**a.** La destruction progressive de la rate qui est, chez l'homme, un lieu important de destruction des germes. Chez le drépanocytaire, les thromboses répétées des petits vaisseaux de la rate entraînent son atrophie.
+
+**b.** Une baisse du complément sérique. Cette substance active normalement la phagocytose des polynucléaires.
+
+Pour améliorer le pronostic de ces enfants, il faut:
+
+**1.** Un diagnostic précoce de la drépanocytose.
+
+**2.** Une appréciation du risque infectieux (taille de la rate).
+
+**3.** Des mesures préventives comme la pénicillinothérapie préventive et la vaccination antipneumococique.
+
+**4.** Une attitude rigoureuse lors des épisodes fébriles.
+
+### **Le risque infectieux**
+
+Chez l'enfant drépanocytaire homozygote, on sait :
+
+• Que la méningite à pneumocoques est 600 fois plus fréquente, la méningite à hémophilus 100 fois plus que chez l'enfant normal.
+
+• Que 25% des drépanocytaires meurent avant cinq ans d'infections!
+
+Les bactéries responsables de cette hécatombe sont :
+
+- le pneumocoque,
+
+- l'hémophilus,
+
+- les salmonelles.
+
+Plus rarement :
+
+- les colibacilles,
+
+- le mycoplasme,
+
+- le streptocoque,
+
+- le méningocoque,
+
+- le straphylocoque.
+
+#### **Quel type d'infection?**
+
+**Septicémies**
+
+Elles sont fréquentes et redoutables car **foudroyantes** avec fièvre élevée, collapsus en quelques heures.
+
+Chez le jeune enfant, il s'agit presque toujours d'un **pneumocoque**. Les septicémies à bacille Gram (- ), notamment à colibacille et à salmonelle (typhoïde) se voient à tout âge.
+
+**Méningites**
+
+Leur fréquence est connue depuis longtemps. Elles surviennent surtout chez le jeune enfant et là encore, le pneumocoque vient en tête devant l'hémophilus. Le risque de récidive est important.
+
+**Ostéomyélites**
+
+Elles aussi très fréquentes, elles sont bien particulières :
+
+• parce que les salmonelles sont très souvent en cause (ce qui est rare chez le sujet sain). Plus rarement il s'agit d'un staphylocoque ou d'un pneumocoque:
+
+• parce qu'elles surviennent à **tout âge** (contrairement aux septicémies et aux méningites) :
+
+• par la difficulté du diagnostic avec les thromboses osseuses: celles-ci entraînent douleur osseuse, oedème des parties molles mais en général pas de fièvre:
+
+• enfin parce qu'il existe souvent plusieurs localisations et que les rechutes sont fréquentes.
+
+#### **Infections pulmonaires**
+
+Plus fréquentes que graves, elles sont provoquées par le pneumocoque et le mycoplasme. Il est quelquefois difficile de différencier infarctus pulmonaire et infection.
+
+#### **Infection et thrombose ****sont souvent associées !!!**
+
+#### **Infections urinaires**
+
+Moins connues, elles sont pourtant fréquentes en particulier au cours de la grossesse. Ces infections se voient à tout âge et s'accompagnent souvent d'hémoculture positive (60%). Les klebsielles sont souvent en cause.
+
+**Rôle aggravant de l'infection**
+
+En plus de leur risque propre, les infections peuvent déclencher des crises d'anémie et des thromboses (pouvant aller jusqu'à l'infarctus). En effet l'hyperthermie, la chute de l'oxygène sanguin, l'acidité du sang (trois phénomènes constants dans les infections graves) fragilisent les globules rouges drépanocytaires qui vont :
+
+- se déformer (falciformation),
+
+- se lyser,
+
+d'où:
+
+- anémie aiguë par hémolyse,
+
+- crise vaso-occlusive.
+
+Chez l'enfant, on considère que 3/4 des crises vaso-occlusives (dont le syndrome pied-main) sont secondaires à une infection.
+
+### **Traitement**
+
+**La prévention est l'idéal**
+
+• **Diagnostic précoce** par NFS et test d'Emmel chez un enfant né dans une famille drépanocytaire.
+
+• **Pénicillinothérapie**
+
+Quelle qu'en soit la forme, injectable ou orale, sa bonne tolérance à long terme est connue si on se réfère à la prévention du rhumatisme articulaire aigu.
+
+Elle diminue de façon significative le risque d'infection à pneumocoque puisque 80% de ces germes sont sensibles à la Pénicilline.
+
+(image: i23-2.jpg)
+
+
+Elle est malheureusement sans effet sur l'hémophilus et les salmonelles.
+
+En cas d'allergie à la Pénicilline, on peut utiliser l' Érythromycine.
+
+• Le vaccin antipneumococcique (Merck Sharp Dohme et Mérieux). Il s'effectue en une seule injection sous-cutanée à partir de l'âge de deux ans avec un rappel tous les cinq ans. Il est dommage qu'il n'immunise pas avant deux ans car on sait la fréquence des septicémies et des méningites à pneumocoque avant cet âge.
+
+**• Bien éduquer les parents est fondamental**
+
+En cas de fièvre, aller vite au centre de santé où examens et traitement antibiotique seront **immédiatement** entrepris.
+
+**Conduite à tenir devant un drépanocytaire fébrile**
+
+• Si la température est modérée, inférieure à 38,5 °C, que l'état général est bon, et que
+
+l'examen clinique est normal (par exemple rhinopharyngite) :
+
+Pénicilline IM (ou Oracilline en doublant les doses).
+
+• Si l'enfant est fatigué et souffre, avec une température supérieure à 38,5 °C:
+
+**Ampicilline**: 200 mg/ kg/ jour IV.
+
+**Gentalline** : 3 mg/ kg/ jour IM.
+
+Et si possible, immédiatement:
+
+- NFS,
+
+- hémoculture,
+
+- radio pulmonaire,
+
+- ponction lombaire si doute.
+
+• Si l'amélioration n'est pas rapide :
+
+- lutter contre la fièvre (Aspirine, Paracétamol),
+
+- **transfuser** 20 cc/ kg en 3 heures (ou Plasma, ou Plasmion),
+
+- **hydrater largement** faire boire +++ ou perfuser du sérum physiologique :
+
+200 cc/ kg/ 24 heures avant cinq ans et 3 l/24 heures chez les sujets plus âgés
+
+_Développement et Santé_

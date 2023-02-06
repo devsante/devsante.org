@@ -1,0 +1,702 @@
+Title: Bilan du programme d'éducation thérapeutique à l'hôpital Calmette après trois ans de suivi et évaluation de son impact sur l'observance
+
+---- Author: Par Dr. Olivier Ségéral Hôpital de jour du Kremlin Bicêtre, service maladies infectieuses, France
+
+----  
+Datetime: 2007-11-12 00:00
+
+----  
+Teaser:
+
+L'observance est le facteur clé du succès des thérapeutiques antirétrovirales (ARV). Cette observance ne peut se maintenir à un niveau élevé qu'avec une autonomisation du patient vis-à-vis de son suivi médical et de ses traitements. Initié en 2003, dès l'arrivée des traitements ARV, le programme d'éducation thérapeutique à Calmette concerne tous les patients sous traitement. Les 300 premiers patients traités sont suivis depuis plus de 3 ans au sein des consultations. Environ 10 % d'entre eux sont décédés ou perdus de vue et parmi les 270 patients restants, l'efficacité virologique est de 70 % à 18 mois et de 90 % à 36 mois (seuil de 400 copies/ml). Nous présentons ici un bilan de trois années d'éducation thérapeutique (profil des patients, problèmes rencontrés lors du suivi et niveau d'acquisition) ainsi qu'une évaluation de l'observance réalisée après au moins 6 mois de suivi.
+
+----  
+Text:
+
+## I. Les patients
+
+L'évaluation a été réalisée chez 272 patients 158 hommes (58 %) et 114 femmes (42 %), âge médian 34 ans (IQR*, 30-39).
+
+### Concernant le mode de vie des patients :
+
+*   158 (58 %) vivent à Phnom-Penh et 114 (42 %) en province,
+*   138 (51 %) vivent en couple, 112 en famille (41 %) et 22 seuls (8 %),
+*   les principales professions sont aucune (21 %), commerçants (17 %), militaires/ policiers (17 %), autres fonctionnaires (15 %), activités libérales en PME (11 %), agriculteurs (7 %) et moto-taxis (6 %).
+
+### L'infection VIH a été découverte en raison :
+
+*   de problèmes de santé pour 169 (62 %) d'entre eux,
+*   d'une infection chez le conjoint pour 60 (22%),
+*   d'un bilan de santé systématique pour 34 (13%)
+*   d'une grossesse pour 9 (3 %).
+
+### Quantre-vingt quatorze pour cent des patients ont parlé de leur infection avec au moins un membre de l'entourage
+
+*   50 % avec la famille seule,
+*   14 % avec le conjoint seul,
+*   36 % avec les deux.
+
+Lorsque l'on interroge les patients sur les changements que l'infection a entraîné dans leur vie quotidienne, les 3 réponses les plus fréquentes sont aucun changement (36 %), diminution des revenus (28 %) et perte de l'avenir (24 %).
+
+Seuls 1/3 des patients avaient déjà été suivis pour leur infection avant l'entrée dans la consultation.
+
+## II. Concernant le programme d'éducation thérapeutique
+
+Le nombre moyen de consultations est de 4.7 (IQR, 3-6) et le nombre de consultations nécessaires pour atteindre les objectifs thérapeutiques de 3.8 (IQR, 3-4).
+
+### Les principaux problèmes rencontrés  
+par les patients lors du suivi sont
+
+*   l'éloignement par rapport à l'hôpital (28 %),
+*   des problèmes financiers (18%),
+*   des symptômes dépressifs (18 %),
+*   le fait de devoir changer de traitement (16 %) et de formes galéniques (8 %),
+*   les effets indésirables (13%),
+*   les horaires de prise (8 %),
+*   des problèmes de communication avec l'entourage ou de discrimination (11 %),
+*   des problèmes d'alcoolisme (2 %).
+
+Un questionnaire d'évaluation portant sur 20 questions abordées lors des séances d'éducation a été proposé aux 272 patients le nombre moyen de bonnes réponses est de 18.5/20 (IQR, 18-20). (_cf. tableau 1_)
+
+## III. Évaluation de l'observance
+
+L'observance a été évaluée chez 285 patients ayant plus de 6 mois de traitement ARV par plusieurs techniques : auto questionnaires, échelle analogique, mesure du volume globulaire moyen (tous les patients étaient soit sous AZT soit sous D4T), concentrations résiduelles plasmatiques d'ARV (INNTI - Inhibiteur non nucleosidique de la transcriptase inverse - et IP - Inhibiteur de la protéase) et PCR** (Polymerase chain reaction) VIH chez les patients naïfs d'ARV avant l'entrée dans la consultation (N=161).
+
+_* Note de l'éditeur_ : InterQuartile Range, l'écart interquartile mesure la dispersion des résultats autour de la médiane, cette dernière partageant les résultats en deux moitiés égales.
+
+_** Note de l'éditeur : PCR = Technique d'amplification du matériel génétique viral qui permet d'en produire de grandes quantités et donc de le mettre en évidence à partir d'une quantité limitée au départ._
+
+**Les résultats sont les suivants :**
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col" valign="top">Population</th>
+
+<th scope="col" valign="top">(N = 285)</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td valign="top">Oubli sur les 4 derniers jours    
+Oui  
+Non</td>
+
+<td valign="top">
+
+6 (2%)  
+279 (98%)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Nombre de cps pris / nombre de cps à prendre  
+100%  
+95%  
+87,5%  
+75%</td>
+
+<td valign="top">
+
+279  
+1  
+4  
+1
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Décalage des horaires > 2 heures sur les 4 derniers jours  
+Oui  
+Non</td>
+
+<td valign="top">
+
+27 (10%)  
+258 (90%)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Erreur de doses sur les 4 derniers jours  
+Oui  
+Non</td>
+
+<td valign="top">
+
+11 (4%)  
+274 (96%)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Oubli sur le dernier week end  
+Oui  
+Non</td>
+
+<td valign="top">
+
+18 (6%)  
+267 (94%)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Oubli sur le dernier mois  
+> 1/semaine  
+< 1/semaine  
+Non</td>
+
+<td valign="top">
+
+0  
+28 (10%)  
+257 (90%)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Echelle analogique (/10)  
+10  
+< 10 Efavirens</td>
+
+<td valign="top">
+
+200 (70%)  
+85 (30%)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Dosages pharmacologiques (ng/ml)  
+> 1000 pour EFV et 3000 pour NVP (Nevirapine)  
+< 1000 pour EFV et 3000 pour NVP</td>
+
+<td valign="top">
+
+263 (94%)  
+17 (6%)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">VGM  
+> 100  
+< 100</td>
+
+<td valign="top">
+
+250 (88%)  
+35 (12%)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">PCR VIH chez patients naïfs (N=161)  
+< ou = 400 copies/ml  
+> 400 copies/ml</td>
+
+<td valign="top">
+
+137 (85%)  
+24 (15%)
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table>
+<caption>Tableau 1 : Questionnaire d'évaluation patient</caption>
+
+<thead>
+
+<tr>
+
+<th scope="col" style="width: 96px;" valign="top">Propositions</th>
+
+<th colspan="2" scope="col" style="width: 67px;" valign="top">Réponse</th>
+
+<th colspan="5" scope="col" valign="top">Degrés de certitude</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="width: 100px;" valign="top"> </td>
+
+<td style="width: 15px;" valign="top">Vrai</td>
+
+<td valign="top">Faux</td>
+
+<td valign="top">Totalementsûr</td>
+
+<td valign="top">Sûr</td>
+
+<td valign="top">Presquesûr</td>
+
+<td valign="top">Pas tout à fait sûr</td>
+
+<td valign="top">Pas du toutsûr</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q1l- Une femme peut transmettre le VIH à son enfant au moment de l'accouchement.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.2- Au moment de l'allaitement  
+par le sein.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.3- En prenant son enfant dans ses bras.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.4- L'utilisation systématique des préservatifs pendant les rapports sexuels empêche la transmission du VtH.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.5- Le VIH peut se transmettre  
+par les moustiques.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.6- Le VIH détruit les défenses  
+de notre corps.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.7- Les maladies qui composent  
+le SIDA sont dues à la baisse  
+de ces défenses.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.8- Les maladies apparaissent  
+la première année de l'infection.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.9- Avec la prise de sang, on dose le taux de CD4 qui est le reflet de nos défenses.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q. 10- On donne le traitement  
+si les CD4 sont bas.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q. 11- Le traitement peut faire remonter les CD4.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.12- Le traitement peut supprimer le VIH de notre corps.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.13- Pour que le traitement marche, il faut qu'il soit pris tous les jours.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q. 14- Si le traitement est mal pris, le VIH s'habitue aux médicaments et ceux-ci ne sont plus efficaces.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q. 15- Quand je prends mon traitement, il n'est pas nécessaire d'utiliser des préservatifs.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q. 16- Si je vomis les médicaments 1 heure après les avoir pris, il faut les reprendre.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q. 17- Si j'oublie mon traitement  
+du matin, il faut que je rattrape  
+la prise du soir.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.18- Si un effet secondaire apparaît, je dois tout arrêter et attendre la prochaine consultation.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q. 19- Si j'ai la diarrhée avec les  
+médicaments, je peux prendre  
+des antidiarrhéiques et boire  
+beaucoup d'eau.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td style="width: 100px;" valign="top">Q.20- Je dois faire attention à conserver mes médicaments à l'abri des enfants.</td>
+
+<td style="width: 15px;" valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+<td valign="top"> </td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+_Développement et Santé, n°187, 2007_

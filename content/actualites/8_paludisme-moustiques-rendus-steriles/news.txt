@@ -1,0 +1,31 @@
+Title: Paludisme : moustiques rendus stériles
+
+----  
+Datetime: 2011-09-08 00:00
+
+----  
+Text:
+
+Rendre les moustiques mâles stériles : des succès constatés.
+
+Un article récent annonce en effet des succès dans ce domaine.
+
+Cette stratégie de lutte biologique a déjà été étudiée et utilisée. Elle s’est révélée efficace dans la lutte contre les mouches qui détruisent les cultures d’agrumes aux USA.
+
+## Rappel du principe
+
+Le paludisme se transmet par la piqûre des femelles de certaines espèces d’anophèles. Diminuer la population de ces vecteurs est donc nécessaire pour lutter contre le paludisme.  
+Les anophèles, comme de nombreux arthropodes, ne s’accouplent qu’une seule fois dans leur vie. Il est connu que si l’accouplement est stérile il n’y a pas de développement d’œufs donc de descendance dans ce couple de vecteurs. Il a donc été imaginé de stériliser des mâles et de les relâcher dans la nature pour abaisser la fécondité des espèces concernées.
+
+## L’étude rapportée
+
+Des chercheurs de l’Imperial College de Londres ont découvert un moyen de rendre stériles les mâles grâce à des manipulations génétiques. Les chercheurs ont ensuite constaté que cela n’empêchait pas ces derniers de s’accoupler avec des femelles, qui ensuite étant persuadées d’avoir été fécondées refusaient donc toute nouvelle insémination. Les œufs produits par ces dernières n'étant plus fécondés il n’y a pas de descendance pour cette femelle, cette méthode pourrait permettre de réduire le nombre de moustiques à la génération suivante.
+
+## Commentaires
+
+Cette technique donne des résultats satisfaisants contre la mouche de l’oranger, elle est utilisée en masse au sud des USA.  
+La technique a été étudiée à Bobo Dioulasso pour les glossines (tsé tsé) vectrices de la maladie du sommeil, où fut mis au point le mode d'emploi de cette technique sur le terrain, puis en Tanzanie (dans un ranch et sur l'île Unguja à Zanzibar), puis au Nigéria (Vom). Actuellement, se met en place un projet d'élimination de G.p.gambiensis au Sénégal. Pour les glossines c’est une méthode qui marche ; elle est onéreuse et réservée à des situations d'isolement géographique des glossines pour éviter les réinvasions qui anéantissent un projet et à des pays stables pour assurer une planification dans le long terme. De plus, il faut absolument faire baisser les densités de glossines par des méthodes classiques (insecticides rémanents et piégeage) avant tout lâcher de mâles stériles.
+
+La méthode des moustiques mâles rendus stériles demande encore de nombreux essais avant d’être utilisable et surtout accessible et faisable.
+
+_J Tahailayil and F Catteruccia in Proceedings of the National Academy of Sciences_

@@ -1,0 +1,387 @@
+Title: Autres vaccins hors PEV
+
+---- Author: Par Micheline Amzallag*, Allégra Brami*, Pierre Saliou** *Pédiatre, Créteil, France. **Vaccinologue, GISPE.
+
+----  
+Datetime: 2009-04-29 00:00
+
+----  
+Text:
+
+## I. La fièvre typhoïde
+
+La fièvre typhoïde est une maladie due à une bactérie, Salmonella typhi, la seule à être pathogène uniquement pour l'homme. Elle provoque souvent une infection généralisée grave.
+
+### 1. Mode de transmission
+
+La contamination se fait le plus souvent par des aliments souillés par les fèces ou les urines de personnes porteuses du germe (malade ou porteur sain) : c'est une "maladie des mains sales".  
+La létalité est de 16 % en l'absence de traitement, mais de 1 % si le malade bénéficie d'une antibiothérapie adaptée. Parmi les sujets infectés, 2 à 5 % deviennent des porteurs chroniques (avec présence de la bactérie dans les selles pendant parfois plusieurs années).  
+Le risque de présenter une forme grave de la maladie est plus élevé chez les sujets immunodéprimés (VIH, drépanocytose...) et chez les malades ayant une acidité gastrique réduite.  
+Actuellement, on observe l'émergence de souches résistantes aux antibiotiques usuels (sous-continent indien).
+
+### 2. Epidémiologie
+
+Les zones d'endémie sont : l'Afrique (sauf l'Afrique du sud), l'Asie (sauf Singapour et le Japon), le Proche-Orient (sauf Israël et le Koweït), l'Amérique centrale et du sud, Haïti et la République Dominicaine.  
+La fièvre typhoïde est une maladie du jeune (entre 5 et 19 ans), et son incidence est variable selon les pays. Les taux de mortalité et de morbidité sont élevés avant l'âge de 5 ans pour les raisons suivantes :
+
+*   réponse immunitaire variable selon l'âge,
+*   immunogénicité faible avant l'âge de 2 ans,
+*   sous-déclaration des cas,
+*   formes atypiques et moins sévères ne faisant pas évoquer le diagnostic.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>Dans tous les cas, la première protection contre la fièvre typhoïde n'est pas l'immunisation par le vaccin mais les mesures de précaution permettant de réduire le risque fécal et la contamination de l'eau.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Dans les pays industrialisés, l'incidence est faible du fait de la qualité de l'eau et du traitement des eaux usées.  
+La vaccination n'assure qu'une protection de 50 à 55 % et n'empêche pas la maladie en cas d'ingestion d'une quantité importante de germes.
+
+### 3. Les vaccins
+
+_Vaccins polysaccharidiques capsulaires_  
+Solution injectable de l'antigène Vi préparé à partir du polysaccharide capsulaire de la souche TY2 de _Salmonella typhi_.  
+Vaccin combiné.  
+Vaccin conte la fièvre typhoïde et l'hépatite A, en seringue unidose à 2 compartiments.  
+Vaccin vivant atténué oral.
+
+#### Efficacité et immunogénicité
+
+**1. Vaccins polysaccharidiques**  
+La production d'anticorps spécifiques est de 93 % chez les adultes sains, avec une bonne corrélation entre la réponse sérologique et la protection immunitaire. Aucune étude n'a été réalisée chez les enfants de moins de 5 ans. L'immunité induite par le vaccin dure environ 3 ans.
+
+**2. Vaccin oral (très peu utilisé dans le monde)**  
+Il induit une réponse immunitaire à médiation cellulaire, avec production d'anticorps sécrétoires et humoraux. II n'y a pas de transmission secondaire de la souche vaccinale clans les selles. Le vaccin oral est moins efficace chez les enfants de 5 à 9 ans que chez les sujets plus âgés. La protection dure de 3 à 4 ans, en réalité probablement davantage.  
+On ne connaît pas l'efficacité d'une vaccination parentérale préalable.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>Type  
+de vaccin</td>
+
+<td style="width: 69px;">Mode  
+d'adminis-tration</td>
+
+<td style="width: 105px;">Schéma  
+vaccinal</td>
+
+<td style="width: 74px;">Interactions</td>
+
+<td style="width: 105px;">Age</td>
+
+</tr>
+
+<tr>
+
+<td>Polysaccharidique</td>
+
+<td style="width: 69px;">IM</td>
+
+<td style="width: 105px;">Une dose tous  
+les 3 ans</td>
+
+<td style="width: 74px;">Aucune</td>
+
+<td style="width: 105px;">> 2 ans</td>
+
+</tr>
+
+<tr>
+
+<td>Polysaccharidique  
++ hépatite A</td>
+
+<td style="width: 69px;">IM</td>
+
+<td style="width: 105px;">Une dose  
+Rappel hépatite A entre 6 mois et 1 an</td>
+
+<td style="width: 74px;">Aucune</td>
+
+<td style="width: 105px;">> 16 ans</td>
+
+</tr>
+
+<tr>
+
+<td>Vivant atténué</td>
+
+<td style="width: 69px;">Oral</td>
+
+<td style="width: 105px;">1 jour sur 2 ou (3 doses sachets, 4 doses gélules</td>
+
+<td style="width: 74px;">
+
+Antipaludéens  
+Antibiotiques  
+(v. ci-dessous)
+
+</td>
+
+<td style="width: 105px;">
+
+> 3 ans si sachets
+
+> 5 ans si gélules
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+#### Indications
+
+La vaccination n'est pas systématiquement recommandée à tous, elle l'est en cas de voyage ou de travail en zone d'endémie et pour les proches d'un sujet atteint.  
+**Les mesures d'hygiène restent les principaux moyens de prévention.**
+
+#### Mode d'administration
+
+Les gélules sont administrées à partir de l'âge de 5 ans : 1 gélule un jour sur deux, quatre fois de suite, mélangée avec la solution tampon dans un liquide à moins de 37° C (pas de lait ni de boisson gazeuse).  
+Les sachets sont utilisés à partir de l'âge de 3 ans :  
+1 sachet un jour sur deux, 3 fois de suite. Mélanger pendant 5 à 10 minutes puis avaler à jeun, une heure avant le repas. Attendre 48 heures après une prise d'antibiotique. Le vaccin est inactivé par les antipaludéens (mefloquine, chloroquine et proguanil), il faut respecter un intervalle d'au moins 8 heures entre l'administration de chacun d'entre eux, l'idéal étant de commencer par le vaccin oral.
+
+####   
+**Contre-indications**
+
+Le vaccin oral est contre-indiqué en cas de troubles de la phagocytose, chez l'immunodéprimé(VIH) et en cas de diminution de l'acidité gastrique (médi-caments anti-acides).
+
+## II. Vaccination antirubéole
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td style="width: 587px;">
+
+La rubéole est une maladie virale dont la gravité est liée à sa survenue en début de grossesse chez une femme non immunisée.  
+Dans la grande majorité des cas, l'infection est bénigne, se manifestant par une éruption, une fièvre modérée, des adénopathies occipitales, des arthralgies.
+
+Dans 20 à 50 % des cas, la maladie est infraclinique.  
+La survenue d'une rubéole dans les 8 à 10 premières semaines de grossesse peut entraîner un avortement spontané ou un syndrome de rubéole congénitale, caractérisé par des malformations multiples, avec lésions ophtalmiques, auditives, cardiaques, et microcéphalie. On estime que 100 000 cas surviennent chaque année dans les pays en développement.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+La vaccination antirubéoleuse est intégrée dans le calendrier vaccinal de nombreux pays, qui ont fait le choix de contrôler la maladie par la vaccination universelle des nourrissons associée à la vaccination systématique des femmes en âge de procréer non immunisées.
+
+Pour parvenir à une élimination de la rubéole, une couverture vaccinale d'au moins 80 % est nécessaire, une vaccination insuffisante de la population risquant de se solder par une augmentation du nombre de femmes en âge de procréer sensibles à l'infection.  
+Dans les pays où l'élimination totale de la maladie n'est pas â Pôi-dre du jour, l'objectif est de prévenir la survenue d'une rubéole congénitale grâce à la vaccination des jeunes filles et des femmes en âge de procréer.
+
+### Les vaccins
+
+Ce sont des vaccins monovalents ou combinés aux vaccins antirougeoleux et/ou anti-ourlien.  
+La plupart des vaccins utilisent la souche RA27/3 du virus vivant atténué.  
+Le vaccin est recommandé à partir de 12 mois et peut être administré à partir de 9 mois en collectivité, le plus souvent en association avec le vaccin antirougeoleux et anti-ourlien.  
+Quand la première dose est administrée à 12 mois, une deuxième est injectée entre 13 et 24 mois, avec un délai d'au moins un mois entre les deux injections.  
+Si la première dose est injectée à 9 mois, la deuxième injection doit être faite entre 12 et 15 mois.  
+Si la vaccination antirubéoleuse n'a pas été réalisée selon ce schéma, elle peut l'être plus tard, notamment en profitant de la deuxième injection du vaccin antirougeoleux pour associer la vaccination antirubéole.
+
+#### Chez la femme en âge de procréer
+
+*   Le vaccin est contre-indiqué en cas de grossesse en raison d'un risque tératogène théorique.
+*   Il faudra éviter une grossesse dans les deux mois qui suivent la vaccination.
+*   La vaccination doit être systématique immédiatement après l'accouchement chez une femme non immunisée ou dont le statut immunitaire vis-à-vis de la rubéole serait inconnu.
+
+## III. Vaccination contre la grippe
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>La vaccination antigrippale saisonnière n'est pas encore une priorité en Afrique. Pourtant, les virus grippaux circulent sur le continent africain, mais la surveillance épidémiologique est encore insuffisante pour juger de l'incidence exacte de la maladie grippale et de son impact sur la santé publique. Cependant, le retentissement planétaire de la récente pandémie qui représente un danger potentiel pour toute la population mondiale fait qu'il n'est pas possible de passer sous silence la prophylaxie vaccinale de la grippe.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Ce qu'il faut comprendre :
+
+### 1. La maladie
+
+La grippe est une maladie virale aiguë très contagieuse des voies respiratoires dont la période d'incubation courte (24 à 48 heures) est suivie d'une phase d'invasion très brutale : fièvre, céphalées, myalgies accompagnées de signes respiratoires (rhinorrhée, toux importante).  
+La guérison survient au bout de quelques jours. Rarement, à tout âge, la grippe se manifeste par une pneumonie maligne gravissime. Chez les personnes âgées et débilitées, elle fait le lit de complications pulmonaires bactériennes pouvant entraîner la mort.
+
+### 2. Les virus responsables
+
+Il existe 2 types principaux (A et B) (le Myxovirus influenzae. Le type B ne donne lieu qu'à de petites épidémies localisées. Le type A, en revanche, est très épidémiogène.  
+Deux antigènes majeurs de surface, à l'origine d'anticorps protecteurs, sont à connaître : l'hémaglutinine (H) et la neuraminidase (N) dont la caractéristique essentielle est leur propension à muter. Les virus A et 13 sont constamment sujets à des "glissements" antigéniques : mutations ponctuelles au niveau du génome qui n'entraînent que de petites variations sans grande conséquence sur l'immunité (un sujet possédant des anticorps contre le virus antérieur est encore protégé presque parfaiteinent contre le nouveau virus).  
+Le virus A peut en plus subir des "cassures" antigéniques. Il s'agit d'un échange de tout un segment du génome codant pour H ou/et N avec un seg-ment (ou deux) d'un virus aviaire (recombinaison génétique se faisant habituellement chez le porc, sensible aux virus humains et aviaires), donnant naissance à un nouveau virus pour lequel l'homme est totalement réceptif. Ce nouveau virus sera à l'origine d'une pandémie.
+
+Historiquement, 3 cassures antigéniques sont connues, à l'origine de 3 pandémies :
+
+*   Grippe espagnole 1918 :      H1N1
+*   Grippe asiatique 1958 :        H2N2
+*   Grippe de Hong Kong 1968:  H3N2
+
+### 3. Epidémiologie
+
+Les épidémies de grippe surviennent chaque année, à une intensité plus ou moins forte pendant les mois d'hiver tant dans l'hémisphère nord (de novembre à février) que dans l'hémisphère sud (de juin à septembre). En période inter-épidémique, le virus continue à circuler à bas bruit dans les zones intertropicales.  
+La surveillance épidémiologique de la maladie, sous l'égide de l'OMS, est capitale en particulier pour isoler le maximum de souches virales afin de mettre en évidence les glissements antigéniques des virus qui permettront d'actualiser les vaccins. Par ailleurs, cette surveillance permettra aussi de saisir le début d'une éventuelle nouvelle pandémie.
+
+### 4. Les vaccins saisonniers
+
+Les vaccins antigrippaux sont des vaccins inactivés constitués de virions fragmentés pour une meilleure présentation des antigènes de surface H et N au système immunitaire, ou uniquement de ces antigènes H et N (vaccins sous-unitaires). Les 2 types de vaccins ont la même efficacité et le même profil de tolérance.  
+Ils contiennent 3 souches virales (type B, sous¬types H1N1 et H3N2).  
+Leur durée de protection n'excède pas un an, ce qui oblige à une revaccination annuelle en automne. Le vaccin s'administre en une seule injection. Chaque année, la composition du vaccin est mise à jour par l'OMS en fonction de la surveillance épidémiologique afin d'y inclure les souches mutantes circulantes.  
+Dans les pays développés, la politique de santé publique est d'éviter la surmortalité des personnes âgées et fragilisées due à la grippe. En général, la vaécination est offerte aux sujets de plus de 65 ans et à ceux présentant des affections de longue durée, en particulier la drépanocytose.  
+Le vaccin est encore trop sous-utilisé chez les jeunes enfants qui peuvent aussi être victimes de la grippe.
+
+### 5. La grippe pandémique de 2009
+
+Un nouveau virus grippal du sous-type H1N1 a fait son apparition au Mexique en avril 2009 et, quasiment au même moment, en Californie. Il provient très vraisemblablement d'un réassortiment génétique de plusieurs souches virales porcines du sous-type A(H1N1) chez le porc.  
+Ce nouveau virus ne résulte donc pas d'une "cassure"  
+antigénique comme lors des précédentes pandémies. Mais les souches porcines H1N1 sont très éloignées des souches humaines et le degré de la protection conférée par une infection antérieure à sous-type H1N1 humain ou par vaccination est très faible.  
+Ce virus H1N1 2009, puisque tel est son nom, s'est donc propagé sur toute la surface du globe à tel point que l'OMS a décrété le niveau d'alerte maximale de pandémie.  
+Heureusement, si le nombre de sujets infectés a été très important, l'agressivité du virus n'a pas été celle que l'on redoutait.  
+Des vaccins spécifiques ont été préparés en urgence. Essentiellement du fait du manque de gravité de l'épidémie, ils n'ont pas rencontré le succès escompté dans certains pays, en particulier en France. Actuellement, le virus est "rentré dans le rang", mais il n'a pas disparu et réapparaîtra certainement lors des prochaines saisons épidémiques. C'est la raison pour laquelle l'OMS a recommandé son inclusion dans les prochains vaccins saisonniers trivalents. Des dispositions sont également prises pour distribuer des vaccins dans les pays en développement si des épidémies importantes survenaient.
+
+## IV. Vaccination contre l'hépatite A
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>L'hépatite A est une infection hépatique provoquée par le virus de l'hépatite A (VHA), dont l'évolution, le plus souvent béniqne, peut être grave.  
+Sauf cas particulier (affection hépatique chronique), ce vaccin n'est pas justifié à titre systématique en Afrique.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### 1. Épidémiologie
+
+La répartition de la maladie peut se subdiviser en 3 zones géographiques :
+
+#### Zone présentant un taux élevé d'hépatite A
+
+Elle se situe dans les pays en développement où les conditions sanitaires et l'hygiène sont médiocres (Afrique sub-saharienne, MoyenOrient, états de l'ex-URSS, sous-continent indien, Chine et Amérique centrale). Le risque de contracter une hépatite A au cours de la vie est de 90 %, le plus souvent au cours de la petite enfance.  
+L'infection est généralement asymptomatique, les épidémies sont peu fréquentes car les enfants plus âgés et les adultes sont immunisés. Le taux de morbidité est faible, les flambées sont rares. C'est pourquoi le vaccin n'a pas d'intérêt sauf pour les patients atteints d'affection hépatique chronique.
+
+#### Zone intermédiaire
+
+Elle comporte les pays où émerge une population adulte réceptive à l'infection, surtout en milieu urbain. Grâce à l'amélioration des conditions sanitaires, les enfants échappent à l'infection. De grandes flambées peuvent se déclarer avec un taux de morbidité plus élevé car la maladie atteint des sujets plus âgés.
+
+#### Zone présentant un taux faible
+
+Ce sont les pays développés, où la maladie atteint les adolescents et les adultes à risques (toxicomanes, population précaire, personnes se rendant dans des zones à risque, sectes).
+
+### 2. Transmission
+
+Le mode de transmission essentiel découle du péril oro-fécal : une personne non infectée ou non vaccinée boit ou mange un produit qui a été contaminé par les fèces d'un sujet infecté par le VHA. Cette maladie est étroitement associée à un assainissement insuffisant et à une mauvaise hygiène individuelle (maladie des mains sales).  
+La transmission par l'eau est possible mais plus rare, et s'observe lorsque l'eau est contaminée par des eaux usées ou insuffisamment assainies.  
+La transmission par voie sanguine est possible mais rare.
+
+### 3. Clinique
+
+L'incubation dure de 15 à 50 jours, en moyenne 30 jours.  
+Avant l'âge de 6 ans, la maladie est généralement asymptomatique.  
+Chez l'adulte, elle est marquée dans 70% des cas par un ictère cutanéo-muqueux franc, régressif en 10 à 20 jours.  
+L'évolution est généralement favorable mais entraîne souvent une asthénie prolongée. Dans 15 % des cas, elle est prolongée et dure plusieurs semaines ou mois.  
+Dans 1 à 2 % des cas, les rechutes sont possibles après guérison complète ; parfois on observe seulement une rémission partielle.  
+Le risque de formes fulminantes augmente avec l'âge, c'est ce qui fait la gravité potentielle de cette maladie, le seul traitement étant alors la greffe hépatique.  
+Dans les autres cas, le traitement est exclusivement symptomatique.
+
+### 4. Diagnostic positif
+
+Il repose sur la détection dans le sang de la présence des IgM spécifiques anti-VHA, témoignant d'une infection récente, recherchées par technique ELISA.  
+Les IgM apparaissent lorsque les transaminases ALAT sont à leur pic, en début d'ictère et disparaissent en quelques mois. Les IgG anti-VHA apparaissent à la phase aiguë et restent présentes toute la vie.
+
+### 5. Vaccination
+
+Il s'agit de vaccins entiers inactivés contre le virus de l'hépatite A.  
+Il existe également un vaccin combiné à celui contre l'hépatite B, et un autre combiné au vaccin contre la fièvre typhoïde. La vaccination protège pendant plusieurs décennies.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td style="width: 94px;">Maladie</td>
+
+<td style="width: 58px;">Adulte</td>
+
+<td style="width: 95px;">Enfant</td>
+
+<td style="width: 200px;">Schéma vaccinal</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 94px;">Hépatite A</td>
+
+<td class="rtecenter" style="width: 58px;">1 440 UI</td>
+
+<td style="width: 95px;">720 UI</td>
+
+<td style="width: 200px;">M 0 + M 6 à M 12</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 94px;">Hépatite A +  
+Hépatite B</td>
+
+<td class="rtecenter" style="width: 58px;">Forme  
+adulte</td>
+
+<td style="width: 95px;">Forme  
+enfant</td>
+
+<td style="width: 200px;">M 0 + M 2 + M 6 à M 12</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 94px;">Hépatite A +  
+fièvre typhoïde</td>
+
+<td style="width: 58px;"> </td>
+
+<td style="width: 95px;"> </td>
+
+<td style="width: 200px;">Protection à J 14 après M 0  
+Rappel hépatite A de M 6 à M 12  
+(refaire une injection si le risque de fièvre typhoïde persiste</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Développement et santé, n°195, 2009
