@@ -71,9 +71,11 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
             "teaser" => $page->teaser()->value(),
           ];
           $frontmatter = arrayToFrontmatter($frontmatterFields);
-          $text = kirbytextTableOpenToMarkdown(
-            kirbytextTableCloseToMarkdown(
-              kirbytextImageToMarkdown($page->text()->value())
+          $text = kirbytextNewlineToMarkdown(
+            kirbytextTableOpenToMarkdown(
+              kirbytextTableCloseToMarkdown(
+                kirbytextImageToMarkdown($page->text()->value())
+              )
             )
           );
           $page_path = "{$page->parent()->slug()}/{$page->slug()}";
@@ -122,6 +124,17 @@ function kirbytextImageToMarkdown($kirbytext)
     // non-breaking spaces as well as regular spaces, but not newlines.
     "/[^\S\r\n]*\(image:\s*(.*?)\)/u",
     '![]($1)',
+    $kirbytext
+  );
+}
+
+function kirbytextNewlineToMarkdown($kirbytext)
+{
+  return preg_replace(
+    // add two spaces at the end a line to force a newline in markdown (handled
+    // previously by kirbytext)
+    "/\. ?\n([^\n])/",
+    ".  \n$1",
     $kirbytext
   );
 }
