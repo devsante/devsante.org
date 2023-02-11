@@ -10,7 +10,7 @@ Generating the static archive is a two-step process:
 
 - _only during the transition phase, until devsante.org serves the static archive_ `yarn refresh`: retrieve source content from production
 - `yarn export-archive`: transform source kirby-flavoured markdown (`content/articles`, `content/actualites`) into standard markdown (`archive/articles`, `archive/actualites`)
-- `cd archive; yarn build`: build static archive (`\_book`). This takes about 1h, and doesn't give any progress update.
+- `yarn build-archive`: build static archive (`\_book`). This takes about 1h, and doesn't give any progress update.
 
 Content updates should be made to the `content/articles` and `content/actualites` folders.
 
