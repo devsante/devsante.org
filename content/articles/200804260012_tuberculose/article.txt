@@ -1,0 +1,123 @@
+Title: Tuberculose
+
+---- Author: Philippe Reinert, pédiatre, hôpital intercommunal, Créteil, France.
+
+----  
+Datetime: 2008-04-26 00:00
+
+----  
+Teaser:
+
+L'OMS estime que 8 à 10 millions de nouveaux cas de tuberculose surviennent chaque année dans le monde. Elle provoque 2 millions de décès dont 300 000 enfants. Près de 60 % de ces cas surviennent en Afrique dont 20 à 25 % chez l'enfant. Depuis la dernière décennie, on observe une augmentation de la fréquence la tuberculose en Afrique, due à la dégradation de la situation socio-économique, à la dénutrition, aux guerres, au VIH et aux défaillances de certains programmes nationaux antituberculeux.
+
+----  
+Text:
+
+## **I. Bases fondamentales**
+
+La tuberculose est une maladie bactérienne, contagieuse, essentiellement par voie aérienne. Elle se transmet d'homme à homme. L'agent responsable est le _Mycobactérium tuberculosis_ ou bacille de KOCH, appelé BK. Si cette maladie demeure un des grands fléaux de l'humanité, alors que nous disposons de médicaments efficaces, c'est qu'elle est parti­culièrement grave chez le sujet immuno­déprimé par la dénutrition et/ou par le VIH. De plus, à la différence des autres infections bactériennes, le traitement, pour être efficace, doit être prolongé plusieurs mois. On com­prend donc pourquoi l'observance est souvent difficile, en particulier chez le malade en état de précarité socio-économique, provoquant ainsi souvent des résultats insuffisants.
+
+### Le bacille de KOCH
+
+Le BK fait partie de la famille des mycobactéries (bacilles acido-alcoolo résistants ou BAAR) : il est de loin le principal responsable de la tuberculose humaine. _Mycobacterium africa­num_ se rencontre en Afrique de l'ouest ; il entraîne lui aussi une tuberculose, mais sa sensibilité aux anti-tuberculeux est différente du BK. Mycobacterium bouis est responsable des tuberculoses des bovidés : l'homme peut se contaminer par le lait non pasteurisé ou non bouilli : la maladie induite est ici beaucoup moins grave que celle provoquée par le BK. Ces 3 espèces de mycobactéries constituent les mycobactéries tuberculeuses.
+
+Les autres mycobactéries sont dites atypiques : elles peuvent provoquer des lésions proches de la tuberculose, peu graves sauf chez le sujet immunodéprimé (SIDA). Toutes ces mycobactéries sont aérobies et se multiplient lentement (20 heures en moyen­ne). Le poumon constitue un milieu de culture idéal, car richement oxygéné, à 37°, et à l'obscurité ! En effet, le BK est rapidement détruit par la lumière et en particulier les rayons ultraviolets du soleil.
+
+## II. Histoire naturelle de la tuberculose
+
+Le BK a pour réservoir essentiel l'homme malade. C'est presque toujours le poumon, et plus précisément la caverne pulmonaire : ainsi, une caverne de 2 cm de diamètre contient environ 100 millions de BK. Au moment où un malade porteur d'une caverne parle, tousse ou éternue, il disperse autour de lui un aérosol de gouttelettes de sécrétions bronchiques muco­purulentes contenant des BK. Le nombre de gouttelettes infectantes est très élevé : un effort de toux émet environ 3 500 gouttelettes, un éternuement 1 million. Ces gouttelettes restent en suspension dans l'air et peuvent contenir des BK vivants pendant plusieurs heures dans l'obscurité. Le risque de contagion est d'autant plus important que le contact est étroit et que les lésions pulmonaires du malade sont éten­dues. Enfin, plus l'enfant est jeune, plus le risque est grand d'être contaminé.
+
+### 1. Tuberculose - infection
+
+Quand les BK pénètrent dans les voies aériennes d'un sujet sain, ils gagnent les alvéoles pulmonaires où ils sont phagocytés par les macrophages, dans lesquels ils se multiplient. Ces macrophages gagnent les ganglions lymphatiques voisins. A l'intérieur de ces ganglions les lymphocytes T identifient les antigènes du BK et se transforment en lymphocytes T spécifiques. Ceux-ci libèrent alors des lymphokines qui vont activer macro­phages et lymphocytes capables chez la majo­rité des sujets de détruire ou d'inhiber la multiplication des BK. Au niveau de ce foyer initial se produit une réaction inflammatoire puis un tissu cicatriciel fibreux.
+
+Au niveau du ganglion infecté, se produit aussi une réaction fibreuse et souvent une calcifica­tion définitive, véritable témoin de la primo­infection, bien visible sur la radiogYaphie pulmonaire standard. Dans tout l'organisme vont persister des lymphocytes mémoires "tueurs de BK".
+
+Cette primo-infection simple est appelée maintenant Tuberculose infection par opposi­tion à Tuberculose maladie. Elle peut s'accom­pagner de fièvre, de fatigue, ou parfois d'un érythème noueux.
+
+### 2. Tuberculose maladie
+
+Différentes causes susceptibles de diminuer les défenses immunitaires du sujet vont entraîner une diffusion de l'infection.
+
+Schématiquement, cette diffusion survient dans 3 situations :
+
+*   d'emblée, c'est le plus souvent le cas chez le nourrisson et l'enfant,
+*   secondairement : c'est le réveil de la primo­infection ou réactivation endogène,
+*   ou une nouvelle contamination survenant des mois ou des années plus tard à partir d'un autre tuberculeux ; c'est en général le cas chez l'adulte.
+
+Les localisations de la tuberculose maladie sont multiples : avant tout pulmonaires, mais aussi méningées, pleurales, péricardiques, osseuses, génitales,
+
+#### a) Dissémination de la tuberculose initiale
+
+La diffusion bacillaire peut se faire dans tous les organes, en quelques semaines en cas de contamination massive, chez le nourrisson et le sujet dénutri.
+
+**Deux atteintes sont à redouter :**
+
+*   la tuberculose miliaire pulmonaire,
+*   la méningite tuberculeuse.
+
+La **miliaire pulmonaire** se caractérise par une atteinte diffuse, d'origine hématogène des poumons réalisant un grand nombre de petits nodules en "grain de mil" plus ou moins visibles sur la radiographie : l'atteinte de l'état général est constante avec fièvre, amaigrissement, asthénie, sueurs nocturnes et surtout polypnée et dyspnée inexpliquées (pas de toux, pas de crachats et auscultation pulmonaire normale). Le diagnostic est donc difficile si l'on a pas la notion de tuberculose dans l'entourage proche. C'est une urgence : seul un traitement rapide évitera une évolu­tion fatale.
+
+La **méningite tuberculeuse**, quelquefois associée à la miliaire pulmonaire s'installe progressivement, avec des céphalées, des troubles de l'humeur, une fièvre élevée, puis c'est le tableau clinique d'une méningite ; vomissements, raideur de la nuque, photo­phobie et torpeur progressive. Seule la para­lysie des nerfs oculomoteurs avec strabisme et ptôsis, est plus spécifique de la tuberculose. C'est aussi une urgence : la ponction lom­baire ramène un liquide clair riche en lym­phocytes (donc bien différent des autres méningites bactériennes). Sans traitement, l'évolution est fatale.
+
+Méningite et miliaire sont les deux seules formes prévenues par le BCG. La pleurésie sérofibrineuse est une autre mani­festation précoce moins grave.
+
+#### b) Atteintes tardives
+
+C'est heureusement la situation la plus fré­quente, et dans 90 % des cas il s'agit d'une tuberculose pulmonaire. Des mois ou des années après la primo-infection, surviennent de façon aiguë ou progressive :
+
+*   une toux productive, persistante, inexpliquée ;
+*   des hémoptysies ;
+*   ou plus simplement, une infection pulmonaire, résistant aux antibiotiques standards.
+
+**En pratique :**
+
+*   Une toux qui persiste plus de quinze jours avec crachats muqueux ou légèrement puru­lents,
+*   l'existence de fièvre, de sueurs nocturnes, doivent faire penser à la tuberculose et faire pratiquer une recherche systématique de BAAR dans les crachats.
+
+Pour l'OMS, la radiographie pulmonaire est de moindre intérêt.
+
+Nous ne détaillerons pas ici les multiples types de lésions pulmonaires : d'une façon générale ces lésions aboutissent à la formation d'une caverne qui fait toute la contagiosité de la maladie. Sans traitement, la destruction du parenchyme pulmonaire et la fibrose peuvent conduire à une insuffisance respiratoire.
+
+### 3. Localisations extra-pulmonaires
+
+Elles sont d'un intérêt secondaire car, en géné­ral, moins graves et peu contagieuses ; mais elles sont plus fréquentes chez le sujet VIH+.
+
+#### Tuberculose des ganglions périphériques
+
+Survenant quelques mois après la primo-infec­tion, elle est fréquente en Afrique en particu­lier chez l'enfant, touchant presque toujours les ganglions cervicaux. Ceux-ci sont au début fermes puis évoluent vers la fistulisation : peu ou pas douloureux (à la différence des adénites bactériennes), ils ont le mérite de permettre rapidement le diagnostic de tuberculose (par ponction).
+
+#### a) Pleurésie sérofibrineuse
+
+L'épanchement pleural peut être primitif, quelques mois après la primo-infection ou secondaire à une lésion pulmonaire sous jacente. La ponction pleurale ramène un liqui­de jaune citrin, riche en albumine, avec une lymphocytose franche. On y isole rarement des BK à l'examen direct. Le diagnostic de l'origine tuberculeuse, en cas de pleurésie isolée, n'est donc pas toujours facile. Par contre le pronostic de ces pleurésies est bon.
+
+#### b) Tuberculose péritonéale
+
+Elle revêt deux aspects :
+
+*   l'ascite tuberculeuse simple, sans signes cliniques spécifiques, de mécanisme iden­tique à la pleurésie : la ponction ramène un liquide citrin identique ;
+*   la péritonite tuberculeuse, résultant de la rupture dans le péritoine d'adénopathies rétro-péritonéales ou mésentériques : elle survient tardivement et s'accompagne de signes cliniques importants : douleurs abdo­minales, subocclusion, atteinte de l'état général, souvent contracture abdominale localisée.
+
+#### c) Tuberculose des os et des articulations
+
+Manifestations tardives de la primo-infection (en moyenne 2 à 3 ans plus tard) ou dues à une réinfection, elles sont graves par les conséquences neurologiques et orthopédiques qu'elles entraînent, d'autant qu'elles se ren­contrent surtout chez l'enfant et l'adolescent sur des os en pleine croissance.
+
+Tuberculose de la colonne vertébrale, ou mal de Pott : son principal risque est une com­pression médullaire entrainant une paraplégie. Les atteintes articulaires concernent les grosses articulations : hanche, coude, genou. Le plus souvent une seule articulation est touchée. La discrétion des signes inflamma­toires permet de faire facilement le diagnostic de tuberculose.
+
+#### d) Tuberculose génito-urinaire
+
+Rare chez l'enfant, elle survient 5 à 15 ans après la primo-infection :
+
+*   **Tuberculose rénale**  
+    Unilatérales, les lésions débutent à la partie externe du rein, pour ensuite créer des cavités dans tout le parenchyme. Elle s'étend ensuite aux uretères provoquant des fibroses, pouvant aboutir à la destruction totale du rein par hydronéphrose. On doit y penser devant tout signe urinaire chronique.
+*   **Tuberculose génitale**
+    *   Chez la femme, elle atteint l'endomètre et les trompes, entraînant des douleurs pelviennes et des troubles du cycle menstruel. La complication majeure est la stérilité.
+    *   Chez l'homme, l'affection se manifeste par une grosseur anormale au niveau du testi­cule, sensible à la palpation, mais non dou­loureuse. Dans 50 % des cas une tubercu­lose rénale est associée.
+
+**Au total**, on constate que la tuberculose peut revêtir bien des aspects, souvent trompeurs, souvent sans signes spécifiques et qu'elle touche pratiquement tous les organes : c'est dire qu'il faut toujours y penser devant des signes généraux non expliqués par une cause aigüe.
+
+Bien souvent, si la preuve bactériologique (isolement de BAAR) n'est pas certaine, un traitement d'épreuve par des antituberculeux spécifiques pourra faire la preuve de la tuber­culose devant la survenue d'une amélioration clinique en quelques semaines.
+
+Il faudra aussi toujours envisager d'autres diagnostics aux tableaux cliniques proches : cancer, VIH, mycoses profondes.
+
+_Développement et Santé, n°190, 2008_

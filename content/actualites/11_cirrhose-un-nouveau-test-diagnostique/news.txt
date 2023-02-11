@@ -1,0 +1,28 @@
+Title: Cirrhose : un nouveau test diagnostique
+
+----  
+Datetime: 2011-10-12 00:00
+
+----  
+Text:
+
+Le CirrhoMètre est un nouveau test sanguin.
+
+Mis au point par le Pr Calès (Angers), il établit, à partir de paramètres biologiques, **un score** qui permet un diagnostic plus précis de cirrhose hépatique et par conséquent un traitement mieux adapté.  
+Dans les années 2000, le diagnostic, jusqu’alors établi par des tests non spécifiques ou par la biopsie hépatique (examen invasif), sont apparus de nouveaux tests - FibroMètre, FibroTest - qui, par un simple prélèvement sanguin, mesurent le degré de fibrose hépatique mais ne confirment pas le diagnostic de cirrhose.  
+Le CirrhoMètre confirme ou élimine ce diagnostic dans 75 % des cas, sa fiabilité est supérieure à celle de la biopsie.  
+Dans 25 % des cas, le diagnostic de cirrhose n’est pas confirmé ; il convient alors de recourir à d’autres tests (Fibroscan, voire biopsie) ou de suivre les patients avec le CirrhoMètre.
+
+### Les avantages de ce test sanguin
+
+Plusieurs études cliniques ont été présentées au congrès de l’AFEF (Association Française pour l’Etude du Foie). L’une d’entre elles (Calès, Boursier et coll.) avait pour objectif la recherche de la méthode améliorant la performance du diagnostic et sa précision par un examen non invasif effectué chez des patients ayant une hépatite chronique C. Elle a montré que l’utilisation du CirrhoMètre associée à celle du Fibroscan améliore la performance du diagnostic.
+
+### En pratique
+
+L’examen, prescrit par le médecin et effectué dans tout laboratoire, nécessite un simple prélèvement sanguin à jeun. L’analyse, réalisée en moins de cinq jours, évalue 6 paramètres : plaquettes, taux de prothrombine, ASAT, hyaluronate, urée, alpha 2 macroglobuline. Les valeurs de ces dosages, ainsi que le sexe et l’âge du patient, sont saisis sur le site internet [www.biols.fr](http://www.biols.fr "www.biols.fr") qui, au moyen d’un calculateur, donne et commente le résultat qui indique la probabilité d’avoir une cirrhose. Le résultat est communiqué au biologiste, au médecin prescripteur et au patient.
+
+### Conclusion
+
+Le CirrhoMètre constitue un test à la fois simple, non invasif, rapide et de coût peu élevé utile au diagnostic de cirrhose.
+
+_Vallois B. Le CirrhoMètre, un test sanguin de diagnostic de la cirrhose. Le Quotidien du Médecin, N° 9015, 30 sept. 2011._

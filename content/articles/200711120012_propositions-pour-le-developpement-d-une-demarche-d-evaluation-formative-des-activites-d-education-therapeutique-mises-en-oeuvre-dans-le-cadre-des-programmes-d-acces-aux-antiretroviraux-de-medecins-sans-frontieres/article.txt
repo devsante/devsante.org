@@ -1,0 +1,204 @@
+Title: Propositions pour le développement d'une démarche d'évaluation formative des activités d'éducation thérapeutique, mises en œuvre dans le cadre des programmes d'accès aux antirétroviraux de Médecins Sans Frontières
+
+---- Author: Par Emmanuelle Hamel(1), Emmanuelle Chazal(2), Pr. Rémi Gagnayre(1) (1) Laboratoire de Pédagogie de la Santé : Education et observance UPRES EA 3412, UFR SMBH Léonard de Vinci-Université de Paris 13, Rue Marcel Cachin, 74 F-93107 Bobigny- France. (2) Responsable Education Thérapeutique du Patient, département médical, Médecins Sans Frontières, Paris. Les auteurs remercient pour leur aide les équipes de MSF ainsi que l'ensemble des professionnels consultés pour ce travail.
+
+----  
+Datetime: 2007-11-12 00:00
+
+----  
+Text:
+
+## I. Intérêts et spécificités d'une démarche qualité  
+dans le domaine de l'éducation thérapeutique du patient
+
+La mise en place de programmes d'accès aux antirétroviraux engagés depuis une dizaine d'années dans les pays du sud s'est accompagnée du développement d'activités en direction des patients, destinées notamment à favoriser l'observance des traitements. Pour de multiples motifs dépendants largement du contexte d'intervention, la recherche de l'amélioration de la qualité de ces interventions et des pratiques professionnelles constitue un objectif largement partagé par les organismes et les professionnels qui interviennent sur le terrain.
+
+Toutefois, s'il existe de nombreuses recommandations relatives à l'élaboration des programmes ou aux activités à développer auprès des patients, la mutualisation des retours d'expériences de terrain reste limitée et empirique. Force est de constater que les évaluations réalisées se rapportent essentiellement à la dimension efficacité. Ainsi, elles reposent principalement sur l'analyse des résultats individuels au niveau des patients comme par exemple le niveau d'observance des traitements, son éventuelle corrélation avec des facteurs biocliniques, l'évolution des connaissances et des représentations des patients, de leurs compétences (et plus rarement des professionnels)... Ces évaluations font état de mesures, le plus souvent chiffrées, mais n'incluent généralement pas d'approche compréhensive prenant en compte ce qui a été fait par les soignants et de quelle façon ce qui serait utile pour permettre l'ajustement des stratégies d'intervention et des pratiques.
+
+Alors que les démarches de type assurance qualité, banalisées dans l'industrie, sont également développées dans le domaine des soins, leur application dans le domaine de l'éducation pour la santé et de l'éducation thérapeutique des patients est plus émergente. Elle nécessite de prendre en compte plusieurs facteurs particuliers : les enjeux éthiques de ces programmes, la complexité des interventions d'éducation à la santé et les spécificités des paradigmes sous jacents, fondés notamment sur la participation et l'implication des bénéficiaires. La définition des normes et des critères permettant d'apprécier la qualité doit donc être adaptée.
+
+Pour les acteurs concernés, un des intérêts majeurs de la démarche qualité réside dans le fait qu'elle se révèle par essence formative. En effet, elle a pour objectif de "permettre des ajustements permanents, immédiats et utiles au programme en cours". Elle est centrée sur les processus et orientée vers l'amélioration.
+
+## II. Contribution à une démarche d'évaluation  
+formative des programmes d'ETP de Médecins Sans Frontières
+
+S'inscrivant dans cette perspective d'approche qualité, le projet développé avec le département médical de Médecins Sans Frontières concerne ses programmes d'accès aux ARV (antirétroviraux) qui comportent systématiquement des activités destinées à favoriser l'observance thérapeutique des patients. Il vise à déterminer des critères de qualité conformes aux principes et au cadre d'intervention de l'association et à fournir aux équipes de terrain un outil synthétique et facile d'utilisation pour porter un regard distancié sur leurs pratiques afin de les ajuster si besoin.
+
+### 1. Le choix d'une démarche formative
+
+L'enjeu formatif occupe une place centrale dans le projet car il s'agit pour MSF de permettre aux professionnels eux-mêmes d'identifier des pistes d'amélioration et de renforcer l'acquisition de compétences. Cette approche formative intègre donc une dimension d'auto-évaluation. Selon A. Bandura (5), * Note de l'éditeur : Albert Bandura insiste sur la confiance en soi comme fondement de toute motivation et de toute réussite à travers le concept de sentiment d'efficacité personnelle. Cette dernière est renforcée par l'apprentissage vicariant dans lequel la personne apprend à partir de l'observation du savoir faire d'autrui. Un ouvrage récent est disponible sur ce sujet : L'auto efficacité, éditions De Boeck-Wesmael, 2007.
+
+Cette démarche inclut trois dimensions : l'auto-observation, l'auto-jugement et la réaction individuelle à l'auto-évaluation. Dans le cadre du projet présenté, l'évaluation globale n'est pas conçue comme une évaluation externe, elle doit pouvoir être réalisée par les équipes de terrain elles-mêmes. De plus, l'auto-évaluation des pratiques, individuelles et collectives, est prévue : par exemple, des grilles d'autoobservation de séances individuelles ou collectives d'éducation thérapeutique sont mises à disposition des professionnels qui les assurent.
+
+Plusieurs bénéfices de l'autoévaluation sont attendus au regard de la qualité. L'un d'entre eux concerne un meilleur suivi par le soignant des référentiels. En effet, la construction des outils d'évaluation intègre des références et des recommandations de bonnes pratiques qui sont ainsi mises à disposition des professionnels. Ceci facilite leur diffusion et leur appropriation et renforce la valeur de référence qui leur est attribuée. Dans le cadre du projet réalisé avec MSF, l'élaboration de documents pour l'évaluation s'appuie sur les principes constitutifs de l'éducation thérapeutique tels que la centration (voir note en bas de page de l'article précédent) sur le patient, la pluridisciplinarité ou le développement des compétences des patients. Elle contribue ainsi à la structuration implicite d'éléments de référentiel.
+
+L'auto-évaluation peut aussi constituer une aide au développement professionnel en clarifiant les points d'amélioration possibles et favorise l'estime de soi et la motivation. Elle agit sur la dimension participative et renforce l'appropriation du processus d'évaluation par les participants. La confrontation avec une grille d'observation, les interactions et les feedbacks avec les observateurs ou les pairs engagés dans la même démarche permettent d'engager un questionnement réflexif sur ses propres pratiques.
+
+### 2. La définition de critères et d'indicateurs spécifiques
+
+La première phase du projet a consisté à définir les critères et les indicateurs d'évaluation. Retenant la suggestion d'A. Deccache, et des critères de qualité d'un programme d'éducation thérapeutique du patient proposés par J.F d'Ivernois et R. Gagnayre (1-2-3-6), après consultation d'une dizaine de professionnels intervenant dans le domaine de la lutte contre le SIDA, le tableau 1 a été construit.
+
+Il convient de rappeler que ces huit critères correspondent spécifiquement aux valeurs et cadre d'intervention de MSF. Ils ne sont pas forcément valables pour d'autres contextes.
+
+### 3. L'élaboration d'un outil permettant l'évaluation formative
+
+A partir des critères et des indicateurs sélectionnés, un outil a été formalisé. Il s'agit d'un ensemble de documents constituant les supports à utiliser pour réaliser l'évaluation (disponible sur le site [http://educ.sida.free.fr](http://educ.sida.free.fr/)). L'outil peut être utilisé par un évaluateur extérieur (référent du siège, coordinateur de terrain...) ou en autoévaluation par les équipes elles mêmes, ce qui implique d'identifier un responsable de l'évaluation et de prévoir des entretiens et des réunions d'équipe.
+
+**Cet outil comprend un "questionnaire" d'une quinzaine de pages, incluant :**
+
+*   la présentation du contexte, des objectifs de l'évaluation et des principes d'élaboration de l'outil,
+*   la liste des 8 critères avec l'explication de l'intention de la collecte de données correspondant à chacun d'eux _(voir tableau ci-après),_
+*   une fiche par critère soit 8 fiches, comprenant chacune des questions le plus souvent fermées, avec des réponses préétablies à cocher sous forme oui/non ou de choix multiples. Certaines données sont recueillies au moyen de tableaux ou d'échelles. Les sources et les modalités possibles de recueil des données sont précisées, par exemple : entretiens, observations, échantillons de dossiers, recensement des outils utilisés... A la fin de chaque fiche, figure une rubrique "propositions/actions envisagées" qui permet de noter, à partir des données recueillies, les actions envisagées pour améliorer la réponse au critère correspondant. une fiche de synthèse permettant pour chacun des critères de récapituler les actions à engager, leur degré de priorité, les besoins en termes de moyens, la désignation d'un responsable et le calendrier prévisionnel.
+
+**Des documents complémentaires pour faciliter le recueil des données** : deux grilles d'observation des activités menées auprès des patients (entretien individuel et collectif) et un support d'entretien présenté ci-après ("7 différences").
+
+Sur la forme, les données recueillies sont reportées directement sur le questionnaire. Une fois rempli, il constitue un document de restitution immédiatement utilisable. Il n'y a donc pas lieu de retravailler les données pour produire la synthèse finale.
+
+**Tableau 1 : critères retenus pour l'évaluation des programmes d'ETP développés  
+par Médecins Sans Frontières pour les patients atteints par le VIH/SIDA**
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td valign="top">Critères</td>
+
+<td valign="top">Intention</td>
+
+<td valign="top">Exemples d'indicateurs</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Connaissance  
+du contexte</td>
+
+<td valign="top"><ul><li>Situer le programme dans son environnement</li><li>Décrire le programme</li><li>Faciliter la comparaison entre différents programmes</li></ul></td>
+
+<td valign="top"><ul><li>Données épidémiologiques</li><li>Attitudes et croyances/VIH.</li><li>Description sommaire du programmed'accès aux ARV (localisation, ancienneté, file active, horaires...)</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Ressources humaines</td>
+
+<td valign="top"><ul><li>Identifier les moyens humains disponibles (quantitativement et qualitativement) pour les activités de soutien à l'observance.</li><li>Apprécier le caractère pluridisciplinaire.</li><li>Mesurer le temps disponible pour les activités de soutien à l'adhérence pour chaque patient.</li></ul></td>
+
+<td valign="top"><ul><li>Effectifs par catégorie professionnelle.</li><li>Formations suivies en lien avec observance/EP</li><li>Nombre quotidien de consultations.</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Intégration des activités  
+éducatives dans les soins</td>
+
+<td valign="top"><ul><li>Appréhender la réalité de la pluridisciplinarité au niveau de l'organisation et des outils de travail.</li></ul></td>
+
+<td valign="top"><ul><li>Réunions pluriprofessionnelles : existence, fréquence, contenu, participants...</li><li>Définition d'un "circuit type" pour l'ETP.</li><li>Dossier unique soins/ETP : existence, contenu, utilisateurs.</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Continuité de la prise en charge</td>
+
+<td valign="top"><ul><li>Apprécier la continuité de la prise en charge :<ul>*   au travers des liens avec les structures relais contribuant au suivi du patient,*   au niveau des équipes,*   au niveau du patient.</ul></li></ul></td>
+
+<td valign="top"><ul><li>Equipe : ancienneté, turnover, modalités de formation des nouveaux professionnels...</li><li>Patient : existence d'un référent, planification des activités, transmissions entre professionnels...</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Pratiques professionnelles</td>
+
+<td valign="top"><ul><li>Evaluer la qualité des pratiques professionnelles et en particulier le caractère pluridisciplinaire.</li><li>Identifier les modalités de travail et de soutien aux professionnels.</li></ul></td>
+
+<td valign="top"><ul><li>Définition partagée des objectifs.</li><li>Réunions techniques entre éducateurs : fréquence, contenu.</li><li>Description des pratiques (grille d'observation).</li><li>Supervision.</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Centration sur le patient  
+et participation des patients</td>
+
+<td valign="top"><ul><li>Définir la place accordée au patient dans le programme.</li><li>Evaluer la nature et le niveau de participation des patients au niveau individuel et collectif.</li></ul></td>
+
+<td valign="top"><ul><li>Appréciation sur l'écoute et la personnalisation de l'ETP (échelle).</li><li>Conception et utilisation d'outils pédagogiques centrés sur le patient.</li><li>Degré d'implication des patients dans les décisions.</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Contenus des entretiens  
+individuels et des séances  
+collectives</td>
+
+<td valign="top"><ul><li>Identifier les contenus traités et les conditions.</li><li>Déclinaison en compétences.</li><li>Cohérence des informations données par les différents professionnels.</li></ul></td>
+
+<td valign="top"><ul><li>Pour chaque thème :<ul>*   fréquence, moment, initiative du choix, auto-appréciation du sentiment de maîtrise par les professionnels.*   Formalisation des compétences à atteindre par le patient.</ul></li></ul></td>
+
+</tr>
+
+<tr>
+
+<td valign="top">Pilotage/monitoring</td>
+
+<td valign="top"><ul><li>Identifier les modalités de pilotage et de suivi des activités d'ETP.</li></ul></td>
+
+<td valign="top"><ul><li>Désignation d'un responsable.</li><li>Outils support de l'organisation (fiches, schéma...).</li><li>Outils de suivi et recueil d'activités (tableaux de bord...).</li><li>Modalités d'évaluation existantes.</li></ul></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Il convient de rappeler que ces huit critères correspondent spécifiquement aux valeurs et cadre d'intervention de MSF. Ils ne sont pas forcément valables pour d'autres contextes.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td valign="top">Focus sur le support d'entretien "7 différences"
+
+Basé sur le principe du jeu des 7 différences, le support est conçu pour permettre la comparaison de deux dessins représentant la même situation, mettant en scène l'entretien d'un éducateur avec une patiente. Le dessin, adapté au contexte africain, est très stylisé pour limiter les détails et attirer facilement l'attention sur les sept différences. Chacune d'elles souligne une composante de la pratique éducative : conditions matérielles et attitudes favorables à l'écoute et à un climat de confiance, respect de la confidentialité, existence d'un dossier patient, planification de l'activité, participation des patients et des associations, utilisation d'outils. Le but recherché est d'amorcer de façon conviviale l'expression d'un professionnel ou d'un groupe de professionnels sur leurs connaissances des principes éducatifs et sur la situation locale. L'utilisation d'un support dessiné permet une certaine distanciation et limite les écueils liés à une observation ou à un questionnement trop directs.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### Conclusion
+
+L'outil élaboré a fait l'objet d'un prétest sur un site de mission de MSF en Ouganda et a également été utilisé au cours de plusieurs visites de terrain. Ce retour d'expérience fournit les premiers éléments permettant de valider la pertinence, l'acceptabilité et l'opérationnalité de l'outil et de la démarche. Sur le terrain, la dimension formative de l'approche retenue paraît effectivement de nature à favoriser la participation et l'implication des professionnels dans la recherche d'améliorations.
+
+Cependant, si la participation des professionnels peut être effectivement mobilisée grâce à la démarche retenue et à l'outil élaboré, celle des patients reste insuffisamment sollicitée, notamment parce qu'elle nécessite de concevoir des techniques et des outils adaptés. Ceci représente l'enjeu essentiel à prendre en compte dans les approches futures.
+
+(image: i1096-1.jpg)
+
+
+(image: i1096-2.jpg)
+
+
+**Bibliographie**
+
+1- La plupart des travaux ne retiennent généralement qu'un nombre limité de dimensions parmi celles citées. D'autres éléments peuvent être pris en compte tels que le développement des compétences des patients, l'amélioration de la qualité de vie, et parfois la satisfaction des patients. Pour une approche particulièrement complète, cf. Marchand C, Himmich H, Maaroufi A, Sohier N, Chambon JF, Gagnayre R. Mise en œuure et évaluation d'un programme d'éducation thérapeutique (2000-2001) pour les patients atteints du VIH à Casablanca, au Maroc. Cahiers santé ; 15(2) :1-8, 2005.  
+2- Des travaux récents s'engagent toutefois dans cette direction. Cf notamment Fournier C, Jullien-Narboux S, Pélicand J, Vincent I. Modèles sous jacents à l'éducation des patients, enquête dans différents types de structures accueillant des patients diabétiques de type 2. INPES/Euolutions ; 5, 2007.  
+3- Deccache A. Evaluer la qualité et l'efficacité de la promotion de la santé : approches et méthodes de santé publique et de sciences humaines. Promotion & Education ; 4: 10-14, 1997.  
+4- Pour plus d'information sur les programmes d'accès aux ARV mis en place par Médecins Sans Frontières, cf. article d'Emmanuelle Chazal dans le présent numéro.  
+5- Bandura A. Self efficacy : towards a unifiying theory of beahuioral change. Psychological Reuiew ; 84 : 191-215, 1977.  
+6- Gagnayre R, (d')Iuernois J-F. Apprendre à éduquer le patient : approche pédagogique. 2' ed. Paris : Maloine ; 2004.
+
+_Développement et Santé, n°187, 2007_

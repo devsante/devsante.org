@@ -1,0 +1,831 @@
+Title: SIDA : dernières recommandations internationales
+
+----  
+Datetime: 2007-01-11 00:00
+
+----  
+Text:
+
+**Module SIDA - Annexe 6**
+
+**Dernières recommandations internationales**
+
+## Associations d'ARV à ne pas utiliser
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td valign="top">
+
+zidovudine + stavudine
+
+</td>
+
+<td valign="top">
+
+antagonisme
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+stavudine + didanosine
+
+</td>
+
+<td valign="top">
+
+toxicité importante
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+stavudine
+
+</td>
+
+<td valign="top">
+
+toxicité mitochondriale
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+tenofovir + abacavir+ lamivudine
+
+</td>
+
+<td valign="top">
+
+sélection des résistants
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+tenofovir+didanosine
+
+</td>
+
+<td valign="top">
+
+toxicité + efficacité moindre
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+INNTI + IP
+
+</td>
+
+<td valign="top">
+
+rapport bénéfice risque trop bas
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## ARV et grossesse
+
+Interdits = efavirenz et association stavudine+didanosine
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td valign="top">
+
+ARV
+
+</td>
+
+<td valign="top">
+
+Risques
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+Rationnel
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+Recommandation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Zidovudine (INTI)
+
+</td>
+
+<td valign="top">
+
+toxicité mitochon.
+
+anémie
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+Recul important 94
+
+PTME
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Lamivudine (INTI)
+
+</td>
+
+<td valign="top">
+
+toxicité mitochon.
+
+addition avec AZT
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+Recul important 97
+
+Bithérapie PTME
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Didanosine (INTI)
+
+</td>
+
+<td valign="top">
+
+acidose
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+cohortes
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +/-
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Lopinavir (IP)
+
+</td>
+
+<td valign="top"> </td>
+
+<td style="width: 114px;" valign="top">
+
+Puissant
+
+le + utilisé cohorte
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Nelfinavir (IP)
+
+</td>
+
+<td valign="top">
+
+pharmaco variable
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+Le plus utilisé dans essais
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Saquinavir (IP)
+
+</td>
+
+<td valign="top"> </td>
+
+<td style="width: 114px;" valign="top">
+
+Bien toléré
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Abacavir (INTI)
+
+</td>
+
+<td valign="top">
+
+hypersensibilité 5%
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+Remplace AZT
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +/-
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Stavudine (INTI)
+
+</td>
+
+<td valign="top">
+
+acidose
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+cohortes
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +/-
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Indinavir (IP)
+
+</td>
+
+<td valign="top">
+
+sous dosages
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+Recul + cohortes
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +/-
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Fosamprénavir (IP)
+
+</td>
+
+<td valign="top">
+
+?
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+?
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R -
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+Nevirapine (INNTI)
+
+</td>
+
+<td valign="top">
+
+toxicité
+
+résistances
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+Recul ++
+
+PTME
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R +
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+tenofovir
+
+</td>
+
+<td valign="top">
+
+?
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+?
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R -
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+emtricitabine
+
+</td>
+
+<td valign="top">
+
+?
+
+</td>
+
+<td style="width: 114px;" valign="top">
+
+?
+
+</td>
+
+<td style="width: 105px;" valign="top">
+
+R -
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## Les troubles métaboliques des ARV
+
+### Pour cholestérol
+
+#### Diététique
+
+si taux cholestérol LDL > 1,60 g/l ou > 1, 30 g/l chez sujets avec autres facteurs de risque
+
+#### Médicaments
+
+Si taux > 2, 20 g/l sans autre facteur de risque
+
+> 1, 90 g/L si 1 autre facteur de risque
+
+> 1,60 g/l si 2 autres facteurs de risque
+
+> 1,30 g/l si 3 autres facteurs de risque
+
+## Prise en charge des infections opportunistes ou associées
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td valign="top"> </td>
+
+<td valign="top">
+
+curatif
+
+</td>
+
+<td valign="top">
+
+prévention prim aire
+
+</td>
+
+<td valign="top">
+
+prévention secondaire
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+pneumocystose
+
+</td>
+
+<td valign="top">
+
+cotrimoxazole (CTX)
+
+15/75mg/kg/j x 3 sem
+
+</td>
+
+<td valign="top">
+
+CTX
+
+</td>
+
+<td valign="top">
+
+CTX
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+toxoplasmose
+
+</td>
+
+<td valign="top">
+
+pyriméthamine 75mg/kg/j +sulfadiazine 5 g/j
+
++ ac. folique 25mg/j
+
+</td>
+
+<td valign="top">
+
+CTX
+
+</td>
+
+<td valign="top">
+
+Idem traitement
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+tuberculose
+
+</td>
+
+<td valign="top">
+
+quadrithérapie
+
+</td>
+
+<td valign="top">
+
+INH + B6 x 9 mois
+
+</td>
+
+<td valign="top">
+
+surveillance
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+MAC
+
+</td>
+
+<td valign="top">
+
+clarithromycine 1g/j + ETH + rifabutine 300 mg/j
+
+</td>
+
+<td valign="top">
+
+azithromycine 1,2 g/semaine
+
+</td>
+
+<td valign="top">
+
+clarithromycine + ETH
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+CMV
+
+</td>
+
+<td valign="top">
+
+ganciclovir 10 mg/Kg/j
+
+</td>
+
+<td valign="top">
+
+sérologie annuelle
+
+</td>
+
+<td valign="top">
+
+Idem traitement
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+cryptococcose
+
+</td>
+
+<td valign="top">
+
+amphotéricine B 0,8 mg/Kg/j ou fluco
+
+</td>
+
+<td valign="top">
+
+rien
+
+</td>
+
+<td valign="top">
+
+fluco 200-400mg/j
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+candida
+
+</td>
+
+<td valign="top">
+
+Antifongiques locaux
+
+</td>
+
+<td valign="top">
+
+rien
+
+</td>
+
+<td valign="top">
+
+fluco pour COP
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+herpès
+
+</td>
+
+<td valign="top">
+
+acyclovir
+
+</td>
+
+<td valign="top">
+
+rien
+
+</td>
+
+<td valign="top">
+
+?
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+syphilis
+
+</td>
+
+<td valign="top">
+
+benzathine peni 2,4 M à J0 ; J8 et J15
+
+</td>
+
+<td valign="top">
+
+dépistage répété
+
+</td>
+
+<td valign="top"> </td>
+
+</tr>
+
+</tbody>
+
+</table>

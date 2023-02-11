@@ -1,0 +1,153 @@
+Title: Médicaments d'urgence dans les dispensaires et centre de santé
+
+---- Author: Jeanne Maritoux* * Pharmacien, Medicus Mundi, Paris.
+
+----  
+Datetime: 1995-08-02 00:00
+
+----  
+Text:
+
+La notion d'urgence, en terme de médicaments, peut s'entendre sous deux angles différents, celui de la thérapeutique et celui de l'approvisionnement. Il y a nécessité d'agir vite lorsqu'il y a risque vital pour l'individu ou risque de complications graves. Il y a nécessité d'agir vite lorsque des ruptures de stock de produits indispensables ne permettront pas de soigner les cas graves éventuels, ou même lorsque l'absence de produits essentiels entravera la bonne marche du service.
+
+Le problème se pose différemment dans un centre hospitalier et dans un centre de santé où des moyens limités sont disponibles. Cet article se rapporte à l'exercice du personnel infirmier qui, dans un centre de santé, doit assurer le diagnostic, la prescription et la gestion pharmaceutique.
+
+## **I.** **Choix des médicaments** **de l'urgence**
+
+### **1. Une bonne connaissance des** **médicaments est indispensable**
+
+La gamme des produits disponibles, ou prescrits, dans un centre de santé est très hétérogène suivant les localités. De même, celle dont les proscripteurs infirmiers estiment avoir besoin, soit en pratique quotidienne, soit en urgence.
+
+Les médicaments les plus actifs sont, en majorité, ceux qui présentent le plus de risques et qui exigent le plus de précautions d'emploi. Le principal exemple est donné par l'une des situations les plus dramatiques, le traitement de choc et du collapsus: pour administrer avec profit l'adrénaline, l'hydrocortisone ou les solutés de remplissage vasculaire, il est nécessaire d'en connaître toutes les règles d'emploi et d'adapter aux besoins du patient les doses et le rythme d'administration.
+
+L'usage inapproprié de certains principes actifs, en cas de diagnostic erroné ou de contre-indication, peut aggraver au lieu de soulager. Ce serait le cas du salbutamol prescrit pour une dyspnée secondaire à une insuffisance cardiaque, d'un diurétique dans une anurie ou dans une hypovolémie. Autre exemple : l'administration d'un analgésique puissant qui retarderait la nécessité d'évacuation (transfert) pour une intervention chirurgicale, etc.
+
+### **2. L'armoire d'urgence : pas de** **liste standard, mais une gamme** **adaptée**
+
+La constitution d'une armoire d'urgence devrait exister dans chaque centre de santé. Sa composition doit répondre aux situations pathologiques graves les plus fréquentes et au niveau de formation du personnel soignant, dans la limite des équipements disponibles. C'est pourquoi il n'est pas possible d'établir une liste-type sans prendre en considération des particularités, principalement la proximité d'un centre de référence et la réglementation en vigueur dans chaque pays ou dans chaque région. Par exemple, la présence d'insuline serait justifiée seulement si le dosage de la glycémie est possible et, surtout, lorsque des diabétiques sont connus parmi les consultants du centre. La présence d'un antihypotenseur implique évidemment la disponibilité d'un tensiomètre (opérationnel ... ). La liste s'élargit avec le développement de capacités particulières, par exemple lorsque des personnels sont formés à la petite chirurgie.
+
+### **3. Voie d'administration** **l'injection s'impose-t-elle toujours ?**
+
+La **voie injectable** apparaît souvent comme la seule voie compatible avec une action rapide et efficace. Or, elle expose d'autant plus au risque de contamination (infectieuse) que la précipitation peut amener à négliger des règles d'hygiène élémentaires.
+
+La **voie respiratoire** est efficace dans le traitement de la crise d'asthme à condition de bien manipuler le flacon d'aérosol.
+
+Le diazépam peut être administré par **voie** **rectale,** notamment en pédiatrie, ou encore par **voie naso-gastrique.**
+
+La **voie orale** est souvent utilisable si l'état du malade le permet à condition que soit bien évalué le degré d'urgence du traitement et que soit bien connue la pharmacocinétique du principe actif. Par exemple, la concentration sérique maximale d'une dose d'amoxicilline est atteinte en deux heures, l'effet d'un comprimé de furosémide (Lasilix®) se manifeste avant une heure. Pourquoi injecter l'aspirine quand le malade peut l'avaler, puisque son action antalgique et antipyrétique par voie orale se développe en quinze à trente minutes (et même plus rapidement pour les formes solubles) et par injection intramusculaire en quinze minutes, sans disparition totale des effets secondaires gastriques ?
+
+La **voie intraveineuse** donne les résultats les plus immédiats, bénéfiques... ou préjudiciables (négatifs), mais elle est d'abord parfois difficile et nécessite souvent l'emploi de solutions de dilution. La **voie intramusculaire** est plus facile, mais l'absorption du principe actif est plus lente et parfois inconstante.
+
+### **4. Quelques principes de base**
+
+Ne jamais utiliser dans l'urgence un médicament dont on n'a pas l'expérience.
+
+a Ne pas administrer successivement ou simultanément plusieurs médicaments sans avoir la certitude qu'il n'y a pas d'interférence entre leur action. Rechercher si le malade a déjà pris un médicament pour le malaise dont il souffre ou pour une autre pathologie en cours de traitement. Certaines associations sont absolument contre-indiquées : par exemple, la théophylline ou l'aminophylline ne peuvent pas être données à un malade traité par l'érythromycine, surtout un enfant; le gluconate de calcium ne peut pas être injecté à un malade traité par un digitalique.
+
+- En règle générale, il convient de limiter le nombre de médicaments utilisés et d'éviter la voie injectable chaque fois qu'elle n'est pas indispensable.
+
+### **5. Certains médicaments sont** **classés parfois dans l'arsenal** **d'urgence sans justification**
+
+Exemples :
+
+*   _Lopéramide_ (Imodium®): dans le traitement des diarrhées aiguës de l'enfant " Il n'est pas prouvé que le lopéramide administré aux doses habituelles puisse réduire les pertes de liquide et d'électrolytes " -
+
+OMS 1992. Le geste d'urgence est la réhydratation, si nécessaire par perfusion intraveineuse.
+
+*   _Analeptiques cardiovasculaires:_ l'utilisation d'heptaminol (Heptamyl®), de nicéthamide (Coramine®) ou de Solucamphre® relève d'habitudes de prescription anciennes (Solucamphre® a été mis sur le marché en 1927). L'activité spécifique de ces produits n'a pas été démontrée et leur usage tombe en désuétude.
+
+*   _Vitamine K:_ elle n'a pas d'action hémostatique directe et immédiate. Elle n'a donc pas d'indication dans les hémorragies d'origine traumatique, post-partum, etc.
+
+*   _Solutions isotoniques de glucose ou de_ _Nacl_ (sérum glucosé, sérum physiologique): ces solutions servent de véhicule pour administrer un médicament, pour conserver une voie d'abord, ou encore en l'absence de solution de Ringer pour prévenir ou traiter une déshydratation.
+
+Peut-on mettre en place une perfusion en dehors de ces indications, peut-on injecter un placebo pour "faire quelque chose " et, par là, rassurer le malade, sa famille ou le soignant lui-même ? Il ne peut pas y avoir de réponse péremptoire à cette question. L'effet d'un placebo, qui n'est pas obligatoirement une injection, peut être bénéfique, même dans une situation d'urgence, pourvu que ce geste ne remplace pas le geste utile, approprié et réalisable, que le produit administré soit sans risque et d'un coût en rapport avec les ressources disponibles.
+
+## **II. Traitements d'urgence et listes de médicaments essentiels**
+
+Dans les pays où existe une liste de médicaments essentiels pour le secteur public, des listes restreintes ont été généralement définies pour les différents niveaux du système de soins. La composition de la liste pour l'usage dans les centres de santé varie suivant les pays, parfois suivant les programmes régionaux dans un même pays. Cette liste correspond au traitement standardisé des maladies ou des symptômes reconnus prioritaires dans un pays ou une région donnée.
+
+Des démarches diagnostiques systématisées ou ordinogrammes sont souvent définies pour aider le personnel infirmier à prendre des décisions thérapeutiques. Dans les cas graves, dépassant la compétence du centre de santé, la conduite à tenir indiquée est l'évacuation d'urgence vers la structure de référence, précédée ou non d'un traitement immédiat. C'est pourquoi les médicaments d'urgence sont plus ou moins présents.
+
+L'examen d'une dizaine de listes :
+
+- Listes nationales: Burkina-Faso, Guinée, Guinée-Bissau, Sénégal, Tchad, Cameroun.
+
+- Listes UNICEF: Cameroun, Mozambique.
+
+- Programme provincial GTZ Madagascar-Cameroun.
+
+_- Guide pratique d'utilisation des médicaments essentiels:_
+
+Médecins Sans Frontières.
+
+_- Manuel de diagnostic et de traitement -_ Soins de Santé Primaires: Fondation Heymans Belgique et OMS.
+
+montre que la capacité d'administrer un traitement d'urgence varie très sensiblement suivant les pays _(encadré)._
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td valign="top">Quelques pathologies d'urgence,traitées par les médicaments théoriquement disponibles
+
+(Le chiffre entre parenthèses indique le nombre de listes où figure le médicament).
+
+<ul><li>Convulsions, tétanos, éclampsie: diazépam injectable (7), phénobarbital injectable (4).</li></ul><ul><li>Choc, collapsus: adrénaline (4), hydrocortisone (2), solutions de remplissage vasculaire (4).</li></ul><ul><li>Paludisme grave: quinine injectable (8), chloroquine injectable (1).</li></ul><ul><li>Déshydratation grave: Ringer lactate (6), solution isotonique Na CI (1), solution isotonique glucose (4).</li></ul><ul><li>Crise d'asthme aiguë: aminophylline injectable (4), suppositoires (1), salbutamol injectable (3), l'adrénaline est classée une fois dans la catégorie des anti-asthmatiques.</li></ul><ul><li>Spasmes aigus (coliques néphrétiques ..): butylhyoscine et/ou atropine (6) injectable.</li></ul><ul><li>Hémorragies du post-partum: méthyl ergométrine injectable (6).</li></ul><ul><li>États infectieux: antibiotiques oraux dans toutes les listes, ampicilline injectable (2), benzylpénicilline (5), procaïne benzylpénicilline (7), chloramphénicol oral et injectable (1).</li></ul><ul><li>Hypertension artérielle: diurétiques oraux (5) injectables (3).</li></ul><ul><li>Psychose aiguë: chlorpromazine orale (1), injectable (3).</li><li>Douleurs aiguës: péthidine (1), noramidopyrine injectable (1), aspirine injectable (1).</li></ul></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Aucun médicament de l'appareil cardiovasculaire ne figure sur ces listes. À noter que plusieurs médicaments utilisables pour une même pathologie sont dans une même liste, parfois - ce qui réduit le nombre de cas où peut être traitée cette pathologie, sur les dix listes analysées.
+
+Dans certains guides destinés aux agents de santé du premier niveau, par exemple au Burkina-Faso, quelques médicaments figurent avec la mention " sous contrôle médical ". Cela signifie que ces médicaments, réservés normalement à la prescription par un médecin, peuvent être utilisés par le prescripteur infirmier dans certaines situations d'urgence et lorsque le délai d'évacuation est relativement long. Ces dispositions permettent de faire face à des maladies ou des symptômes graves, tout en soulignant leur caractère d'exception et le nécessaire contrôle de la fourniture de ces médicaments.
+
+## **III. Approvisionnements d'urgence**
+
+Une planification raisonnable de l'approvisionnement devrait permettre de disposer en permanence des médicaments de base, ainsi que des matériels nécessaires à leur application. Dans la pratique, de multiples causes peuvent être à l'origine de ruptures de stock :
+
+- augmentation des besoins pour cause d'épidémies ou de plus large fréquentation,
+
+- augmentation de la demande suite à un usage irrationnel,
+
+- absence ou déficience de l'évaluation des besoins et des niveaux de stocks,
+
+- défection du fournisseur,
+
+- achats insuffisants en raison de l'insuffisance des fonds disponibles,
+
+- détournements, etc.
+
+Il faut donc recourir à des commandes d'urgence qui génèrent toujours des coûts supplémentaires pour le centre ou pour les utilisateurs: frais de déplacement ou de transport surtout pour les centres de santé éloignés, achats de spécialités coûteuses au lieu de génériques, chez des distributeurs non compétitifs ou dans l'officine la moins éloignée. Sans compter le coût sanitaire.
+
+Certaines de ces causes de pénurie ne sont pas toujours maîtrisables. Mais la régularité de l'approvisionnement peut être améliorée si la cohérence des prescriptions est respectée et si des procédures de gestion sont bien définies et périodiquement contrôlées.
+
+### **1. Système VEN: médicaments** **Vitaux. Essentiels, Non essentiels**
+
+Le système VEN est proposé pour déterminer des priorités dans les achats pharmaceutiques et pour la gestion et le contrôle des stocks, lorsque les ressources sont limitées. Les médicaments sont choisis en fonction de leur impact potentiel sur la santé (Bien gérer les médicaments, IUED, 24, rue Rothschild, 1211 Genève 21).
+
+Dans ce système, le qualificatif " vital" est employé dans un sens large qui dépasse le cadre clinique d'urgence. Sont aussi considérés vitaux les médicaments qui peuvent sauver des vies à moyen terme, c'est-à-dire ceux dont le traitement ne doit pas être interrompu. Et encore ceux qui font partie de la sélection de base des services de santé. Parmi les produits " vitaux ", on pourra trouver par exemple des anti-hypertenseurs, du mébendazole ou de l'aspirine à côté des médicaments proprement vitaux, au sens habituel du mot.
+
+Cette distinction des priorités, adoptée par des centrales d'approvisionnement, peut être mise à profit dans les centres de santé pour fixer l'attention sur un petit nombre de médicaments qui ne devraient jamais manquer.
+
+### **2. La qualité des médicaments :****une préoccupation à ne pas négliger dans l'urgence**
+
+La qualité des médicaments est généralement convenable chez les distributeurs officiellement reconnus. Il n'en est pas de même dans le circuit illicite qui propose les marchandises sans délai et à moindre coût: on peut y trouver des produits mal fabriqués, sous-dosés ou même sans principe actif, défauts que ne laisse pas suspecter leur aspect extérieur.
+
+La réduction des coûts et la rapidité de la restauration du stock ne peuvent pas être envisagés au détriment de l'impératif de qualité.
+
+Les conditions de stockage conditionnent (déterminent) la conservation de la qualité. Parmi les substances les plus actives, la plupart sont les plus fragiles et particulièrement lorsqu'elles sont en solution injectable.
+
+L'armoire à médicaments d'urgence doit être périodiquement vérifiée, avec une attention particulière pour les produits rarement utilisés. Ceux dont la date de péremption est dépassée seront éliminés. Mais, certains peuvent être altérés avant l'expiration de cette date par l'effet de la chaleur.
+
+Toujours vérifier, avant l'usage, la limpidité et l'absence de coloration anormales des solutions, ainsi que des poudres ou des comprimés. Mais toute dégradation n'est pas traduite par une modification visible: c'est le cas des anesthésiques, de la méthyl-ergométrine (Methergin®), de l'oxytocine (Syntocinon®), de l'insuline, dont l'activité tend à disparaître lorsqu'ils sont stockés hors d'un réfrigérateur.
+
+**En conclusion**
+
+L'urgence ne dispense ni de la réflexion clinique, ni des précautions élémentaires dans le choix et l'utilisation des médicaments. Les agents de santé isolés sont amenés à administrer des traitements généralement réservés aux médecins. Pour cela les médicaments indispensables sont en nombre limité; leurs risques, leurs limites et leurs avantages doivent être parfaitement connus et leur usage codifié. Encore faut-il que ces médicaments soient disponibles, de bonne qualité et accessibles financièrement, ce à quoi contribuent des procédures de gestion réalistes et bien suivies.
+
+_Développement et Santé, n°118, août 1995_

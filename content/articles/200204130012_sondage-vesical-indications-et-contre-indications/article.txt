@@ -1,0 +1,208 @@
+Title: Sondage vésical : indications et contre-indications
+
+---- Author: François Pernin Chirurgien, Centre hospitalier, Ajaccio, France.
+
+----  
+Datetime: 2002-04-13 00:00
+
+----  
+Teaser:
+
+Il existe deux façons de drainer la vessie d'un malade : le sondage vésical et le cathétérisme sus-pubien.
+
+Le plus souvent, le médecin a le choix entre ces deux méthodes. Il existe parfois des contre-indications formelles de l'une ou de l'autre méthode.
+
+----  
+Text:
+
+## I. Indications du sondage vésical
+
+Le sondage comporte cinq grands types d'indications :
+
+*   rétention,
+*   postopératoire,
+*   thérapeutique,
+*   à titre diagnostique,
+*   pour le confort.
+
+### 1. En cas de rétention
+
+La cause de la rétention est variable selon les cas. Certains obstacles ne permettent pas l'écoulement de l'urine de la vessie vers l'urètre, pas plus que le passage d'une sonde de l'urètre vers la vessie.
+
+D'autres obstacles ne se révèlent réellement obstructifs que pour l'urine et laissent passer aisément la sonde.
+
+La plupart du temps, l'obstacle responsable de la rétention n'est pas connu au moment de l'incident, et on proposera d'abord au malade un sondage vésical doux et prudent. Si ce sondage s'avère impossible, il faudra dériver le malade par cathétérisme sus-pubien.
+
+#### a. La rétention peut être de cause prostatique
+
+*   Elle est le plus souvent due à un adénome de la prostate, tumeur bénigne et fréquente qui se laisse sonder facilement. Nous utilisons le plus souvent alors la sonde siliconée de Foley.
+*   Le cancer de la prostate, lui, peut proliférer au point de provoquer une rétention d'urine. Le sondage est parfois possible. Nous utilisons alors le même type de sonde ou une sonde de Dufour béquillée, un peu plus rigide. Si le sondage s'avère impossible dans cette cause, ce qui est parfois le cas, nous dérivons par cathétérisme sus-pubien.
+*   Nous avons vu que si l'infection de la prostate, la prostatite aiguë, est la cause d'une rétention, nous devons dériver par cathétérisme sus-pubien.
+
+#### b. Les causes urétrales
+
+Elles se résument à la sténose de l'urètre et nous avons vu qu'il s'agissait d'une contre-indication du sondage vésical.
+
+#### c. La rétention vésicale peut être due à un caillotage par hématurie
+
+C'est l'indication typique du sondage vésical, et non du cathétérisme sus-pubien, pour deux raisons :
+
+*   parce qu'un cathéter sus-pubien est beaucoup trop fin pour permettre l'évacuation des caillots responsables de la rétention ;
+*   parce que cette hématurie peut être due à une tumeur de la vessie, et il faut craindre un ensemencement extravésical des cellules tumorales, par la petite plaie provoquée par le cathétérisme sus-pubien.
+
+Il faut donc absolument drainer ces malades par une sonde vésicale, de bon calibre, à large orifice qui permettra des lavages réguliers à la seringue pour évacuer les caillots et éviter leurs répétitions. Nous utilisons alors une sonde Hématuria, de type Couvelaire, parfois à double courant si nous pensons qu'un lavage continu est préférable.
+
+#### d. Les rétentions de causes neurologiques
+
+Elles sont tout à fait particulières. Dans la phase aiguë d'une paraplégie, un sondage vésical est indispensable. Par la suite, il faut souvent rééduquer ces malades d'une façon ou d'une autre afin qu'ils puissent uriner autrement que grâce à une sonde à demeure.
+
+### 2. Sondage vésical postopératoire
+
+Après une intervention chirurgicale, il est parfois souhaitable que la vessie soit drainée.
+
+#### a. Après résection endoscopique de la prostate ou de la vessie
+
+Le sondage vésical a pour rôle non seulement de drainer la vessie pendant tout le temps où le malade ne pourra pas uriner de lui-même sans douleur, mais surtout de laver cette vessie régulièrement des caillots qui pourraient l'encombrer, soit par lavages réguliers à la seringue, soit par lavage continu à double courant. Nous utilisons alors le plus souvent des sondes Hématuria Couvelaire à simple ou double courant.
+
+#### b. Chirurgie à vessie ouverte
+
+Le sondage vésical est absolument indispensable pour que la suture vésicale puisse cicatriser. Il faut compter environ huit jours pour qu'une vessie soit solidement cicatrisée.
+
+Ce drainage doit être parfait car, si la sonde s'obstrue, la vessie va se remplir et la suture risque de lâcher. Nous utilisons dans ce cas des sondes Hématuria du type Couvelaire.
+
+#### c. En gynéco-obstétrique ou en chirurgie pelvienne
+
+Il est souvent souhaitable pour le confort du malade que la vessie soit drainée pendant quelques jours. Étant donné qu'il ne risque pas d'y avoir dans ce type de chirurgie, à vessie fermée, de caillotage vésical, nous utilisons le plus souvent une simple sonde de Foley.
+
+### 3. Indications thérapeutiques
+
+Le sondage vésical indiqué à titre thérapeutique pour :
+
+#### a. Pratiquer une chimiothérapie intravésicale, pour traiter des tumeurs de la vessie récidivantes
+
+Les produits le plus souvent utilisés sont : l'Adriblastine®, l'Amétycine®, le BCG.
+
+#### b. Le nitratage urétro-vésical
+
+Des solutions de nitrate d'argent diluées peuvent être utilisées pour le traitement de certaines cystites récidivantes, en particulier chez la femme. Ce type de traitement n'est plus très utilisé chez l'homme dans le cas des urétrites, car il peut être dangereux pour l'urètre.
+
+Des instillations intra-vésicales de Xylocaïne® diluée peuvent être pratiquées dans le cadre de test urodynamique et pour le traitement de certaines impériosités vésicales.
+
+#### c. Les instillations locales d'antibiotiques.
+
+Il est plus rare d'avoir à utiliser ces sondages dans ces cas.
+
+### 4. Sondage vésical à titre diagnostique
+
+#### a. Distinguer une rétention d'une anurie
+
+Il est parfois difficile, devant un malade qui n'urine pas, de savoir s'il est en rétention d'urine avec un globe vésical, ou s'il s'agit d'une anurie, c'est-à-dire que l'urine n'arrive pas jusqu'à la vessie (obstruction des deux uretères, insuffisance rénale aiguë). A titre diagnostique, il peut alors être intéressant de mettre une sonde pour voir si la vessie est pleine d'urine ou si elle est vide.
+
+#### b. Pratiquer un examen cytobactériologique des urines
+
+Dans certains cas particuliers, il peut être intéressant d'obtenir un échantillon d'urine prélevé dans des conditions de stérilité absolue, chez certaines femmes présentant des "cystites récidivantes" si l'on veut être sûr que le germe retrouvé dans les urines est bien un germe urinaire et non pas une souillure cutanée ou vaginale. C'est le cas également chez l'enfant, la petite fille en particulier, où peuvent exister des bactériuries difficiles à traiter, avant de se lancer dans un traitement antibiotique au long cours. On veut être sûr qu'il s'agit bien d'une infection urinaire.
+
+#### c. Mesure du résidu post-mictionnel
+
+Chez certains patients, en postopératoire immédiat, ou lors de certaines neuropathies, il peut être intéressant de connaître l'efficacité des mictions, de savoir si la vessie se vide bien en particulier. Si l'estimation du résidu post-mictionnel ne peut être obtenu radiographiquement ou par échographie, on peut le mesurer par un sondage vésical après une miction.
+
+A titre diagnostique, nous utilisons très souvent des sondes à usage unique, de petit calibre, béquillées du type Mercier.
+
+### 5. Sondage vésical de confort
+
+On doit toujours se demander dans ce cas-là s'il s'agit du confort de l'équipe médicale ou du confort du malade, car un certain nombre d'indications de sondage vésical sont parfois inutiles.
+
+#### a. La surveillance
+
+La surveillance en réanimation d'un malade dans le coma, d'un brûlé grave, nécessite souvent une surveillance exacte de sa diurèse, qui peut être obtenue par sondage vésical.
+
+Les malades moins gravement atteints pourraient sans doute être aussi bien suivis en surveillant la diurèse obtenue par miction spontanée et non par sondage.
+
+#### b. Nursing
+
+Certains malades grabataires, porteurs d'escarres, se souillent par incontinence et risquent d'aggraver leurs lésions cutanées à cause de cette incontinence. Le sondage vésical devient alors indispensable.
+
+#### c. En préopératoire
+
+Dans la chirurgie pelvienne, le chirurgien préfère souvent opérer à vessie vide, et une sonde vésicale est mise avant l'intervention.
+
+Pourquoi ne pas profiter de l'anesthésie nécessaire à l'intervention chirurgicale pour faire le sondage plutôt que lorsque le patient est encore éveillé, avant d'entrer au bloc opératoire, et qu'il ressent la douleur du sondage.
+
+#### d. L'incontinence
+
+Iil existe deux types d'incontinence. Une incontinence par regorgement : la vessie est pleine en permanence et l'urine s'écoule alors comme par trop-plein. Ce type d'incontinence est grave, souvent dû à un obstacle prostatique, et son véritable traitement est la chirurgie de l'obstacle en cause. L'incontinence peut être due aussi à une insuffisance sphinctérienne et alors la vessie est vide ou pratiquement vide. Dans le cas de malades inopérables, en particulier les femmes, le sondage vésical à demeure peut être une solution de confort, soit définitive, soit d'attente.
+
+### 6. Conclusion
+
+Comme nous l'avons dit, le sondage vésical est le plus souvent possible, mais les contre-indications formelles existent et doivent être bien connues. Lorsque nous avons le choix, nous préférons le cathétérisme sus-pubien au sondage vésical, car le cathétérisme sus-pubien est moins traumatisant pour l'urètre, mais il n'est indiqué qu'en cas de rétention.
+
+Si le sondage vésical s'avère indispensable, il est alors pratiqué de façon douce, atraumatique et aseptique.
+
+## **Il.** Contre-indications du sondage vésical
+
+1) le traumatisme de l'urètre,
+
+2) la sténose de l'urètre,
+
+3) la prostatite aiguë,
+
+4) le jeune âge pour un garçon,
+
+5) l'existence d'une prothèse urétrale ou prostatique.
+
+Les rétentions d'urine dues à l'une de ces causes deviennent alors une indication au cathétérisme sus-pubien.
+
+Nous détaillerons successivement chacune de ces contre-indications.
+
+### 1. Le traumatisme de l'urètre
+
+Il doit être suspecté après :
+
+*   une fracture du bassin,
+*   une chute à califourchon,
+*   un traumatisme de la verge en érection.
+
+Il est suspecté devant l'existence d'une rétention d'urine, souvent associée à une urétrorragie (écoulement de sang pur par l'urètre). Le sondage vésical dans ce cas serait :
+
+*   soit inutile, si l'urètre n'a pas été traumatisé lors de cet accident;
+*   soit dangereux parce que l'urètre a été traumatisé, parce que ce sondage peut compléter une fracture incomplète de l'urètre, infecter l'hématome péri-urétral et provoquer alors une infection grave. Ce sondage est douloureux et, enfin, en cas de rupture complète, il s'avère impossible.
+
+Dans ce cas, mieux vaut donc d'emblée s'adresser au cathétérisme sus-pubien.
+
+### 2. La sténose de l'urètre
+
+Ces sténoses sont suspectées en cas d'antécédents de traumatisme de l'urètre, de sondage vésical, de chirurgie endoscopique ou d'antécédents d'urétrite (chaude-pisse).
+
+Souvent le malade se sait déjà porteur de ce rétrécissement. Il a déjà été traité par dilatation.
+
+Au cas où cette sténose ne serait pas connue, elle se révèle lors de la tentative de sondage ; ce sondage est impossible avec fausse route et urétrorragie.
+
+Dans le cas d'une sténose de l'urètre connue, avec rétention, le sondage n'est pas souhaitable, car il s'avèrera le plus souvent impossible et dangereux avec risque de fausse route, d'hémorragie et d'infection. Il faut alors d'emblée s'adresser au cathétérisme sus-pubien.
+
+### 3. La prostatite aiguë
+
+Il s'agit d'une infection grave de la prostate, secondaire à une urétrite ou à un geste endoscopique récent.
+
+Il existe une fièvre à 40°C avec frissons, des brûlures mictionnelles avec pollakiurie. Le toucher rectal s'avère extrêmement douloureux. Le sondage vésical, en cas de rétention due à la prostatite aiguë n'est pas souhaitable car il s'avère extrêmement douloureux au moment du sondage et pendant tout le temps où la sonde est en place, et il majore l'infection que l'on souhaite traiter.
+
+Dans ce cas-là, il vaut mieux drainer le malade par cathétérisme sus-pubien, s'il présente bien une rétention d'urine.
+
+### 4. Le jeune âge pour un garçon
+
+En cas de rétention aiguë chez un jeune garçon, le sondage vésical n'est pas souhaitable car souvent traumatisant, même avec des sondes fines ; il risque, en outre, de créer par la suite une sténose de l'urètre.
+
+La sténose de l'urètre étant une affection récidivante, difficile à soigner, il est souhaitable qu'un jeune garçon ne commence pas sa vie avec une telle affection qui compromet non seulement la qualité de ses mictions, mais aussi, par le biais d'une infection, sa fertilité future.
+
+Dans ce cas-là encore, mieux vaut donc le dériver par cathétérisme sus-pubien.
+
+### 5. L'existence de prothèse prostatique ou urétrale
+
+Il s'agit d'une contre-indication nouvelle. Certains malades fragiles peuvent être traités d'un obstacle prostatique par la pose endoscopique d'une prothèse urétrale métallique. Certains malades porteurs de sténose de l'urètre récidivante peuvent être traités aussi par la pose endoscopique de prothèse urétrale métallique. Lorsque ces prothèses ont été fraîchement posées et qu'elles provoquent une rétention d'urine, un sondage vésical risque d'être impossible, ou de déplacer ces prothèses.
+
+Il vaut mieux alors dériver ces malades en rétention par cathétérisme sus-pubien.
+
+### 6. Conclusion
+
+L'éducation du personnel effectuant le sondage vésical, ainsi que celui du patient, sont les moments essentiels de la prévention des complications du sondage vésical. Douceur, asepsie lors de la pose de la sonde et pendant tout le temps de présence de celle-ci, maintien d'une diurèse suffisante garantissent le succès de ce geste qui ne devra être effectué que pour des indications précises et dans l'intérêt du patient.
+
+_Développement et Santé, n° 158, avril 2002_

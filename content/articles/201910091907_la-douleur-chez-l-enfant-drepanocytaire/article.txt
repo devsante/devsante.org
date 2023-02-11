@@ -1,0 +1,239 @@
+Title: La douleur chez l'enfant drépanocytaire
+
+----
+
+Author: Jean-Bruno Lobut, pédiatre, Paris
+
+----
+
+Datetime: 2019-10-09 19:00:00
+
+----
+
+Teaser: 
+
+La douleur est le symptôme le plus fréquent chez les patients drépanocytaires. En se répétant chez un enfant, elle peut venir révéler la maladie. Le premier problème pour une équipe soignante est d’être en mesure de soulager les douleurs aiguës des crises vaso-occlusives (CVO). Au cours du temps, les patients gardent la mémoire de leur douleur, et la survenue possible d’une crise entretient chez eux une anxiété de fond.
+Pour soigner au mieux un patient drépanocytaire douloureux, il est nécessaire de l’écouter et de reconnaître sa douleur.
+
+----
+
+Text: 
+
+**Sur le plan physiopathologique**
+La crise douloureuse ou CVO résulte de l’obstruction de petits vaisseaux sanguins par les globules rouges déformés (falciformés). Les territoires en aval de cette obstruction deviennent hypoxiques et douloureux. De nombreuses recherches ont exploré les mécanismes de la CVO.
+
+**Les CVO sont favorisées par :**
+La déshydratation, le manque d’oxygène (séjour en altitude, infection pulmonaire, crise d’asthme, voire simple gros rhume avec gène respiratoire nocturne), l’exposition au froid,  les traumatismes, les efforts physiques trop intenses, la fièvre, le stress.
+
+Les CVO peuvent être **aiguës**, transitoires (durer de quelques heures à quelques jours) ou **chroniques** (durer plusieurs semaines).
+
+**On distingue :**
+**A. Les complications vaso-occlusives aiguës douloureuses**
+- le syndrome pied-main ou dactylite (gonflement douloureux des pieds et des mains) du nourrisson,
+- les atteintes osseuses et articulaires de l’enfant,
+- les douleurs abdominales pseudo chirurgicales.
+
+**B. Les accidents vaso-occlusifs graves**
+- les accidents vasculaires cérébraux (paralysie, maux de tête, troubles de l’équilibre) transitoires mais avec des séquelles neurologiques possibles,
+- les syndromes thoraciques aigus,
+- le priapisme,
+- l’ischémie rénale, l’ischémie rétinienne.
+
+**Nous traitons dans cet article des CVO douloureuses aiguës.**
+
+## Expression clinique des CVO 
+### Syndrome pied-main chez le nourrisson
+Il s’agit des premières manifestations douloureuses de la maladie chez un enfant de moins de deux ans. On observe un gonflement localisé et douloureux du dos des mains  et des pieds ou parfois d’un doigt isolé ou d’un orteil, avec une impotence fonctionnelle : le nourrisson sous-utilise le membre douloureux (refus de marcher, par exemple). La peau en regard est chaude, tendue, avec un aspect luisant. Une fièvre à 38° - 38°5 est habituelle, en l’absence de toute infection. En l’absence de fièvre élevée, un traitement antidouleur adapté et une bonne hydratation permettent de traiter la crise douloureuse à domicile.
+
+### Crise osseuse chez l’enfant plus grand  
+Touchant les bras, les jambes, le rachis dorso-lombaire, la paroi thoracique, provoquant une douleur en étau, en coups de marteau, une douleur de fracture. La douleur peut entraîner une agitation importante ou au contraire une immobilité inhabituelle, en particulier du thorax dans le cas d’une crise pariétale. Les signes inflammatoires locaux ou généraux sont absents ou discrets.
+Au décours d’une CVO, deux complications osseuses peuvent survenir : l’infarctus osseux et l’ostéomyélite. La persistance d’une douleur osseuse au delà de 3 à 5 jours et la survenue de signes inflammatoires locaux est très évocatrice d’infarctus osseux. L’ostéomyélite aiguë se développe au sein d’un infarctus osseux ; elle est surtout due aux salmonelles ; elle provoque des signes inflammatoires locaux intenses et de la fièvre et nécessite un traitement antibiotique adapté en urgence.
+
+### Douleurs abdominales 
+- Les CVO abdominales, très fréquentes, s’accompagnent d’un iléus réflexe entraînant un arrêt du transit de 2 à 3 jours.
+- Mais les douleurs abdominales chez l’enfant drépanocytaire posent le **problème du diagnostic différentiel** avec :
+    - la constipation elle-même, fréquente, favorisée par une alimentation pauvre en fibres,
+    - une vésicule douloureuse en rapport avec des calculs favorisés par l’hémolyse chronique (accentuation d’un ictère conjonctival),
+    - une séquestration splénique aiguë (anémie),
+    - des douleurs abdominales non en rapport avec la drépanocytose : appendicite, infection urinaire…
+
+## Prise en charge d'une CVO
+La prise en charge d’une CVO simple ne nécessite pas d’examens complémentaires : ni biologie, ni examens radiologiques.
+
+### Dans un premier temps, il faut reconnaître la douleur
+**En phase aiguë, les manifestations sont :**
+- des réactions comportementales : pleurs, cris, agitation, protection d’une zone douloureuse,
+- des modifications physiologiques : augmentation de la PA, FC, FR, diminution de la SatO2.
+
+Quand la **douleur se prolonge** ou chez l’enfant **chroniquement malade**, un tableau **d’inertie psychomotrice** apparaît, d’autant plus que l’enfant est petit : enfant trop calme, visage inexpressif, bougeant peu, refus alimentaire.
+
+### Il faut ensuite évaluer la douleur 
+On utilise des outils adaptés à l’âge afin de confirmer l’existence d’une douleur, d’apprécier son intensité, de déterminer les moyens antalgiques nécessaires, et d’évaluer le traitement.
+
+#### Age < 3 ans : échelle comportementale inspirée de l'échelle Evendol**
+(image: evendol.png)
+
+score ≤ 3 :  douleur légère - palier 1 ou pas d’antalgique
+4 ≤ score < 6 : douleur modérée - palier 1 ou 2
+6 ≤ score ≤ 8; douleur intense - palier 2 ou 3
+
+
+####  3 <Age < 6 ans : Echelle des visages (Faces Pain Scales-Revised) ou échelle comportementale
+(image: visages.png)
+1er visage = score 0    pas de douleur        pas d'antalgique
+2è visage = score 20    douleur légère        palier 1
+3è visage = score 40    douleur modérée   palier 1 ou 2
+≥ 4è visage = score ≥ 60     douleur intense    palier 3
+
+
+
+
+#### Age > 6 ans : Echelle EVA d’auto-évaluation de 0 à 10
+Le patient déplace le curseur en fonction de l’intensité de sa douleur.
+(image: reglette.png)
+
+
+## Le traitement de la CVO comporte les actions suivantes :
+- Hyperhydrater
+- Traiter efficacement la douleur par les médicaments
+- Utiliser des moyens physiques d’appoint
+- Tranquilliser l’enfant
+- L’oxygénothérapie est parfois nécessaire ; elle n’est pas systématique
+
+### Hyperhydratation
+**Hyperhydrater à 2,5 l/m²/j**
+Par des boissons abondantes peu sucrées ou hyperhydratation par voie veineuse avec du sérum physiologique ou un soluté glucosé à 5% type B27 (maximum 3l/24h). 
+*La formule permettant de calculer la Surface Corporelle (SC) en m² en fonction du Poids (P) est : SC = (4P+7) / (P+90).
+ex. : soit un enfant de 6 ans pesant 18 kg ; sa SC est (4 x 18) + 7 / (18 + 90) = 0,73 m2
+il faut lui apporter 2,5 l x 0,73 / j soit 1,825 l/ 24h soit 450 ml environ toutes les 6 heures.*
+
+###Traiter la douleur par des médicaments [1]
+On utilise les médicaments correspondant à l’intensité de la douleur évaluée autant que possible par les 3 paliers. 
+- Les **douleurs de faible intensité** se traitent avec paracétamol + AINS. 
+- Les **douleurs plus intenses** se traitent avec l’association Paracétamol + AINS + tramadol ou nalbuphine. 
+- Les **douleurs les plus intenses** se traitent avec Paracétamol + AINS + morphine. 
+On remarque donc que l’on garde toujours la base de paracétamol + AINS.
+
+Les différents paliers correspondent schématiquement aux compétences des différentes structures de santé telles que décrites dans le Guide de prise en charge de la drépanocytose en Afrique [2] : dispensaires, centres médicaux, centres hospitaliers régionaux, centres-hospitalo universitaires.
+**Ce protocole d’analgésie doit être appliqué rapidement et être efficace.**
+
+#### Palier 1 : paracétamol + AINS 
+**Paracétamol**
+AMM : nouveau-né
+Voie orale
+Présentation : soluté buvable avec pipette pour dose/poids ou sachets entre 80 et 300mg.
+Posologie : 1ère prise de 20 à 30 mg/kg (délai d’action : 20 à 30 mn), puis 15 mg/kg/6h.
+
+**AINS** (Anti-Inflammatoire Non Stéroïdien) : Ibuprofène 
+En l’absence de contre-indications : fièvre, douleur abdominale, vomissements.
+AMM  > 6 mois  
+Voie orale
+Présentation : soluté buvable à 20 mg/ml et comprimé à 100 mg.
+Posologie : 30 mg/kg/j soit 7,5 mg/kg/6h.
+
+### Palier 1 + 2 : tramadol ou nalbuphine 
+**Tramadol**
+AMM > 3 ans
+Voie orale
+Présentation : soluté buvable  1 goutte = 2,5 mg
+Posologie : 1 à 2 mg/kg/6h
+En pratique : donner 0,5 goutte/kg/6h correspond à la dose de 1,25 mg/kg/6h.
+Maximum : 100 mg/prise et 400mg/24h même si le poids est > 50kg.
+
+**Nalbuphine** 
+AMM > 18 mois
+IVD (intra-veineuse directe)
+Présentation : ampoule  2ml = 20 mg
+Posologie : 0,2 mg/kg/4-6h
+
+La **codéine** (antalgique de palier 2) **n’est plus recommandée chez l’enfant de moins de 12 ans** (chez certains enfants, "métaboliseurs rapides", une accumulation de morphine peut se produire, entaînant une dépression respiratoire).
+
+### Palier 1 + 3 : 
+**Morphine PO** [3] ou IV [4,5,6,7], précédé éventuellement de MEOPA
+*Dans cette situation, le patient est **pris en charge dans une structure hospitalière adaptée.**
+Des examens complémentaires sont réalisés : NFS, réticulocytess, CRP, hémocultures si la température est  38°5, groupes sanguins ABO et Rhésus, Recherche d’Agglutinines Irrégulières (RAI).*
+
+**MEOPA**, mélange gazeux équimoléculaire d’oxygène et de protoxyde d’azote : 
+- Utile en cas de douleur majeure dès l’arrivée de l’enfant, et pour la pose d’une voie veineuse.
+- Administration discontinue au masque facial avec une durée maximum en tout de 1 heure/ 24 heures.
+
+**Morphine PO** [2,3] (gélules à 10 mg, dosettes de 5 ml = 10 mg)
+- Dose de charge = 0,5 mg/kg, maximum 20 mg en surveillant la FC et la FR (scope).
+- Titration 0,2 - 0,4 mg/kg toutes les 30 minutes jusqu’à soulagement, puis 2-5 mg/kg/j de morphine à libération immédiate à répartir toutes les 4 heures.
+
+**Morphine IV**
+- Ampoule de 1ml = 10 mg ;  faire une dilution pour obtenir une solution à 1 ml = 1 mg administré avec une pompe à morphine PCA (Analgésie Contrôlée par le Patient) nécessitant **une équipe de soins formée à cette technique** : scope avec surveillance du pouls, de la fréquence respiratoire et de la saturation, valve antireflux, feuille de prescription, feuille de surveillance.
+- Titration, qui permet de soulager l’enfant : dose de charge 100 𝝻g/kg (= 0,1 mg/kg), puis bolus de 25 𝝻g/kg (= 0,025 mg/kg) ; bolus toutes les 5 minutes jusqu’à EVA < 5.
+
+**Des règles très précises doivent être observées pour ce traitement :**
+- Prescriptions à renouveler toutes les 24 heures :
+	- chez l’enfant < 6 ans : débit continu de 0,5 - 1,5 mg/kg/j
+	- chez l’enfant > 6 ans : bolus PCA  de 25 𝝻g/kg + débit continu de 0,5 - 1 mg/kg/j
+- Définir une période réfractaire, c’est à dire le temps minimal entre 2 bolus = 7 minutes
+- Limiter le nombre maximal de bolus à 10 sur une période de 4 heures
+- Dose maximale sur 4 heures = débit continu des 4 heures + 10 bolus
+- S’assurer que la dose totale est < 3 mg/kg/j
+
+** Effets secondaires à rechercher et à combattre :**
+- **Dépression respiratoire** (la fréquence respiratoire FR doit rester > 15/mn entre 1 et 5 ans et > 10/mn après 6 ans ; surtout, la FR doit être vérifiée pendant le sommeil) ; elle n’est observée que pour des doses élevées au delà de 3 mg/kg/j ; arrêt respiratoire : injecter 1 ampoule de naloxone (1 ml = 0,4 mg) ; en cas de dépression respiratoire, diluer 1 ampoule de naloxone à 10 ml, puis l’injecter en IVD ml par ml jusqu’à la levée de la dépression respiratoire.
+-** Prurit** : nalbuphine 0,1 mg/kg/j IVC ou naloxone  0,25µg/kg/h IVC.
+- **Nausées et vomissements** : rares ; s’améliorent le plus souvent avec le temps.
+- **Constipation** : constante, combattue par le lactulose (0,1 à 0,2 ml/kg/8h).
+- **Globe vésical** : cède souvent à la palpation ; combattu par Nalbuphine  IV à 0,1 mg/kg en dose de charge IV sur 5 minutes puis en perfusion continue au 1/10ème des doses de morphine (à ces doses, la nalbuphine n’antagonise pas les effets antalgiques de la morphine).
+
+**Lors du sevrage** : on diminue le débit continu par paliers de 0,5 mg/kg ; on arrête les bolus en dernier.
+
+Certaines crises vaso occlusives graves avec complications (syndrome thoracique aigu) peuvent nécessiter une transfusion sanguine ou un échange transfusionnel qui relèvent d’un centre hospitalier adapté.
+
+#### Traiter la douleur aussi avec des moyens physiques :
+- Par le toucher réalisé par un parent,
+- Par des massages doux,
+- Par des applications de bouillote chaude.
+
+**Tranquilliser l’enfant**, dans un environnement calme et sécurisant.
+
+**Toute fièvre > 38°5 doit faire évoquer une infection, particulièrement une infection pneumococcique et faire débuter un traitement antibiotique par amoxicilline ou  céfotaxime, à réévaluer après 24h. La fièvre doit aussi faire évoquer un paludisme.**
+
+### Le traitement des CVO comporte bien-sûr un volet préventif
+- Eviter les facteurs déclenchants
+- Contrôler les vaccinations
+- Assurer le traitement quotidien de la drépanocytose
+
+#### Prévenir les facteurs déclenchants 
+- Eviter les situations où l’oxygène est plus rare : altitude > 1500m, voyage en avion mal pressurisé.
+- Eviter l’exposition au froid ou les changements brutaux de température.
+- Eviter les vêtements serrés, particulièrement au niveau des bras et des jambes.
+- Eviter les situations qui ralentissent la circulation sanguine : attitude jambes croisées, exercice physique trop intense.
+- Boissons abondantes.
+
+#### Contrôler les vaccinations 
+Outre les vaccinations recommandées par la calendrier vaccinal, on porte une attention particulière aux vaccins contre le **pneumocoque**, la **grippe en période hivernale** à partir de 6 mois, le **méningocoque**  à partir de 2 mois, **l’hépatite A** à partir de un an, la **typhoïde** à partir de 2 ans.
+
+#### Vérifier le traitement quotidien 
+- L’antibioprophylaxie par pénicilline orale  100 000 u/kg/j jusqu’à 10 kg de poids puis 50 000 u/kg/j entre 10 et 40 kg, en 2 prises à partir de 2 mois et au moins jusqu’à 5 ans.
+- Une supplémentation en acide folique  : 5mg/j per os.
+- S’assurer que le traitement de fond par l’hydroxyurée  est correctement pris, s’il a été prescrit par le médecin référent.
+
+**En conclusion**
+Les CVO sont des épisodes aigus très douloureux et s’inscrivent dans la mémoire de l’enfant. Elles influent sur le cours de sa vie. Elles prennent parfois un aspect chronique, surtout au moment de l’adolescence. Un accompagnement psychologique, toujours délicat à mettre en place, est susceptible d’aider le patient. C’est une prise en charge précise et efficace des CVO qui limite au mieux la survenue de phénomènes chroniques douloureux et anxieux.
+
+**Bibliographie**
+1 - Protocoles d’urgence destinés aux internes et seniors de garde 2015. Urgences pédiatriques et pédiatrie générale. Service de pédiatrie. Hôpital Ambroise Paré. Boulogne Billancourt. France. Prise en charge de la douleur aiguë p 139-140 et prise en charge des complications de la drépanocytose p 119-123.
+2 - Guide de prise en charge de la drépanocytose dans cinq pays d’Afique de l’Ouest et Madagascar ( Burkina Faso, Madagascar, Mali, Mauritanie, Niger, Sénégal).
+3 - Oral morphine protocol evaluation for the treatment of vaso-occlusive crisis in paediatric sickle cell patients
+Paquin H, D Trottier E, Robitaille N, Pastore Y, Dore Bergeron MJ, Bailey B Paediatr Child Health. 2019 Feb;24(1):e45-e50.
+4 - Sickel cell crisis. Borhade MB, Kondamudi NP. Source StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 - 2019 Jun 11.
+5 - WHO Guidelines on the Pharmacological Treatment of Persisting Pain in Children with Medical Illnesses.
+Geneva: World Health Organization; 2012. 
+6 - Evaluation and Treatment of Sickle Cell Pain in the Emergency Department : Paths to a Better Future.
+Zempsky WT. Clin Pediatr Emerg Med. 2010 Dec 1;11(4):265-273.
+7 - Practice guidelines for the assesment of children with sickle cell disease. Beyer JE, Platt AF, Kinney TR, Treadwell M. J Soc Pediatr Nurs 1999 Apr-Jun ; 4 (2) 61-73.
+
+**Abréviations**
+CVO : crise vaso-occlusive
+PO = per os : administration par voie orale
+IVD : voie intraveineuse directe		
+IVC : voie intraveineuse continue
+PCA : administration contrôlée par une pompe
+PA : pression artérielle    FC : fréquence cardiaque   FR : fréquence respiratoire
+RAI : recherche d’agglutinines irrégulières

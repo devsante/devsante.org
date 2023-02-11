@@ -1,0 +1,77 @@
+Title: Aciclovir
+
+---- Author: Philippe Reinert
+
+----  
+Datetime: 2000-08-14 00:00
+
+----  
+Text:
+
+**Aciclovir**
+
+**par Philippe Reinert**
+
+Pédiatre, hôpital intercommunal de Créteil, France.
+
+Les antiviraux se sont développés plus lentement que les antibiotiques.
+
+C'est seulement en 1980 qu'est apparu l'aciclovir (Zovirax®) actif sur le virus de l'herpès et sur le virus varicelle-zona.
+
+Plus tard, les chimiothérapies anti-VIH ont été découvertes.
+
+**Mode d'action** **de l'aciclovir**
+
+À l'intérieur de la cellule infectée, il est transformé, grâce à une enzyme virale, en aciclovir-triphosphate qui bloque la multiplication du virus.
+
+Il détruit les virus herpès I et herpès Il et le virus varicelle-zona.
+
+Administré par voie orale, intraveineuse ou cutanéomuqueuse, il est remarquablement toléré (à la différence des autres antiviraux).
+
+**Posologie**
+
+_Per os_ (gélules de 200 mg) : chez l'adulte, 5 comprimés par jour répartis dans la journée.
+
+Intraveineux (IV en une heure) : 5 à 10 mg/kg, toutes les 8 heures selon la gravité.
+
+Durée du traitement : de 5 à 10 jours suivant la gravité.
+
+Pommade ophtalmique pour herpès oculaire, éventuellement relayée par voie orale.
+
+**Indications**
+
+Toutes les infections herpétiques graves, _fréquentes au cours du sida_, mais aussi :
+
+*   herpès néo-natal (IV) ;
+*   encéphalite herpétique (IV)
+*   herpès génital (comprimés)
+*   varicelle grave - sida - (IV ou comprimés)
+*   zona grave - sida - (IV ou comprimés).
+
+**Cas particulier de la femme enceinte :**
+
+Éviter la prescription d'aciclovir.
+
+À réserver aux primo-infections à manifestations génitales, voire aux formes récidivantes génitales sévères près du terme de l'accouchement.
+
+En aucune façon, la prescription d'aciclovir ne dispense d'une césarienne en cas de lésion génitale herpétique active lors de l'entrée en travail.
+
+**Résultats**
+
+Si l'aciclovir a transformé le pronostic de ces infections souvent mortelles (encéphalites, herpès du nouveau-né, varicelle du sida), il doit être administré le plus tôt possible.
+
+De plus, chez le sujet immunodéprimé (sida), l'infection virale peut rechuter quelques jours après l'arrêt du traitement.
+
+Quant à l'herpès génital récidivant, l'aciclovir n'empêche pas les rechutes. Un traitement oral continu les prévient mais, l'aciclovir étant encore onéreux, ce traitement préventif est difficilement réalisable.
+
+**Toxicité**
+
+L'aciclovir s'éliminant par le rein, il vaut mieux adapter la posologie à la créatinémie en cas d'insuffisance rénale et dans tous les cas assurer une hydratation suffisante.
+
+Exceptionnellement surviennent des convulsions, des hallucinations et des érythèmes cutanés.
+
+**A savoir**
+
+L'aciclovir n'éradique pas le virus : il empêche sa multiplication. D'où la fréquence des rechutes à l'arrêt du traitement.
+
+_Développement et Santé, n°148, août 2000_

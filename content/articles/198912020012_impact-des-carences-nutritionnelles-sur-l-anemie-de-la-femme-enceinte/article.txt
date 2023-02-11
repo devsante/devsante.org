@@ -1,0 +1,73 @@
+Title: Impact des carences nutritionnelles sur l'anémie de la femme enceinte
+
+---- Author: L. Léké et D. Kremp
+
+----  
+Datetime: 1989-12-02 00:00
+
+----  
+Text:
+
+La principale cause d'anémie dans le monde est une carence nutritionnelle, particulièrement en fer, et aussi en acide folique.
+
+Les femmes en âge de procréer, du fait de leurs règles, ainsi que les enfants en période de croissance en constituent le principal groupe à risque.
+
+Dans nos pays, environ la moitié des femmes non enceintes, en âge de procréer, ont un taux d'hémoglobine inférieur à 12 g pour 100 ml de sang, point limite retenu par l'OMS pour définir une anémie (inférieur à 11 g pour 100 ml chez la femme enceinte).
+
+La prévalence des anémies nutritionnelles est encore plus importante chez la femme enceinte et allaitante à cause des besoins très augmentés durant cette période: la mère doit faire face, avec ses réserves souvent très basses en raison des grossesses précédentes rapprochées, à l'augmentation de la masse de globules rouges ainsi qu'aux besoins du foetus.
+
+Pour donner un ordre d'idée des besoins en fer au cours de la grossesse, la femme enceinte doit réunir à peu près 500 mg de fer pour l'augmentation de la masse de globules rouges, à peu près 220 mg pour les pertes basales habituelles (pertes cutanéo-muqueuses; pertes au niveau des urines, bile, sueurs ... ), 290 mg pour le foetus, et à peu près 25 mg pour le placenta.
+
+C'est au total plus de 1 000 mg de fer élément que la femme enceinte doit théoriquement trouver dans son alimentation, sinon dans ses réserves pour faire face aux besoins de cet élément au cours de la grossesse. Il faut noter, par ailleurs, qu'une femme non carencée, bien portante, a des réserves totales en fer de 2500 mg, et d'après les données de la littérature, à peu près 2/3 des femmes enceintes ont une absence totale de réserve en fer en fin de grossesse, même en milieu socio-économique favorable.  
+Certaines spécificités propres à nos régions, viennent aggraver cette insuffisance de réserves: l'impact des parasitoses et des infections, les grossesses rapprochées ne permettant pas la reconstitution des réserves hépatiques suffisantes pour faire face à une nouvelle grossesse, une mauvaise disponibilité du fer contenu dans les aliments traditionnels essentiellement végétaux (1 à 5 % du contenu en fer de ces aliments est assimilable).
+
+Ainsi les carences en fer, en acide folique et certaines vitamines B 12, seules ou associées aux anomalies génétiques déterminant une anémie hémolytique, jouent un rôle important dans l'anémie de la femme enceinte dans nos régions.
+
+## I. Conséquences de l'anémie de la femme enceinte
+
+### 1. Chez la mère
+
+La présence d'anémie pendant la grossesse entraîne une augmentation de la morbidité et de la mortalité. On note habituellement une fatigabilité avec diminution de la capacité de résistance à l'effort, la présence de dyspnée surtout à l'effort, de palpitations de tachycardie, de vertiges, de perte d'appétit avec perversion du goût qui se traduit par une attirance pour la terre, l'argile, le plâtre, la craie, le papier, le glaçon, la farine crue... Au moment de l'accouchement, il existe une mauvaise tolérance à l'hémorragie de la délivrance, et éventuellement à la césarienne.
+
+### 2. Chez l'enfant
+
+Les risques de prématurité (moins de 37 semaines d'âge gestationnel) et de petit poids (moins de 2500 g) ne sont pas négligeables; les carences en acide folique pourraient s'accompagner de malformation foetale de type spina bifida (anomalie du tube neural).
+
+## II. Traitement
+
+Il est surtout préventif et doit permettre de ramener l'hémoglobine à un taux normal, c'est-à-dire plus de 11 g d'hémoglobine pour 100 ml de sang avant la fin de la grossesse.
+
+### 1. Nécessité d'une éducation nutritionnelle
+
+Insister sur une alimentation équilibrée, la connaissance des facteurs capables d'affaiblir ou de favoriser l'absorption du fer contenu dans les aliments _(cf. tableau n°_ 1).
+
+(image: i400-1.jpg)
+
+
+### 2. Enrichissement en fer des aliments locaux
+
+Céréales, sel, sucre, condiments par du sulfate ferreux. C'est la méthode la plus efficace de prévention de l'anémie ferriprive à l'heure actuelle. Cette méthode ne requiert pas nécessairement la collaboration ou la motivation des bénéficiaires, elle a l'avantage de pouvoir être planifiée de façon à n'atteindre que certains groupes d'individus mais demande des contrôles rigoureux de teneur, par crainte d'intoxications.
+
+### 3. Supplémentation thérapeutique des femmes enceintes en fer, voire en vitamines B 12
+
+L'avantage de ce type de supplémentation est qu'il a un effet rapide sur les réserves en fer des populations à risque vues aux séances de PMI. L'efficacité peut être limitée par les problèmes d'intolérance digestive au fer observés dans un pourcentage non négligeable d'individus et le manque de motivation des bénéficiaires. Il est actuellement recommandé d'administrer 120 mg de fer élément (sous forme de sulfate ou de fumarate de fer) combiné avec 500 mg d'acide folique durant les quatre derniers mois de la grossesse _(cf. tableaux 2 et 3). Il_ faut, si possible, éviter de faire cette supplémentation trop tôt en raison des possibilités accrues d'intolérance digestive durant les premiers mois de la grossesse.
+
+(image: i400-2.jpg)
+
+
+Il faut aussi s'assurer que le traitement prescrit a été effectivement pris et au besoin le vérifier en recherchant sa conséquence: élévation du dosage de l'hémoglobine au bout d'un mois de traitement.
+
+(image: i400-3.jpg)
+
+
+### 4. Diagnostic et traitement des maladies **parasitaires et bactériennes**
+
+Il est nécessaire de lutter contre le paludisme, les vers intestinaux, la bilharziose.... au cours de la grossesse.
+
+## Conclusion
+
+La prévention de l'anémie de la femme enceinte permet à la fois de diminuer la mortalité et la morbidité materno-foetale. En effet, elle doit consister en l'administration médicamenteuse de nutriments visant la fabrication de globules rouges à des femmes en période d'activité génitale.
+
+Il est vrai qu'il n'est pas facile de mettre en place de telles actions du fait du coût et des problèmes logistiques qu'elles entraînent. D'où la nécessité de préciser les femmes les plus exposées pour lesquelles la supplémentation est indispensable, d'encourager l'espacement des naissances, de s'aider d'une bonne éducation sanitaire et surtout nutritionnelle.
+
+_Développement et Santé, n° 84 décembre 1989_

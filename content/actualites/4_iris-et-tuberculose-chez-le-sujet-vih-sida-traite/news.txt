@@ -1,0 +1,18 @@
+Title: IRIS et tuberculose chez le sujet VIH/SIDA traité
+
+----  
+Datetime: 2011-08-01 00:00
+
+----  
+Text:
+
+Syndrome de restauration immunitaire (IRIS) et tuberculose chez le sujet VIH/SIDA traité
+
+Au cours des traitements antirétroviraux, paradoxalement environ 10 % des malades traités s’aggravent cliniquement (fièvre, amaigrissement, augmentation des ganglions, hépatomégalie, splénomégalie, etc).  
+Il est alors tentant de penser que les traitements sont inefficaces.  
+Ce n’est pas le cas, comme le prouvent l’élévation des CD4, la diminution de la charge virale et la disparition des BK des prélèvements.
+
+Il s’agit dans ce cas d’un **syndrome de reconstitution de l’immunité** (IRIS) entraînant une réponse inflammatoire importante qui peut parfois être fatale.
+
+Deux études récentes (Stride et Sapit) viennent de démontrer qu’en débutant les antirétroviraux 2 à 4 semaines après les antituberculeux chez les malades tuberculeux et atteints d’un SIDA sévère (CD 4 < 50), on diminuait considérablement le risque d’IRIS. Si le taux de CD4 est supérieur à 50, le traitement antirétroviral pourrait être différé  à la fin de la phase intensive (après 8 semaines de traitement antituberculeux).  
+Reste que la priorité est d’éliminer une inefficacité thérapeutique, ce qui n’est pas facile !

@@ -1,0 +1,243 @@
+Title: Les prélèvements en hémostase
+
+----  
+Datetime: 2003-12-02 00:00
+
+----  
+Teaser:
+
+Les conditions de prélèvement sont primordiales, leur qualité conditionne la fiabilité des résultats !
+
+----  
+Text:
+
+## **I.** Conditions optimales de prélèvements
+
+**1.** Garrot modérément serré et maintenu peu de temps.
+
+**2.** Ponction veineuse franche.
+
+**3.** Remplir les tubes d'hémostase en 2<sup>e</sup> position afin d'éviter toute "souillure" par le facteur tissulaire libéré par la lésion provoquée par l'aiguille.
+
+**4.** Remplir correctement les tubes pour avoir un rapport anticoagulant (AC)/sang (sg) ad hoc, soit :
+
+*   1 volume AC pour 9 volumes de sang
+*   soit 0,5 ml AC / 4,5 ml sang pour un tube de 5 ml
+
+**5.** Assurer un mélange homogène sg-AC par retournements immédiats et **lents** du tube.
+
+**6.** Pour certaines explorations de la fibrinolyse, il faut tenir compte de la variation circadienne de l'activité fibrinolytique plasmique. Le prélèvement s'effectue sur un sujet à jeûn, au repos, à distance d'une prise d'alcool (6h minimum).
+
+## II**.** Choix des tubes
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col" style="width: 244px;">Examens prescrits</th>
+
+<th scope="col" style="width: 278px;">Tubes appropriés</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="width: 248px;">
+
+Bilan standard d'hémostase
+
+Dosage des inhibiteurs physiologiques (ATIII, PC, PS)
+
+Etude de la résistance à la PCa
+
+Dosage des PDF
+
+Dosage des D. Dimères
+
+Biologie moléculaire V, II...
+
+</td>
+
+<td style="width: 282px;">
+
+Tubes citratés à 3,8 % (en verre, siliconés)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 248px;">Numération plaquettaire</td>
+
+<td style="width: 282px;">Tubes contenant de l'EDTA. Si theombopénie, : vérification sur frottis et tube sitraté afin d'éliminer ubne fausse thrombopénie par agrégation plaquettaire liée à l'EDTA</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 248px;">Etude des fonctions plaquettaires</td>
+
+<td style="width: 282px;">Tubes citratés à 3,8 %</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## III. Les sources d'erreurs à ne pas méconnaître
+
+### 1. Liées au prélèvement
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Ce qu'il faut éviter</th>
+
+<th scope="col">Les raisons</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>
+
+Garrot trop serré ou maintenu trop longtemps
+
+</td>
+
+<td>
+
+Une stase veineuse prolongée  
+entraîne
+
+<ul><li>une relargage de facteurs fibrinolytiques par les cellules endothéliales</li><li>une libération de facteur VIIIc</li><li>une activation de la coagulation (TCA raccourci par exemple)</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Aspiration à la seringue et remplissage secondaire des tubes
+
+</td>
+
+<td>
+
+Activation de la coagulation
+
+Tests ininterprétables ou prélèvement coagulé
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Souillure par héparine
+
+Proscrire les prélèvements :
+
+<ul><li>sur seringue héparinée (utilisée pour les gaz du sang)</li><li>sur cathéter hépariné</li><li>du côté de la perfusion d'héparine</li></ul></td>
+
+<td>
+
+Incoagulabilité ou
+
+Résultats ininterprétables
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### 2. Liées à la conservation
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Ce qu'il faut éviter</th>
+
+<th scope="col">Les raisons</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>
+
+Lenteur d'acheminement au laboratoire
+
+</td>
+
+<td>
+
+Diminution des facteurs V et VIIIc
+
+Diminution tPA et PAI
+
+qui sont des facteurs labiles
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Péremption = 4h</td>
+
+<td>Influence du facteur 4 plaquettaire (FP4) sur l'héparine</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Conservation du prélèvement  
+à + 4° C
+
+</td>
+
+<td>
+
+Possibilité d'activation du VII
+
+Modification des fonctions plaquettaires
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+_Développement et Santé, n°158, avril 2002_

@@ -1,0 +1,153 @@
+Title: Entretien des locaux de consultation
+
+---- Author: Olivier Bismuth Médecin généraliste, Créteil, France
+
+----  
+Datetime: 2011-11-17 00:00
+
+----  
+Teaser:
+
+La prise en compte de l’hygiène est tout aussi importante dans un cabinet de consultation que dans une structure hospitalière. Des mesures simples et efficaces permettent de réduire le risque de transmission de germes et d’infection.  
+L’entretien du cabinet de consultation est essentiel. Viennent s’y ajouter les mesures générales d’hygiène préconisées quel que soit le lieu de prise en charge des patients.  
+Nous envisagerons l’entretien d’un dispensaire périphérique, extra-hospitalier, quelle que soit l’importance du centre car les principes sont les mêmes. Il faut en effet prévoir :
+
+*   Le matériel dont on a besoin
+*   La réalisation du ménage
+*   L’élimination des déchets
+*   La programmation de l’entretien
+
+----  
+Text:
+
+## I. Matériel
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col" style="width: 203px;">Equipement  
+conseillé</th>
+
+<th scope="col" style="width: 231px;">Consommables  
+utilisables</th>
+
+<th scope="col">Matériel déconseillé</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="width: 207px;">
+
+Blouse ou tablier
+
+Gants de ménage protégeant les avant-bras
+
+Seaux de couleurs différentes (pour les solutions propres et pour les solutions sales)
+
+Balai
+
+Pelle
+
+Sac à linge sale  
+
+</td>
+
+<td style="width: 235px;">
+
+Chiffons, éponges (lavettes), de différentes couleurs
+
+Essuie-mains (si possible à usage unique)
+
+Papier "essuie-tout"
+
+Papier de toilette
+
+Sacs poubelles
+
+Crème à récurer
+
+Détergent simple polyvalent
+
+Désinfectant ou détergent-désinfectant pour les sols et surfaces
+
+Eau de Javel
+
+</td>
+
+<td>
+
+Balai éponge
+
+Serpillières
+
+Éponges
+
+Balai à poussière
+
+Aspirateur
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+##   
+II. Entretien
+
+### Rangement
+
+Il est important de ranger et éliminer tous papiers inutiles, d’éliminer sélectivement les déchets selon les protocoles locaux recommandés.
+
+### Aération
+
+Les pièces doivent être aérées chaque jour en ouvrant largement les fenêtres.
+
+### Nettoyage
+
+Pour l’entretien des pièces, commencer par les pièces administratives c'est-à-dire : le secrétariat, la salle d’attente, les couloirs, puis le bureau du médecin, les salles d’examen et de soins, les toilettes et le local d’entretien : c’est-à-dire **en allant du plus propre vers le plus sale.**
+
+Dans chaque pièce, répéter l'entretien dans un ordre précis : éléments suspendus, surfaces, matériel médical, évier et lavabo, toilettes, enlèvement des déchets, entretien du sol, c’est-à-dire en procédant du haut vers le bas.
+
+L'entretien des sols et des meubles est réalisé une fois par jour.  
+De même que le local d’entretien, l’ensemble du matériel d'entretien sera nettoyé une fois par jour.
+
+Le dépoussiérage humide est la technique de référence pour les sols (balayage humide) et les surfaces (essuyage humide) ; il faut toujours le faire avant le lavage.
+
+Dans l’ensemble du cabinet médical, le lavage des sols se fera avec un détergent simple du commerce, avec ou sans rinçage en fonction des produits utilisés.
+
+### Programmation
+
+Des nettoyages approfondis des pièces (bibliothèques, mobilier administratif, placards, luminaires, stores, climatiseurs ainsi que les filtres et les bouches d’évacuation) doivent être programmés de façon périodique.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>
+
+Programmer l’entretien est essentiel pour assurer une hygiène correcte
+
+<ol><li>Tous les jours : ranger, nettoyer, dépoussiérer, balayer.</li><li>Tous les jours : frotter, laver, sécher et désinfecter les instruments.</li><li>Toutes les semaines : nettoyage approfondi.</li><li>Tous les mois ou les deux mois, nettoyage du réfrigérateur à l’eau javellisée l</li><li>Une ou deux fois par an : laver les murs et, si possible, les peindre si cela est nécessaire"</li></ol></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## En conclusion
+
+Ce travail d’hygiène, indispensable, constant, répétitif, programmé et réalisé régulièrement, s’inscrit dans le cadre d’un lieu de travail plaisant : de l’espace si possible, de la lumière, des affiches et/ou quelques objets décoratifs pour un aspect agréable, un local permettant le respect de la confidentialité. Ainsi le patient se sentira-t-il bien accueilli.

@@ -1,0 +1,96 @@
+Title: L'intégration MST/SIDA comme stratégie de lutte contre le sida
+
+---- Author: Anne Bavé, François Crabbé Institut de Médecine Tropicale, Division de Microbiologie, Anvers, Belgique.
+
+----  
+Datetime: 1996-04-02 00:00
+
+----  
+Text:
+
+À la fin des années 1970, le virus de l'immunodéficience humaine (VIH) est venu s'ajouter aux cinquante et quelques micro-organismes qui causent les maladies sexuellement transmissibles (MST). L'Organisation Mondiale de la Santé (OMS) estime que les trois quarts des cas d'infection par le VIH dans le monde sont dus à une transmission sexuelle. Dans les pays en voie de développement, le virus est en grande partie transmis lors de rapports sexuels entre hommes et femmes.
+
+Parmi les autres micro-organismes qui sont transmis par voie sexuelle les plus importants sont _Neisseria gonorrhoeae, Chlamydia trachornatis, Treponema pallidum et Haemophilus ducreyi,_ qui sont tous des bactéries ; les virus qui causent l'herpès et l'hépatite B, ainsi que le _Papilloma virus_ ; et ensuite _Trichomonas vaginales et Candida albicans._ Dans cet article nous appellerons les maladies causées par ces germes " MST classiques ".
+
+Étant donné que l'infection par le VIH et les MST classiques ont une voie de transmission importante en commun, il est logique d'intégrer la lutte contre le sida dans les programmes de contrôle des MST classiques. Le contrôle de ces MST est fondé sur deux stratégies principales :
+
+**1)** **L'éducation sanitaire** vise à réduire les comportements sexuels à haut risque et à promouvoir l'utilisation du préservatif. Ces deux activités devraient mener à une réduction de l'incidence des MST, c'est-à-dire une réduction du nombre de nouveaux cas qui surviennent dans la population.
+
+**2) Une prise en charge précoce et efficace** des MST vise à prévenir des complications des MST, à réduire la durée de la période de contagiosité des personnes atteintes et donc à interrompre la chaîne de transmission.
+
+Ces deux stratégies jouent un rôle clé dans la prévention de l'infection par le VIH. Dans cet article, nous allons discuter en plus grande profondeur la prise en charge des MST classiques, notamment la prise en charge des MST causées par des bactéries, comme stratégie dans la lutte contre le sida.
+
+## **I. L'interaction entre MST et infection par le VIH**
+
+Dès le début de l'épidémie de sida, des antécédents de MST ont été identifiés comme un facteur de risque important pour l'infection par le VIH. Ceci n'est pas étonnant, étant donné qu'un comportement sexuel à haut risque, par exemple des partenaires multiples ou des rapports avec une prostituée, est un facteur de risque pour l'acquisition d'une MST classique ainsi que d'une infection par le VIH. D'autre part, même si l'on tient compte du comportement sexuel comme facteur de risque, on trouve une association entre antécédents de MST et infection par le VIH. Des études longitudinales ont démontré que les MST classiques favorisent la transmission sexuelle du VIH. Plusieurs facteurs biologiques semblent être impliqués. Les MST provoquent une inflammation qui attire les globules blancs. Chez une personne séropositive ces globules blancs portent le VIH et augmentent l'infectivité de cette personne. Chez une personne séronégative les globules blancs sont une cible pour le VIH et rendent cette personne plus susceptible à l'infection. En plus, les ulcérations génitales actives facilitent la transmission du virus à travers les muqueuses, tandis que la gonococcie, l'infection à Chlamydia et la trichomonase peuvent provoquer des lésions microscopiques, qui facilitent également la transmission du germe.
+
+Si les MST classiques facilitent la transmission du VIH, il s'en suit qu'une prise en charge précoce et efficace de ces MST et une réduction de leur prévalence devrait mener à une réduction de l'incidence de l'infection par le VIH. Une étude d'intervention à Mwanza en Tanzanie a en effet démontré qu'une meilleure prise en charge des MST, même dans l'absence d'un changement des comportements sexuels, mène à une réduction du nombre de nouveaux cas d'infection par le VIH dans la population générale. Dans cette étude deux populations étaient suivies pendant deux années. La première population (la population d'intervention) bénéficiait des services curatifs pour améliorer les MST au niveau des soins de santé primaires. Les centres de santé qui desservaient la deuxième population (population témoin) continuaient à fonctionner comme d'habitude. L'amélioration des services curatifs pour les MST consistait en un recyclage du personnel, l'approvisionnement en antibiotiques efficaces et une supervision régulière. Au bout de deux ans l'incidence de l'infection par le VIH dans la population d'intervention était 60 % de l'incidence dans la population témoin, ou autrement dit : dans la population d'intervention il y avait 40 % de moins de nouvelles infections par le VIH que dans la population témoin [1].
+
+Cette réduction de l'incidence de l'infection par le VIH aurait sans doute pu être encore plus importante si on avait également inclus dans l'intervention une éducation sanitaire plus poussée, liée à la prise en charge clinique des MST. Les personnes qui se présentent aux services de santé avec une MST sont des personnes à haut risque de réinfection par une MST, y compris l'infection par le VIH. Ces personnes constituent donc un groupe cible important pour le conseil et la promotion de l'utilisation du préservatif. En plus, dans le cadre d'une consultation pour une MST, ces personnes à risque seraient plus ouvertes à recevoir des messages de prévention.
+
+## **II. La prise en charge des personnes atteintes  
+d'une MST comme stratégie de contrôle des MST**
+
+Une prise en charge efficace des personnes atteintes d'une MST réduit la durée de la période de contagion de cette personne et donc la prévalence des MST. Ainsi la chaîne de transmission des MST dans une population est interrompue, et la propagation du VIH est ralentie. Afin que des services curatifs puissent atteindre ces objectifs quelques conditions doivent être remplies :
+
+*   les services curatifs ont une large couverture, c'est-à-dire la plupart des personnes atteintes d'une MST viennent consulter dans ces services ;
+*   les personnes atteintes d'une MST et qui consultent les services sont identifiées comme telles, c'est-à-dire la procédure diagnostique est suffisamment sensible pour détecter la majorité des cas ;
+*   les malades reçoivent un traitement efficace et le suivent jusqu'au bout ;
+*   la réinfection est évitée par un changement du comportement sexuel grâce à l'éducation sanitaire.
+
+### **1. Couverture par les services curatifs**
+
+Tout comme pour les autres problèmes de santé, l'accessibilité ainsi que l'acceptabilité des services offerts déterminent en grande partie l'utilisation de ces services par les malades atteints d'une MST. Dans les paragraphes qui suivent, nous allons voir qu'une prise en charge convenable pour la plupart des MST ne nécessite pas de technologies sophistiquées et peut se faire au niveau des soins de santé primaire qui, en général, sont les services de santé les plus accessibles pour la population générale. Les services spécialisés peuvent servir de centre de référence où sont traités les cas plus compliqués et où sont conduites la surveillance et la recherche sur les MST. Ainsi à Mwanza, en Tanzanie, moins de 1 % des cas de MST identifiés au niveau des centres de santé sont référés au centre de référence pour les MST.
+
+Les quelques études qui ont été faites sur le comportement de santé des malades atteints d'une MST en Afrique subsaharienne ont relevé qu'à peine la moitié des personnes qui souffrent d'une MST consultent des services de santé appartenant au secteur formel. Les raisons principales pour lesquelles les autres malades consultent dans le secteur informel, les tradipraticiens et les vendeurs de médicaments, sont la honte liée aux MST et l'attitude du personnel de santé. Il ne faut pas sous-estimer l'importance d'une attitude accueillante du personnel des services de santé, sans préjugés et tout en préservant la confidentialité, envers les malades atteints d'une MST.
+
+### **2. Le diagnostic**
+
+Les problèmes les plus fréquemment rencontrés qui doivent susciter la suspicion d'une MST sont l'écoulement urétral chez l'homme (avec ou sans dysurie), l'écoulement vaginal chez la femme et l'ulcération génitale. L'identification de ces syndromes ne devrait pas poser trop de problèmes. Par contre, le diagnostic étiologique, c'est-à-dire l'identification du germe (ou des germes) qui cause le syndrome est en général très difficile. Chacun de ces syndromes peut être causé par différents microorganismes et la distinction ne peut pas être faite par l'observation clinique. Par exemple, même des cliniciens très expérimentés peuvent ne pas faire une distinction clinique fiable entre une ulcération syphilitique et un chancre mou.
+
+À l'exception de la gonococcie chez l'homme et la candidose et la trichomonase chez la femme, l'identification des germes qui causent des MST classiques nécessite des tests de labol8ratoire sophistiqués et coûteux, qui ne sont pas à la portée de la plupart des services curatifs pour les MST.
+
+Pour cette raison l'OMS préconise l'approche syndromique. Ceci veut dire qu'on n'essaie pas d'identifier l'agent infectieux, mais on traite le malade pour la majorité des germes susceptibles d'être responsables du syndrome. L'OMS a développé des algorithmes (encore appelés ordinogrammes ou arbre de décision) pour la prise en charge des syndromes associés aux MST. Ces algorithmes doivent être adaptés aux circonstances locales, c'est-à-dire à l'épidémiologie et aux caractéristiques cliniques des MST, ainsi qu'à l'infrastructure et aux compétences diagnostiques du personnel de santé. On peut donc trouver un grand nombre d'adaptations des algorithmes proposés par l'OMS. Dans ce qui suit nous donnons seulement un aperçu général des algorithmes pour un usage au niveau des soins de santé primaires. Les algorithmes pour les hommes sont d'une performance acceptable, par contre le diagnostic chez les femmes pose toujours des difficultés sérieuses.
+
+*   Les principaux agents responsables de **l'écoulement urétral chez l'homme,** qui peuvent être éliminés par une antibiothérapie sont _N. gonorrhoeae et C. trachomatis._ En l'absence de laboratoire, il est recommandé de donner un traitement efficace contre les deux germes. Au cas où l'on a la possibilité de faire une coloration de gram et où l'on ne trouve pas de diplocoques intracellulaires, on donne seulement un traitement pour l'infection à _Chlamydia ;_
+*   La plupart du temps **l'écoulement vaginal chez la femme** n'est causé ni par _N._ _gonorrhoeae_, ni par _C. trachomatis_. Des causes plus fréquentes sont la vaginose bactérienne, la trichomonase et la moniliase. En l'absence de laboratoire et de possibilités de faire un examen avec spéculum, on ne donnera un traitement pour la gonococcie et l'infection à _Chlamydia_ que dans les cas suivants :
+    *   il n'y a pas d'amélioration des symptômes après un traitement pour la trichomonase et la moniliase ;
+    *   dans la population de consultation, plus de 20 % des cas d'écoulement vaginal sont causés par _N. gonorrhoeae ou C. trachomatis_ (ceci peut être le cas dans un centre de santé qui sert surtout les prostituées) ;
+    *   la femme a un comportement sexuel à risque élevé (des partenaires nombreux, changement récent de partenaire). De simples tests de laboratoire peuvent confirmer un diagnostic de vaginose bactérienne, trichomonase ou moniliase, mais même lorsqu'on peut identifier un de ces germes, on ne peut pas toujours exclure une infection mixte, comme par exemple une double infection à _T. vaginalis_ et _N. gonorrhoeae._ L'examen avec spéculum permet parfois de détecter un écoulement cervical mucopurwent qui est très suspect d'une infection à _N. gonorrhoeae_ ou _C_. _trachomatis_ ;
+    *   chez la femme qui vient consulter pour des **douleurs du bas-ventre** il est important tout d'abord d'exclure une urgence abdominale, telle qu'une péritonite ou une grossesse ectopique. Dès que ces deux syndromes sont exclus, il est recommandé de donner un traitement pour infection génitale haute, dont l'étioloqie est le plus souvent la gonococcie ou l'infection à Chlamydia.
+
+Comme nous l'avions déjà fait remarquer, il est extrêmement difficile de faire un diagnostic clinique des ulcérations génitales basé sur les signes et les symptômes. L'OMS recommande de traiter tous les malades qui se présentent avec une ulcération génitale pour la syphilis et le chancre mou.
+
+Dans la plupart des syndromes, le traitement de plusieurs germes est donc recommandé. En principe on a le choix entre deux stratégies : donner un traitement pour deux ou trois germes, ce qui implique que dans un grand nombre de cas on donne des traitements inutiles ; ou bien : donner d'abord un traitement pour le germe le plus fréquemment rencontré ou le germe " le plus dangereux " et, seulement en cas d'échec de traitement, un traitement pour l'autre germe. Cette deuxième stratégie a l'avantage d'éviter des traitements inutiles, mais ne peut être appliquée que lorsqu'il y a la certitude que les malades vont retourner au service de santé au cas où il n'y a pas d'amélioration de leurs symptômes. En général, le traitement simultané est la stratégie préférée.
+
+### **3. Le traitement**
+
+Nous allons seulement discuter le traitement des MST causées par des bactéries, les protozoaires et les levures, le traitement des MST causées par des virus n'étant la plupart du temps pas à la portée des services de santé de base.
+
+Le traitement de l'infection à _N. gonorrhoeae_ et du chancre mou pose des problèmes de résistance croissante aux antibiotiques. L'importance du problème de la résistance dans les pays en voie de développement est liée à l'automédication et à la consommation trop libérale d'antibiotiques. De là l'importance d'une couverture optimale par des services de santé qui offrent un traitement efficace, ainsi que de la surveillance régulière de la résistance. Une des raisons du succès de l'intervention à Mwanza était certainement l'adaptation du traitement des MST aux taux de résistance trouvés dans les souches de gonocoques. Dans la plupart des pays en voie de développement, les souches de _N. gonorrhoeae_ ne sont plus sensibles aux antibiotiques les plus courants et les moins coûteux, notamment la pénicilline et la tétracycline. Dans certaines régions, la gonococcie peut toujours être traitée avec succès par la cotrimoxazole pendant trois jours ou par la kanamycine, mais dans grand nombre de régions il faut déjà recourir à des céphalosporines, nettement plus coûteuses que la pénicilline ou le cotrimoxazole. De même, pour le traitement du chancre mou, la pénicilline et la tétracycline ne sont plus utilisables. À présent les traitements recommandés par l'OMS sont l'érythromycine, le cotrimoxazole, la spectinomycine et les céphalosporines.
+
+Le problème de la résistance ne se pose pratiquement pas pour la syphilis, l'infection à _Chlamydia_, la trichomonase et la moniliase. D'autre part, la possibilité a été soulevée que l'infection par le VIH diminue la réponse au traitement pour la syphilis. Mais jusqu'à présent l'OMS recommande toujours le même traitement chez les patients séropositifs et séronégatifs.
+
+## **III. Le problème des infections asymptomatiques**
+
+Grand nombre de personnes atteintes d'une MST n'auront jamais de symptômes ni de plaintes, tandis qu'elles continuent à transmettre leur infection à leurs partenaires. Ce problème des infections asymptomatiques se pose surtout chez les femmes. Les femmes enceintes à la consultation prénatale et les femmes qui consultent des services de planning familial constitueraient un groupe cible idéal pour le dépistage des MST asymptomatiques. Or, en l'absence de tests fiables, simples et peu coûteux pour la détection des MST, les possibilités de dépistage sont très restreintes. En attendant le développement de tests rapides de dépistage, plusieurs études ont été faites pour évaluer des algorithmes qui incluent un score de risque. Quelques questions sur le comportement sexuel devraient identifier les femmes à risque élevé de MST. Dans certaines populations, ce score de risque améliore le diagnostic sur base d'un algorithme clinique, mais en général la performance reste faible. Le seul test de dépistage qui est faisable au niveau des soins de santé primaires est le RPR, qui est un test de dépistage pour la syphilis. Le dépistage et le traitement des femmes enceintes infectées par le tréponème a pour but principal d'éviter les complications chez le nouveau-né.
+
+Une deuxième stratégie pour le dépistage des cas asymptomatiques est la notification aux partenaires. Il y a plusieurs approches possibles, mais l'approche préférée est de conseiller aux malades de notifier leurs partenaires à l'aide d'une fiche. Il importe quand même d'ajouter une caution. Plusieurs études ont documenté des actes de violence envers les femmes qui avertissent leurs partenaires de la possibilité d'une MST. Or, comme nous l'avons vu, la plupart des écoulements vaginaux ne sont pas dus à des MST proprement dites. Il faut donc être très prudent et bien faire le bilan entre la possibilité de détecter des hommes avec une MST asymptomatique et la possibilité de violence envers les femmes qui viennent consulter.
+
+### **Conclusion**
+
+La prise en charge des MST classiques constitue une stratégie de lutte contre le sida très importante. Cette prise en charge est relativement simple et peut être très efficace si l'on observe quelques principes clés :
+
+*   assurer une bonne couverture et un bon accueil des personnes atteintes d'une MST ;
+*   utiliser des algorithmes diagnostiques adaptés aux circonstances locales ;
+*   adapter les traitements recommandés aux résistances des souches et assurer l'approvisionnement en antibiotiques efficaces ;
+*   éducation sanitaire avec promotion de l'utilisation du préservatif.
+
+### **Références bibliographiques**
+
+1. The HIV/AIDS pandemic: 1994 overview. Global Programme on AIDS. Who/GPA/SEF/94. 4.  
+2. Goeman J, Meheus A, Piot P. L'épidémiologie des maladies sexuellement transmissibles dans les pays en développement à l'ère du sida. _Ann_ _Soc_ _belge. Med trop_ 1991 ; 71 : 81-113.  
+3. Grosskurth H, Mosha F, Todd J, _et al_. Impact of improved treatment of sexually transmitted disease on HIV infection in rural Tanzania randomised controlled trial. Lancet 1995 ; 346 530-6.  
+4. Laga M, Diallo MO, Buvé A. Inter-relationship of sexually transmitted diseases and HIV where are we now ? _AIDS_ 1994 ; 8 (suppl 1) S119 S124.
+
+_Développement et Santé, n°122, avril 1996_

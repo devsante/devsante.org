@@ -1,0 +1,56 @@
+Title: Mentions légales
+
+----
+
+Text:
+
+## Editeur
+Formation permanente Développement et Santé (FP/DS)
+3 rue Robert Schuman, 95880 Enghien-Les-Bains
+Mail : contact@devsante.org
+Directeur de la publication : Dr Françoise BALÉDENT
+Développement : Matthieu BERGEL – hello@matthieubergel.org
+
+## Objectifs du site
+Les informations fournies sur le site devsante.org sont avant tout destinées à la formation continue des professionnels de santé des pays en développement. L’accès à l’ensemble des données contenues sur le site est totalement libre et gratuit.
+
+## Confidentialité
+L’association FP/DS respecte la confidentialité des informations qui lui sont confiées et la vie privée des utilisateurs du site. **Le lecteur dispose d’un droit de rectification ou de retrait des données nominatives le concernant.**
+Les informations personnelles concernant les visiteurs du site devsante.org, y compris leur identité, sont confidentielles. Le responsable du site s’engage sur l’honneur à respecter les conditions légales de confidentialité applicables en France et à ne pas divulguer ces informations à des tiers.
+Ce site utilise Google Analytics pour analyser son audience  Pour plus d’informations sur les règles de confidentialité relatives à l’utilisation de Google Analytics, voir :
+https://marketingplatform.google.com/about:analytics:terms:fr et https://policies.google.com/privacy?gl=fr
+
+## Messagerie
+Le lecteur a la possibilité de laisser un message sur le site (contact@devsante.org).
+Les informations personnelles laissées grâce à ce formulaire de contact ne sont connues que des membres de l’association et ne sont en aucun cas transmises à des tiers.
+
+## Contenu du site
+L’éditeur se réserve le droit de modifier les caractéristiques ou le contenu du site.
+L’éditeur peut à tout moment modifier ou supprimer des informations mises sur le site. Il peut suspendre ou arrêter l’accès à tout ou partie du site pour quelque raison que ce soit. Il ne garantit ni l’absence d’erreur ni que toutes les imperfections feront l’objet de corrections.
+
+L’association FP/DS apporte le plus grand soin à la vérification des informations mises à la disposition de ses utilisateurs. Les informations s’appuient sur les résultats des études scientifiques et/ou des articles publiés qui sont indiqués en fin d’article.
+Les informations venant d’autres sources sont référencées et un lien permet d’y accéder. FP/DS ne pourra être tenue responsable du contenu des sites auxquels elle fait référence.
+La date de dernière mise à jour des pages légales et médicales est indiquée pour chaque contenu.
+Les informations figurant sur le site ne peuvent jamais remplacer une consultation auprès d’un professionnel de santé et ne peuvent être considérées comme conseil ou recommandation.
+Les auteurs assurant la rédaction des articles ne peuvent en aucun cas donner des conseils médicaux personnalisés.
+Chaque professionnel de santé utilise ces données sous sa propre responsabilité.
+Le lecteur désirant obtenir des renseignements complémentaires peut laisser un message sur le formulaire de contact : contact@devsante.org.
+
+## Cookies d’analyse d’audience
+Les cookies d’analyse d’audience nous permettent d’améliorer l’expérience utilisateur.
+Le site devsante.org utilise les cookies suivants :
+_ga, _gid, _gat : cookies utilisés pour la collecte de statistiques anonymes via la plateforme Google Analytics. Plus d’informations sur l’utilisation des cookies ainsi que leur durés de vie peuvent être trouvées sur la page :
+https//developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=fr
+hide-cookie-consent-until : cookie utilisé pour se souvenir de l’acceptation par le lecteur de la politique de cookies en vigueur sur le site.
+
+## Liens d’intérêt
+Les éventuels liens d’intérêt sont signalés en fin d’article.
+
+## Absence de publicité
+L’association FP/DS n’est financée que par les cotisations de ses adhérents et des dons de personnes privées. Elle ne fait pas appel à des recettes publicitaires pour financer ses activités et met gratuitement à la disposition de ses usagers l'ensemble des données hébergées sur son site internet.
+
+Le site devsante.org est titulaire des licences d'utilisation : 
+Kirby : https//getkirby.com:
+Algolia : https//algolia.com
+
+Mise à jour : juillet 2021

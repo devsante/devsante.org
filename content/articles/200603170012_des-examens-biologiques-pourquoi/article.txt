@@ -1,0 +1,111 @@
+Title: Des examens biologiques : pourquoi ?
+
+---- Author: Jean-Loup Rey
+
+----  
+Datetime: 2006-03-17 00:00
+
+----  
+Teaser:
+
+Les examens biologiques jouent un rôle majeur dans la démarche de soins. Dans de nombreux pays africains, ce rôle est négligé, le "laboratoire" a une mauvaise image et de nombreux soignants et patients se demandent souvent quel est son intérêt. Pourtant, _a priori_, l'acte biologique a une image favorable. Il semble donc utile de réfléchir à cette contradiction.
+
+----  
+Text:
+
+## I. Que demande-t-on à un examen biologique ?
+
+1.  Qu'il aide ou permette un diagnostic le plus proche possible de la réalité.
+2.  Qu'il apporte la preuve de l'efficacité (ou non) du traitement prescrit et suivi.
+
+### 1. Il faut qu'il soit :
+
+1.  **sensible :** qu'il permette de dépister ou diagnostiquer tous les sujets atteints de l'affection cherchée ;
+2.  **spécifique :** qu'il donne le moins possible de faux positifs (examen positif chez des sujets sains) ;
+3.  **reproductible :** qu'il donne les mêmes résultats s'il est répété sur un même prélè­vement et s'il est pratiqué par différentes personnes ;
+4.  **faisable :** qu'il n'exige pas un environne­ment disproportionné, une maintenance compliquée, du personnel disproportionné au niveau de santé concerné, qu'il soit peu coûteux pour le système et pour le malade qui, outre la part qu'il débourse pour l'exa­men, doit se déplacer, arrêter son travail, faire garder ses enfants...
+
+### 2. Un examen idéal serait donc un examen :
+
+1.  facile à réaliser
+2.  donnant plus de 98 % de sensibilité et 98 % de spécificité
+3.  reproductible à 99%
+4.  donnant un résultat clair, impliquant une réponse diagnostique ou thérapeutique binaire sans interprétations subjectives possibles.
+
+## II. Trois exemples
+
+### 1. La tuberculose pulmonaire (TB)
+
+C'est l'exemple idéal d'une stratégie biologique excellente, mais c'est le résultat de nom­breuses études rigoureuses de terrain. Pour le diagnostic, un seul test est pratiqué, la recherche de la présence ou non de BAAR (bacilles acido alcoolo résistants) sur un exa­men microscopique d'expectoration colorée au Ziehl.
+
+*   Si BAAR + => traitement TB
+*   Sinon, 2<sup>ème</sup> examen :
+    *   Si BAAR +: => traitement TB ;
+    *   Si BAAR - : => il ne s'agit pas de TB.
+
+Cet examen est aussi celui qui est utilisé pour le suivi thérapeutique à 3, 6 et 9 mois et à chaque étape une décision binaire peut être prise.
+
+Cette stratégie a nécessité, outre les études de terrain, un accord FORT entre cliniciens et biologistes.
+
+### **2. L'examen parasitologique des selles**
+
+C'est un examen très fréquemment réalisé mais le plus souvent sans justification argumentée.
+
+En effet, cet examen doit avoir un intérêt cer­tain pour le malade, or si le seul traitement disponible est un antihelminthique à large spectre, il est inutile.
+
+L'examen parasitologique des selles n'est en fait nécessaire que pour rechercher les proto­zoaires intestinaux et les schistosomes qui demandent un traitement spécifique. Dans la pratique toutes les autres parasitoses sont trai­tées par un antihelminthique à large spectre. Pour les protozoaires, en particulier, le prélè­vement doit répondre à certaines exigences : une recherche d'amibes sur des selles de la veille ne permet plus de mettre en évidence les formes végétatives.
+
+Cet examen parasitologique est l'objet de nombreuses frustrations du laborantin qui réa­lise l'examen alors que le patient a déjà une ordonnance de mébendazole et du clinicien qui reçoit un résultat négatif devant une dys­enterie non fébrile. Il est urgent que les deux parties se réunissent pour définir des conduites à tenir communes.
+
+**_N.B._** _: Les diagnostics de l'anémie et du paludisme sont de façon similaire l'objet de déceptions et d'incompréhensions entre cliniciens et biologistes car il manque une clarification commune des définitions et des objectifs de la recherche diagnostique._
+
+### 3. Troisième exemple : le SIDA
+
+Malgré sa plus grande complexité, il se résume aussi à deux questions : Qui est malade et comment suivre les résultats du traitement ?
+
+Le diagnostic se fait en deux étapes : l'infec­tion et la maladie.
+
+L'infection est diagnostiquée par la présence des anticorps, ce qui est possible maintenant par des tests rapides dont sensibilité, spécifici­té, reproductibilité sont excellentes.
+
+Selon les stratégies nationales, il sera néces­saire de confirmer le premier test par un second. Le problème réside plus maintenant dans la garantie de qualité du laboratoire, de la confidentialité et du conseil.
+
+Pour le diagnostic de maladie, le mécanisme d'action du VIH étant une immunodépression cellulaire, l'évolution de la maladie et l'efficaci­té du traitement pourront être jugées selon trois modes.
+
+1.  la **clinique**, en particulier le poids et la présence d'infections opportunistes ou associées,
+2.  l'**immunologie**, à partir du nombre de lym­phocytes CD4 et, peut être, du nombre total de lymphocytes,
+3.  la **virologie**, par la quantification virale dans le sang ou le plasma.
+
+Ces trois modes de diagnostic ont leurs avan­tages et leurs inconvénients et le meilleur cri­tère de choix serait sans doute celui qui est le plus accessible au patient et qui permet la meilleure régularité du suivi thérapeutique.
+
+Mais au fond, dans le cadre du SIDA, comme pour toutes affections, ce qui est primordial et ce qui manque surtout dans un contexte de ressources limitées, c'est un véritable dialogue entre "cliniciens" et "biologistes", que chacun exprime ce qu'il attend de l'autre pour arriver à des compromis entre les exigences théo­riques et les contraintes matérielles et humaines.
+
+Dans le cadre du SIDA, il peut être jugé utile de réaliser une numération des lymphocytes CD4 tous les 3 ou 4 mois, mais si ce choix entraîne des contraintes telles au patient qu'il retarde sa visite programmée de plusieurs jours ou semaines, le résultat obtenu sera opposé à celui recherché.
+
+Au total, ce débat contradictoire, cet échange qui doit décider des stratégies de diagnostic et de suivi, doit impliquer également les patients, ce qui sera possible dans le domaine du SIDA puisque existent des associations de patients atteints du VIH prêtes à ce dialogue et plus difficile pour les autres maladies ou problèmes de santé.
+
+## III. En pratique
+
+### 1. Pour le laboratoire :
+
+*   faire le bilan de tous les examens reçus dans les dernier mois,
+*   évaluer les délais de réponse,
+*   faire le point de tous les examens positifs,
+*   évaluer les raisons possibles des résultats non satisfaisants, (faussement positifs, ou faux négatifs, prélèvement inadapté, trans­port et conservation incorrects).
+
+### 2. Pour le soignant prescripteur d'exa­mens biologiques :
+
+*   faire le bilan des examens demandés dans les derniers mois,
+*   faire le bilan des examens positifs et négatifs,
+*   évaluer les examens qui ont participé au dia­gnostic ou à un changement de régime thé­rapeutique,
+*   évaluer les questions posées par la réalisation de ces examens.
+
+### **3. Se réunir ensemble et :**
+
+*   comparer les résultats des évaluations précé­dentes,
+*   évaluer les examens qui se sont révélés utiles,
+*   recenser les problèmes posés,
+*   décider ensemble de la liste des examens utiles,
+*   décider ensemble d'une conduite à tenir commune,
+*   écrire des procédures communes.
+
+_Développement et santé, n°183, 2006_

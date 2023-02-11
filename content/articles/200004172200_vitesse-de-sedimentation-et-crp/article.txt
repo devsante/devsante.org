@@ -1,0 +1,183 @@
+Title: Vitesse de sédimentation et CRP
+
+---- Author: Françoise Balédent Biologiste, hôpital Delafontaine, Saint-Denis, France.
+
+----  
+Datetime: 2000-04-17 00:00
+
+----  
+Teaser:
+
+La vitesse de sédimentation (VS) des érythrocytes reste encore un test communément utilisé pour déceler et surveiller les maladies s'accompagnant d'un syndrome inflammatoire. En effet, la VS évolue parallèlement aux protéines de la réaction inflammatoire, avec en particulier le fibrinogène. Cependant, la VS peut également être modifiée au cours d'états pathologiques n'impliquant pas un syndrome inflammatoire, mais une anomalie des immunoglobulines.
+
+La C Reactive Protein (CRP) est une protéine sérique spécifique de la réaction inflammatoire, synthétisée par le foie, précocement au cours de la réponse inflammatoire.
+
+----  
+Text:
+
+## I. Méthodes de mesure
+
+### 1. Vitesse de sédimentation
+
+C'est un examen de laboratoire qui consiste à mesurer la distance parcourue par les hématies quand on les laisse sédimenter dans un tube vertical, pendant un temps donné.
+
+La méthode de référence est la méthode de Westergren.
+
+#### Matériel
+
+*   tubes de Westergren : diamètre intérieur 2,50 mm, graduations de 0 à 200 mm (souvent marquées 0 à 20) ;
+*   support pour tubes de Westergren, permettant de maintenir le tube vertical en assurant l'obturation de l'extrémité inférieure
+*   poire ou tube en caoutchouc ;
+*   minuteur ;
+*   anticoagulant = citrate trisodique à 3,8 %. Le citrate doit être conservé au réfrigérateur.
+
+#### Méthode
+
+*   Le prélèvement est effectué de préférence le matin à jeûn.
+*   Le sang est recueilli dans un tube avec anticoagulant soit 0,4 ml de solution de citrate + 1,6 ml de sang.
+
+Il est important d'agiter doucement le tube, immédiatement après le prélèvement afin de bien mélanger le citrate et le sang.
+
+*   Le sang citraté est ensuite aspiré dans un tube de Westergren, jusqu'à la graduation 0 (si possible à l'aide d'une poire ou d'un tube en caoutchouc pour éviter d'avaler du sang).
+*   Le tube est ensuite fixé au support, bien verticalement.
+
+La base du support doit être horizontale et disposée dans un lieu à l'abri de la chaleur.
+
+*   Le tube est laissé ainsi pendant une heure.
+
+Pendant le temps de sédimentation, il est important d'éviter les chocs et les vibrations (centrifugeuse de paillasse...).
+
+*   Après une heure, noter en millimètres, la hauteur du plasma surnageant, à partir de la graduation zéro.
+
+La mesure de la VS peut s'effectuer après une heure et deux heures de sédimentation.
+
+En pratique, la mesure de la première heure est suffisante. La mesure de la deuxième heure peut cependant permettre de rétablir une erreur de lecture de la première heure.
+
+(image: i875-1.jpg)
+(image: i875-2.jpg)
+
+
+### 2. _C Reactive Protein_
+
+La CRP est le plus souvent dosée à l'aide d'automates, par turbidimétrie ou néphélémétrie, permettant une mesure précise du taux sérique.
+
+Les techniques semi-quantitatives par agglutination passive sur plaque, utilisent des particules de polystyrène en suspension.
+
+Présentées sous forme de kits, elles sont d'utilisation très simples mais sont moins sensibles et plus coûteuses.
+
+Il faut également connaître leurs limites (risques de faux négatifs et surtout faux positifs).
+
+## **Il.** Valeurs usuelles
+
+### 1. Vitesse de sédimentation
+
+Lecture de la première heure :
+
+*   Chez l'homme : 1 à 10 mm (< 16).
+*   Chez la femme: 3 à 14 mm (< 25).
+
+Il existe une augmentation physiologique de la VS avec l'âge et au cours de la grossesse, de même au cours des traitements oestroprogestatifs.
+
+### 2. CRP
+
+Le taux normal est < 6 mg/I.
+
+Ce taux augmente avec la prise d'oestrogènes et l'inhalation de fumée de cigarettes.
+
+## **III. Variations de la VS** et de la CRP
+
+### 1. Les variations de la VS
+
+Une augmentation de la VS fait suspecter en premier lieu un syndrome inflammatoire, mais elle est également augmentée dans toutes les situations d'hypergammaglobulinémie.
+
+*   Une VS accélérée qui ne fait pas sa preuve doit être contrôlée.
+*   Une VS normale ne doit pas rassurer si la clinique est évocatrice d'un état pathologique.
+*   Une VS normale ne permet pas d'éliminer une pathologie néoplasique.
+
+(image: i875-3.jpg)
+
+
+### 2. Les variations de la CRP
+
+Les variations pathologiques se font toujours dans le sens d'une élévation.  
+L'intérêt du dosage de la CRP réside dans les variations rapides de concentrations, de grande amplitude, en parallèle avec le phénomène pathologique responsable de l'inflammation. Elle augmente dès la 6<sup>e</sup> heure, parvient à un taux maximum vers la 48<sup>e</sup> heure, et retourne à un taux normal au 6<sup>e</sup> jour en l'absence de complication.
+
+_**La CRP est augmentée au cours de :**_
+
+1. Maladies infectieuses
+
+*   les infections bactériennes représentent les situations inflammatoires où les taux sont les plus élevés jusqu'à 400 mg/L, voire plus) : tuberculose, méningite bactérienne, septicémie _E. coli+++,_ pneumopathies, pyélonéphrites (taux très élevés) ;
+*   les infections virales ne donnent lieu qu'à une élévation modérée de la CRP (< 25 mg/I).
+*   les infections parasitaires (paludisme ... ).
+
+2. Hépatopathies : cirrhose (mais la CRP reste normale dans les hépatites cytolytiques).
+
+3. Affections rhumatismales :
+
+*   rhumatisme articulaire aigu
+*   lupus érythémateux disséminé (LED) : la CRP n'est augmentée que lors des poussées évolutives ;
+*   polyarthrite rhumatoïde (PR) : le taux de CRP dépasse souvent 50 mg/L. Il existe une bonne corrélation avec l'évolutivité de la PR et l'existence de lésions osseuses ;
+*   vascularites: la CRP se normalise au cours des rémissions et réaugmente en cas de récidive.
+
+4. Grossesse et contraception orale : les oestrogènes provoquent une augmentation de la synthèse hépatique des protéines, dont la CRP. La CRP est augmentée durant toute la grossesse.
+
+5. Au cours des nécroses tissulaires :  
+Nécrose myocardique : le dosage de la CRP n'est pas utile au diagnostic (le pic de CRP se situe vers 72 heures après le choc) mais a plutôt un intérêt pronostic. En effet, le taux de CRP semble être en corrélation avec l'étendue de l'infarctus. La décroissance s'effectue sur deux semaines, plus lente en cas de complication. La CRP reste normale au cours de l'insuffisance coronarienne sans nécrose.
+
+6. En postopératoire :   
+A la suite d'une intervention chirurgicale, on observe une augmentation de la CRP. D'autant plus que l'intervention est longue. Elle est suivie d'une normalisation rapide. La persistance d'un taux élevé ou l'augmentation de la CRP en postopératoire fait redouter une complication (abcès, pneumonie, embolie pulmonaire).
+
+7. Au cours des affections néoplasiques :
+
+*   hémopathies, en particulier syndrome lymphoprolifératifs ;
+*   carcinomes, dont hépatocarcinome.
+
+(image: i875-4.jpg)
+(image: i875-5.jpg)
+
+
+**IV. Conclusion**
+
+La VS, examen simple, peu coûteux, reproductible permet de dépister de façon non spécifique et indirecte la présence d'une réaction inflammatoire, et de détecter un désordre immunitaire avec anomalie des immunoglobulines (hypergammaglobulinémie, gammapathie monoclonale).
+
+VS augmentée ne signifie pas toujours syndrome inflammatoire+++.
+
+La CRP est la protéine de choix comme marqueur précoce de la réaction inflammatoire,
+
+Son dosage est particulièrement intéressant en post-opératoire et en pathologie néonatale, du fait de la réponse précoce et de grande amplitude en cas d'infection bactérienne.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>VS augmentée avec CRP normale</td>
+
+<td>
+
+Elimine un syndrome inflammatoire
+
+Rechercher une anomalie d'immunoglobuline
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+CRP augmentée = inflammation
+
+CRP > 200 mg/L : infection bactérienne
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+_Développement et Santé, n° 146, avril 2000_

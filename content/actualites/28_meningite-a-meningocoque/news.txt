@@ -1,0 +1,18 @@
+Title: Méningite à méningocoque
+
+----  
+Datetime: 2012-05-01 00:00
+
+----  
+Text:
+
+Les dernières informations de l'OMS sur l'épidémie annuelle
+
+Comme chaque année, les méningites à méningocoque sont apparues depuis janvier, essentiellement dans le Sahel et les régions voisines.  
+Déjà plus de 14 000 cas ont été diagnostiqués, avec une létalité de 10 %, ce qui est plus élevé que les années précédentes. Les pays les plus touchés sont le Burkina-Faso, la RD du Congo et le Tchad.
+
+Les souches isolées sont différentes de celles des années antérieures : en effet, grâce au nouveau vaccin antiméningococcique A (conjugué) et aux nombreuses vaccinations réalisées, le nombre des méningites à méningocoque A a considérablement diminué.
+
+En revanche, on assiste à l’émergence du sérotype W135, en particulier au Burkina-Faso (le vaccin contre cette souche n’existe qu’associé aux sérotypes A, C et Y et n’est malheureusement pas encore disponible en Afrique).
+
+**Conclusions** : devant le moindre signe clinique de méningite (céphalées, fièvre, nuque raide, photophobie, vomissements, somnolence) la ponction lombaire est une urgence. En effet, plus le traitement antibiotique (chloramphénicol huileux, ceftriaxone) est précoce, plus le taux de guérison sans séquelles est élevé.

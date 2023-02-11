@@ -1,0 +1,105 @@
+Title: Le programme élargi de vaccination (PEV) : origine et évolution
+
+---- Author: Pierre Saliou, vaccinologue, GISPE
+
+----  
+Datetime: 2009-04-28 00:00
+
+----  
+Teaser:
+
+Une bonne mise en oeuvre du Programme Élargi de Vaccination (PEV) est le moyen le plus efficace et le moins onéreux pour réduire de manière significative la mortalité infantile.
+
+----  
+Text:
+
+## I. Origine du PEV
+
+Le PEV trouve son origine dans la suite du programme d'éradication de la variole initié par l'OMS en 1967.
+
+Depuis sa création en 1947 jusqu'au milieu des années 1960, la priorité de l'OMS dans les pays en développement, dont de très nombreux étaient encore colonisés, était un programme d'éradication du **paludisme** reposant sur la lutte contre les anophèles, vecteurs de la maladie. Pendant 15 ans, plus d'un tiers des dépenses de l'organisation fut affecté à ce programme. Mais pour diverses raisons (difficultés logistiques, apparition de résistance des moustiques aux insecticides...), ce fut globalement un échec sauf dans quelques petites îles.
+
+### L’éradication mondiale de la variole
+
+Ne voulant pas rester sur ce constat, l'OMS se lança alors dans une aventure dans laquelle elle mettait beaucoup d'espoir, l'éradication mondiale de la **variole**. Cette endémie avait en effet les caractéristiques d'une maladie potentiellement éradicable strictement humaine, sans réservoir de virus animal, transmise d'homme à homme sans l'intervention d'un vecteur, dont les formes totalement inapparentes compliquant la surveillance épidémiologique étaient rares et enfin bénéficiant d'un vaccin particulièrement efficace, facile à fabriquer et peu onéreux, la vaccine de Jenner.  
+Cette vaccination avait permis de faire disparaître la maladie dans les pays développés et de la contrôler par des campagnes de vaccination massive dans certains pays tropicaux, en Afrique francophone en particulier. Mais elle était loin d'être supprimée de la surface du globe où elle sévissait encore sous forme de flambées épidémiques meurtrières.  
+Les débuts du programme furent difficiles. Les pays industrialisés ne voulaient pas le financer. L'UNICEF, qui avait tant aidé le précédent programme contre  
+le paludisme, décida qu'elle ne fournirait aucune aide. Cependant, plusieurs pays ont tout de même donné des vaccins, et l'OMS reçut des dons qui lui ont permis de démontrer qu'il était possible de vacciner l'ensemble de la population mondiale. Après une surveillance épidémiologique draconienne jusque dans les territoires les plus reculés, considérée parfois avec scepticisme par une partie de la communauté médico-scientifique internationale, le **dernier cas de variole** fut enregistré en Somalie en 1977 et l'éradication de la maladie fut certifiée au cours de l'Assemblée mondiale de la santé à Genève en mai 1980.
+
+## II. L’élaboration du PEV
+
+À la fin des années 1970, les vaccinations furent alors hissées au niveau des priorités de l'OMS et de l'UNICEF.  
+Dès 1974, lors de la conférence d'Alma-Ata (aujourd'hui Almaty) réunie sous l'égide de l'OMS, alors que l'éradication de la variole était en bonne voie et que les plus sceptiques devenaient convaincus que la vaccination universelle était possible, il fut préconisé "d'élargir" la vaccination contre la variole à **six maladies cibles** meurtrières dans la petite enfance et bénéficiant d'un vaccin : la tuberculose, la poliomyélite, le tétanos, la diphtérie, la coqueluche et la rougeole.  
+Cette conférence marque le véritable acte de naissance du "Programme Elargi de Vaccination".  
+Si, dans les pays développés, ces maladies étaient déjà contrôlées grâce à la vaccination, la couverture vaccinale (CV) globale était alors de moins de 5 % dans la plupart des pays en développement, en Afrique sub-saharienne en particulier.
+
+### 1. Le calendrier vaccinal
+
+Le calendrier vaccinal recommandé, toujours appliqué aujourd'hui, fut le suivant :
+
+*   Vaccination contre la tuberculose par le BCG, idéalement dès la naissance ou le plus tôt possible après, avant tout contact avec le bacille tuberculeux, seule façon de lutter efficacement contre les redoutables méningites tuberculeuses des nourrissons.
+*   Simultanément au BCG, administration d'une première dose de vaccin oral contre la **poliomyélite** (VPO), préféré au vaccin injectable essentiellement pour un problème de coût, mais aussi pour sa facilité d'administration.
+*   A 6, 10 et 14 semaines de vie, injection d'une dose de vaccin combiné contre le tétanos, la diphtérie et la coqueluche et administration d'une dose de VYO.
+*   A 9 mois, injection d'une dose de vaccin contre la rougeole.
+
+**Pour la bonne compréhension de ce programme, deux remarques s'imposent :**
+
+*   D'une part, la précocité des vaccinations, parfois au détriment de l'efficacité chez certains enfants, en particulier pour la rougeole, est due au fait que les agents pathogènes à l'origine de ces maladies cibles circulent encore très intensément dans les pays tropicaux. Une vaccination plus tardive exposerait davantage au risque de contracter la maladie les enfants qui auraient perdu rapidement les anticorps protecteurs transmis par leur mère.
+*   D'autre part, il n'est pas prévu d'effectuer, comme dans les pays du Nord, des vaccinations de rappel contre la poliomyélite, le tétanos, la diphtérie et la coqueluche. En effet, le PEV privilégie la protection de la petite enfance en misant sur le fait que les a~ents pathogènes circulant dans la nature peuvent entraîner des rappels naturels pour une protection de longue durée. Actuellement, dans les pays où la CV est élevée et les progrès sanitaires significatifs, des vaccinations de rappel sont de plus en plus souvent pratiquées.
+
+Dès son origine, dans le cadre de la prévention du tétanps néonatal (TNN), le PEV a également préconisé la vaccination contre le tétanos des femmes enceintes qui se présentaient aux examens prénataux afin qu'elles puissent transmettre des anticorps à leurs enfants. En 1989, devant l'incidence toujours élevée du TNN, un appel en faveur de son élimination a été lancé lors de l'Assemblée mondiale de la santé avec, comme objectif, la réduction à moins d'un cas de TNN pour 1 000 naissances vivantes dans tous les districts des pays. En 1999, 108 pays en développement sur 166 avaient atteint cet objectif après des campagnes de vaccination de toutes les femmes en âge de procréer. Malgré les progrès réalisés, on estimait encore à 200 000 le nombre de décès dus au TNN survenus en 2005 dans les pays les moins avancés, dont la majorité (34 sur 41) est située en Afrique sub-saharienne.
+
+### 2. Le cas de la poliomyélite
+
+Parallèlement au PEV, une initiative mondiale pour l'éradication de la poliomyélite fut lancée en 1988 par l'Assemblée mondiale de la santé avec, pour objectif, l'élimination de la maladie de la surface de la terre en 2005. L'essentiel de la stratégie était fondé, à côté des activités de vaccination de routi-ne par le VPO, sur la mise en oeuvre de journées nationales de vaccination dans les pays les plus endémiques.  
+C'est ainsi qu'au cours de l'année 2000, 77 millions d'enfants de moins de 5 ans ont été vaccinés en Afrique centrale et occidentale. En 2001, plus de 575 millions d'enfants de moins de 5 ans ont été vaccinés dans 94 pays. Ces efforts de l'OMS et de l'UNICEF, aidés en particulier par le Rotary interna¬tional, ont abouti à la disparition de la maladie dans de nombreux pays.  
+Mais depuis quelques années, la pénurie de moyens financiers et surtout l'arrêt momentané de la vaccination dans quelques régions, en particulier au Nigeria, souvent pour des raisons spécieuses (religieuses ou politiques), ont ralenti ce program¬me. De plus, des cas de paralysie poliomyélitique associés à un poliovirus dérivé de la souche vaccinale (différent de ceux résultant d'une classique mutation reverse du virus vaccinal vers la pathogénicité) survenus ces dernières années en Haïti, en République Dominicaine, aux Philippines et à Madagascar, nécessitent de reconsidérer la stratégie d'éradication. Elle devra nécessairement introduire la vaccination universelle par le vaccin inactivé injectable. Aujourd'hui, aucune date précise n'est plus avancée pour atteindre l'objectif d'éradication.
+
+## III. L'élargissement du PEV
+
+### 1 . Fièvre jaune
+
+En 1988, la vaccination contre la **fièvre jaune** fut ajoutée au PEV dans les zones d'endémie amarile, en association à la vaccination contre la rougeole, au neuvième mois. Malheureusement, plusieurs pays africains concernés n'ont pas encore suivi cette recommandation et la crainte d'épidémies meurtrières de fièvre jaune plane en particulier dans les régions de savane sahélienne où la grande majorité de la population est réceptive. Chaque année, de petites épidémies survenant dans les zones d'émergence virale à la lisière des blocs forestiers équatoriaux, comme ce fut le cas encore récemment en Côte d'Ivoire, témoignent de la circulation du virus amaril. Mais, depuis 2 ans, des campagnes de vaccination collective sont effec-tuées en particulier en Afrique de l'Ouest (Mali, Burkina, Togo), laissant espérer un contrôle de la maladie.
+
+### 2. Hépatite B
+
+En 1991, ce fut au tour de la vaccination contre l'hépatite B de rentrer dans le PEV. Véritable fléau, cette maladie était encore responsable en 2002 dans le monde, de 5,2 millions d'hépatites aiguës et de plus de 520 000 décès (470 000 par cirrhose et cancer du foie, 52 000 liés à l'infection aiguë), essentiellement en Asie du sud-est et en Afrique. Si, dans les années 1990, le coût du vaccin était un frein à son introduction clans le programme, actuellement le prix de la dose est beaucoup plus abordable. De nombreux pays émergents asiatiques l'ont adopté. En Afrique, la couverture vaccinale (CV), bien qu'en grand progrès, est encore insuffisante. La vaccination s'administre en association avec le vaccin combiné contre le tétanos, la diphtérie et la coqueluche à 6, 10 et 14 semaines.
+
+### _3. Haemophilus influenzae b_
+
+Actuellement, l'OMS recommande d'introduire dans le PEV la vaccination contre la bactérie _Haemophilus influenzae b_ (Hib), principale respon¬sable des méningites bactériennes clans les deux premières années de vie, en dehors des redoutables épidémies de méningites à méningocoque dans la "ceinture de la méningite" africaine (voir vaccin contre les méningocoques) contre lesquelles il n'existe pas encore de vaccin pour les nourrissons. Un vaccin combiné D-T-Coq-HepB-Hib entièrement liquide, actuellement disponible, favorise l'introduction de cette vaccination dans de nombreux pays africains.
+
+## IV. Résultats de la mise en place du PEV
+
+Jusqu'au milieu des années 1980, les différents états mirent progressivement en place leur programme ainsi que les infrastructures souvent quasi inexistantes en Afrique, permettant sa réalisation.
+
+### Amélioration de la CV dans un premier temps
+
+La CV, en particulier contre les six premières maladies cibles du programme, augmenta rapidement dans les années 1980 pour atteindre son apogée au début des années 1990. Par exemple, alors qu'elle était de moins de 5 % en 1974, la CV diphtérie-tétanos-coqueluche atteignait près de 60 % en Afrique en 1990.  
+Cette année-là, l'UNICEF, l'OMS, le Programme des Nations-Unies pour le développement (PNUD), la Banque Mondiale et la Fondation Rockefeller créèrent l'Initiative pour la Vaccination des Enfants (_CVI : Children Vaccine Initiative_) conçue pour faciliter le développement et la production des vaccins pour le PEV ainsi que pour mobiliser les bailleurs de fonds.
+
+### Baisse de la CV dans les années 2000
+
+Pourtant, dans les années suivantes, la CV commença à décroître dans certains pays, du fait certes de problèmes socio-politiques mais aussi de difficultés d'approvisionnement en vaccins et de financement. En 1999, elle retomba en dessous de 50 % en Afrique. En Somalie, par exemple, seulement 18 % des enfants étaient vaccinés contre le tétanos, la diphtérie et la coqueluche et moins d'un quart au Nigeria, pays le plus peuplé du continent, contre 50 % en 1989. En République Centrafricaine, la CV contre ces trois maladies était passée de 82 % en 1990 à 29% en 2000, et en République du Congo, de 79 % à 33 %. De nouvelles initiatives s'impo¬saient, d'autant plus que les statistiques sanitaires de 2001 démontraient sans ambiguïté les bienfaits de la vaccination pour diminuer la mortalité en Afrique.
+
+### Mise en place d'un nouveau programme
+
+Une série d'échanges entre les partenaires publics et privés concernés par la vaccination des enfants des pays les moins avancés, essentiellement d'Afrique, convaincus que la réduction de la mortalité infantile était nécessaire au développement, déboucha sur la création en 2000 de l'Alliance globale pour les vaccins et la vaccination, plus connue sous son acronyme anglo-saxon GAVI (_Global Alliance for Vaccines and Immunization_). Les promoteurs de cette démarche originale partaient du constat que le principal obstacle à une meilleure utilisation des principaux vaccins n'étaient pas leur prix, puisque l'ensemble des six  
+vaccins de base du PEV ne coûtait qu'un dollar américain, mais le coût de la logistique allié au manque de volonté politique. Il fallait penser "vaccinologie" telle que nous l'avons définie et pas seulement vaccins.  
+Un élément capital pour la création de GAVI fut la décision de la Fondation Bill et Melinda Gates de soutenir l'initiative en annonçant en 2000 un financement de 750 millions de dollars sur cinq ans, engagement qu'elle a renouvelé pour les cinq années suivantes. GAVI regroupe actuellement l'OMS, l'UNICEF, la Banque mondiale, la Fondation Gates, des organismes de recherche et de santé publique, des gouvernements des pays industrialisés et des pays en développement, les principaux producteurs de vaccins tant des pays du nord que des pays émergents, et des organisations non gouvernementales (ONG).
+
+Dans les pays où la CV est inférieure à 75 % et où le PNB est inférieur à 1 000 $, c'est-à-dire dans pratiquement tous les pays sub-sahariens, GAVI a plusieurs objectifs principaux :
+
+*   le financement d'infrastructures (chaîne du froid, véhicules...) et la formation du personnel de santé en particulier à la gestion du programme, préalable à la mise à disposition des vaccins,
+*   la fourniture des vaccins de base traditionnels du PEV,
+*   la fourniture de vaccins insuffisamment utilisés tels ceux contre l'hépatite B, l'infection à Hib et la fièvre jaune,
+*   la fourniture de seringues à usage unique pour garantir la sécurité des vaccinations.
+
+Grâce à GAVI, la baisse des couvertures vaccinales observée dans les années 1990 est enrayée et tend à s'améliorer dans de nombreux pays. A cet égard, le Burkina Faso est exemplaire : en 2006, la CV contre le tétanos, la diphtérie et la coqueluche atteignait 90 %.  
+Dans les années 1990, outre les insuffisances du financement, l'augmentation fulgurante du nombre de doses vaccinales requises pour satisfaire les programmes avait souvent rendu problématique l'approvisionnement en vaccins, la bio-industrie, concentrée au Nord, ne pouvant satisfaire la demande. Aujourd'hui, ces difficultés sont en grande partie résolues grâce aux progrès rapides de l'industrie des vaccins dans les pays émergents d'Amérique latine (Brésil, Cuba) et d'Asie (Chine, auto-suffisante pour ses besoins nationaux, Inde, Indonésie, Corée du Sud). Il est important de souli¬gner que ces pays fournissent actuellement la moitié du nombre total de doses de vaccins requis dans le monde par le PEV, réalité impensable il y a à peine dix ans.
+
+## En conclusion
+
+Bien que la situation sanitaire, en particulier l'importance de la mortalité infantile, soit encore préoccupante et constitue une entrave au développement dans la plupart des pays de l'Afrique subsaharienne, l'optimisme peut être de mise pour les prochaines années en ce qui concerne l'amélioration de l'application des programmes de vaccination. Mais il faut d'une part, continuer à relever le défi que constitue l'adaptation des capacités de production en vaccins aux besoins, d'autre part, que l'aide financière se poursuive sur le long terme, ce qui semble acquis du fait de mécanismes de financement innovants. Il faut aussi que la volonté politique accompagne ces efforts dans les différents pays qui bénéficient actuellement d'un personnel médical et paramédical de mieux en mieux formé à la santé publique.
+
+Développement et Santé, n°195, 2009

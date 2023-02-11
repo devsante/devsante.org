@@ -1,0 +1,499 @@
+Title: Epidémiologie de l'hépatite C
+
+---- Author: Par Aminata Sall Diallo*, Dominique Malègue** * Responsable du PNLH (Programme National de Lutte contre les Hépatites) au Ministère de la Santé du Sénégal. Professeur de physiologie et de biologie à l'UCAD (Université Cheikh Anta Diop) de Dakar. Coordinatrice de l'initiative panafricaine sur les hépatites. ** Médecin, Paris, France.
+
+----  
+Datetime: 2012-09-04 00:00
+
+----  
+Teaser:
+
+Le virus de l’hépatite C, identifié en 1988, est responsable de 70 % à 90 % des hépatites post-transfusionnelles. Il provoque, chez 85 % des sujets atteints, une infection chronique pouvant aboutir à une cirrhose ou à un cancer du foie.
+
+----  
+Text:
+
+## I. Modes de transmission
+
+La transmission se fait essentiellement par voie sanguine  :  transfusion  de  sang  contaminé,  utilisation de drogues par voie intraveineuse, hémodialyse, accidents liés à l’utilisation, par les personnels de santé,  
+d’objets pointus contaminés… tous gestes provoquant une inoculation directe de sang contaminé. On estime que, chaque année, les injections à risque sont responsables  de  2  millions  d’infections  à  VHC.  C’est pourquoi les efforts doivent se concentrer sur la sécurité transfusionnelle et la sécurité des injections.
+
+## II. Données épidémiologiques 
+
+On  estime  à  200  millions  le  nombre  de  personnes atteintes dans le monde, la prévalence variant selon les pays : inférieure à 0,5 % en Scandinavie et jusqu’à 20 % en Egypte. La forte prévalence dans ce pays est attribuée aux campagnes de traitement de la bilharziose par des médicaments  injectables,  débutées  dans  les  années 1930 et poursuivies jusqu’à la fin des années 1970.
+
+La prévalence dans certains pays d’Afrique sub-saharienne est élevée. La plupart des cas mortels observés chez les personnels de santé sont relevés dans cette partie du monde.
+
+<table>
+<caption>Tableau 1 : hépatite C, estimation de la prévalence et du nombre de sujets infectés dans les régions OMS</caption>
+
+<thead>
+
+<tr>
+
+<th class="rteleft" scope="row" style="width: 97px; ">Région OMS</th>
+
+<th scope="col" style="width: 70px; ">Population totale  
+(millions)</th>
+
+<th scope="col">Taux (%)</th>
+
+<th scope="col">Population infectée  
+(millions)</th>
+
+<th scope="col">Données  
+non disponibles  
+(nombre de pays)</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<th class="rteleft" scope="row" style="width: 101px; ">Afrique</th>
+
+<td class="rtecenter" style="width: 74px; ">602</td>
+
+<td class="rtecenter" style="">5,3</td>
+
+<td class="rtecenter" style="">31,9</td>
+
+<td class="rtecenter" style="">12</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="width: 101px; ">Amérique N & S</th>
+
+<td class="rtecenter" style="width: 74px; ">785</td>
+
+<td class="rtecenter" style="">1,7</td>
+
+<td class="rtecenter" style="">13,1</td>
+
+<td class="rtecenter" style="">7</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="width: 101px; ">Méditerranée orientale</th>
+
+<td class="rtecenter" style="width: 74px; ">466</td>
+
+<td class="rtecenter" style="">4,6</td>
+
+<td class="rtecenter">21,3</td>
+
+<td class="rtecenter">5</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="width: 101px; ">Europe</th>
+
+<td class="rtecenter" style="width: 74px; ">858</td>
+
+<td class="rtecenter" style="">1,03</td>
+
+<td class="rtecenter" style="">8,9</td>
+
+<td class="rtecenter" style="">19</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="width: 101px; ">Asie du sud-est</th>
+
+<td class="rtecenter" style="width: 74px; ">1 500</td>
+
+<td class="rtecenter" style="">2,15</td>
+
+<td class="rtecenter" style="">32,3</td>
+
+<td class="rtecenter" style="">3</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="width: 101px; ">Pacifique ouest</th>
+
+<td class="rtecenter" style="width: 74px; ">1 600</td>
+
+<td class="rtecenter" style="">3,9</td>
+
+<td class="rtecenter" style="">62,2</td>
+
+<td class="rtecenter" style="">11</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="width: 101px; ">Total</th>
+
+<td class="rtecenter" style="width: 74px; ">5 811</td>
+
+<td class="rtecenter" style="">18,7</td>
+
+<td class="rtecenter" style="">169,7</td>
+
+<td class="rtecenter" style="">57</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+**Estimation de la mortalité**  
+Soixante-trois pour  cent  des  personnes  infectées avant l’âge de 40 ans progressent vers une infection chronique avec une incidence de cirrhose de 5 % à 20 ans et une mortalité annuelle par insuffisance hépatique chronique de 3,7 % après le début de la cirrhose.
+
+<table>
+<caption>Tableau 2 : prévalence de l'hépatite C en Afrique sub-saharienne.  
+D'après Madhava <em>et al</em>.</caption>
+
+<thead>
+
+<tr>
+
+<th scope="row">Pays</th>
+
+<th colspan="2" rowspan="1" scope="col">Population générale</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<th scope="row"> </th>
+
+<td class="rtecenter" style="">Moyenne</td>
+
+<td class="rtecenter" style="">Extrêmes</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="">Afrique centrale</th>
+
+<td class="rtecenter" style=""> </td>
+
+<td class="rtecenter" style=""> </td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="">
+
+Burundi
+
+Cameroun
+
+République Centre Africaine
+
+Tchad
+
+Congo
+
+République Démocratique du Congo
+
+Guinée équatoriale
+
+Gabon
+
+Rwanda
+
+Soudan
+
+Ouganda
+
+Total Afrique Centrale
+
+</th>
+
+<td>
+
+11,3
+
+13,8
+
+2,4
+
+4,8
+
+-
+
+5,5
+
+1,7
+
+9,2
+
+4,1
+
+2,8
+
+6,6
+
+6,0
+
+</td>
+
+<td>
+
+4,9-33,3
+
+0,0-40,0
+
+0,0-6,1
+
+2,4-5,8
+
+2,5-9,2
+
+4,3-6,6
+
+1,7-1,7
+
+6,5-16,5
+
+0,9-17,0
+
+1,5-3,2
+
+0,0-14,2
+
+0,0-40,0
+
+</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="">Afrique de l'ouest</th>
+
+<td> </td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="">
+
+Bénin
+
+Burkina Faso
+
+Côte d'Ivoire
+
+Gambie
+
+Ghana
+
+Guinée
+
+Mauritanie
+
+Niger
+
+Nigeria
+
+Sénégal
+
+Togo
+
+Total Afrique de l'Ouest
+
+</th>
+
+<td>
+
+1,6
+
+4,9
+
+3,3
+
+2,4
+
+1,7
+
+5,5
+
+1,1
+
+1,8
+
+2,1
+
+2,2
+
+3,9
+
+2,4
+
+</td>
+
+<td>
+
+0,0-4,0
+
+2,2-8,3
+
+3,3-8,2
+
+2,4-2,4
+
+0,1-5,4
+
+0,8-8,7
+
+1,1-1,1
+
+0,0-7,6
+
+0,0-5,8
+
+0,0-7,3
+
+1,3-6,1
+
+0,0-8,7
+
+</td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="">Afrique Australe et de l'Est</th>
+
+<td> </td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<th class="rteleft" scope="row" style="">
+
+Erythrée
+
+Ethiopie
+
+Kenya
+
+Madagascar
+
+Malawi
+
+Mozambique
+
+Somalie
+
+Afrique du Sud
+
+Swaziland
+
+Tanzanie
+
+Zambie
+
+Zimbabwe
+
+Total Afrique Australe et de l'Est
+
+</th>
+
+<td>
+
+1,9
+
+1,9
+
+0,9
+
+0,7
+
+2,8
+
+1,5
+
+0,1
+
+1,5
+
+0,1
+
+1,5
+
+3,2
+
+0,2
+
+1,6
+
+</td>
+
+<td>
+
+0,0-6,0
+
+0,6-3,4
+
+0,0-1,0
+
+1,2-3,3
+
+0,7-0,7
+
+2,1-3,2
+
+0,0-7,0
+
+0,0-3,5
+
+1,5-1,5
+
+0,5-8,6
+
+0,0-0,3
+
+0,2-7,7
+
+0,0-8,6
+
+</td>
+
+</tr>
+
+<tr>
+
+<th scope="row">Total Afrique sub-saharienne</th>
+
+<td>3,0</td>
+
+<td class="rtecenter" style="">0,0-40,0</td>
+
+</tr>
+
+</tbody>
+
+</table>

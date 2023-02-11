@@ -1,0 +1,235 @@
+Title: Tréponématoses non IST
+
+---- Author: Jean-Loup Rey Médecin, GISPE
+
+----  
+Datetime: 2011-09-03 00:00
+
+----  
+Teaser:
+
+Les tréponématoses sont des maladies dues à des bactéries très particulières filiformes, de la famille des spirochètes : les tréponèmes (Treponema pallidum).  
+Chez l’homme, il existe 4 formes cliniques différentes avec des points communs et des divergences.  
+Une seule est sexuellement transmissible : la syphilis. Les autres sont endémiques : pian, syphilis endémique (bejel) en Afrique et pinta ou caraté en  Amérique.
+
+Les manifestations cliniques diffèrent mais évoluent toutes en 3 phases :
+
+*   La phase primaire qui correspond à l’introduction du tréponème dans l’organisme,
+*   La phase secondaire correspond à la diffusion du tréponème dans l’organisme.
+*   La phase tertiaire correspond à différentes complications viscérales.  
+
+----  
+Text:
+
+## I. Clinique
+
+### 1. La syphilis
+
+Elle fait partie des IST (fiche dans le guide pour l’infirmier isolé), elle est gravissime par ses complications tertiaires.  
+Elle est la seule, ou presque, qui a des complications tertiaires.  
+La bactérie responsable est Treponema pallidum.
+
+### 2. Le pian (framboesia)
+
+#### a. Epidémiologie
+
+Le pian est une infection chronique dont la localisation est principalement cutanée, osseuse et cartilagineuse. C’est la plus fréquente des tréponématoses non IST.  
+C’est une maladie qui sévit surtout dans les communautés pauvres des régions chaudes, humides et tropicales d’Afrique, d’Asie et d’Amérique latine. Elle s’étend parfois dans les régions de savane humide mais disparaît en savane sèche.  
+On ignore quelle est la prévalence actuelle de cette maladie, car il n’y a pas de notification officielle dans le monde et dans de nombreux pays depuis 1990. Près de 5 000 nouveaux cas sont notifiés chaque année en Asie du sud-est. Il existe des rapports indiquant que le pian est toujours présent dans certains pays d’Afrique subsaharienne et de la Région du Pacifique occidental. Par exemple, en 2005, près de 26 000 cas ont été notifiés au Ghana et près de 18 000 en Papouasie-Nouvelle Guinée.  
+L’organisme responsable est une **bactérie** appelée _Treponema pallidum pertenue_, une sous-espèce de _Treponema pallidum_ responsable de la syphilis, maladie vénérienne.  
+Près de 75 % des sujets touchés sont des enfants de moins de quinze ans (le pic d’incidence étant observé chez les enfants âgés de six à dix ans); garçons et filles sont atteints de la même façon. La surpopulation, une hygiène individuelle médiocre et un assainissement insuffisant facilitent la propagation de cette maladie.  
+La **transmission** du pian se fait principalement par contact cutané direct avec une personne infectée; elle est très facile entre membres d’une même fratrie ou dans une communauté. Les contacts répétés et proches favorisent la transmission.
+
+#### b. Signes
+
+Une petite lésion cutanée unique se développe au point d’entrée de la bactérie au bout de deux à quatre semaines. Cliniquement la lésion initiale, le chancre d’inoculation, est rarement reconnue.  
+La lésion essentielle est le « pianome ». C’est une lésion cutanée sous forme de tuméfaction bourgeonnante, rosée, humide évoluant vers la périphérie donnant souvent une image en anneau. Cette lésion est légèrement inflammatoire et douloureuse. Elle peut être unique ou au multiple. Au niveau des muqueuses on la retrouve dans la bouche et au niveau des organes génitaux externes ou l’anus.  
+Un autre type de lésion est la pianide qui est une lésion cutanée sèche souvent difficile à distinguer de lésions cutanées plus banales. Elles sont papulo-croûteuses, écailleuses. Les localisations palmaires ou plantaires peuvent être extrêmement douloureuses.
+
+(image: pian-congo-1971-jlr-retouche-3.jpg)
+
+
+#### c. Complications
+
+Le pian se complique de lésions osseuses parfois dramatiques. La polydactylite est une inflammation aigue des doigts n’atteignant pas la dernière phalange ; les doigts sont tuméfiés et douloureux, la radio montre une périostite. Le "goundou", plus rare, est une atteinte des os du nez avec tuméfaction puis destruction.  
+Les complications tardives ne concernent que les os, la peau et les muscles. La destruction des os du nez et de la face forme un visage léproïde, le pian peut mutiler les membres et déformer les tibias en lame de sabre. C’est une maladie qui est rarement mortelle, mais qui peut entraîner des mutilations et des incapacités chroniques.
+
+#### d. Traitement
+
+Le pian peut être traité par une dose unique d’un antibiotique bon marché et efficace ; une injection de benzathine benzylpénicilline guérit la maladie.  
+Concernant la prévention, il n’y a pas de vaccin pour prévenir le pian. Les principes de prévention sont basés sur l’interruption de la transmission grâce au diagnostic et au traitement précoces des sujets infectés et de leurs contacts.
+
+### 3. La syphilis endémique ou béjel
+
+L’agent pathogène est  Treponema pallidum endemicum.  
+Elle est moins répandue et concerne les régions arides d’Afrique et du Moyen-Orient. Elle atteint les enfants dès 18 mois, surtout au sein des populations pasteurs nomades. La transmission est très facile (60 à 80 % de la population est infectée) à partir des petites plaies de la vie courante.
+
+Cliniquement, on ne retrouve jamais la porte d’entrée. Les lésions sont cutanéo-muqueuses à  type de papules sèches, blanchâtres, légèrement surélevées, saignant facilement. Elles siègent au niveau des lèvres, de la bouche, des organes génitaux externes et de l’anus.  
+Plaques muqueuses dans la bouche, avec des lésions humides sur les plis cutanés et des lésions plus sèches sur le tronc et les extrémités. Hyperkératose palmaire et plantaire avec fissurations douloureuses. Lésions inflammatoires tardives de la peau, des os ou du nasopharynx.
+
+### 4. Le caraté ou pinta
+
+La bactérie responsable est _Treponema pallidum carateum_  
+C’est une maladie d’Amérique centrale et du Sud évoluant en foyers. Elle se manifeste par des lésions cutanées bleuâtres avec des zones de décoloration.  
+Papule écailleuse indolore avec lymphadénopathie satellite, apparaissant au dos de la main ou du pied ou sur les jambes.  
+Éruption maculopapulaire érythémateuse secondaire évoluant vers une ou plusieurs zones de dépigmentation tertiaire (décoloration bleue/violette/brune), riche en tréponèmes.  
+Les cicatrices du stade final ne comportent pas de tréponèmes.  
+La maladie n’est pas mortelle et n’entraîne pas d’incapacité. Elle ne présente jamais d’autres localisations ni complications.
+
+## II. Biologie  des tréponématoses
+
+Toutes ces maladies présentent un bilan biologique commun, le laboratoire ne permet pas de différencier les différentes espèces de tréponèmes.
+
+### 1. Bactériologie
+
+Les examens biologiques courants ne permettent pas de distinguer le tréponème de la syphilis de celui du pian ou du béjel.  
+Ces bacilles sont très nombreux au niveau des chancres, des lésions humides ou muqueuses. On les observe directement au microscope à fond noir ou à contraste de phase ou, après coloration spécifique, au microscope normal.
+
+(image: treponemes-fb.jpg)
+
+
+### 2. Sérologie
+
+Toutes les tentatives faites pour cultiver les bactéries _T. pallidum_ ont été des échecs.  
+Seule la détection de la réponse sérologique contre _T. pallidum_ permet de mettre en évidence l’infection causée par ces germes.  
+Toutes ces maladies provoquent l’apparition d‘anticorps spécifiques de Tréponème. Ces anticorps sont mis en évidence par des tests non spécifiques et les tests spécifiques.  
+La réaction historique de Bordet Wasserman d’où le nom de BW est un test non spécifique.  
+La présence d’un test positif signe une infection ancienne ; il n’est pas possible de préciser la date de l’infection ni de déterminer si la maladie évolue. Même après traitement, la réaction peut rester positive, mais il est possible de quantifier en partie les anticorps.
+
+### 3. Tests non spécifiques
+
+Les tests non spécifiques VDRL (Venereal Disease Research Laboratory) ou RPR (Rapid Plasma Reagin) détectent des anticorps anticardiolipidiques dirigés contre T. pallidum ou qui apparaissent à la suite d’une interaction entre l’hôte et T. pallidum. Ils sont fréquemment utilisés parce qu’ils sont économiques et faciles à pratiquer. En revanche, ils peuvent donner des résultats faussement positifs, et il peut s’avérer utile de confirmer les résultats positifs à l’aide de tests spécifiques. Diverses conditions, pathologiques ou non, peuvent être associées à des tests faussement positifs : causes infectieuses (paludisme, tuberculose, trypanosomiase, viroses, en particulier VIH, lèpre) causes non infectieuses (lupus, maladie du collagène, grossesse vieillissement).
+
+#### 4. Tests spécifiques
+
+Les tests le plus souvent utilisés sont le TPHA, le TPPA ou le FTA-ABS. Des résultats positifs à ces tests prouvent l’existence d’une ancienne infection ou d’une infection actuelle à T. pallidum. La réalisation des tests en laboratoire nécessite un personnel formé et de l’équipement spécialisé. Ces tests demeurent toujours positifs chez les personnes atteintes de syphilis (traitée ou non).  
+Une nouvelle génération de ces tests en ELISA est actuellement disponible sur le marché ; ceux-ci peuvent être automatisés pour faire du dépistage de masse.
+
+<table>
+
+<thead>
+
+<tr>
+
+<th class="rtecenter" scope="col">Avantages et inconvénients des tests rapides</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td class="rtecenter">Tests non spécifiques : RPR ou VDRL</td>
+
+</tr>
+
+<tr>
+
+<td>Avantages<ul><li>Sont faciles à utiliser.</li><li>Peuvent faire la distinction entre une infection active et une ancienne infection déjà traitée (les titres d’anticorps diminuent après un traitement efficace, sauf chez un petit nombre de personnes où ils demeurent stables).</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td>Désavantages<ul><li>Nécessitent une alimentation électrique pour un réfrigérateur (stockage des réactifs), un agitateur et une centrifugeuse.</li><li>Ne peuvent pas être utilisés avec du sang entier.</li><li>Un excès d’anticorps peut entraîner un résultat faussement négatif (prozone).</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td class="rtecenter">Tests spécifiques rapides</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Avantages
+
+<ul><li>Sont faciles à utiliser.</li><li>Peuvent être utilisés avec du sang entier, du sérum ou du plasma.</li><li>Peuvent être transportés et stockés à des températures inférieures à 30oC.</li><li>Absence de prozone</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Désavantages
+
+<ul><li>Ne peuvent faire la distinction entre une infection active et une ancienne infection déjà traitée (les anticorps contre les antigènes tréponèmiques utilisés dans les tests diagnostics rapides demeurent présents pendant des années).</li></ul></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+OMS  Utilisation des tests diagnostiques rapides de la syphilis ; TDR/SDI Genève. 2006
+
+## III. Traitement
+
+Tous les tréponèmes restent sensibles à la pénicilline et aux antibiotiques de la famille.  
+Une seule injection suffit pour faire disparaître les signes ; la guérison est considérée comme obtenue après répétition de cette injection 2 ou 3 fois et examen bactériologique négatif s’il est possible de le faire.  
+On utilise la benzathine benzil pénicilline à des doses allant de 600 000 à 2,4 millions d’unités selon l’âge, par voie IM.
+
+Entre 1950 et 1970, l’OMS et l’UNICEF ont dirigé une campagne mondiale de lutte contre le pian dans 46 pays. Des campagnes de masse faisant appel à des équipes mobiles se déplaçant dans l’ensemble de ces pays ont permis de traiter 50 millions de personnes et, en 1970, la prévalence de la maladie avait chuté de 95 %. Ces campagnes ont bien sûr également fait baisser la prévalence de la syphilis vénérienne et de certaines autres, IST améliorant par ricochet la fécondité de certains groupes ethniques antérieurement hypoféconds (Nzakara de RCA, Bobo-Oulé du Burkina Faso). Il est envisagé actuellement de reprendre ces campagnes de traitement systématique pour faire baisser le nombre de cas de pian en augmentation dans certaines régions.
+
+**Peut-on éradiquer le pian ?**  
+Les experts pensent qu’il est facile de lutter contre le pian, voire de l’éradiquer, pour les raisons suivantes :
+
+*   c’est une maladie qui ne touche que l’homme,
+*   on dispose d’un traitement puissant ayant un bon rapport coût/efficacité, qui consiste en une injection unique de benzathine benzylpénicilline retard,
+*   le diagnostic clinique est fiable avec une formation minimum du personnel de santé,
+*   l’expérience passée a montré que l’élimination était possible dans un certain nombre de pays.
+
+**Attention**  
+Compte tenu des rapports étroits entre IST et VIH et de la non-spécificité des réactions sérologiques des tréponématoses, il doit être proposé un dépistage du VIH pour tout adulte qui présente une réaction sérologique positive aux tréponématoses.
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Rappel : traitement de la syphilis (OMS STI Guidelines 2003)</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Protocole thérapeutique recommandé<ul><li>Benzathine benzylpénicilline8, 2,4 millions UI, en injection intramusculaire, administrée lors de la même visite. Le volume étant important, cette dose de pénicilline est généralement administrée en deux injections à différents endroits.</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td>Autre protocole thérapeutique possible<ul><li>Benzylpénicilline procaïne9, 1,2 million UI par jour, en injection intramusculaire, pendant 10 jours consécutifs</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Autres protocoles thérapeutiques destinés aux patients allergiques à la pénicilline, en l’absence de grossesse
+
+<ul><li>Doxycycline, 100 mg par voie orale, 2 fois par jour, pendant 14 jours ou,</li><li>Tétracycline, 500 mg par voie orale, 4 fois par jour, pendant 14 jours</li></ul></td>
+
+</tr>
+
+<tr>
+
+<td>Autres protocoles thérapeutiques destinés aux patientes enceintes allergiques à la pénicilline<ul><li>Erythromycine, 500 mg par orale, 4 fois par jour, pendant 14 jours ou,</li><li>Ceftriaxone IM 14 jours</li></ul></td>
+
+</tr>
+
+</tbody>
+
+</table>

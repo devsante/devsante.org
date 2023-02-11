@@ -1,0 +1,32 @@
+Title: Médicaments pour enfants
+
+----  
+Datetime: 2012-06-17 00:00
+
+----  
+Text:
+
+Souvent mal adaptés donc dangereux !
+
+La commercialisation des formes pédiatriques d’un nouveau médicament n’est pas une priorité pour les firmes pharmaceutiques car elles sont beaucoup moins rentables que les formes adultes.  
+Pas étonnant que l’on doive souvent « bricoler » les formes adultes, en ouvrant les gélules, en écrasant les comprimés (on devine les erreurs de dosages possibles), pour finalement donner un médicament qui n’a pas d’AMM pédiatrique (Autorisation de Mise sur le Marché, ici pour les enfants).
+
+Quant aux excipients, certains contiennent de l’alcool, d’autres ont un goût inacceptable pour un enfant ; à l’opposé certains médicaments sont des « bonbons » - aspirine, paracétamol - et ils ont pu provoquer des intoxications mortelles.
+
+Pour les sirops ou solutions, quand l’unité est la cuiller à café ou à soupe, les écarts de volume peuvent varier du simple au double. On peut croire que les dosettes ou les gobelets gradués sont un progrès, mais leur remplissage est variable, source là aussi d’erreur.
+
+Ce sont finalement les seringues graduées qui offrent le maximum de sécurité, mais souvent les notices passent facilement de mg/kg à ml/kg !!  
+Il faut de plus, pour passer de la dose journalière à la dose par prise en cas de prises pluriquotidiennes, réaliser une division.
+
+**Quelles mesures prendre pour limiter les erreurs ?**
+
+*   Sirop : agiter le flacon avant l’emploi.
+*   Bouchon sécurisé, que les enfants ne peuvent pas ouvrir.
+*   Notice lisible toujours, en langue vernaculaire (et mentionnant toujours la DCI).
+*   Pour les comprimés ou les gélules, abandonner les médicaments en vrac et privilégier les blisters (plaquettes) qui rendent plus difficile une ingestion massive.
+
+Enfin, il faut faire pression auprès des laboratoires pharmaceutiques pour qu'ils mettent sur le marché des formes pédiatriques et proposer une bonne dispensation.
+
+Par Philippe Reinert, pédiatre, Créteil, France
+
+_Sources : Prescrire Juin 2012_

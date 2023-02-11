@@ -1,0 +1,923 @@
+Title: Interactions médicamenteuses avec les anticoagulants
+
+---- Author: Pascale Lesseur, pharmacien, Paris Dominique Malègue, médecin, Paris
+
+----  
+Datetime: 2014-12-20 00:00
+
+----  
+Teaser:
+
+Les anticoagulants sont prescrits dans la prévention ou le traitement des accidents thrombo-emboliques. Ils sont utilisés principalement dans le cadre d’affections cardio-vasculaires telles que l’insuffisance coronarienne et l’infarctus du myocarde, les troubles du rythme, les valvulopathies, les thromboses veineuses, l’embolie pulmonaire (ou le risque d’embolie pulmonaire).  
+Ces médicaments doivent être prescrits avec prudence et le traitement étroitement surveillé, le rapport entre dose efficace et dose toxique étant peu important.  
+Leur administration en association avec d’autres médicaments peut conduire à des interactions potentiellement dangereuses pouvant entraîner une inefficacité du traitement ou au contraire un surdosage (risque hémorragique).  
+C’est pourquoi il est essentiel de les connaître et d’expliquer précisément au patient la conduite et la surveillance du traitement.  
+La plupart des interactions avec les anticoagulants sont connues pour un médicament donné. On connait beaucoup moins bien les interactions éventuelles concernant plus de deux ou trois médicaments associés.  
+Il faut donc prescrire avec prudence et être sûr que tous les médicaments prescrits sont justifiés.
+
+----  
+Text:
+
+## **I. Quelques généralités sur les interactions**
+
+### **1. Les principaux types d’interactions médicamenteuses**
+
+Indépendamment du mécanisme ou de la cause, on définit trois types d’interactions entre deux ou plusieurs substances administrées simultanément :
+
+*   Synergie (ou additivité) : les effets des substances s’additionnent. Il peut s'agir des effets thérapeutiques mais aussi des effets indésirables.
+*   Antagonisme : une substance réduit (ou annule) les effets de l’autre.
+*   Potentialisation : une substance augmente les effets d’une autre.
+
+### **2. Les mécanismes des interactions**
+
+Les interactions médicamenteuses sont de deux types : pharmacodynamiques et pharmacocinétiques.
+
+#### **Les interactions pharmacodynamiques**
+
+Liées aux mécanismes d’action des médicaments, elles sont observées lorsque l’un des médicaments modifie les effets de l’autre. Elles concernent des médicaments ayant des propriétés ou des effets indésirables complémentaires analogues ou antagonistes vis-à-vis d’un même système physiologique. Les effets peuvent d’additionner ou au contraire s’annuler.
+
+#### **Les interactions pharmacocinétiques**
+
+Elles peuvent intervenir aux différentes étapes de la vie du médicament dans l’organisme :
+
+*   **Absorption** depuis le lieu d’administration : un médicament peut modifier la vitesse d’absorption ou la quantité absorbée d’un autre (on dit que la biodisponibilité du médicament est modifiée).
+*   **Diffusion** dans l’organisme : le médicament circule généralement dans le sang en partie sous forme liée aux protéines plasmatiques, en partie sous forme libre (non liée aux protéines). Seule cette dernière est active. Si un médicament A déplace un médicament B de sa liaison aux protéines plasmatiques, la forme libre (active) de B augmente, son activité est donc accrue, ce qui entraîne un risque de surdosage.
+*   Métabolisme : un médicament peut modifier l’activité d’un autre en stimulant ou en inhibant les enzymes qui le métabolisent (donc le dégradent).En effet, la plupart des médicaments sont hydrophobes et ne peuvent donc être éliminés (par voie urinaire ou biliaire) qu'après transformation en métabolites plus hydrosolubles. Ce métabolisme a lieu surtout dans le foie (mais aussi au niveau de l'intestin).
+*   Elimination : des interactions peuvent intervenir lors des deux étapes de l'élimination rénale : la filtration glomérulaire, et l'excrétion tubulaire active ou en cas de modification du pH urinaire.
+
+Il convient de préciser que le risque d’interaction est augmenté en cas de pathologies associées (insuffisance rénale, hépatique…), notamment chez le sujet âgé, et lorsque plusieurs autres traitements sont associés (parfois indispensables…). 
+
+## II. Niveau de l’interaction et recommandations
+
+Contre-indication : l’association d’un anticoagulant avec un autre médicament peut être formellement contre-indiquée : parce qu’elle peut conduire soit à un surdosage (risque hémorragique), soit au contraire à une inefficacité.
+
+### **Association déconseillée**  
+
+Dans ce cas, il s’agit d’une contre-indication relative.  L’association doit être de préférence évitée, et si cela est possible, la surveillance du traitement doit être renforcée.
+
+### Précaution d’emploi 
+
+C’est le cas le plus général. L’association est possible en respectant les recommandations.
+
+### Recommandations en cas d’interaction médicamenteuse :
+
+*   Remplacement du médicament associé à l’anticoagulant par une substance ayant un effet thérapeutique comparable et n’interagissant pas avec l’anticoagulant.
+*   Si l’association est inévitable, il faut :
+    *   informer  le patient,
+    *   et mettre en place une surveillance renforcée clinique, voire biologique.
+
+Pour la surveillance biologique : l’effet anticoagulant des antivitamine K est surveillé par un test sanguin appelé INR (International Normalized Ratio), expression du Taux de Prothrombine (TP).
+
+## III. Les principales interactions avec les anticoagulants essentiels
+
+Les interactions médicamenteuses avec les anticoagulants essentiels seront évoquées :
+
+*   Anticoagulants oraux : antivitamine K (acénocoumarol, warfarine, fluindione).
+*   Anticoagulants injectables = héparine (héparine sodique).
+*   Médicaments administrés par voie orale comme antiagrégants plaquettaires = acide acétylsalicylique, clopidogrel, ticlopidine.
+
+### 1. Interactions avec les antivitamine K
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">
+
+Médicament
+
+</th>
+
+<th scope="col">
+
+Risque
+
+</th>
+
+<th scope="col">Niveau de l'interaction</th>
+
+<th scope="col">
+
+Recommandations
+
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>
+
+Acide acétylsalicylique
+
+</td>
+
+<td>
+
+Majoration du risque hémorragique
+
+notamment en cas d’antécédent d’ulcère gastro-duodénal</td>
+
+<td>
+
+CONTRE-INDICATION
+
+Association déconseillée à faible doses
+
+</td>
+
+<td>
+
+Autre antalgique :  
+paracétamol, codéine, morphine, selon l’intensité de la douleur.  
+Contrôle biologique, en particulier temps de saignement.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Anti-inflammatoires non stéroïdiens (AINS)
+
+</td>
+
+<td>
+
+Augmentation du risque hémorragique  
+Toxicité digestive des AINS   
+
+</td>
+
+<td>
+
+Association DECONSEILLEE
+
+</td>
+
+<td>
+
+Paracétamol, codéine, morphine, selon l’intensité de la douleur.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Phénylbutazone</td>
+
+<td>Inhibition de la fonction plaquettaire +  toxicité digestive des AINS</td>
+
+<td>CONTRE-INDICATION</td>
+
+<td>Si association inévitable, surveillance clinique étroite, voire biologique. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Glucocorticoïdes
+
+Méthylprednisolone
+
+</td>
+
+<td>
+
+Risque hémorragique  
+Effet éventuel sur le métabolisme de l’AVK et sur celui des facteurs de la coagulation (à forte dose ou en traitement prolongé > 10 jours)  
+
+Augmentation de l’effet AVK (si doses 0,5-1 g en bolus)  
+
+</td>
+
+<td>
+
+Précaution d’emploi
+
+Précaution d’emploi
+
+</td>
+
+<td>
+
+Surveillance clinique et contrôle biologique au 8ème jour, puis tous les 15 jours et après son arrêt.
+
+Contrôle de l’INR 2-4 jours après bolus ou si signes hémorragiques.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Héparine</td>
+
+<td>Augmentation du risque hémorragique</td>
+
+<td>Précaution d'emploi</td>
+
+<td>Renforcer la surveillance clinique et biologique lors du relais.</td>
+
+</tr>
+
+<tr>
+
+<td>Ticlopidine</td>
+
+<td>Augmentation du risque hémorragique</td>
+
+<td>Association déconseillée</td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>Inhibiteurs sélectifs de la recapture de la sérotonine</td>
+
+<td>Augmentation du risque hémorragique</td>
+
+<td>Précaution d'emploi</td>
+
+<td>
+
+Surveillance clinique et contrôle de l'INR.
+
+Adaptation de la posologie de l'anticoagulant oral.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Antifongiques 
+
+            Miconazole 
+
+</td>
+
+<td>
+
+Hémorragies imprévisibles,éventuellement graves
+
+</td>
+
+<td>
+
+CONTRE-INDICATION
+
+</td>
+
+<td>
+
+Autre antifungique
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+          Fluconazole  
+          Itraconazole  
+         Voriconazole
+
+</td>
+
+<td>
+
+Augmentation du risque hémorragique  
+Augmentation de l’effet de l’AVK 
+
+</td>
+
+<td>
+
+Précaution d'emploi
+
+</td>
+
+<td>
+
+Contrôle plus fréquent de l’INR. Adaptation de la posologie de l’AVK pendant et 8 j après arrêt du trt antifongique.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>          Griséofulvine</td>
+
+<td>Risque thrombo-embolique  
+Diminution de l’effet de l’AVK par augmentation de son métabolisme hépatique par la griséofulvine</td>
+
+<td>Précaution d'emploi</td>
+
+<td>Contrôle plus fréquent de l’INR. Adaptation de la posologie de l’AVK pendant et 8 j après arrêt du trt antifongique.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Antibiotiques
+
+Certaines céphalosporines  
+(céfamandole, cefoperazone, cefotetan, ceftriaxone)
+
+Fluoroquinolones  
+Cyclines  
+Macrolides (sauf spiramycine)
+
+</td>
+
+<td>
+
+Augmentation du risque hémorragique  
+Augmentation de l’effet de l’AVK 
+
+</td>
+
+<td>
+
+Précaution d'emploi
+
+</td>
+
+<td>
+
+Contrôle plus fréquent de l’INR.
+
+Adaptation de la posologie de l’AVK pendant et 8 j après arrêt  de l’antibiotique
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Rifampicine</td>
+
+<td>Risque thrombo-embolique  
+Diminution de l’effet de l’AVK par augmentation de son métabolisme hépatique par la rifampicine</td>
+
+<td>Précaution d'emploi</td>
+
+<td>
+
+Contrôle plus fréquent de l’INR.  
+Adaptation de la posologie de l’AVK pendant et 8 j après arrêt  de l’antibiotique
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Sulfaméthoxazole  
+Chloramphénicol</td>
+
+<td>Augmentation du risque hémorragique  
+Augmentation importante de l’effet de l’AVK </td>
+
+<td>  
+Association DECONSEILLEE</td>
+
+<td>Si association ne peut être évitée, contrôle plus fréquent de l’INR et adaptation de posologie de l’AVK pendant et après arrêt du traitement antiinfectieux.</td>
+
+</tr>
+
+<tr>
+
+<td>  
+Noscapine (antitussif morphinique)</td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+Augmentation importante de l’effet de l’AVK </td>
+
+<td>
+
+Association DECONSEILLEE
+
+</td>
+
+<td>  
+Si association ne peut être évitée, contrôle plus fréquent de l’INR et adaptation de posologie de l’AVK pendant et après arrêt du traitement associé.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Antalgiques
+
+           Paracétamol
+
+</td>
+
+<td>
+
+Augmentation du risque hémorragique  
+Augmentation de l’effet de l’AVK si posologie de paracétamol 4 g/j pendant 4 j ou plus
+
+</td>
+
+<td>
+
+Précaution d'emploi
+
+</td>
+
+<td>
+
+Contrôle plus fréquent de l’INR. Adaptation de la posologie de l’AVK pendant la durée de l’association et à son arrêt.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>                Tramadol</td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+Augmentation de l’effet de l’AVK</td>
+
+<td>
+
+Précaution d'emploi
+
+</td>
+
+<td>Contrôle plus fréquent de l’INR. Adaptation de la posologie de l’AVK pendant la durée de l’association et à son arrêt.</td>
+
+</tr>
+
+<tr>
+
+<td>Amiodarone  
+et autres  
+anti-arythmiques</td>
+
+<td>
+
+Augmentation du risque hémorragique  
+Augmentation de l’effet de l’AVK 
+
+</td>
+
+<td>Précaution d'emploi</td>
+
+<td>
+
+Contrôle plus fréquent de l’INR. Adaptation de la posologie de l’AVK pendant la durée de l’association et à son arrêt.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Anticonvulsivants inducteurs enzymatiques</td>
+
+<td>
+
+Risque d’accident thrombo-embolique
+
+Diminution de l’effet de l’AVK par augmentation de son métabolisme hépatique par l’anticonvulsivant</td>
+
+<td>Précaution d'emploi</td>
+
+<td>
+
+Contrôle plus fréquent de l’INR.
+
+Adaptation de la posologie de l’AVK pendant et 8 j après arrêt  de l’anticonvulsivant.</td>
+
+</tr>
+
+<tr>
+
+<td>Fluorouracile</td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+Augmentation importante de l’effet de l’AVK </td>
+
+<td>Association DECONSEILLEE</td>
+
+<td>Si l’association ne peut être évitée, contrôle plus fréquent de l’INR et adaptation de posologie de l’AVK pendant et après arrêt du traitement associé.</td>
+
+</tr>
+
+<tr>
+
+<td>Allopurinol</td>
+
+<td>
+
+Augmentation du risque hémorragique  
+Augmentation de l’effet de l’AVK 
+
+</td>
+
+<td>Précaution d'emploi</td>
+
+<td>
+
+Contrôle plus fréquent de l’INR.
+
+Adaptation de la posologie de l’AVK.</td>
+
+</tr>
+
+<tr>
+
+<td>Pansements gastriques</td>
+
+<td>
+
+Baisse de l’effet anticoagulant
+
+Diminution de l’absorption digestive</td>
+
+<td>
+
+Association DECONSEILLEE
+
+</td>
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>Millepertuis</td>
+
+<td>
+
+Risque thrombotique  
+Diminution des concentrations
+
+plasmatiques de l’AVK (effet inducteur enzymatique) avec baisse d'efficacité voire annulation de l'effet</td>
+
+<td>CONTRE-INDICATION</td>
+
+<td>En cas d'association, ne pas interrompre brutalement la prise de millepertuis, mais contrôler l'INR avant et après son arrêt.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### 2. Interactions avec les héparines
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Médicaments</th>
+
+<th scope="col">Risque</th>
+
+<th scope="col">Niveau de  
+l'interaction</th>
+
+<th scope="col">Recommandations</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Dextran</td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+Inhibition de la fonction plaquettaire par le dextran</td>
+
+<td>Association   
+DECONSEILLEE</td>
+
+<td>Renforcer la surveillance clinique et si possible biologique (TCA* et contrôle de l’activité anti-Xa).</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Acide  
+acétylsalicylique
+
+</td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+Inhibition de la fonction plaquettaire et toxicité de l’acide acétylsalicylique sur la muqueuse gastroduodénale </td>
+
+<td>
+
+Association DECONSEILLEE
+
+</td>
+
+<td>Paracétamol, codéine, morphine, selon l’intensité de la douleur.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Anticoagulants
+
+oraux </td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+</td>
+
+<td>
+
+Précaution d'emploi
+
+</td>
+
+<td>Renforcer la surveillance clinique et si possible biologique (TCA et contrôle de l’activité anti-Xa) lors du relais.</td>
+
+</tr>
+
+<tr>
+
+<td>Anti-inflammatoires non stéroïdiens </td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+Toxicité des AINS sur la muqueuse gastroduodénale </td>
+
+<td>Association DECONSEILLEE</td>
+
+<td>
+
+Si l'association est inévitable, surveillance clinique étroite.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### 3. Interactions avec l'acide acétylsalicylique à visée anti-agrégante
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Médicament</th>
+
+<th scope="col">Risque</th>
+
+<th scope="col">Niveau de  
+l'interaction</th>
+
+<th scope="col">Recommandation</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>
+
+Anti-inflammatoires non stéroïdiens
+
+</td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+Toxicité des AINS sur la muqueuse gastroduodénale </td>
+
+<td>
+
+CONTRE-INDICATION avec la phénylbutazone.
+
+Association DECONSEILLEE
+
+avec les autres AINS.</td>
+
+<td>
+
+Paracétamol, codéine, morphine, selon l’intensité de la douleur.
+
+Si association inévitable, surveillance clinique étroite, voire biologique. 
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Anticoagulants  
+oraux
+
+Héparine
+
+</td>
+
+<td>
+
+Augmentation du risque hémorragique
+
+</td>
+
+<td>
+
+Précaution d’emploi
+
+</td>
+
+<td>
+
+Surveillance clinique et biologique.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Pansements gastriques</td>
+
+<td>
+
+Baisse de l’effet antiagrégant plaquettaire
+
+Diminution de l’absorption intestinale</td>
+
+<td>
+
+Association DECONSEILLEE
+
+</td>
+
+<td> </td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## Conclusion
+
+En pratique, il est indispensable de connaître les principales interactions médicamenteuses avant de prescrire un médicament à un patient traité par anticoagulant.  
+Il faut consulter la notice du médicament sur laquelle sont indiquées les recommandations, notamment poir tous les médicaments non cités dans cet article.  
+L’éducation du patient est essentielle :
+
+*   il doit comprendre l’importance de la surveillance du traitement,
+*   il ne doit pas prendre d’autres médicaments sans avis médical (pas d’automédication). 
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td> </td>
+
+<td>
+
+Antivitamine K
+
+</td>
+
+<td>
+
+Héparine
+
+</td>
+
+<td>
+
+Acide acétylsalicylique  
+à faible dose et autres antiagrégants plaquettaires
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>CONTRE-INDICATIONS</td>
+
+<td>
+
+Acide acétylsalicylique  
+Phénylbutazone  
+Miconazole  
+Millepertuis
+
+</td>
+
+<td> </td>
+
+<td>
+
+AINS
+
+Methotréxate à forte dose</td>
+
+</tr>
+
+<tr>
+
+<td>Associations DECONSEILLEES</td>
+
+<td>
+
+AINS  
+Sulfaméthoxazole  
+Noscapine  
+Fluorouracile  
+Pansements gastriques
+
+Ticlopidine</td>
+
+<td>
+
+Dextran  
+Acide acétylsalicylique  
+AINS  
+Clopidogrel  
+Ticlopidine
+
+</td>
+
+<td>
+
+AINS  
+Pansements gastriques  
+Héparine  
+AVK
+
+Ticlopidine</td>
+
+</tr>
+
+</tbody>
+
+</table>

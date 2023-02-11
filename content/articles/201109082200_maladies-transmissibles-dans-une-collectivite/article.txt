@@ -1,0 +1,102 @@
+Title: Maladies transmissibles dans une collectivité
+
+---- Author: Isabelle Roustang
+
+----  
+Datetime: 2011-09-08 00:00
+
+----  
+Teaser:
+
+La  prévention des maladies transmissibles en collectivité vise à lutter contre les sources de contamination et à réduire les moyens de transmission.  
+Le centre de santé met en contact de nombreuses personnes dans un espace limité, ce qui favorise la transmission des agents infectieux.
+
+Les agents infectieux sont :
+
+*   Les bactéries (ex : méningite à méningocoque, la syphilis, la tuberculose…)
+*   Les virus (ex : l’hépatite B, le VIH, la grippe, la rougeole…)
+*   Les champignons (ex : teigne, muguet buccal…)
+*   Les parasites (ex : les amibes, la gale, les poux…)  
+
+----  
+Text:
+
+## I. Trois étapes sont nécessaires pour  
+la transmission d’une maladie infectieuse
+
+### 1. Emission de l’agent infectieux à partir de son réservoir 
+
+*   Sujet malade ou porteur sain par des sources de contamination :
+    *   les sécrétions oro-pharyngées émises lors de la toux, des éternuements, de la parole,
+    *   les produits d’excrétion : salive, mucosités nasales, matières fécales…
+    *   la peau infectée : plaie, liquide de vésicules,
+    *   les cheveux infectés ou parasités,
+    *   le sang
+*   Animal malade ou porteur sain
+*   Environnement : terre, eau, air, objets qui peuvent aussi être vecteurs d’agents infectieux
+
+### 2. Transmission : différents modes de contamination possibles
+
+#### a. La transmission directe
+
+La contamination se fait de personne à personne (ou de l’animal à l’homme) à partir du contaminateur malade ou porteur sain de l’agent infectieux, jusqu’à la personne saine.
+
+De personne à personne
+
+*   Aérienne par la toux, les éternuements…pour les germes des infections respiratoires (rougeole, grippe, tuberculose, pneumonies,…) et les méningites bactériennes,
+*   Manuportée : transmise par les mains mal lavées : germes des infections des gastro-entérites, à transmission féco-orale (quand les conditions d’hygiène personnelle sont mauvaises).
+*   Sexuelle pour les maladies vénériennes (syphilis, VIH, hépatite B…)
+*   Par le sang à l’occasion d’une transfusion, d’une blessure, d’une injection avec du matériel souillé (hépatite B et C, le VIH…)
+*   Par la peau ou le cuir chevelu (gale, poux, teigne…)
+*   Par transmission « verticale » de la mère à l’enfant pendant la grossesse
+
+D’un animal contagieux à une personne, par exemple :
+
+*   Par voie cutanée (morsure transmettant la rage…)
+*   Par voie aérienne (grippe aviaire)…
+
+#### b. La transmission indirecte
+
+La contamination se fait hors de la présence du contaminateur par  l’intermédiaire d’objets ou de matériel contaminés :
+
+*   eau et alimentation, contaminés par des germes d’origine humaine (choléra, amibiase, salmonelles…)
+*   sol, terre, végétaux (tétanos)
+*   vecteurs tels les moustiques (paludisme), mouches, tiques (maladie de Lyme), blattes (gastro-entérites virales) etc.
+*   objets (gale)
+
+### 3. Pénétration de l'agent infectieux
+
+L’agent infectieux pénètre (par la bouche, le nez, la peau…) chez la personne saine qui devient alors infectée.
+
+La **période d’incubation** d’une maladie transmissible est le temps entre la contamination et l’apparition des premiers signes d’une maladie. Elle permet d’estimer le temps durant lequel d’autres cas peuvent survenir dans la collectivité.
+
+La **période de contagion** est celle pendant laquelle un malade peut transmettre la maladie à une autre personne. Elle permet de définir la durée nécessaire d’isolement du patient, pendant laquelle il existe un risque de transmission.  
+Le contrôle des maladies transmissibles nécessite donc une information précise sur la période d’incubation, la durée de contagion, les mesures à prendre concernant un éventuel isolement du sujet malade, l’hygiène et la prévention pour l’entourage.
+
+## II. Mesures d’hygiène en collectivité
+
+L’application des règles d’hygiène garde une place essentielle dans la prévention des maladies transmissibles en collectivité pour lutter contre les sources de contamination et réduire les moyens de transmission.  
+Un rappel régulier de la bonne pratique des règles d’hygiène est nécessaire. Les mesures d'hygiène portent sur :
+
+*   l'hygiène alimentaire,
+*   l'hygiène des locaux,
+*   l'hygiène du matériel,
+*   l'hygiène du linge,
+*   l'hygiène individuelle.
+
+Une application rigoureuse et quotidienne de ces mesures permet de s’opposer à la propagation des agents infectieux.
+
+**Le lavage des mains** est une mesure essentielle  dans les mesures d’hygiène individuelle. La transmission des agents infectieux par les mains est responsable de nombreuses infections.
+
+**Le lavage des mains :**
+
+*   Doit être répété très souvent dans la journée, particulièrement avant un contact avec un aliment, avant chaque repas.
+*   Est à renouveler à chaque fois qu’il y a un contact avec un produit biologique (selles, urine et autres liquides corporels).
+*   Se fait avec du savon.
+*   Doit être complété par un bon entretien des ongles qui doivent être coupés court et brossés régulièrement.
+
+D’autres mesures d’hygiène sont indispensables :
+
+*   Ne pas cracher.
+*   Se moucher avec un mouchoir (si possible en papier à usage unique) ou se laver les mains après s’être mouché.
+*   etc.

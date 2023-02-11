@@ -1,0 +1,112 @@
+Title: Organisation et sécurité de la vaccination
+
+---- Author: Philippe Jaillard Agence pour la Médecine Préventive, Ouagadougou,  Burkina Faso
+
+----  
+Datetime: 2009-04-29 00:00
+
+----  
+Teaser:
+
+La séance de vaccination est l'aboutissement des efforts considérables réalisés par le système de santé et ceux qui l'animent et également par les personnes ciblées pour en bénéficier. Il s'agit d'un acte auquel ces dernières, la plupart du temps en bonne santé, ont librement consenti à se prêter. Il ne doit pas être vécu comme une épreuve risquée et doit se dérouler dans un environnement accueillant et garantissant le maximum de sécurité.  
+L'organisation des séances de vaccination passe par la préparation du site, l'accueil des bénéficiaires, la préparation et l'administration des vaccins, l'enregistrement de la vaccination, la communication avec les parents et le rangement du site.
+
+----  
+Text:
+
+## I. Organiser le travail et préparer la séance de vaccination
+
+### 1. Les rôles des acteurs de la vaccination
+
+Ils doivent être bien définis avec la désignation d'un responsable pour chaque étape du déroulement de la séance. Les responsabilités sont attribuées en fonction des compétences et de la disponibilité des agents et seuls ceux qui sont convenablement formés peuvent manipuler et administrer les vaccins. Parfois, en raison du manque de personnel qualifié, des agents de santé non qualifiés exécutent les activités de vaccination. Dans ce cas, il est impératif qu'ils aient reçu une formation de qualité et régulièrement mise à jour, qu'ils soient supervisés par du personnel çompétent et que leurs capacités à remplir cette tâche soit régulièrement évaluées.
+
+Afin de limiter les désagréments des personnes venant se faire vacciner, les sites utilisés pour l'attente et l'administration des vaccins doivent être rendus accueillants et offrir des conditions de sécurité optimales. Les espaces doivent être bien délimités pour que l'administration des vaccins se fasse dans le calme afin d'éviter les erreurs de manipulation ou les risques de piqûre accidentelle des agents ou des patients. La partie réservée à la vaccination doit être équipée de tables, chaises, point d'eau et savon pour le lavage régulier des mains et d'une boîte de sécurité pour les déchets de la vaccination.
+
+### 2. Une occasion pour effectuer d'autres actes préventifs
+
+Le rassemblement des mères accompagnant leurs enfants ou venant elles-mêmes se faire vacciner est l'occasion de fournir d'autres soins préventifs tels que le dépistage de la malnutrition ou d'autres affections, le déparasitage, l'apport Cie vitamine A ou d'autres traitements préventifs... Dans ce cas, ces services doivent être intégrés dans le circuit clos patients afin de gagner du temps et de limiter la confusion.  
+La période d'attente des mères est mise à profit par la diffusion de messages pour la promotion de la santé et de l'hygiène. Pour une meilleure efficacité, il est recommandé d'utiliser les méthodes participatives à l'aide de boîtes à images ou en favorisant le partage d'expérience plutôt que des leçons dont l'impact est souvent limité.
+
+## II. Vérifier le calendrier vaccinal et enregistrer la vaccination
+
+Chaque contact d'une femme en âge de procréer ou d'un enfant en bas âge avec le système de santé doit être l'occasion de compléter le calendrier vaccinal. Cela concerne aussi les patients venus consulter pour un problème de santé.
+
+### 1. Vérification des vaccinations
+
+Afin de déterminer si l'enfant ou la femme doit recevoir une vaccination, il faut d'abord vérifier son âge. Dans la plupart clés pays, les populations ciblées par la vaccination sont les enfants âgés de 0 à 11 mois et les femmes âgées de 15 à 49 ans. Si la personne fait partie des groupes cibles, il faut alors vérifier quelles vaccinations elle a préalablement reçues. La source d'information est la carte ou le carnet de vaccination. En l'absence de ces sup¬ports, le registre de vaccination de la formation sanitaire peut fournir l'information recherchée. La présence d'une cicatrice sur le bras ou l'épaule de l'enfant pourra renseigner sur la vaccination BCG.
+
+En l'absence d'information, il faut considérer que l'enfant n'a pas été vacciné et lui administrer toutes les vaccinations conformément au calendrier vaccinal. De même, si la vaccination n'est pas complète, les vaccins manquants seront administrés, toujours selon le calendrier vaccinal. Enfin, si des vaccinations manquent et que l'âge ou les délais de vaccination ne permettent pas de compléter le calendrier vaccinal le même jour, un rendez-vous devra être planifié conjointement avec la mère pour administrer les vaccins appropriés.  
+En fonction du calendrier vaccinal et du groupe cible fixés par le pays, la vaccination contre le tétanos sera proposée à la femme et un rendez-vous fixé pour la vaccination ultérieure.
+
+### 2. Enregistrement des vaccinations
+
+Tout acte de vaccination doit faire l'objet d'un enregistrement :
+
+*   sur la carte ou le carnet de vaccination, nominatif, en indiquant la date, le type de vaccin, la dose, le numéro de lot du flacon ;
+*   sur le registre de vaccination de la formation sanitaire, en indiquant les mêmes informations que sur la carte ainsi que les moyens de localiser et de retrouver la personne en cas d'absence à un rendez-vous suivant.
+
+## III. Préparer et administrer le vaccin
+
+La plupart du temps, les événements indésirables graves sont causés par des pratiques inappropriées des services de vaccination :
+
+*   injection non stérile (utilisation de matériel contaminé, contamination du vaccin, technique inadaptée),
+*   erreur de reconstitution (dosage erroné, utilisation d'un diluant inapproprié),
+*   erreur de technique ou de site d'injection,
+*   mauvaise conservation du vaccin,
+*   contre-indication ignorée.
+
+La maîtrise de l'ensemble du processus par les agents est indispensable.
+
+**Le nombre de flacons de vaccins et de diluants** doit être sorti du réfrigérateur pour la durée de la session en fonction du nombre de personnes devant se présenter à la séance de vaccination. Ils doivent être placés dans un porte-vaccin avec des accumulateurs de froid afin de les préserver de la chaleur et de la lumière durant la séance de vaccination.
+
+**Le choix des vaccins** à utiliser privilégiera les flacons :
+
+*   ouverts lors de séance précédente pour les vaccins liquides,
+*   dont la pastille de contrôle a commencé à virer sans atteindre le point limite,
+*   dont la date de péremption est la plus proche.
+
+**La qualité du vaccin** sera vérifiée d'après différents critères :
+
+*   le flacon de vaccin doit disposer d'une étiquette,
+*   la date d'expiration du vaccin ne doit pas être dépassée,
+*   la pastille de contrôle du vaccin ne devra pas avoir passé le point limite,
+*   le capuchon du flacon ne doit pas avoir trempé dans l'eau,
+*   le produit contenu dans le flacon de vaccin et de solvant doit avoir un aspect homogène.
+
+Les vaccins lyophilisés doivent être reconstitués exclusivement avec le diluant prévu par le fabricant. L'utilisation d'un produit inapproprié peut conduire à de graves incidents pouvant aller jusqu'à la mort du patient.
+
+Le vaccin lyophilisé sera reconstitué avec une seringue à usage unique. L'injection des vaccins doit se faire avec des **seringues autobloquantes**. Avant l'utilisation de ces dispositifs, il est important de vérifier l'intégralité de l'emballage afin de s'assurer de la stérilité des seringues et aiguilles.
+
+Après utilisation, les seringues et aiguilles de dilution et d'injection seront jetées immédiatement dans une **boîte de sécurité**. Celle-ci doit se trouver à proximité du vaccinateur. **L'aiguille ne doit pas être recapuchonnée** afin de limiter les risques de piqûre accidentelle.  
+Les seringues seront préparées au fur et à mesure de la présentation des patients afin de préserver la qualité du vaccin, de limiter les risques de piqûre accidentelle et d'éviter des pertes de vaccins.
+
+Chaque vaccin doit être administré en respectant la technique et le site d'injection préconisés dans le pays. La désinfection de la peau avant l'injection n'est pas obligatoire. Cependant, il est nécessaire de s'assurer que la peau est propre et, si besoin, de la laver avec de l'eau et du savon.
+
+## IV. Communiquer avec les parents
+
+La vaccination est un moment privilégié pour communiquer avec la personne accompagnant l'enfant ou avec la femme enceinte. L'agent vaccinateur a ainsi l'occasion de transmettre les messages indispensables qui favoriseront la complétude du schéma vaccinal.  
+La communication portera sur :
+
+*   les vaccins administrés ce jour et les maladies qu'ils préviennent,
+*   les effets secondaires possibles, la conduite à tenir s'ils surviennent,
+*   l'importance de compléter le schéma vaccinal afin que la protection du patient contre les maladies soit maximale.
+
+Ce moment est aussi l'occasion de favoriser les questions des mères et d'y répondre. Avant que le patient ne quitte le site de vaccination, un rendez-vous doit être convenu avec la mère pour compléter le schéma vaccinal.
+
+## V. Gérer les déchets
+
+Les déchets issus des activités de vaccination peuvent représenter des dangers pour la santé des patients, des agents de santé et de la population en général avec un risque de contamination par piqûre avec des aiguilles ou des seringues souillées. Ils peuvent aussi représenter des risques pour l'environnement par la contamination des sources d'eau utilisées par la population. La destruction des  
+déchets issus de la vaccination est sous la responsabilité du système de santé. Elle doit être rigoureusement contrôlée.
+
+Après utilisation, les seringues et aiguilles, **non recapuchonnées**, doivent être placées dans un réceptacle de sécurité. En cas d'absence de boîte de sécurité prévue à cet effet, un réceptacle en carton renforcé, en plastique ou en métal peut être utilisé. La boîte de sécurité ne doit pas être remplie à plus des trois quarts de sa contenance maximale afin d'éviter la perforation des parois.
+
+A l'issue de la séance de vaccination, si la boîte n'est pas remplie au maximum recommandé, elle doit être entreposée dans un lieu sécurisé jusqu'à la séance suivante. Une fois pleine, elle doit être détruite sans être vidée afin de prévenir toute piqûre accidentelle.  
+Il existe plusieurs moyens de destruction des boîtes de sécurité, ils devront avoir été définis avec le responsable de la santé du district et les autorités administratives de la zone. Les plus couramment utilisés sont :
+
+*   l'incinération dans un incinérateur atteignant au moins 800° C, température à laquelle tout micro organisme sera détruit,
+*   le brûlage dans un trou ou un fût prévu à cet effet,
+*   l'enfouissement dans une fosse.
+
+Les résidus de l'incinération et du brûlage seront enfouis. Quel que soit le moyen de destruction choisi, il doit apporter la garantie maximale de sécurité et d'hygiène pour les agents, la population et l'environnement, Le site de destruction des déchets doit être protégé afin d'être inaccessible aux animaux et aux enfants.
+
+Développement et Santé, n°195/196, 2009

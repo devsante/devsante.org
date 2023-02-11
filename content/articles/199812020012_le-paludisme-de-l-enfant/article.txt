@@ -1,0 +1,101 @@
+Title: Le paludisme de l'enfant
+
+---- Author: Bernard Lagardère
+
+----  
+Datetime: 1998-12-02 00:00
+
+----  
+Text:
+
+**Le paludisme de l'enfant**
+
+**par Bernard Lagardère**
+
+Pédiatre, Hôpital Ambroise-Paré, 75016 Paris.
+
+Entre un et deux millions d'enfants meurent chaque année de paludisme dans le monde. Ils sont la cible principale d'une maladie largement répandue dans les pays tropicaux, mais en particulier en Afrique au sud du Sahara. Devant tout enfant fébrile, les parents pensent d'abord au paludisme en raison de la fréquence de la maladie. Cette réaction peut exposer à des erreurs et ne doit pas empêcher la recherche d'une autre explication. Cependant, en pays d'endémie, tout accès fébrile doit être considéré comme paludisme jusqu'à preuve du contraire.
+
+**I. Epidémiologie**
+
+On a pu dire que le paludisme était d'abord une maladie de l'enfant. C'est l'enfant qui est le plus souvent touché, qui fait les complications les plus graves et que l'on doit protéger en priorité. Pourtant, en pays d'endémie, les moustiques vecteurs du paludisme piquent les humains sans distinction d'âge, semble-t-il. Mais, si ces piqûres surviennent toute l'année, petit à petit l'organisme va opposer une défense immunitaire de plus en plus efficace à l'agression des parasites. Dans ces pays d'endémie régulière (régions équatoriales et subéquatoriales), il faut environ quatre ans de contacts répétés avec les parasites pour que les formes graves deviennent exceptionnelles, et une dizaine d'années pour que l'enfant impaludé n'en souffre quasiment pas. On constate pourtant, à partir de l'âge de 10 ans, par exemple dans des enquêtes à l'école, que les enfants ont souvent des parasites dans le sang, alors qu'ils paraissent en bonne santé, sans fièvre ni autre signe évocateur : il s'est établi comme une coexistence pacifique entre l'hôte et les parasites. C'est donc avant 4 ans que l'on observe les accès pernicieux, spontanément mortels, et avant 10 ans qu'on trouve la plupart des fièvres palustres. Cependant, dans les régions de paludisme où il existe une saison sèche très marquée, sans moustique, le contact des parasites avec l'organisme n'est pas aussi constant et régulier : la protection qui en résulte est moins efficace, et c'est dans ces pays (Sahel, savane), qu'on peut voir des formes graves à un âge plus avancé et des accès palustres chez l'adulte.
+
+**Il. Signes**
+
+Toute manifestation de paludisme chez l'enfant, d'autant qu'il est plus jeune, fait craindre l'évolution possible vers un accès pernicieux.
+
+**1.** **Accès pernicieux**
+
+C'est la forme spontanément mortelle du paludisme. Seule l'espèce _Plasmodium_ _falciparum_ peut en être responsable, mais c'est, en Afrique, l'espèce qui est largement prédominante. Il constitue une urgence qu'il faut prendre en charge le plus vite possible de façon efficace, car seul un traitement adapté précoce peut guérir le malade et empêcher les séquelles.
+
+Chez l'enfant, l'accès pernicieux peut prendre deux aspects :
+
+*   **La forme anémique**
+
+Il peut s'agir de l'aggravation brutale d'une anémie préexistante. L'enfant est alors vu en état d'anémie aiguë, avec fièvre, mais surtout pâleur, accélération du pouls, gêne respiratoire avec respiration rapide, hypotension pouvant conduire au collapsus. Au traitement antiparasitaire, il faut en urgence associer une transfusion sanguine avec les précautions qui s'imposent. Il semble que cette forme soit due à une poussée d'hémolyse (destruction des globules rouges au sein même du sang) déclenchée par le parasite, chez un enfant en carence ferrique ou vitaminique préexistante. La correction systématique de ces carences au cours de consultations régulières (PMI) devrait permettre d'atténuer de façon sensible la gravité de cette forme d'accès pernicieux.
+
+*   **La forme neurologique**
+
+C'est le neuropaludisme ou accès pernicieux plus classique. Chez l'enfant le tableau est relativement simple: une fièvre plus ou moins élevée avec souvent des convulsions généralisées et des troubles de la conscience. Ce tableau pourrait correspondre aux très banales convulsions fébriles des enfants entre 5 mois et 5 ans. Mais habituellement il s'agit, en cas de paludisme, de convulsions durables, ou qui se répètent rapidement, suivies d'un véritable coma de stade 2, bien différent de la simple obnubilation très passagère qu'on peut voir après une convulsion fébrile simple. Ce coma est calme, sans signe de déficit (hémiplégie ou autre), s'accompagnant en général d'une hypotonie généralisée, plus rarement d'accès d'hypertonie, de mauvais pronostic. Le reste de l'examen peut trouver une grosse rate, un gros foie, une atteinte respiratoire : toux, râles bronchiques, ou respiration ample d'une acidose avec auscultation normale. On apprend le plus souvent que l'enfant était fébrile depuis plusieurs jours, mais qu'il n'a reçu aucun traitement, et que avec ou sans convulsions, il s'est enfoncé progressivement dans le coma. L'évolution spontanée est mortelle en quelques jours, parfois en quelques heures. Il faut en urgence administrer un traitement anti-palustre par voie parentérale. Si le traitement a débuté précocement, l'enfant guérira intégralement. Sinon, il risque de garder des séquelles neurologiques (paralysie, épilepsie, retard psychomoteur) plus ou moins importantes.
+
+**2. Paludisme aigu commun**
+
+C'est le tableau le plus habituel, en particulier par sa banalité. L'enfant a de la fièvre, élevée ou modérée, mal à la tête, vomit. Il a parfois mal au ventre avec une diarrhée modérée. Il n'y a pas d'angine, d'otite, parfois une raideur méningée fait craindre une méningite. Il est rare de trouver une grosse rate. Le caractère très peu spécifique de cet aspect explique la réaction, très fréquente en pays d'endémie, de considérer, chez l'enfant, toute fièvre comme _a priori_ d'origine paludéenne et de la traiter par des médicaments antipaludéens. Cette attitude est souvent valable, surtout si l'on ne dispose pas de moyens diagnostiques fiables, mais ne doit pas dispenser d'examiner attentivement l'enfant, car on peut ainsi méconnaître une authentique méningite, pneumonie, infection urinaire et autres maladies à traiter rapidement par des antibiotiques adaptés.
+
+**3. Paludisme viscéral évolutif**
+
+Il s'observe en cas d'infestation massive et durable. Le tableau est dominé par une anémie, parfois considérable, imposant une transfusion rapide, chez un enfant peu ou pas fébrile, avec une grosse rate et souvent des signes de dénutrition associés. Le traitement antipalustre permettra progressivement de réduire la destruction des hématies et le volume de la rate.
+
+**4. Accès palustre**
+
+C'est un tableau qu'on voit chez le grand enfant. Il correspond à la forme classique de l'accès palustre : en quelques heures, la succession d'une phase de frisson avec impression de froid, d'une phase de chaleur intense avec fièvre élevée, et d'une phase de sueurs profuses avec retour de la température à la normale. Ces accès se répètent typiquement tous les deux jours pour _P. falciparum, vivax et ovale_ (fièvre tierce car le 1er et le 3è jour), tous les trois jours (fièvre quarte) pour _P._ _malariae_. En fait, le rythme des accès est très irrégulier le plus souvent, quelle que soit l'espèce parasitaire.
+
+**III.** **Diagnostic**
+
+**1. Les pièges diagnostiques**
+
+Ils proviennent de ce qu'en pays d'endémie on pense toujours au paludisme mais qu'on en apporte rarement la preuve. Le paludisme aigu commun ressemble à beaucoup de maladies aiguës infectieuses de l'enfant, en particulier l'otite, ou des affections virales saisonnières. Le paludisme est une cause fréquente de diarrhée aiguë, le plus souvent modérée. L'accès pernicieux est une des principales causes de troubles de la conscience, chez l'enfant, avec les intoxications et les encéphalites virales. Le paludisme viscéral évolutif peut être pris pour une manifestation de carence en fer ou, plus souvent, pour une drépanocytose.
+
+On devrait donc ne retenir le paludisme que si l'on a trouvé les parasites dans le sang.
+
+**2. Les techniques**
+
+Elles sont simples : le frottis coloré par le May-Grünwald-Giemsa, ou la goutte épaisse pour examiner un plus grand volume de sang à travers une plus petite surface de lecture. L'interprétation demande un matériel bien entretenu, une coloration bien faite et une certaine habitude pour reconnaître et identifier les parasites au sein des globules rouges. Il est très important de vérifier régulièrement la bonne tenue des matériels, mais aussi la fiabilité des examens grâce à des formations et recyclages réguliers des agents de laboratoire.
+
+**3. L'interprétation des résultats**
+
+Elle peut poser des difficultés. Devant un tableau clinique évocateur, un frottis négatif doit faire examiner attentivement la goutte épaisse, à la recherche de parasites en petit nombre. Un frottis positif doit être interprété selon le contexte. Si le nombre de parasites observés est important chez un jeune enfant, et que l'examen clinique est compatible avec le diagnostic de paludisme, il est clair que le laboratoire vient confirmer la maladie et permet de traiter. Mais, en pays d'endémie régulière (Afrique centrale), chez le grand enfant, si les parasites sont rares et le tableau peu net (parfois sans fièvre), il peut s'agir d'une faible parasitémie habituelle chez cet enfant, sans répercussion clinique, et, tout en traitant le paludisme, il faut chercher une autre explication aux symptômes observés.
+
+**IV. Traitement**
+
+Chez l'enfant, le paludisme n'est pas traité par des médicaments très différents de ceux employés chez l'adulte, mais le souci est plus grand de la rapidité d'action, d'adaptation des posologies et des voies d'abord.
+
+**1.** **En cas de forme grave**
+
+La quinine doit être administrée en urgence. Le traitement classique de l'accès pernicieux comporte une dose de charge de quinine (16 mg/kg) donnée en perfusion intraveineuse de quatre heures, puis une perfusion de 8 mg/kg de quinine, chacune pour une durée de quatre heures, toutes les huit heures. La perfusion est constituée par du sérum glucosé à 50 pour mille avec, pour un litre, 3 g de chlorure de sodium, 1,5 g de chlorure de potassium, et 1 g de gluconate de calcium. Ces durées et ces rythmes sont déterminés en fonction des caractéristiques de la quinine, pour que la concentration maximale soit obtenue le plus tôt possible (critère d'efficacité), sans effet secondaire nocif que donnerait un passage trop rapide (vertiges, bourdonnements d'oreille, troubles du rythme cardiaque).
+
+Les doses de quinine indiquées correspondent au produit pur. Or, on dispose localement de sels ou de produits dérivés: le bichorhydrate de quinine renferme 80 % de quinine environ, comme le Quinoforme®, mais le Quinimax® n'en contient que 60 % environ : il faut corriger les doses données en fonction de ces proportions.
+
+Si l'on ne peut faire de perfusion sur place, avant de référer l'enfant à un centre qui pourra le traiter de façon complète, il ne faut pas perdre de temps et lui donner sans attendre un médicament antipaludéen. Une injection de quinine intramusculaire à la dose de 8 mg/kg de quinine-base, _a priori_ à éviter à cause de sa toxicité locale, peut être indispensable, ou une injection de Fansidar® (une ampoule pour 10 kg), en Afrique de l'Ouest où ce médicament reste actif, ou une injection de Paluther® à la dose de 3,2 mg/kg. Ce nouveau médicament, trouve là sa seule indication logique.
+
+En fonction de l'état de l'enfant, les perfusions de quinine doivent être complétées par un anticonvulsivant (Gardénal®, Valium®) en cas de convulsion, une transfusion en cas d'anémie aiguë profonde, d'antipyrétique (aspirine, paracétamol) en cas de fièvre élevée.
+
+Lorsque l'enfant a repris pleinement conscience (en général au bout de 24 à 48 heures) la voie intraveineuse peut être abandonnée, mais le traitement n'est pas terminé : il faut continuer pendant 5 jours par de la quinine _per os_ (en trois prises quotidiennes), ou si l'on est dans une région où la chloroquine reste largement efficace, par la Nivaquine® à la dose de 10 mg/kg/j.
+
+**2. En dehors des formes graves**
+
+L'hospitalisation n'est en général pas nécessaire, et la base du traitement est la Nivaquine8, 10 mg/kg/j pendant 3 à 5 jours. Il y a, en Afrique, peu de souches de paludisme totalement insensibles à la nivaquine. Quand on parle de résistance, il s'agit souvent de " sensibilité diminuée ", et la nivaquine à la dose de 10 mg/kg/j pendant 5 jours reste largement efficace. En cas d'échec ou de vomissement empêchant la prise de nivaquine®, la prescription de quinine (Quinimax®) par voie rectale (10 mg/kg deux fois par jour pendant 5 jours) est aussi efficace que par voie intramusculaire, sans avoir les inconvénients d'une injection.
+
+**V. Conclusion**
+
+La prise en charge du paludisme de l'enfant doit être rigoureuse. Pour les enfants vivant en région d'endémie, les médicaments très onéreux et peu disponibles comme l'halofantrine (Halfan®) ou la méfloquine (Lariam®) ont un intérêt limité. Ils n'ont pas remplacé la quinine qui reste le médicament antipalustre le plus efficace, ni la Nivaquine®, qui garde une large place dans le traitement, en dehors des formes graves. Plus que par des médicaments nouveaux, c'est par une démarche rigoureuse (preuve rapide du diagnostic, traitement donné pendant toute la durée nécessaire) que l'on pourra guérir efficacement ces enfants.
+
+Les indications de transfusion sont associées à une anémie mal tolérée mettant en jeu le pronostic vital et non seulement une valeur seuil d'hémoglobine :
+
+- insuffisance cardiaque congestive (associant tachycardie et gros foie) au décours d'une anémie chronique.
+
+- hypotension ou état de choc au décours d'une anémie aiguë ou chronique.
+
+Chez l'enfant, en dessous de 7 g/dl, la décision de transfuser repose sur l'examen clinique. La tolérance dans les pays d'endémie palustre est souvent bonne à 6, voire 5 g/dl, car l'anémie s'est établie très progressivement.
+
+_Développement et Santé, n° 138, décembre 1998_

@@ -1,0 +1,54 @@
+Title: Paludisme et grossesse
+
+---- Author: jean-Pierre Coulaud
+
+----  
+Datetime: 1998-12-19 00:00
+
+----  
+Text:**Paludisme et grossesse :****épidémiologie et physiopathologie**
+
+**par jean-Pierre Coulaud**
+
+Institut de Médecine et d'Épidémiologie africaine, Service des Maladies infectieuses et tropicales, Hôpital Bichat-Claude-Bernard, Paris.
+
+La grossesse est considérée comme une période à haut risque en matière de paludisme : probabilité plus élevée d'accès palustre, sévérité potentielle plus forte, retentissement chez l'enfant, sans oublier les problèmes thérapeutiques. En pratique, seul le _Plasmodium falciparum_ pose réellement problème et c'est de lui seul qu'il sera question ici.
+
+**1. Épidémiologie**
+
+La prévalence du paludisme au cours de la grossesse est variable en zone d'endémie. Elle varie de 5 à 40 % selon les pays. Elle est significativement supérieure à celle des femmes du même âge vivant dans les mêmes conditions.
+
+L'incidence des placentas infestés est nettement plus élevée chez les femmes vivant en zone rurale que chez celles vivant en ville. La parité semble être un élément déterminant, alors que l'âge ne joue pas un rôle important et semble simplement relié à la parité. La prévalence se révèle plus élevée chez les primipares : 64 %, alors qu'elle atteint seulement 39 % pour la 2<sup>e</sup> et 3<sup>e</sup> parturition, et 20 % au-delà. L'analyse de prévalence en fonction du stade de la grossesse est moins nette. Toutefois, il semble que le 2 <sup>e</sup> trimestre surtout, et le 3e trimestre sont des périodes plus critiques : ainsi, chez les primipares, la prévalence est de 55 % au l <sup>er</sup> trimestre, de 76 % au 2 <sup>e</sup> trimestre.
+
+**Il. Physiopathologie**
+
+Elle explique un double phénomène : la grossesse favorise la survenue de l'infection palustre ; le paludisme est plus sévère avec un retentissement potentiellement plus grave du fait de la grossesse.
+
+**1. Les problèmes immunitaires**
+
+L'immunité diminue physiologiquement au cours de la grossesse et, notamment, à partir du 4 <sup>e</sup> mois : la baisse de l'immunité humorale et de l'immunité cellulaire facilite le développement d'infections diverses dont les plus communes sont les listérioses. Cette diminution de l'immunité existe aussi à l'égard du paludisme. Les anticorps protecteurs contre le paludisme appartiennent principalement à la classe des IgG. Ces derniers atteignent leurs valeurs les plus basses durant les 10 dernières semaines. Le rapport du titre des anticorps antipaludiques de femmes enceintes sur ceux des femmes non enceintes est inférieur à 1.  
+
+**2. Le rôle de l'infestation** **placentaire**
+
+L'atteinte du placenta se traduit par une réduction des échanges foetomaternels. Un placenta infesté contient par définition soit _P. falciparum,_ soit du pigment malarique. Le _P. falciparum_ est présent dans les hématies maternelles mais on retrouve aussi les trophozoïtes libres dans le chorion et même les cellules endothéliales des capillaires foetaux, ce qui suggère leur transit transplacentaire.
+
+Contrairement à ce que l'on observe dans les infections bactériennes, notamment listériennes, il y a peu de lésions placentaires très franches traduisant cette infestation palustre. Une étude gambienne confirme le haut degré d'infestation parasitaire chez les primipares et le fait que la parasitémie périphérique est moins souvent observée que l'infestation placentaire.
+
+Le placenta joue un rôle de transmission et d'entretien de cette infestation. De plus, bien que les lésions histologiques ne soient pas majeures, on peut craindre une inefficacité fonctionnelle. L'anémie sera d'autant plus mal ressentie par le foetus que celle-ci survient de préférence en zone d'endémie chez des femmes déjà anémiques, du fait de la grossesse, de carences diverses ou d'autres parasitoses. La baisse des échanges en oxygène provoque une diminution de la pression en oxygène du foetus, et une baisse de la saturation de l'oxyhémoglobine non corrigée par ses moyens de défense.
+
+**III. Les conséquences en santé publique**
+
+Chez la mère, elles ne sont pas trop sévères si l'on s'en tient au seul pourcentage de mortalité. Selon les séries, les taux vont de 0 à 4 %. En revanche, la sévérité de l'accès palustre est généralement plus importante et le risque de neuro-paludisme plus élevé. Sur le plan de la morbidité, le paludisme est un facteur prédominant dans les anémies maternelles. Ces anémies sont d'autant plus graves que le stock ferrique a été diminué par de nombreuses grossesses antérieures et des allaitements prolongés. Cette anémie pourrait éventuellement jouer un rôle sur la mauvaise tolérance du paludisme, diminuer les qualités du travail lors de l'accouchement ou précipiter l'insuffisance myocardique aiguë observée lors du post-partum chez les grandes multipares.
+
+Les conséquences obstétricales se traduisent par un risque accru de contractions, mais aussi de ruptures prématurées des membranes et, moins fréquemment, des métrorragies ou une éclampsie. Le chiffre des avortements est estimé à 12 % environ, celui des prématurités de 12 à 25 % et celui des rétentions d'oeuf mort à 1 %.
+
+L'atteinte du nouveau-né par le plasmodium dans le cadre du paludisme congénital reste très limitée. Si le placenta est fréquemment atteint, s'il existe un possible passage transplacentaire d'hématies parasitées, dans la majorité des cas, la parasitémie est éphémère : le parasite disparaissant spontanément après la naissance sans donner de manifestation clinique. Si la fréquence d'une parasitémie chez la femme enceinte a pu être estimée jusqu'à 40 %, les chiffres de paludismes congénitaux cliniques demeurent faibles, inférieurs à 5 %.
+
+**IV. Conclusion**
+
+En zone d'endémie palustre se posent surtout des problèmes de santé publique : le paludisme est cause de prématurité, de faible poids de naissance et de scores Apgar abaissés. La prévention du paludisme et/ou sa prise en charge thérapeutique doivent être une priorité des activités des centres PMI. Il est cependant certain que la polychimiorésistance des souches de _P. falciparum_ a accru les difficultés pratiques d'une telle prévention. Chez les rares femmes enceintes non immunes, expatriées dans un pays d'endémie palustre, la prophylaxie individuelle est obligatoire et doit utiliser les produits les plus adaptés à l'épidémiologie locale, ce qui n'est pas toujours simple en zone 3 de multirésistance.
+
+(image: i809-1.jpg)
+
+
+_Développement et Santé, n° 138, décembre 1998_

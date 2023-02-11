@@ -1,3 +1,6 @@
 [submodule "site/plugins/kirby-algolia"]
 	path = site/plugins/kirby-algolia
 	url = git@github.com:mlbrgl/kirby-algolia.git
+[submodule "archive"]
+	path = archive
+	url = git@github.com:devsante/devsante.org-archive.git

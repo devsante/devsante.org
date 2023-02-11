@@ -1,0 +1,29 @@
+Title: Tuberculose : généralités
+
+---- Author: Philippe Reinert Pédiatre, hôpital intercommunbal, Créteil, France
+
+----  
+Datetime: 2008-01-05 00:00
+
+----  
+Text:
+
+La tuberculose est une maladie infectieuse paradoxale : un tiers de la population mondiale est touchée par le BK et, heureusement, la majorité va spontanément en guérir ; nous disposons, depuis de nombreuses années, de médicaments antituberculeux efficaces et peu chers. Pourtant la tuberculose tue 3 millions de personnes par an. L'Afrique qui ne représente que 11 % de la population mondiale concentre 30 % de ces décès. Ainsi, à l'échelle mondiale le VIH/SIDA est le seul agent tuant plus d'adultes que la tuberculose..  
+
+Cette épidémie est galopante en Afrique : le nombre de malades a quadruplé depuis les années 1990. Devant cette nouvelle épidémie, la lutte contre la tuberculose a été proclamée "urgence mondiale".
+
+Une analyse de sa résurgence a permis d'identifier 5 causes majeures :
+
+*   l'augmentation de la pauvreté, non seulement dans les pays déjà les plus pauvres, mais aussi dans les couches défavorisées des pays industrialisés ;
+*   l'accroissement démographique : les enfants nés ces dernières décennies dans les pays à forte natalité sont les plus touchés ;
+*   l'épidémie de SIDA : le VIH ne fait qu'alimenter l'épidémie de tuberculose : en Afrique, 35 % des tuberculoses sont aussi contaminées par le VIH ;
+*   la négligence des autorités sanitaires qui n'ont pas accordé la priorité à la lutte contre la tuberculose ;
+*   l'absence de programmes nationaux de lutte contre la tuberculose ou l'application de pro­grammes obsolètes favorisant l'anarchie thérapeutique et l'émergence de cas de tubercu­lose à bacilles résistants. Il est en effet bien démontré que la principale cause d'apparition de souches de BK résistants est la non compliance au traitement : c'est la raison pour laquelle la stratégie DOTS _(Directly Observed Treatment Short Course)_ a été recom­mandée par l'OMS depuis les années 94. L'élément essentiel de cette stratégie est l'application de chimiothérapies de courte durée SOUS SUPERVISION DIRECTE spécialement pour la prise de rifampicine.
+
+Le succès de ces programmes est directement lié à la qualité des activités de dépistage et de traitement. Il n'est possible que si la formation et le recyclage de tous les personnels soignants, et en priorité les infirmiers, sont assurés.
+
+Les objectifs sont, selon l'OMS, pour 2010 : dépister au moins 70% des cas à frottis positifs existant dans la collectivité, guérir au moins 85 % des cas dépistés à frottis positifs. Les évaluations dont nous disposons pour 2006 sont inquiétantes et font douter de pouvoir atteindre ces objectifs dans les deux ans : on voit mal, en effet comment chaque malade pourrait se rendre tous les jours au dispensaire pendant au moins 2 mois : seuls les pays qui ont pu mettre en place des équipes mobiles soutenant le malade jusqu'au fond de son village commencent à voir l'incidence de la tuberculose diminuer.
+
+L'apparition en Afrique du Sud et en Ex URSS de bacilles résistant pratiquement à tous les antituberculeux démontre qu'il ne faut en aucun cas "lâcher" un malade car il faut que son traitement soit rigoureusement pris. C'est le seul moyen pour éviter une épidémie de tuberculoses à BK résistants.
+
+_Développement et Santé, n°190, 2008_

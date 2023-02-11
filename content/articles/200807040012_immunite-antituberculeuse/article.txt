@@ -1,0 +1,75 @@
+Title: Immunité antituberculeuse
+
+---- Author: Philippe Reinert, pédiatre, Créteil, France
+
+----  
+Datetime: 2008-07-04 00:00
+
+----  
+Text:
+
+## I. Immunité contre la tuberculose
+
+Quand notre organisme entre en contact avec le BK, des systèmes de défense se mettent en place c'est l'immunité anti-tuberculeuse. Celle-ci peut être efficace et bloquer la multi­plication du germe, à l'inverse elle peut être débordée une tuberculose maladie se déve­loppera.
+
+Cette immunité est très différente de la plupart des autres immunités induites par des bacté­ries : celles ci reposent sur l'apparition d'anti­corps facilement dosables dans le sang. Avec le BK, il n'y a pas d'anticorps, mais une immu­nité cellulaire, représentée essentiellement par les lymphocytes T, capables de détruire ou d'inhiber le BK.
+
+Par contre, si ces lymphocytes sont diminués, par exemple par le VIH, le BK ne rencontre pas d'obstacle à sa diffusion : d'où la fréquen­ce et la sévérité des tuberculoses au cours du SIDA.
+
+## II. Comment mesurer l'immunité ?
+
+S'il est facile de doser des anticorps sériques, il n'est pour l'instant pas possible d'évaluer l'immunité anti BK en évaluant la quantité et la qualité des lymphocytes anti-BK.
+
+On a longtemps cru que l'intradermo-réaction à la tuberculine (IDRT) était le moyen pratique pour évaluer cette immunité : ceci est FAUX ; l'IDRT à la tuberculine mesure l'hypersensibi­lité retardée induite par le BK ou la vaccina­tion par le BCG.
+
+Mais il n'y a pas de lien entre la réaction tuber­culinique et l'immunité anti-tuberculeuse. Toutefois, une IDRT > 10 mm d'induration à 48 heures signe une contamination par le BK sans préjuger de la date de l'infection.
+
+Une positivité comprise entre 10 et 15 mm peut-être due à une infection tuberculeuse ou à un BCG.
+
+Enfin l'IDRT à la tuberculine peut être négati­ve en cas de tuberculose aiguë, d'infection à VIH avancée. Elle peut aussi se négativer si la tuberculose est ancienne.
+
+C'est dire si ce test est critiquable. Cela dit trois notions restent capitales - l'IDRT à la tuberculine est capitale pour détec­ter une tuberculose chez le jeune enfant ;
+
+*   L'IDRT n'a aucun intérêt après un BCG pour le contrôler, puisqu'il n'y a aucune cor­rélation entre l'immunité induite par le BCG et l'intensité de la réaction tuberculinique ;
+*   L'IDRT n'a pas non plus d'intérêt comme test pré-vaccinal (BCG) ce qui est pourtant encore exigé dans certains pays (par exemple la France chez les plus de 3 mois !).
+
+## III. Vaccination contre la tuberculose : le BCG
+
+Le BCG est un vaccin bactérien vivant qui dérive d'une souche de _Mycobacterium bovis_ cultivée depuis 1908 par Calmette et Guérin qu'ils ont réussi à rendre non virulente par 231 "passages" sur milieux de culture. Depuis 1921 le vaccin est utilisé avec peu de modifi­cations.
+
+### 1. Administration
+
+L'injection par voie **intradermique** avec une aiguille de 0,4 à 0,5 mm de diamètre à biseau court est la plus utilisée.
+
+Le site recommandé est la partie postéro-externe du bras à l'union du 1/3 moyen et du 1/3 supérieur. L'administration doit provo­quer une papule de 5 à 7 mm de diamètre qui disparaît rapidement. Plus tard une papule indurée apparaît dans les 3 à 4 semaines qui suivent l'injection, suivie d'une pustule qui évolue en 6 à 8 semaines et qui guérit vers le 3<sup>ème</sup> mois, laissant une cicatrice au point d'injection.
+
+### 2. Efficacité du BCG
+
+A la différence des autres vaccins, malgré de très nombreuses études, ce vaccin est toujours sujet à controverses.
+
+Schématiquement, on lui reconnaît une effica­cité de 80 % dans la prévention des ménin­gites tuberculeuses et dans les miliaires pulmo­naires.
+
+Dans toutes les autres formes, la protection induite ne dépasse pas 50 à 60 % ce qui comprend les tuberculoses bacilliformes contagieuses ! Cela veut dire que la protection induite est strictement individuelle. On com­prend donc pourquoi le BCG est toujours utile dans les pays ou l'incidence de la tuberculose est élevée, alors qu'il est souvent abandonné dans les pays occidentaux ou la tuberculose est devenue rare.
+
+Un problème majeur est son mode d'action : il induit une immunité cellulaire reposant essentiellement sur les lymphocytes T. Si l'im­munité est affaiblie (infection VIH avancée, dénutrition protéino-calorique), le vaccin non seulement risque de ne pas "prendre" mais aussi de diffuser, provoquant une BCGite extensive souvent mortelle : nous aborderons plus loin le délicat problème du BCG dans les pays ou VIH et tuberculose ont une incidence élevée.
+
+### 3. Effets indésirables
+
+Ils sont essentiellement locaux et loco-régio­naux :
+
+*   suintements,
+*   suppuration chronique,
+*   abcès à l'endroit de la vaccination.
+
+Ailleurs c'est une adénite du creux axillaire plus ou moins volumineuse durant plusieurs mois, pouvant évoluer vers la suppuration, nécessitant parfois une exérèse chirurgicale. Ces complications sont rares, pas graves mais mal vécues par les familles ! La seule complication grave est la BCGite généralisée ne se rencontrant que chez l'en­fant atteint d'un déficit immunitaire majeur (SIDA le plus souvent).
+
+### 4. Contre-indications
+
+Ce sont donc :
+
+*   tout déficit immunitaire,
+*   une tuberculose récente ou ancienne,
+*   un contact récent avec un tuberculeux bacil­lifère (contre-indication transitoire),
+*   une maladie de peau étendue ; la contre­-indication est ici le plus souvent transitoire.
+
+_Développement et Santé, n°190, 2008_

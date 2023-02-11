@@ -1,0 +1,245 @@
+Title: Prévention et prise en charge de la déshydratation aigue chez les enfants de moins de 5 ans : directives au niveau district
+
+---- Author: Félicitée Nguefack¹; Roger Dongmo2 1Faculté de Médecine et des Sciences Biomédicales, Université de Yaoundé I, BP. 1364, Yaoundé, Cameroun, Département de Pédiatrie. Tel: 00 (237) 699 591 408. Email dongfel@yahoo.fr 2Hôpital de District de Efoulan, Yaoundé
+
+----  
+Datetime: 2015-11-19 00:00
+
+----  
+Teaser:
+
+Plus de 4 décennies après la révolution de la prise en charge de la déshydratation par la solution de réhydratation orale (SRO), la diarrhée continue de faire beaucoup de décès dans les populations les plus vulnérables. Son incidence est de l’ordre de 1 à 3 nouveaux épisodes annuels dont 99 % chez les enfants vivant dans les pays en développement. A ce titre, la diarrhée figure encore parmi les principales causes de mortalité infanto-juvénile. La diarrhée aiguë a pour conséquence immédiate la déshydratation qui peut menacer le pronostic vital. Elle altère par ailleurs l’état nutritionnel de l’enfant par  une perte en macro et micronutriments.  Les facteurs favorisants découlent de la susceptibilité élevée des jeunes enfants aux entéropathogènes. Certains facteurs sont propres à l’hôte, notamment le jeune âge et la malnutrition. Nous aborderons quelques aspects étiologiques fréquents, les manifestations cliniques, le diagnostic ainsi que la prise en charge de la diarrhée au vu des recommandations internationales et du statut nutritionnel de l’enfant.Introduction
+
+Plus de 4 décennies après la révolution de la prise en charge de la déshydratation par la solution de réhydratation orale (SRO), la diarrhée continue de faire beaucoup de décès dans les populations les plus vulnérables. Son incidence est de l’ordre de 1 à 3 nouveaux épisodes annuels dont 99% chez les enfants vivant dans les pays en voie de développement. A ce titre, la diarrhée figure encore parmi les principales causes de mortalité infanto-juvénile. La diarrhée aigüe a pour conséquence immédiate la déshydratation qui peut menacer le pronostic vital. Elle altère par ailleurs l’état nutritionnel de l’enfant par  une perte en macro et micronutriments.  Les facteurs favorisants découlent de la susceptibilité élevée des jeunes enfants aux entéropathogènes. Certains facteurs sont propres à l’hôte notamment le jeune âge et la malnutrition. Nous aborderons quelques aspects étiologiques fréquents, les manifestations cliniques, le diagnostic ainsi que la prise en charge de la diarrhée au vu des recommandations internationales et du statut nutritionnel de l’enfant. 
+
+----  
+Text:
+
+## I. Causes fréquentes des diarrhées chez l’enfant
+
+La diarrhée chez le jeune enfant peut être provoquée par des entéropathogènes qui attaquent directement la muqueuse intestinale ou agissent par leur toxine. Les plus fréquents sont les virus notamment le rotavirus, les bactéries et les parasites. Parmi les bactéries, nous pouvons citer Escherichia coli entéropathogène et entérotoxinogène,  les shigelles et Vibrio cholerae. Parmi les protozoaires, l’amibe est le plus fréquent. Toutefois, la diarrhée peut faire partie du tableau clinique de la plupart des affections courantes comme le paludisme et d’autres infections (ORL, broncho-pulmonaires et urinaires).
+
+## II. Diagnostic de la déshydratation
+
+Les critères diagnostiques de la déshydratation chez un enfant bien nourri sont différents de ceux que l’on utilise pour évaluer celui qui souffre d’une malnutrition sévère. Les malnutris sévères ne tolèrent pas le moindre excès d’apport hydro-électrolytique. Une sous-évaluation ou une surestimation de la déshydratation peuvent être très dangereuse chez ces sujets car elles induisent des prises en charges erronées.
+
+La déshydratation entraîne un ensemble de signes mineurs et majeurs (Tableau 1). En fonction de la sévérité, on distingue 3 stades de déshydratation : légère, modérée et sévère. 
+
+<table>
+
+<thead>
+
+<tr>
+
+<th scope="col">Signes</th>
+
+<th colspan="3" rowspan="1" scope="col">Degré de déshydratation</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td> </td>
+
+<td>Légère</td>
+
+<td>Modérée</td>
+
+<td>Sévère</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Majeurs
+
+Etat général
+
+Soif
+
+Yeux
+
+</td>
+
+<td>
+
+Bon, alerte
+
+Présente
+
+Normaux
+
+</td>
+
+<td>
+
+Irritable
+
+Modérée
+
+Enfoncés
+
+</td>
+
+<td>
+
+Abattu, somnolent
+
+Incapable de boire
+
+Très enfoncés
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Mineurs
+
+Fontanelle
+
+Larmes
+
+Langue
+
+Respiration
+
+Pli cutané
+
+Urines
+
+Conscience
+
+Perte de poids enfant < 1an
+
+Perte de poids enfant > 1 an
+
+</td>
+
+<td>
+
+Normale
+
+Présentes
+
+Humide
+
+Normale
+
+Elastique
+
+Normales
+
+Normale
+
+< 5 %
+
+< 3 %
+
+</td>
+
+<td>
+
+Déprimée
+
+Absentes
+
+Sèche
+
+Profonde
+
+Disparaît lentement
+
+Peu et foncées
+
+Stuporeux/irritable
+
+5-10 %
+
+3-6 %
+
+</td>
+
+<td>
+
+Très déprimée
+
+Absentes
+
+Très sèche
+
+Tachypnée
+
+Disparaît très lentement
+
+Pas du tout
+
+Coma
+
+> 10 %
+
+> 6
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Ces signes sont utilisés pour le diagnostic de la déshydratation chez l’enfant bien nourri. Par contre, on observe déjà plusieurs de ces signes en l’absence de déshydratation chez l’enfant malnutri atteint du marasme. Seuls sont pris en compte les antécédents de pertes hydriques récentes avec un changement récent de l’apparence physique (notamment le regard ou l’état de conscience du patient) notés par la mère ou l’accompagnant. En outre, celui atteint de kwashiorkor présente déjà une surcharge hydro-électrolytique. 
+
+## III. Modalités thérapeutiques de la déshydratation chez l’enfant
+
+Deux éléments constituent la clé d’une bonne prise en charge de la déshydratation chez un enfant qui a la diarrhée: la prévention ou le traitement de la déshydratation et le maintien d’un bon statut nutritionnel. 
+
+### 1. Traitement de la déshydratation chez un enfant qui a un bon statut nutritionnel
+
+#### Traitement de la déshydratation légère : Plan A
+
+Le plan A peut être suivi à domicile  et quatre règles doivent être observées : des apports liquidiens, du zinc, une bonne alimentation et le retour dans un centre de santé en cas d’aggravation.
+
+Les apports liquidiens visent à prévenir la déshydratation par l’administration de liquides pour compenser les pertes liquidiennes. La durée des tétées doit être prolongée chez les enfants nourris uniquement au sein, ou des aliments liquides (potage, eau de riz, yaourt liquide, eau de carotte, feuilles de goyave, purée de banane) doivent être administrés. L’efficacité du SRO est très remarquable dans le traitement de la diarrhée et des SRO de faible osmolarité doivent être privilégiées par rapport à la solution standard.
+
+Il faudrait administrer le SRO après chaque selle liquide soit 50 à 100 ml chez l’enfant de moins de 2 ans ou 100 à 200 ml de SRO chez l’enfant de plus de 2 ans. L’agent de santé doit remettre à l’entourage suffisamment de sachets de SRO à administrer à l’enfant jusqu’à l’arrêt de la diarrhée. Le zinc doit être administré pendant 10-14 jours à raison de 10 mg/jour chez les nourrissons de 2 à 6 mois ou 20 mg/jour au-delà de 6 mois. Le zinc intervient dans des principales fonctions métaboliques des cellules et peut réduire d'environ un tiers la durée et la gravité de la diarrhée.
+
+#### Traitement de la déshydratation modérée : Plan B
+
+Le traitement de la déshydratation modérée se fait dans une formation sanitaire jusqu’à ce que l’enfant retrouve le plan A. La quantité de SRO à administrer est de 75 ml/kg pendant 4 heures. Comme pour le plan A, il faudrait donner des quantités significatives de liquides appropriés et du zinc.
+
+#### Traitement de la déshydratation sévère : Plan C
+
+Le plan C s’adresse aux enfants qui sont sévèrement déshydratés et qui doivent être perfusés rapidement avec des solutés électrolytiques. Le Ringer lactate ou la solution de chlorure de sodium à 9 ‰ peuvent être utilisés. La durée de la réhydratation parentérale est de 6 heures et 3 heures chez les nourrissons de moins de 12 mois et de plus de 12 mois respectivement. Les enfants de moins de 12 mois  reçoivent 30 ml/kg de poids la première heure puis 70 ml/kg de poids les 5 heures suivantes. Par contre, les enfants âgés de plus de 12 mois reçoivent 30 ml/kg de poids  durant 30 minutes puis 70 ml/kg les 2 heures trente minutes suivantes.
+
+Lorsque la voie veineuse ne peut pas être mise en route, la réhydratation peut débuter par une sonde naso-gastrique à raison de 120 ml de SRO /kg pendant 6 heures soit 20 ml/kg/heure. Autant pour le plan B, l’enfant doit être réexaminé toutes les heures afin d’évaluer le degré de déshydratation et d’adapter le plan approprié (A, B ou C) de  prise en charge.
+
+### 2. Traitement de la déshydratation chez un enfant sévèrement malnutri
+
+Bien que la diarrhée soit sévère chez les enfants qui souffrent d’une malnutrition sévère, le traitement de la déshydratation se fait sur prescription médicale avec du RéSoMal (rehydration solution for malnourished). La posologie est de 5 à 10 ml/kg/heure les 2 premières heures suivis de 5 ml/kg/heure pendant 10 à 12 heures. Quant au zinc, il ne doit pas être administré concomitamment avec les aliments thérapeutiques standards de l’OMS qui contiennent des quantités suffisantes de zinc pour corriger le déficit. Lors du traitement du malnutri, la surveillance doit être basée principalement sur le changement de poids et non sur l’utilisation de l’ensemble des signes décrits au tableau 1. Les autres paramètres de surveillance portent sur l’appréciation de l’augmentation du volume du foie, la respiration, le pouls ainsi que les bruits du cœur.
+
+### 3. Traitement antibiotique
+
+L’indication de l’antibiothérapie est très limitée dans la prise en charge de la diarrhée d’origine entérale chez le jeune enfant. Les antibiotiques ne sont utilisés que pour le choléra, ou pour des diarrhées sanglantes le plus souvent dues à une shigellose, ou encore lorsque l’enfant a une infection bactérienne extradigestive dont le foyer a été identifié ou suspecté. Le choix de l’antibiotique repose sur l’antibiogramme ou sur des données locales de la sensibilité bactérienne aux antibiotiques. Du fait de l’émergence accrue des souches bactériennes multi-résistantes, la plupart des antibiotiques usuels ne sont plus recommandés. La ciprofloxacine est de plus en plus le médicament de premier choix dans le traitement de la shigellose indépendamment de l’âge du malade.
+
+### 4. Place des anti-diarrhéiques
+
+Les anti-diarrhéiques ont peu d’intérêt dans le traitement de la diarrhée chez l’enfant et sont inutiles voire dangereux. Ils agissent soit par l’altération de la motilité (lopéramide) ou de la sécrétion (racécadotril) intestinales, de la microflore intestinale (lactobacille) ou par adsorption de toxines ou de liquides (charbon activé). Les ralentisseurs de la motricité altèrent le transit et peuvent induire des pertes liquidiennes cachées et une fausse impression d’une amélioration alors que le processus de déshydratation continue sans manifestations externes d’une diarrhée potentiellement mortelle.  
+Par ailleurs, la connotation "d’antidiarrhéiques" est erronée ; elle est séductrice pour les parents et leur mauvais usage peut ainsi retarder la thérapie de réhydratation qui est capitale. Le rôle du racécadotril a également été décrit dans le contrôle de la diarrhée, cependant sa vulgarisation est limitée en raison du faible coût-bénéfice comparé à l’association zinc-SRO dans les pays en développement.
+
+Des avancées récentes montrent l’action des prébiotiques et des probiotiques sur la microflore intestinale dans la réduction significative du volume et de la durée de la diarrhée. Certains chercheurs ont ainsi enrichi des laits avec ces produits, mais leur utilisation reste peu indiquée dans un contexte où l’on promeut l’allaitement maternel.
+
+## Conclusion
+
+Beaucoup de vies peuvent être sauvées si l’on implique les agents de santé, les agents  communautaires et les parents dans la prise en charge de la diarrhée chez l’enfant. Le paquet de soins essentiels comporte la réhydratation (orale ou parentérale en fonction de la sévérité), le maintien d’une alimentation adéquate, l’administration de zinc et le recours à la formation sanitaire.
+
+L’évaluation et la prise en charge de la déshydratation chez un enfant malnutri ont des particularités que l’on doit prendre en compte afin de ne pas aggraver son état. Par ailleurs, la cause de la diarrhée doit être recherchée et traitée. Enfin, une priorité doit être accordée à la communication avec les parents en particulier sur la supériorité et la nécessité de la réhydratation avec des liquides appropriés par rapport à l’ensemble d’autres mesures thérapeutiques.

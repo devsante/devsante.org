@@ -1,0 +1,51 @@
+Title: Mise au point sur l'hépatite E
+
+---- Author: Aminata Sall Diallo Responsable du PNLH (Programme National de Lutte contre les Hépatites) au Ministère de la Santé du Sénégal. Professeur de physiologie et de biologie à l'UCAD (Université Cheikh Anta Diop) de Dakar. Coordinatrice de l'initiative panafricaine sur les hépatites.
+
+----  
+Datetime: 2012-10-10 00:00
+
+----  
+Teaser:
+
+**Données générales**  
+Identifié en 1990, le virus de l'hépatite E (VHE) est un virus à ARN, comme les virus des hépatites A et C. Il est surtout présent dans les pays en voie de développement, où la contamination se fait par voie féco-orale, mais on assiste de plus en plus à une émergence de cas d'infections dans les pays industrialisés où le virus se transmet à l'homme par la consommation d'aliments contaminés insuffisamment cuits. La transmission interindividuelle directe du VHE est rare.  
+Plusieurs génotypes sont connus (1 à 8).  
+Un réservoir animal est suspecté, très probablement le porc, le sanglier et le cerf.  
+Le  VHE, comme les autres virus des hépatites, provoque une  inflammation du foie. Les manifestations cliniques sont banales, peu différentes de celles des autres hépatites aiguës. Cependant, les formes sévères semblent plus fréquentes que pour les autres hépatites. Dans sa forme aiguë, l'infection peut être mortelle chez  
+les personnes âgées, les femmes enceintes et chez les personnes malades du foie. Chez les personnes immuno- déprimées (patients greffés, patients sous chimiothérapie ou personnes vivant avec le VIH), l'infection par le virus de l'hépatite E peut évoluer vers une hépatite chronique et entraîner une cirrhose.  
+En zone d'endémie, le rôle étiologique du VHE dans les hépatites fulminantes sporadiques a été rapporté par de nombreuses études. Dans les zones non endémiques, la responsabilité du VHE dans les hépatites fulminantes de cause inconnue est également discutée.
+
+----  
+Text:
+
+## I. Hépatite E et grossesse
+
+Une des caractéristiques de l'infection par le VHE est sa gravité particulière chez la femme enceinte, chez qui l'hépatite E est grevée  d'une mortalité élevée, de l'ordre de 20 %, lorsqu'elle survient au troisième trimestre de la grossesse. Le décès survient habituellement   dans un contexte d'encéphalopathie, de syndrome hémorragique et/ou d'insuffisance rénale.  
+Contrairement aux autres virus d'hépatites, le VHE peut être responsable d'infections intra-utérines et a été associé à une morbidité et une mortalité périnatales.  
+Plusieurs hypothèses ont été avancées pour expliquer la gravité particulière de l'hépatite E chez la femme enceinte.  
+Il a été suggéré que le VHE pouvait induire des lésions des cellules sinusoïdales, en particulier des cellules de Küppfer, réduisant leur capacité de protection des hépatocytes vis-à-vis des endotoxines bactériennes provenant du tractus intestinal. Les lésions hépatocytaires secondaires à l'action des endotoxines  
+et celles liées à la libération locale d'eicosanoïdes seraient responsables de l'attraction de polynucléaires neutrophiles par chimiotactisme médié par les prostaglandines, d'un œdème secondaire à la production de leucotriènes et d'une cholestase.
+
+La sensibilité particulière de la femme enceinte aux effets des endotoxines bactériennes est bien connue et pourrait expliquer la surmortalité de l'hépatite E au cours de la grossesse. Ces hypothèses doivent cependant être confirmées.  
+Quel qu’en soit le mécanisme, le diagnostic d'hépatite E doit être évoqué devant toute hépatite aiguë grave de la  femme  enceinte,  y  compris dans les régions non endémiques. La démarche diagnostique  optimale inclut la détection d'IgM anti-VHE par les tests immuno-enzymatiques ou d'immunotransfert, la recherche de l'ARN du virus de l'hépatite E dans le sérum et dans les selles.  
+En cas de diagnostic positif, la prise en charge dans un centre spécialisé et la mise en œuvre d'un traitement symptomatique s'imposent alors.
+
+## II. Prévention de l’hépatite E
+
+La prévention de l'infection par le VHE passe avant tout par une  amélioration des conditions locales d'hygiène, la mise en place de réseaux d'égouts, le traitement des eaux usées et le contrôle de l'eau potable.  
+La provision d'eau potable non contaminée est en effet un préalable  indispensable au contrôle de l'infection. Il a été suggéré que l'ébullition puisse inactiver le VHE.  
+A côté des mesures générales, la prévention individuelle repose sur  l'observance stricte des règles d'hygiène non spécifiques permettant la lutte contre le péril féco-oral. Il est recommandé aux voyageurs  
+séjournant en zones d'endémie et aux femmes enceintes d'éviter la consommation d'eau du robinet et de boissons contenant des glaçons et de leur préférer l'eau minérale dans tous les cas. De même, la consommation d'aliments non cuits, particulièrement les fruits et les légumes crus non épluchés, est déconseillée.
+
+## III. Surveillance et traitement
+
+Il n'y a pas de traitement médical spécifique de l’hépatite virale E aiguë.  
+Chez la femme enceinte, il faut arrêter tous les médicaments,  en  particulier les anti-inflammatoires non stéroïdiens (AINS), les traitements hormonaux, la méthyl-dopa.  
+Le principal élément de surveillance maternelle est le taux de  prothrombine (TP).  Un TP inférieur à 50 %  (associé à une  diminution du  facteur  V)  témoigne d'une insuffisance hépato- cellulaire sévère et doit faire craindre une évolution vers une hépatite fulminante (définie par l'existence de  troubles de conscience).  Le  cas  échéant,  il  faut discuter une transplantation hépatique en urgence. En cas d’hépatite chronique E, rarissime, l'interféron et la vidarabine phosphate, qui sont les principaux traitements des hépatites virales  chroniques,  sont contre-indiqués pendant la grossesse. Un traitement devra être envisagé après la délivrance.
+
+## Conclusion
+
+Importante cause d’hépatite aiguë dans le monde, principalement  dans les pays en développement  - Asie  et  Afrique  -,  l’hépatite  E  est aujourd’hui une maladie émergente dans les pays industrialisés.  La forte endémicité du VHE dans les pays en voie de développement et la gravité potentielle de la maladie chez la femme enceinte justifient une prévention active de l'infection, en l'absence de traitement curatif efficace de ses complications.
+
+Développement et Santé, N° 200, 2012

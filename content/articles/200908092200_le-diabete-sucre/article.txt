@@ -1,0 +1,149 @@
+Title: Le diabète sucré
+
+---- Author: Stéphane Besançon Biologiste et nutritionniste, directeur de l'ONG Santé Diabète Mali, Bamako, Mali.
+
+----  
+Datetime: 2009-08-09 00:00
+
+----  
+Text:
+
+Une véritable épidémie de diabète est observée dans le monde. L'Organisation Mondiale de la Santé (OMS) indique que l'on comptait 171 millions de diabétiques dans le monde en 2000 et que ce chiffre passera a 366 millions en 2030. Cette augmentation des cas va entraîner celle de la prévalence mondiale de la maladie de 2,2 a 4,8% [1]. Ces prévisions alarmantes ne doivent pas faire oublier que le diabète est déjà un tueur silencieux : chaque année, plus de 3,8 millions de personnes en meurent et 6 000 000 de nouveaux cas apparaissent.
+
+Contrairement a une idée reçue, le diabète n'est plus, aujourd'hui, une maladie des pays et des hommes riches. Selon l'OMS, entre 2000 et 2025, la progression des cas sera de 40% dans les pays développés et de 170% dans les pays en voie de développement (PVD). A cette date, ces derniers compteront 230 millions soit 76% des diabétiques recensés dans le monde.
+
+NB : **prévalence** d'une maladie : nombre de cas de cette maladie dans une population donnée, à un moment donné, exprimé en pourcentage. sans distinction entre nouveaux et anciens cas
+
+**Evolution du diabète dans le monde _(source OMS)._**
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td valign="top">
+
+Année
+
+</td>
+
+<td valign="top">
+
+Nombre de diabétiques  
+dans le monde <em>(Millions)</em>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+1994
+
+</td>
+
+<td valign="top">
+
+110
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+2000
+
+</td>
+
+<td valign="top">
+
+171
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+2010
+
+</td>
+
+<td valign="top">
+
+240
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+2030
+
+</td>
+
+<td valign="top">
+
+366
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## I. Pourquoi une telle progression ?
+
+Dans les pays en voie de développement, cette véritable explosion du diabète, comme celle d'autres maladies chroniques, est directement liée a l'apparition massive du surpoids et de l'obésité, présents dans toutes les classes de la société. Les villes sont les plus touchées. En effet, en Afrique, une femme sur quatre et un homme sur six sont concernés en milieu urbain, et ce taux devient inférieur a 10 % en milieu rural [2].
+
+La triade de mots « diabète-surpoids-obésité » peut surprendre lorsque l'on parle de l'Afrique ou d'autres pays en voie de développement C'est oublier que ces pays connaissent :
+
+*   une urbanisation rapide et massive ;
+*   une sédentarisation importante des populations, surtout en milieu urbain, avec une baisse de l'activité physique liée aux types d'emplois moins physiques et aux déplacements en voiture ou moto;
+
+*   des changements nutritionnels importants appelés "transition nutritionnelle", définie comme une modification progressive des régimes alimentaires, avec notamment une nette augmentation de la consommation de matières grasses d'origine animale (autrefois, dans les régimes traditionnels, 20% de l'énergie venait des lipides, aujourd'hui ce chiffre tend vers 30 a 40 % et se rapproche de la valeur des pays développés) [3].
+
+## II. Le diabète sucré : une nouvelle question de santé publique pour l'Afrique
+
+Comme tous les pays en voie de développement, l'Afrique est gagnée par cette épidémie de surpoids, d'obésité et de diabète. Une étude, publiée aux Etats-Unis en 2005 [4], a pour la première fois montré que, parmi les femmes de nombreux pays en voie de développement, le nombre de cas d'ex-ces de poids dépassait celui des poids insuffisants. La dernière version du diabète Atlas de la fédération Internationale du Diabète (FID) montre que, dans une majorité de pays africains, la prévalence de la maladie était, en 2003, de 2 a 5`%. L'explosion de l'épidémie de diabète en Afrique pose plusieurs problèmes : accès aux soins, aux traitements et a l'éducation ; prise en charge des patients et des complications de la maladie. En effet, pour ces pays, le coût des soins et le manque de ressources humaines représentent une barrière majeure.
+
+## III. Les médicaments (insuline et antidiabétiques oraux)
+
+Le manque d'approvisionnement en insuline (problème de conservation) et en antidiabétiques oraux est fréquent, et les prix souvent inaccessibles, en raison des faibles revenus des malades. Par exemple, le prix de l'insuline reste prohibitif. Dans de nombreux pays, ou le salaire se situe autour de 3 500 CFA (50 euros), un flacon d'insuline coûte entre 3 000 et 10 000 CFA. Dans certains pays (Sénégal), le traitement par l'insuline est pris en charge. Pour de nombreux pays d'Afrique, on estime que le coût de l'insuline pour une année de traitement représente environ 38 % des ressources annuelles de la famille, ce qui représente souvent la totalité des dépenses de santé d'une famille.
+
+## IV. Les équipements nécessaires à la prise en charge du diabète
+
+L'insuline seule ne suffit pas. Les patients ont besoin de seringues pour l'injecter.  
+De plus ils doivent contrôler régulièrement leur glycémie au moyen de glucomètres ou par différents tests de laboratoire. Le matériel de laboratoire et les réactifs connaissent de fréquentes ruptures d'approvisionnement et ne sont pas présents a tous les niveaux de la pyramide sanitaire. Les patients doivent également pouvoir s'adresser a des soignants formés a la prévention et a la prise en charge de cette pathologie.
+
+Dans différents pays Africains, le coût est estimé entre 26 000 et 32 000 CFA (40-50 euros) par mois, sachant qu'un malade devra payer :
+
+*   les contrôles de la glycémie, effectués dans les laboratoires d'analyse (coût variant de 1 000 a 1900 CFA-1,5 a 3 euros), ou en utilisant un lecteur personnel (coût du lecteur entre 6 500 et 13 000 CFA
+*   100-200 euros, coût des bandelettes entre 13 000 et 26 000 CFA, 20-40 euros la boîte de 50) ;
+*   les dosages de l'hémoglobine glyquée (de 10000 a 13 000 CFA l'analyse, 15 a 20 euros) ;
+*   les déplacements vers les structures de soins.
+
+## V. L'accessibilité aux soins
+
+Le problème de l'accessibilité aux soins est d'ordre à la fois financier et géographique :
+
+*   En Afrique sub-saharienne, l'organisation des systèmes de santé est adaptée au traitement des maladies aiguës mais non a celui des affections chroniques. En 2004, le Mali - environ 12 millions d'habitants - n'avait que deux médecins spécialisés en diabétologie, et deux a trois agents de santé ayant reçu de courtes formations. Ce personnel exerçait à Bamako, la capitale, dans les trois seuls services spécialisés du pays.
+*   Dans les différents pays, les laboratoires d'analyses ne sont présents que jusqu'au chef-lieu de département. De plus, tous les examens n'y sont pas disponibles. Les dosages de l'hémoglobine glyquée ne sont effectués que dans le secteur privé et seulement dans les capitales.
+*   L'éducation souffre du manque de personnel et de structures nécessaires a l'éducation du diabétique.
+
+Ces données montrent donc que, dans de très nombreux pays en voie de développement, les ressources inadéquates (financières et humaines) représentent une barrière majeure a la prise en charge et au contrôle des maladies chroniques, notamment du diabète. Ces faits expliquent la fréquence des complications et l'importance de la mortalité liée au diabète.
+
+_Développement et Santé, n°193, 2009_

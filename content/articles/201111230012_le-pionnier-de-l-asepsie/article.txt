@@ -1,0 +1,24 @@
+Title: Le pionnier de l'asepsie
+
+---- Author: Nicole Horeau
+
+----  
+Datetime: 2011-11-23 00:00
+
+----  
+Text:
+
+Il faut rendre hommage à **Ignace Semmelweiss**, médecin hongrois qui était accoucheur à Vienne en Autriche.  
+C'est en 1846 qu'il devient assistant en obstétrique. La mortalité à la maternité où il prend ses fonctions est catastrophique : en effet, 96 % des femmes admises dans le service y décèdent... et la rumeur circule qu'il est  
+préférable d'accoucher dans la rue plutôt qu'à l'hôpital.
+
+Le jeune médecin se donne pour tâche de rechercher les causes de la fièvre puerpérale qui frappe les accouchées, et il a au départ une certitude : "la cause que je cherche est dans notre hôpital et nulle part ailleurs".  
+Sa démarche scientifique est exemplaire : il s'appuie sur l'observation pour en tirer des conclusions logiques.  
+II a d'abord observé que les étudiants passaient directement des salles d'autopsie à la maternité où on examinait les femmes enceintes. Par ailleurs, il fait un rapprochement entre la fièvre puerpérale des accouchées et la mort d'un professeur d'anatomie ayant péri d'infection généralisée après s'être blessé pendant une autopsie.  
+Il en déduit qu'il s'agit d'une seule et même maladie. Nous savons aujourd'hui qu'il s'agissait de la septicémie à streptocoque A.
+
+Avant Pasteur, comme tous les médecins, Semmelweiss ignorait l'existence des microbes, mais il a eu l'intuition que "des particules" provenant des cadavres des salles de dissection étaient transportées et répandues par  
+les mains des étudiants et transmettaient les infections mortelles.  
+En même temps qu'il découvre (sans pouvoir apporter des preuves) l'origine du mal, Semmelweiss invente l'asepsie : il oblige les médecins et les étudiants à se laver les mains avec une solution chlorée. L'application de cette méthode est un succès total, la mortalité s'effondre et tombe à 2 % ! La nature du mal et sa prévention semblent évidentes et pourtant, pour différentes raisons (dont la jalousie de ses supérieurs), Semmelweiss n'a pas réussi à convaincre. Il a fallu attendre la fin du XIXème siècle et la révolution apportée par Louis Pasteur pour que les règles de l'asepsie commencent à être comprises et acceptées. Et c'est seulement au XXème siècle, dans les années 1920, que fut reconnue la remarquable perspicacité de ce médecin pionnier qui fut longtemps injustement oublié.
+
+On retiendra de cette histoire que, sans moyens matériels, et seulement avec l'observation et le raisonnement logique, on peut faire progresser la médecine.

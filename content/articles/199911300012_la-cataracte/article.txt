@@ -1,0 +1,430 @@
+Title: La cataracte
+
+---- Author: Jean-Philippe Colliot Ophtalmologiste attaché, Ancien interne des Quinze-Vingt, Paris.
+
+----  
+Datetime: 1999-11-30 00:00
+
+----  
+Teaser:
+
+On évalue le nombre d'aveugles dans les pays en développement à près de 50 millions, dont environ la moitié par cataracte.  
+Si ce n'est pas une cause évitable de cécité, elle est néanmoins curable chirurgicalement.
+
+----  
+Text:
+
+Reconnaître la cataracte, inciter le patient à faire effectuer le traitement chirurgical adapté permet sa réhabilitation, limite sa dépendance et le libère ainsi de l'aide permanente d'un tiers valide, ajoutant ainsi à l'aspect humanitaire une dimension économique.
+
+## I. Anatomie de l'oeil humain
+
+Pour situer le cristallin dans l'oeil, et pour appréhender les structures intéressées dans les suites opératoires, il est nécessaire de revoir rapidement l'anatomie de l'oeil et de ses annexes.
+
+### 1. Anatomie et repères externes
+
+Le rebord osseux de l'orbite protège l'oeil des traumatismes car il déborde en avant le plan de l'oeil. L'oeil est également protégé par les paupières supérieures et inférieures. Elles se rejoignent en dehors au niveau du canthus externe et du côté nasal au niveau du canthus interne. Un tissu ferme et résistant, la sclère, donne à l'oeil sain sa couleur blanche. La conjonctive recouvre la sclère et la face interne des paupières. La conjonctive saine est transparente mais on y voit de fins vaisseaux sanguins normaux. La petite saillie conjonctivale visible dans le canthus interne est la caroncule. La cornée, tissu clair et transparent, limite en avant la chambre antérieure, l'iris et la pupille.
+
+### 2. Anatomie des paupières
+
+Chaque paupière est constituée de 4 couches principales, qui sont, d'avant en arrière :
+
+*   la peau,
+*   le muscle,
+*   le tarse,
+*   la conjonctive.
+
+Le film lacrymal lubrifie et humidifie continuellement la surface de l'oeil. Les cils, implantés aussi sur le bord des paupières, assurent à l'oeil une protection supplémentaire contre les petits corps étrangers.
+
+### 3. Anatomie externe du globe oculaire
+
+Chez l'adulte, le globe oculaire a normalement un diamètre d'environ 2,5 cm et est presque sphérique. Son volume est de 7 ml environ. Il est maintenu dans la cavité orbitaire osseuse par la capsule de Tenon, tissu similaire à l'aponévrose musculaire. La capsule de Tenon entoure le globe et est située entre la conjonctive et la sclère.
+
+La cornée est un tissu transparent dont la limite avec la sclère se nomme le limbe. Son diamètre est de 10,5 à 12 mm et son épaisseur de 1 mm. La cornée est constituée de 5 couches distinctes qui sont, de l'extérieur vers l'intérieur :
+
+*   l'épithélium,
+*   la membrane de Bowman,
+*   le stroma,
+*   la membrane de Descemet,
+*   l'endothélium.
+
+Épaisse également d'environ 1 mm, la sclère est l'enveloppe externe ferme et blanche qui permet au globe de conserver sa forme. Le nerf optique, qui transmet les messages visuels de la rétine au cerveau où ils sont interprétés, est fixé à la partie postérieure de la sclère.
+
+La conjonctive recouvre la capsule de Tenon et la sclère et se fixe (s'insère) au limbe. La conjonctive qui tapisse la face antérieure de l'oeil est appelée conjonctive bulbaire. La conjonctive bulbaire est en continuité avec la conjonctive palpébrale (ou tarsale) qui tapisse la face postérieure des paupières. Les replis sont les culs-de-sac conjonctivaux (fornix) supérieur et inférieur.
+
+### 4. Anatomie interne du globe oculaire
+
+L'espace situé entre l'endothélium cornéen et l'iris est la chambre antérieure. Elle contient un liquide, l'humeur aqueuse, produit continuellement à l'intérieur de l'oeil. L'humeur aqueuse s'évacue continuellement de l'oeil à travers un anneau microscopique de tissu poreux situé à la périphérie de la chambre antérieure, juste en avant de l'iris, le trabéculum. L'ensemble formé par la base de l'iris, le trabéculum et le tissu scléral et cornéen de soutien porte le nom d'angle irido-cornéen.
+
+En arrière de l'iris se trouve le cristallin. Il est suspendu dans sa position par la zonule (ligament zonulaire) qui est aussi fixée au corps cilaire.
+
+L'espace qui se trouve entre le cristallin et la face postérieure de l'iris est la chambre postérieure. Elle n'est pas l'espace qui renferme le vitré (corps vitré) qui est le tissu le plus volumineux du globe oculaire. Il occupe la cavité vitréenne, c'est-à-dire l'espace limité par la face postérieure du cristallin, la zonule, le corps ciliaire et la rétine. Le vitré est un tissu transparent analogue à de la gelée, qui devient plus liquide avec l'âge.
+
+L'uvée ou tractus uvéal, est formé de 3 structures anatomiques distinctes:
+
+*   l'iris,
+*   le corps ciliaire,
+*   la choroïde.
+
+Bien que les trois éléments de l'uvée soient reliés entre eux, en faisant un tissu continu, chaque structure a une fonction distincte et particulière. L'iris sert à régler la quantité de lumière qui pénètre dans l'oeil par l'orifice situé en son centre, la pupille; le corps ciliaire sert de base à la zonule, il produit l'humeur aqueuse, et ses muscles jouent un rôle dans le phénomène d'accommodation; la choroïde assure pour une bonne part la nutrition de la rétine.
+
+La rétine, tissu neurosensoriel composé de dix couches microscopiques, est la tunique interne du globe oculaire. La rétine et le nerf optique sont des prolongements du cerveau au niveau de l'oeil.
+
+Des millions de cônes microscopiques, sensibles à la lumière vive, et de bâtonnets, sensibles à la lumière crépusculaire, peuplent la rétine. Cônes et bâtonnets représentent les photorécepteurs. C'est au niveau de la macula, la tache sombre légèrement déprimée qui se trouve près du centre de la rétine, que la densité des photorécepteurs est la plus grande. Il y a près d'un million de cônes dans la région de la macula.
+
+Les photorécepteurs transforment l'énergie lumineuse en courants d'énergie électrique qui sont transmis au cerveau par le nerf optique et les voies optiques. Le nerf optique s'insère sur la sclère et entre en continuité avec les fibres rétiniennes en dedans de la macula. À l'examen du fond d'oeil avec ophtalmoscope, l'observateur peut voir l'origine du nerf optique (papille) en dedans de la macula (c'est-à-dire du côté nasal).
+
+La cornée, la chambre antérieure, l'iris, le trabéculum, la sclère qui les soutient, et le cristallin constituent le segment antérieur. Le corps ciliaire, la choroïde, le vitré, la rétine, l'arrivée du nerf optique (papille), et la sclère correspondante, constituent le segment postérieur. Un riche réseau de vaisseaux sanguins irrigue l'extérieur et l'intérieur du globe oculaire ainsi que le nerf optique.
+
+### 5. Muscles extra-oculaires
+
+existe 3 paires de muscles extra-oculaires, soit 6 muscles, fixés sur l'oeil et responsables de ses mouvements: 2 muscles horizontaux, le droit externe et droit interne, 2 muscles verticaux, le droit supérieur et le droit inférieur, et 2 muscles obliques, le grand oblique (ou oblique supérieur) et le petit oblique (ou oblique inférieur). Tous les six s'insèrent sur l'orbite, d'une part, et sur la sclère, d'autre part. Chaque muscle oculo-moteur a un rôle spécifique et indépendant dans les mouvements de l'oeil.
+
+(image: i861-1.jpg)
+
+
+### 6. L'orbite osseuse
+
+L'orbite osseuse, c'est-à-dire la cavité qui renferme l'oeil et ses annexes de soutien, est formée de portions appartenant à sept os différents. Sa forme est à peu près conique et son volume est d'environ 30 CM<sup>3</sup> . Les rebords supérieur, inférieur, externe et interne de l'orbite forment en avant le cadre orbitaire. La partie postérieure correspond au sommet du cône. Le nerf optique, d'autres nerfs crâniens et des vaisseaux sanguins passent par des orifices proches du sommet de l'orbite et font communiquer celle-ci avec la cavité intracrânienne. Ces nerfs et vaisseaux sont destinés au globe oculaire et aux paupières.
+
+Une membrane mince mais résistante, le septum orbitaire, fixée au rebord orbitaire et aux paupières, protège les structures orbitaires fragiles des traumatismes et infections venus de l'extérieur.
+
+### 7. Le système lacrymal
+
+La glande lacrymale est située à la partie antérieure, supérieure et externe (temporale supérieure) de l'orbite, sous la paupière. À l'état normal, la glande lacrymale sécrète un liquide (des larmes) qui arrive par de nombreux petits canaux très fins à la partie externe du cul-de-sac conjonctival supérieur. Les larmes forment un film très mince (film lacrymal) sur l'épithélium cornéen et conjonctival, assurant son humidification et sa lubrification. Quand ce film lacrymal fait défaut, la cornée perd sa transparence et la conjonctive se dessèche. Les larmes s'écoulent dans le sac lacrymal en passant par les canalicules lacrymaux. Chaque canalicule possède un orifice palpébral, le point lacrymal. Il existe un point lacrymal sur chaque paupière, près du canthus interne. Du sac lacrymal, les larmes s'écoulent dans le nez par le canal lacrymo-nasal.
+
+### 8. Nerf optique et voie optique
+
+De la sclère au canal optique, la longueur du nerf optique est d'environ 2,5 cm. Chaque nerf optique est formé d'un million de fines fibres nerveuses. À sa sortie du canal optique, le nerf optique rejoint et croise (partiellement) son homologue de l'autre oeil, au niveau du chiasma optique.
+
+Les fibres nerveuses du nerf optique s'articulent avec d'autres neurones (cellules nerveuses) qui se terminent dans le cortex occipital à la partie postérieure du cerveau. C'est là que les messages électriques (qui résultent de la conversion de l'énergie lumineuse par les photorécepteurs de la rétine) sont interprétés sous forme d'images visuelles colorées.
+
+## II. Physiologie de l'oeil humain
+
+### 1. Notions générales
+
+L'oeil est un organe sensoriel sensitif. L'appareil visuel (les yeux, leurs annexes, et leurs connexions neurosensorielles avec le cerveau) rend possible la vue. Les deux yeux, s'ils sont correctement alignés voient la même image simultanément. Ils regardent dans la même direction grâce aux muscles extra-oculaires. S'ils se fixent sur la même image, une image binoculaire (" des deux yeux ") est perçue par le cerveau. La vision binoculaire (stéréoscopique) permet de voir les objets avec une "impression de relief ".
+
+La cornée est normalement claire et transparente. L'iris joue le rôle de diaphragme et contrôle de ce fait la quantité de lumière qui pénètre dans l'oeil. En se dilatant et en se contractant, l'iris commande la taille de la pupille. Si la lumière est trop vive, la pupille se resserre pour ne laisser passer dans l'oeil que ce qu'il faut de lumière. Quand la lumière est atténuée ou dans la pénombre, la pupille se dilate pour laisser passer davantage de lumière dans l'oeil. La lumière qui franchit la pupille passe ensuite à travers le cristallin et le vitré pour atteindre la rétine.
+
+Le corps ciliaire, qui fait partie de l'uvée, contient des muscles et est donc capable de changer de forme selon que ces muscles se contractent ou se relâchent. La zonule est fixée aux procès ciliaires et maintient le cristallin suspendu derrière l'iris. La contraction des muscles du corps ciliaire provoque l'épaississement du cristallin, leur relâchement, son amincissement. Ce phénomène porte le nom d'accommodation. Toute perte de transparence le long du trajet de la lumière (du fait d'une cicatrice cornéenne ou d'une opacification du cristallin, par exemple) entraînera une baisse de la vue.
+
+### 2. Humeur aqueuse
+
+L'humeur aqueuse se forme continuellement dans l'épithélium du corps ciliaire et est excrétée dans la chambre postérieure. De la chambre postérieure, l'humeur aqueuse passe dans la chambre antérieure à travers la pupille. De la chambre antérieure, elle se draine à travers le filtre trabéculaire dans le canal de Schlemm. Du canal de Schlemm, elle est évacuée hors de l'oeil par de fins canaux qui se jettent dans les vaisseaux de la conjonctive.
+
+La stabilité de l'oeil et la pression intraoculaire dépendent de la formation et de l'évacuation normales de l'humeur aqueuse. La pression intraoculaire normale de l'oeil humain est de 10 à 21 mmHg (millimètres de mercure).
+
+### 3. Anatomie du cristallin
+
+Le cristallin humain est formé de 4 structures fondamentales :
+
+*   la capsule, membrane élastique et transparente, qui l'entoure ;
+*   l'épithélium, couche cellulaire tapissant la face postérieure de la capsule antérieure, en activité permanente ;
+*   le cortex, substance protéique transparente (masses cristalliniennes) ;
+*   le noyau, central, mou chez l'enfant, dur chez le sujet âgé.
+
+Le cristallin grandit avec l'âge. Le durcissement diminue sa capacité d'accommodation. La presbytie (perte de la vision de près par perte d'accommodation) débute physiologiquement après 40-45 ans.
+
+## III. Un problème majeur de santé publique
+
+Nous ne disposons que d'approximations concernant la prévalence, car :
+
+*   il s'agit d'une déficience évolutive d'une année à l'autre ;
+*   les évaluations nationales sont souvent l'extrapolation de données tirées d'une aire géographique limitée, non nécessairement représentative ;
+*   l'attribution des ressources pouvant dépendre de la pathologie déclarée, il peut être tentant d' "adapter" les statistiques aux prétentions, en l'absence de coûteuses procédures de contrôle indépendantes.
+
+Environ 20 millions de malades sont en attente de chirurgie de la cataracte dans les pays en développement.
+
+### 1. Définition
+
+La cataracte est une opacité du cristallin. Le déficit, sauf en cas de cataracte trauma tique, est progressif et indolore. L'oeil opéré est dit aphaque quand le cristallin n'a pas été remplacé, pseudophaque en cas d'implantation.
+
+Si, dans les pays développés, la cataracte est opérée dès la sensation de gène, il n'en est pas de même dans les pays en développement où l'accès aux soins ophtalmologiques est limité.
+
+### 2. Étiologie
+
+Chez l'adulte, l'association des rayonnements ultraviolets à la malnutrition est soupçonnée d'entraîner une déviation de la dégradation anaérobie du glucose dans le cristallin, expliquant son opacification.
+
+### 3. Formes cliniques des cataractes
+
+*   _Selon l'âge:_
+    *   nourrisson,
+    *   adulte jeune (familiale),
+    *   sénile (la plus fréquente).
+*   _Selon l'étiologie:_
+    *   congénitale, héréditaire ou après une infection de la mère (syphilis, rubéole pendant la grossesse) ;
+    *   traumatique
+    *   secondaire à une uvéite, une endophtalmie ou à une corticothérapie.
+*   _Selon l'anatomie :_
+    *   nucléaire, durcissement du noyau lié à l'âge ;
+    *   corticale, opacités dans le cortex ;
+    *   cortico-nucléaire, association des deux ;
+    *   zonulaire, à point de départ périphérique ;
+    *   sous-capsulaire, postérieure, très gênante et d'évolution rapide.
+*   _Selon la densité :_
+    *   débutante, peu gênante _(figure 2) ;_
+    *   immature, début de gêne ;
+    *   mûre, aspect blanchâtre, acuité visuelle très réduite ;
+    *   intumescente, cristallin laiteux et gonflé ;
+    *   hypermûre, cristallin complètement blanc, contracté _(figure 3) ;_
+    *   morganienne, le noyau flotte dans le cortex liquide.
+*   _Selon la position :_
+    *   luxée, le cristallin a perdu ses attaches
+    *   subluxée partiellement déplacée.
+
+(image: i861-2.jpg)
+
+
+## IV. Examen clinique hors de la structure ophtalmologique
+
+Nous nous placerons dans la situation de dépistage de la cataracte par un personnel non spécialisé, médecin généraliste, agent de santé, infirmier.
+
+### 1. Matériel nécessaire
+
+*   Registre ou fiches individuelles conservés par l'équipe soignante, pour noter le lieu et la date de l'examen, nom, prénom, sexe, âge, et profession du patient ;
+*   Carnets de santé, pouvant prendre la forme rudimentaire de 2 feuilles pliées, découpées et agrafées, à distribuer à chaque patient. Dans la mesure du possible, une contribution financière modeste permet de responsabiliser le patient, qui devra rapporter le carnet à chaque consultation. Les renseignements sur le carnet devront être aussi précis et détaillés que sur le registre ou les fiches individuelles ;
+*   Lampe de poche ou (mieux) ophtalmoscope si le maniement en est connu, filtre bleu cobalt ;
+*   Système grossissant : lunettes loupes au mieux, sinon lunettes à verres convexes (+ 4 à + 6).
+*   Tonomètre: Schiotz (à indentation), Perkins (à aplanation, plus fragile et nécessitant un long apprentissage) ou Tonopen (à affichage digital, relativement onéreux).
+*   Collyres : mydriatiques (Tropicamide Mydriaticum® ; cyclopentolate : Skiacol® néosynéphrine 10 % ... ), fluorescéine, anesthésiques de contact (oxybuprocàine: Novésine® ; tétracaïne ... ) ;
+*   Echelles d'acuité visuelle de loin: échelle de Snellen, anneaux de Landolt, dessins de près: Rossano (dessins, échelles) ou en texte (si possible en langue vernaculaire);
+*   Solution hydro-alcoolique pour la désinfection des mains;
+*   Seringues et canules à voies lacrymales, sérum physiologique.
+
+### 2. L'interrogatoire
+
+Un interprète formé à la spécialité est appréciable au cas où les soins sont donnés dans une zone où la langue parlée n'est pas celle de l'équipe soignante. Si l'on recrute sur place un bénévole, il faut prendre le temps de lui expliquer le but de l'action de dépistage, et de lui donner quelques notions sommaires d'ophtalmologie.
+
+On notera :
+
+*   la date de début de la baisse d'acuité visuelle, ce qui est important en cas de trau- matisme (noter également les circonstances du traumatisme);
+*   pathologie générale : diabète, avitaminose A (xérophtalmie), tuberculose, syphilis, séropositivité HIV, et traitements suivis (en particulier corticoïdes) ;
+*   antécédents maternels en cas de cataracte congénitale (rubéole, rougeole, syphilis, toxoplasmose) ;
+*   autre pathologie oculaire : arrachage régulier des cils (trichiasis), ptérygion, uvéite (zona, herpès).
+
+### 3. L'examen du patient
+
+**A consigner par écrit** sur le carnet de santé et sur le registre
+
+#### a. Acuité visuelle de loin et de près
+
+De cet examen découlera l'indication opératoire éventuelle, en fonction du type de chirurgie praticable. La mesure de l'acuité visuelle (AV) est un temps capital de l'examen et la seule mesure toujours indispensable. Elle doit être mesurée pour chaque oeil séparément et notée sur la fiche médicale.
+
+Pour mesurer avec précision l'acuité visuelle, on se sert de tableaux de figures standard dites optotypes. Les tableaux les plus utilisés (échelles de Monoyer, de Snellen, etc.) comportent des rangées de lettre ou de chiffres de taille décroissante, selon des normes internationales.
+
+Les notations peuvent être en mètres ou en pieds (feet, ft). En mètres, l'acuité visuelle normale est 10/10 (ou 1,0, ou 6/6). En pieds, elle est de 20/20.
+
+Pour **mesurer l'acuité visuelle**, procédez de la manière suivante :
+
+Installez le patient à 5 ou 6 m de l'échelle (plutôt 5 m selon l'usage français; 6 m = 20 ft). Expliquez la méthode au patient et demandez-lui de regarder le tableau.
+
+Masquez l'oeil gauche et mesurez tout d'abord l'AV de l'oeil droit. Il est conseillé de couvrir complètement l'oeil gauche du patient avec un cache opaque, car certains essaieraient volontiers d'utiliser subrepticement l'oeil masqué si l'oeil à examiner n'a pas une vision normale.
+
+Demandez au patient de lire la ligne des lettres ou chiffres les plus petits qu'il peut voir nettement. S'il peut lire toute la ligne "x", l'acuité visuelle est x/10 (par exemple: la ligne des caractères lus les plus petits est la ligne 7, l'AV est de 7/10, ou 0,7 (l'usage anglo-saxon est de noter tout d'abord la distance (par ex. : 6 m), puis la ligne des plus petits caractères lisibles, en intercalant une barre (/) ; par exemple, si le patient lit toute la ligne 18 ou presque, sur le tableau métrique placé à 6m, l'AV peut être cotée 6/18 ; si l'échelle est étalonnée en pieds (ft) et si le patient lit à 6 m la ligne 60, l'AV sera cotée 20/60, et ainsi de suite).
+
+Si le patient est illettré, utilisez par exemple une échelle de Snellen dont les optotypes sont des " E " orientés dans toutes les directions.
+
+Demandez-lui dans quelle direction les E sont orientés, en désignant des caractères de plus en plus petits jusqu'à ce que l'AV puisse être obtenue.
+
+On peut aussi utiliser une échelle de Landoldt (de " C " ou anneaux brisés) ou surtout pour les enfants, une échelle formée de rangées de dessins simples (échelles de Rossano ou de Weiss par exemple).
+
+La vue du patient est parfois si médiocre qu'il ne peut lire aucun signe du tableau. Montrez lui vos propres doigts étendus et demandez-lui d'en compter le nombre à des distances variables. Notez le meilleur résultat.
+
+S'il compte les doigts correctement à 2 mètres, par exemple, notez " compte les doigts (ou CLD) à 2 m ". Étant donné que les doigts de la main peuvent être assimilés aux grands " E " - 1/10 - de la première ligne de l'échelle de Snellen, l'AV " CLD à 5 m" peut aussi être cotée 1/10. Si le sujet compte les doigts à 2,50 m, elle est de 1/20 ; s'il ne peut compter les doigts qu'à un mètre, elle est de 1/50. Il en est de même avec les " c " de l'échelle de Landoldt. Si le patient ne peut pas compter les doigts même de près, cherchez si le faisceau lumineux d'une lampe de poche peut être perçu par chacun des quatre quadrants de la rétine. Pour cela, tenez la lumière à 10 cm de l'oeil et, successivement, au-dessus et en dehors (exploration du quadrant nasal inférieur), en bas et en dehors (quadrant nasal supérieur) et en bas et en dedans (quadrant temporal supérieur) ; demandez au patient d'indiquer la direction de la source lumineuse. S'il l'indique correctement du doigt, c'est que sa rétine reçoit bien la lumière et la transmet bien au cerveau, et son acuité visuelle est une " projection lumineuse bien orientée ". S'il ne peut indiquer la direction de la source lumineuse, son AV est une " projection lumineuse mal orientée " (ou " bonne perception lumineuse " et "vague perception lumineuse").
+
+Si le patient n'est pas capable de voir la lumière émise par la lampe, notez "absence de perception lumineuse " (ou "PL = 0 " ou "V = 0 ", V comme vision). Il ne faut pas écrire " cécité " ou "aveugle " sur la fiche médicale qui indique l'acuité visuelle. Ces mots ont une connotation péjorative dans de nombreux groupes sociaux.
+
+L'acuité visuelle de l'oeil gauche sera mesurée exactement de la même façon et notée.
+
+Si l'AV est inférieure à 1/10 (ou 0,1) pour l'un des deux yeux ou des deux côtés essayez de mesurer l'AV à travers un trou d'épingle (trou sténopéique). Un accessoire de ce type fait partie du coffret de verres d'essai utilisé pour l'étude de la réfraction. A défaut, servez-vous d'un morceau de carton ou de film radiologique percé d'un petit trou. Notez les résultats obtenus. Si l'acuité visuelle est meilleure en vision sténopéique, il est probable que le déficit provient d'une anomalie de réfraction, et en particulier d'une myopie ou d'un astigmatisme. Si le patient se plaint de mal voir de près ou s'il est âgé de 40 ans ou plus, vérifiez son AV de près en plaçant l'échelle standard de mesure de l'AV de près (type échelle de Parinaud) à 40 cm de ses yeux.
+
+Testez chaque oeil séparément et notez les résultats sur la fiche.
+
+Voici quelques abréviations courantes relatives à la mesure de l'acuité visuelle :
+
+*   AV OD: acuité visuelle de l'oeil droit ;
+*   AV OG : acuité visuelle de l'oeil gauche;
+*   VP: vision de près;
+*   VL: vision de loin;
+*   PL: perception lumineuse;
+*   AV + TS : acuité visuelle avec le trou sténopéique.
+
+#### b. Examen de l'oeil
+
+A la lampe torche et lunettes loupes, sous dilatation en cas d'acuité visuelle basse, après avoir auparavant noté la présence des réflexes photomoteurs et consensuels.
+
+On recherche au niveau de la pupille, normalement noire, une opacité blanche.
+
+_Examen à l'ophtalmoscope :_
+
+*   La lueur pupillaire s'apprécie en tenant l'ophtalmoscope à distance (80cm) de l'oeil, elle permet de faire ressortir les opacités du cristallin qui forment une ombre sur le fond rosé du reflet rétinien.
+
+*   Le fond d'oeil: parfois invisible en cas de cataracte blanche. La présence de papilles blanches, excavées est signe d'un glaucome évolué.
+
+_Mesure du tonus oculaire_, surtout utile en cas de perception lumineuse vague ou mal orientée : elle permet d'éviter l'intervention inutile chez un glaucomateux au stade terminal.
+
+_Contrôle des voies lacrymales_, en injectant du sérum ou de l'eau avec une canule, par l'orifice palpébral des canalicules lacrymaux. Ils seront à traiter en cas d'infection, préalablement à l'intervention.
+
+Aucun autre examen complémentaire systématique n'est nécessaire avant la chirurgie, ni sanguin, ni radiologique.
+
+## V. Traitement
+
+La plupart des cataractes sont inévitables, mais on peut inciter les enfants à protéger des traumatismes leurs yeux en interdisant les jeux dangereux (jets de projectiles), les adultes à porter des lunettes de protection.
+
+Les uvéites, plaies perforantes, doivent être diagnostiquées et traitées précocement, les patients sous corticothérapie au long cours surveillés régulièrement, les désordres métaboliques (en particulier diabète) équilibrés.
+
+Seule exception, la galactosémie congénitale (déficit enzymatique) où la cataracte est résolutive par un régime sans lait dans les premières semaines de la vie.
+
+L'ablation chirurgicale du cristallin cataracte est à l'heure actuelle la seule méthode efficace de réhabilitation de la vision.
+
+### 1. Les méthodes historiques
+
+Les Assyriens, les Indiens pratiquaient déjà au 2e millénaire avant notre ère l'abaissement du cristallin. Cette méthode d'abaissement est encore employée de nos jours dans la plupart des pays en développement. La tête est maintenue et une aiguille est enfoncée par la pars plana, en temporal, entre iris et cristallin. Après avoir détaché celui-ci progressivement de la zonule, une pression vers l'arrière fait basculer tout le cristallin dans le vitré.
+
+Une variante a été récemment proposée, l'injection d'alpha-chymotrypsine intracamérulaire. En lysant les fibres de la zonule, elle favorise une luxation spontanée, retardée parfois de plusieurs jours, du cristallin dans la cavité vitréenne.
+
+#### Les avantages :
+
+*   incision limitée, punctiforme (du diamètre de l'aiguille) ;
+*   récupération visuelle immédiate;
+*   absence d'astigmatisme;
+*   matériel peu coûteux;
+*   chirurgie de masse envisageable.
+
+#### Les inconvénients :
+
+*   Pratiquée le plus souvent par des opérateurs en dehors du circuit médical ou infirmier (" tradipraticiens ", relevant plutôt du statut de sorciers), le contrôle de la qualité et de l'éthique est impossible, les prix demandés sont souvent largement supérieurs à ceux de la chirurgie conventionnelle.
+*   La stérilisation du matériel est le plus souvent nulle.
+*   35 % de complications immédiates (hémorragies, ruptures capsulaires) ou dans les suites proches (hypertonie aiguë, uvéite, décollement de rétine, infections) pouvant entraîner la perte de l'oeil.
+*   Glaucome secondaire plusieurs années après.
+
+#### Bilan
+
+Rares sont les yeux opérés par abaissement encore voyants 10 ans après. Ce n'est donc pas une alternative acceptable à l'extraction chirurgicale.
+
+### 2. Les méthodes modernes
+
+#### a. L'extraction intra-capsulaire
+
+C'est la méthode la plus pratiquée car la moins onéreuse, pouvant s'effectuer sans microscope opératoire (aux lunettes loupes). On retire le cristallin entier avec sa capsule, soit par pression sur midi (technique de Smith), soit à l'aide d'un instrument (ventouse, pince ou cryode).
+
+L'injection préalable d'alpha-chymotrypsine sous l'iris (chambre postérieure) aide à la libération du cristallin de ses attaches. Une iridectomie périphérique prévient les hypertonies par blocage pupillaire. L'ouverture cornéenne ou sclérale est large (170 ° supérieurs), au bistouri (porte-lame de rasoir, lame du commerce en acier au carbone) et aux ciseaux avec éventuellement désinsertion conjonctivale préalable, et doit être suturée avec des fils (nylon 10/0 sous microscope, sinon soies 8/0). La cicatrice est parfois à l'origine d'astigmatismes importants (vision déformée), en rapport avec sa taille et la tension des sutures.
+
+La complication la plus fréquente est l'issue du vitré, qui doit être réséqué sous peine de non étanchéité de la cicatrice. On emploie des éponges type Spontex, coupées et stérilisées, pour accrocher le vitré et le tirer à l'extérieur, où il est coupé aux ciseaux au ras de l'incision.
+
+Un oedème maculaire et un décollement de rétine en sont les conséquences possibles à plus long terme.
+
+#### b. L'extraction extra-capsulaire (plus dispendieuse)
+
+Elle impose le recours à un microscope opératoire coaxial pour avoir une rétro-illumination par reflet sur la rétine et nécessite une grande quantité de solution saline balancée (type BSS), tubulures, seringues.
+
+On ouvre la capsule antérieure du cristallin avec une aiguille recourbée, on extrait le noyau du cristallin, après hydrodissection, par pression-contre-pression.
+
+Le temps de lavage des masses corticales est le plus délicat, leur persistance étant à l'origine de suites inflammatoires. Il se fait au mieux avec une canule à double courant (infusion, aspiration).
+
+Une visibilité de la capsule postérieure est indispensable pour éviter sa rupture traumatique par un geste intempestif, avec risque de protrusion du vitré dans le segment antérieur.
+
+L'ouverture cornéenne est du même type que pour l'intracapsulaire, mais moins large (130 °).
+
+La complication la plus habituelle (la moitié des cas) est à long terme (plusieurs mois) l'opacification secondaire de la capsule postérieure, qui doit être fendue à l'aiguille (en l'absence pour raisons économiques de laser YAG), imposant donc une 2e intervention.
+
+#### c. Phako-émulsification
+
+C'est une variété d'extracapsulaire peu adaptée aux pays du tiers monde du fait de son coût en matériel. C'est pourtant la technique qui donne les meilleurs résultats visuels et sécurité des suites. Son apprentissage est difficile. L'incision est cornéenne sur 3,2 mm (10 °), le noyau est fragmenté par une sonde à ultrasons aspiratrice. La suture de l'incision est facultative (construite en marche d'escalier, elle est auto-étanche).
+
+La récupération visuelle est acquise quelques heures après l'intervention.
+
+Le matériel est onéreux, fragile (le générateur à ultra-sons contenant beaucoup d'électronique, les pannes sont très fréquentes), les pièces à mains piezzo-électriques (coût environ de 3 000 $) sont prévues pour 150 à 200 procédures et doivent être autoclavées, le microscope coaxial doit posséder en plus des réglages électriques (déplacements , mise au point) car les 2 mains sont occupées lors de la phase d'ultrasons.
+
+(image: i861-3.jpg)
+
+
+#### La correction de l'aphaquie
+
+L'ablation du cristallin doit être compensée, pour obtenir une image nette sur la rétine, par un système fortement convergent.
+
+Celui-ci peut prendre plusieurs formes:
+
+*   Les lunettes : elles sont épaisses (verres de + 12 dioptries en moyenne) et ne permettait qu'un champ de vision limité, avec une zone latérale d'environ 20 ° (en temporal) non perçue (angle mort). La fabrication des verres d'aphaque s'est raréfiée dans les pays où l'implantation est systématique, il faut donc trouver pour les pays du Sud des circuits locaux de fabrication des verres.
+*   Les lentilles de contact : lentilles à port permanent ou journalier, rigides ou souples, à renouvellement mensuel ou annuel. Elles sont indiquées dans le cas d'une intervention unilatérale, les lunettes entraînant une aniséiconie (différence de taille d'image entre les 2 yeux) invalidante.
+    *   Les lentilles rigides peuvent parfois compenser l'astigmatisme induit par l'intervention.
+    *   L'hygiène des mains et des yeux est indispensable chez les patients équipés de lentilles, et leur port dans une atmosphère poussiéreuse est totalement contre-indiquée.
+*   Les implants cristalliniens : systèmes de petite taille : optiques rondes ou ovales entre 5 et 7 mm de diamètre, haptiques (ou pattes de fixation) donnant un diamètre hors tout de 10 à 14 mm. Leur puissance standard varie selon leur type de 19 (ICA) à 21 (ICP) dioptries. La sécurité de leur pose est améliorée par le remplissage du segment antérieur avec un produit visco-élastique, qui protège l'endothélium cornéen. La méthylcellulose est une alternative acceptable aux produits plus élaborés car elle n'impose pas la non-rupture de la chaîne du froid.  
+
+    Les implants de chambre antérieure (ICA) se placent entre l'iris et la cornée, fixés par l'extention des pattes dans l'angle irido-cornéen. Ils doivent être placés rigoureusement afin d'éviter les frottements sur l'endothélium cornéen. Ils ne sont plus posés en première intention qu'après les extractions intra-capsulaires, du fait de la fréquence de perte de vision par opacification de la cornée (kératopathie bulleuse), dont le seul traitement est la kératoplastie transfixiante (greffe de cornée), inenvisageable sans une infrastructure et un suivi adapté.  
+
+    Les implants à fixation irienne fixés de part et d'autre de la pupille ont une forme de double pince de homard (_lobster-claw_). C'est une alternative intéressante aux ICA, mais la pose est difficile sans microscope ni produit visqueux.  
+
+    Les implants de chambre postérieure (ICP) se placent derrière l'iris, soit dans le sulcus ciliaire, soit au mieux dans le sac capsulaire (position la plus physiologique). Ils nécessitent la présence d'un support pour leur stabilité (au mieux zonule et capsule postérieure) et ne seront donc placés qu'après extraction extracapsulaire.
+
+L'implantation est donc en théorie le meilleur système optique de correction pour l'oeil opéré, mais elle se heurte dans les pays du tiers monde à plusieurs obstacles : le coût, car ils doivent répondre à des normes de polissage parfait, d'ateliers de fabrication sans poussières, de stérilisation irréprochable et non toxique pour les structures internes de l'oeil et la faisabilité technique de l'implantation qui est fonction des moyens dont on dispose pour l'intervention (microscope coaxial en particulier) et de l'entraînement de l'opérateur.
+
+### 3. Quelques indications
+
+**L'âge** : chez le sujet jeune, on optera pour l'extra-capsulaire du fait de l'adhérence du cristallin au vitré, alors que le sujet âgé pourra se contenter d'une intracapsulaire.
+
+**Les besoins** : un sujet aveugle et illettré sera déjà très satisfait d'une intervention sans compensation optique, qui lui redonnera une vision des formes, des couleurs et des mouvements. Il pourra se mouvoir au quotidien dans un cadre familier et ne sera plus dépendant.
+
+Des lunettes, si elles sont disponibles, lui permettront des travaux fins (travaux manuels) et la reconnaissance de sujets ou de scènes éloignés. Un lettré sera plutôt candidat à l'implantation.
+
+**L'état réfractif antérieur** : en l'absence de calculs prévisionnels de puissance de l'implant (par biométrie échographique) on peut se baser sur la puissance d'anciennes lunettes (si elles ont bien été prescrites au patient lui-même). Ainsi, pour un fort myope, on préférera une extracapsulaire (pour éviter le déplacement antérieur du vitré : risque de décollement de rétine), sans implant. Pour un hypermétrope, implant de chambre postérieure pour éviter le contact endothélial cornéen sur une chambre antérieure généralement étroite. Pour un astigmate, décalage de l'incision, centrée sur le méridien le plus courbe : la cicatrice redressera un peu la courbure.
+
+### 4. Quelques contre-indications
+
+*   Vision nulle ou perception lumineuse douteuse, à fortiori en cas d'hypertonie oculaire pas de bénéfice à l'intervention.
+*   - Baisse modérée d'acuité visuelle, acuité restante supérieure à 1/20, si l'on n'envisage pas d'implantation ni de lunettes.
+*   Cataracte unilatérale : chez le nourrisson, surtout si elle est dépistée après 5 à 6 mois, l'amblyopie est déjà profonde (le cerveau n'a pas été stimulé) et ne récupérera pas. Inutile de prendre le risque de l'anesthésie générale. Chez l'adulte, seule une implantation (ou une lentille de contact) sera envisagée, sauf en cas de cataracte hypermûre ou intumescente (risque d'uvéite phako-anaphylactique).
+*   Infection locale ou générale en cours (contre-indication temporaire).
+
+### 5. L'anesthésie
+
+Elle est locale sauf chez le nourrisson ou le sujet agité. Sa technique diffère suivant que l'on désire:
+
+*   une simple analgésie (par exemple pour une phakoémulsification) : une anesthésie topique par gouttes de tétracaïne ou sousténonienne, d'effet immédiat;
+*   une akinésie, qui nécessite l'infiltration des tissus péri-oculaires (péri-bulbaire), du ganglion ciliaire (rétro-bulbaire), du nerf facial et des paupières.
+
+L'anesthésique de choix est la Xylocaïne®, auquel on peut rajouter :
+
+*   de la Marcaïne® ou du Duranesth®, pour en prolonger l'effet, mais ces produits sont labiles et une conservation inadéquate (lumière, chaleur) peut les dénaturer, leur adjonction diluant alors la xylocaïne, et diminuant d'autant son efficacité ;
+*   une compression de 15 minutes et de la hyaluronidase pour aider à la diffusion.
+
+L'intervention dure suivant la technique utilisée entre 10 et 30 minutes, sauf complications.
+
+L'oeil est immobilisé par des fils de traction passés sous le droit supérieur et dans la paupière inférieure.
+
+### 6. Les conditions opératoires
+
+L'asepsie doit être la plus stricte possible, sous peine d'endophtalmie précoce ou secondaire. Les locaux doivent être propres, le plus possible exempts de poussières, fenêtres fermées. Le patient prémédiqué arrive en marchant, mais il est préférable de le faire repartir couché sans faire d'efforts pour ne pas risquer de rompre les sutures par hyperpression. Une lumière intense est nécessaire (en l'absence de scialytique, phare halogène de voiture). Lavage soigneux des mains à l'eau propre et savon de Marseille en l'absence de Bétadine® ou chlorexidine, ongles coupés court, propres et brossés. Casaque et gants stériles si possible. Si les gants sont indisponibles, il faudra ne pas toucher l'extrémité des instruments qui doit entrer dans l'oeil. Nettoyage large de la peau des paupières à la bétadine dermique (10 %) et des culs-de-sac conjonctivaux à la bétadine ophtalmique (5 %). Champs stériles, vérification de l'absence d'infection des bords palpébraux. Instruments nettoyés, autoclaves, sinon passés à la chaleur sèche (Poupinel) ou dans une solution décontaminante.
+
+### 7. Les suites opératoires
+
+Un traitement local par collyre cortico-antibiotique, associé à un parasympathicolytique type atropine pour les intra-capsulaires, tropicamide pour les extra, va être institué pour une durée de 2 à 8 semaines en fonction de la période inflammatoire prévue. Le patient est levé dès le lendemain mais il ne doit pas faire d'efforts physiques et doit éviter de toucher son oeil, de l'exposer aux poussières.
+
+Les complications peuvent apparaître pendant l'hospitalisation :
+
+*   hyphéma, présence de sang dans la chambre antérieure, le plus souvent spontanément résolutif ;
+*   hypertonie, à traiter par collyre ou comprimés d'acétazolamide, en recherchant un blocage pupillaire nécessitant une reprise ;
+*   chambre antérieure plate, par défaut d'étanchéité de la cicatrice, à reprendre sans attendre pour éviter l'infection ;
+*   décollement choroïdien, présence de sang ou d'exsudats entre sclère et choroïde;
+*   douleurs et baisse rapide d'acuité visuelle sont les premiers signes d'endophtalmie, nécessitant en urgence un traitement antibiotique local et général après si possible identification du germe.
+
+Elles peuvent apparaître après l'hospitalisation :
+
+*   endophtalmie chronique;
+*   décollement de rétine, précédé de la vision d'éclairs lumineux, d'un voile dans une partie du champ visuel puis de la chute d'acuité visuelle.
+
+### 8. Les opérateurs
+
+En l'absence de chirurgiens ophtalmologistes, certains états ont décidé de la formation de non médecins à la chirurgie.
+
+Leur sélection se fait sur une motivation importante, l'intérêt pour la chirurgie, le sens des responsabilités, une habileté manuelle, une bonne vision binoculaire. Leur formation initiale est le diplôme d'infirmier, complété par une spécialisation en ophtalmologie (attaché de Santé, infirmier spécialisé). Ils doivent reconnaître et référer les cas compliqués ou les monophtalmies dans un centre où exerce un médecin et doivent opérer fréquemment et régulièrement.
+
+Un contrôle et un enseignement réguliers par le médecin ophtalmologiste responsable est indispensable.
+
+## Conclusion
+
+La chirurgie de la cataracte est une intervention peu onéreuse en produits consommables, gratifiante car elle permet la réhabilitation visuelle des malvoyants, et tout à fait adaptée aux pays en développement.
+
+La formation d'opérateurs doit être programmée pour éradiquer cette première cause mondiale de cécité curable.
+
+_Développement et Santé, n° 143 et 144, décembre 1999_
