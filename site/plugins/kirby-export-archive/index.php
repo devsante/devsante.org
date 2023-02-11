@@ -49,7 +49,7 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
 
         $summary = [
           "## Archive devsante.org (1976 - 2022)",
-          "- [Avant-propos](README.md)",
+          "- [Avant-propos](INTRO.md)",
         ];
 
         // Transform the content of each page into a standard Markdown file,
