@@ -6,7 +6,7 @@ Author: Micheline Amzallag, pédiatre, Créteil, France
 
 ----
 
-Datetime: 2017-06-20 17:00:00
+Datetime: 2017-06-20 17:05:00
 
 ----
 
@@ -14,7 +14,7 @@ Teaser: Une affection trop souvent méconnue qui nécessite un diagnostic rapide
 
 ----
 
-Text: 
+Text:
 
 L’invagination intestinale aiguë (IIA) est une affection qui touche principalement le nourrisson, plus rarement l’enfant, dont les signes cliniques peuvent être trompeurs et entraîner un retard diagnostique aux conséquences gravissimes. 
 Peu d’études concernant cette pathologie ont été conduites dans les pays en développement, ce qui explique leur méconnaissance et leur pronostic effroyable dans les séries rapportées. Ainsi, l’IIA a entraîné une résection intestinale dans 36 à 66 % des cas en Afrique en fonction du délai du diagnostic, mais également une mortalité importante et sous-évaluée, puisqu’il s’agit de séries hospitalières alors que ceux-ci surviennent bien souvent avant une hospitalisation, en l’absence d’une évocation diagnostique (52 % en Haïti, 55 % au Niger, 58 % en Inde).
@@ -23,7 +23,7 @@ Seule l’amélioration des conditions sanitaires et la connaissance clinique de
 ## I. La physiopathologie de l’IIA en explique les redoutables complications 
 De façon imagée, comme le montrent les schémas ci-dessous, lors de la constitution de l’IIA, la paroi intestinale se replie "en doigt de gant", parfois sur plusieurs cm, entraînant une compression des vaisseaux irriguant la paroi intestinale. Il en résulte la constitution progressive d’un œdème et d’une ischémie de cette paroi en raison de la compression d’un morceau du mésentère comme le montre le schéma, il y a arrêt du péristaltisme avec constitution d’un syndrome occlusif. Si aucune désinvagination ne se produit, progressivement, la paroi intestinale va se nécroser avec le risque d’une perforation intestinale et d’un sepsis gravissime.
 (image: iia-1772.v2-jpg.jpg)
-(image: iia-1773.jpg)(image: iia-2_iia-2.jpg)
+(image: iia-2_iia-2.jpg)
 
 ## II. Quels sont les enfants les plus à risque et quels facteurs peuvent orienter vers ce diagnostic ?
 L’IIA est l'une des urgences abdominales pédiatriques les plus fréquentes, son incidence est estimée à 2 %.
