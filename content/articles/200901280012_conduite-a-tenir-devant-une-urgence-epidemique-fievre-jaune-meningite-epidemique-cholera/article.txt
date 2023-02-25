@@ -429,25 +429,25 @@ s'efface très lentement
 
 <td valign="top">
 
-4- 11 mois
+4 - 11 mois
 
 </td>
 
 <td valign="top">
 
-12- 23 mois
+12 - 23 mois
 
 </td>
 
 <td valign="top">
 
-2- 4 ans
+2 - 4 ans
 
 </td>
 
 <td valign="top">
 
-5- 14 ans
+5 - 14 ans
 
 </td>
 
@@ -475,13 +475,13 @@ Poids/Kg
 
 <td valign="top">
 
-5-7,9
+5 - 7,9
 
 </td>
 
 <td valign="top">
 
-8-10,9
+8 - 10,9
 
 </td>
 
@@ -516,37 +516,37 @@ en ml par jour
 
 <td valign="top">
 
-200-400
+200 - 400
 
 </td>
 
 <td valign="top">
 
-400-600
+400 - 600
 
 </td>
 
 <td valign="top">
 
-600-800
+600 - 800
 
 </td>
 
 <td valign="top">
 
-800-1200
+800 - 1200
 
 </td>
 
 <td valign="top">
 
-1200-2200
+1200 - 2200
 
 </td>
 
 <td valign="top">
 
-2200-4000
+2200 - 4000
 
 </td>
 
