@@ -72,9 +72,11 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
           ];
           $frontmatter = arrayToFrontmatter($frontmatterFields);
           $text = kirbytextNewlineToMarkdown(
-            kirbytextTableOpenToMarkdown(
-              kirbytextTableCloseToMarkdown(
-                kirbytextImageToMarkdown($page->text()->value())
+            kirbytextNumberedListToMarkdown(
+              kirbytextTableOpenToMarkdown(
+                kirbytextTableCloseToMarkdown(
+                  kirbytextImageToMarkdown($page->text()->value())
+                )
               )
             )
           );
@@ -150,4 +152,9 @@ function kirbytextTableOpenToMarkdown($kirbytext)
 function kirbytextTableCloseToMarkdown($kirbytext)
 {
   return preg_replace("/<\/table>\n([^\n])/", "</table>\n\n$1", $kirbytext);
+}
+
+function kirbytextNumberedListToMarkdown($kirbytext)
+{
+  return preg_replace("/^(\d+)- /m", "$1. ", $kirbytext);
 }
