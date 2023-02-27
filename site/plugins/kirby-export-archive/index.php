@@ -59,34 +59,19 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
             "title" => $page->title()->value(),
             "author" => $page->author()->value(),
             "date" => $page->datetime()->toDate("%Y-%m-%d"),
-            // placing the teaser in the frontmatter means that markdown in the
-            // teaser won't be rendered (at least with the page template code in
-            // page.html). This doesn't seem to be an issue after a cursory
-            // glance. A more thorough evaluation of the teaser content on more
-            // pages might reveal a higher occurence of markdown in the teaser,
-            // which would then make processing markdown there worthwhile. Long
-            // teasers with paragraphs might also become an issue with this
-            // approach, although the solution probably needs to be editorial
-            // through shorter teasers.
-            "teaser" => $page->teaser()->value(),
           ];
+          $teaser = !empty($page->teaser()->value())
+            ? '<div class="teaser">' . $page->teaser()->kirbytext() . "</div>"
+            : null;
           $frontmatter = arrayToFrontmatter($frontmatterFields);
-          $text = kirbytextNewlineToMarkdown(
-            kirbytextNumberedListToMarkdown(
-              kirbytextTableOpenToMarkdown(
-                kirbytextTableCloseToMarkdown(
-                  kirbytextImageToMarkdown($page->text()->value())
-                )
-              )
-            )
-          );
+          $text = kirbytextToMarkdown($page->text()->value());
           $page_path = "{$page->parent()->slug()}/{$page->slug()}";
 
           file_put_contents(
             "archive/$page_path/index.md",
             join(
               "\n\n",
-              array_filter([$frontmatter, $text], function ($value) {
+              array_filter([$frontmatter, $teaser, $text], function ($value) {
                 return !empty($value);
               })
             )
@@ -157,4 +142,15 @@ function kirbytextTableCloseToMarkdown($kirbytext)
 function kirbytextNumberedListToMarkdown($kirbytext)
 {
   return preg_replace("/^(\d+)- /m", "$1. ", $kirbytext);
+}
+
+function kirbytextToMarkdown($kirbytext)
+{
+  return kirbytextNewlineToMarkdown(
+    kirbytextNumberedListToMarkdown(
+      kirbytextTableOpenToMarkdown(
+        kirbytextTableCloseToMarkdown(kirbytextImageToMarkdown($kirbytext))
+      )
+    )
+  );
 }
