@@ -120,7 +120,11 @@ function kirbytextNewlineToMarkdown($kirbytext)
 {
   return preg_replace(
     // add two spaces at the end a line to force a newline in markdown (handled
-    // previously by kirbytext)
+    // previously by kirbytext). This captures the vast majority of legitimate
+    // cases where we would want a visual new line (i.e. sentences finishing
+    // with a ".", followed by a single line feed in code), but leaves out some
+    // very rare and questionable cases, which are often best rewritten as
+    // lists.
     "/\. ?\n([^\n])/",
     ".  \n$1",
     $kirbytext
