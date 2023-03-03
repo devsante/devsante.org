@@ -40,8 +40,7 @@ Ceci valide l'**indication du test rapide de dépistage** du VIH au cours de l'a
 Cet essai montre la supériorité en termes de prévention de la transmission _intrapartum_, lorsque la mère n’a reçu aucun traitement pendant la grossesse, d'une multithérapie du nouveau-né par rapport à la classique prophylaxie par monothérapie avec AZT, en vigueur depuis l'essai ACTG 076 de 1994.  
 La simplicité du régime et la moindre toxicité hématologique (neutropénie) plaident en faveur de l**'association AZT/NVP** par rapport à l'association triple AZT/3TC/NFV.
 
-####   
-Peu de formulations adaptées au nouveau-né
+#### Peu de formulations adaptées au nouveau-né
 
 Le fossé entre le panel d'ARV disponibles chez l'adulte et chez l'enfant, par manque de présentations galéniques adaptées, se creuse plus encore chez le nouveau-né et le prématuré.
 
