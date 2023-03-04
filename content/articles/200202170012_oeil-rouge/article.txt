@@ -28,15 +28,15 @@ L'interrogatoire :
 
 **1. Existe-t-il des douleurs ?**
 
-**-** une gêne, une impression de _grains de sable_ orientent vers la **conjonctive,**
+- une gêne, une impression de _grains de sable_ orientent vers la **conjonctive,**
 
-**-** des douleurs majorées par le _clignernent_ et/ou la _lumière_ (photophobie) orientent vers la **cornée,**
+- des douleurs majorées par le _clignernent_ et/ou la _lumière_ (photophobie) orientent vers la **cornée,**
 
-**-** _des douleurs_ _périorbitaires_ et/ou des _céphalées_ orientent vers des **lésions plus** **profondes** (uvéite, hypertonie).
+- _des douleurs_ _périorbitaires_ et/ou des _céphalées_ orientent vers des **lésions plus** **profondes** (uvéite, hypertonie).
 
 **2. Existe-t-il une baisse d'acuité** **visuelle de loin ?**
 
-**-** une diminution de l'acuité visuelle,
+- une diminution de l'acuité visuelle,
 
 - une vision anormale (halos colorés) sont des **signes de gravité.**
 
@@ -123,7 +123,7 @@ L'examen peut être rendu difficile par l'oedème palpébral :
 
 *   Expliquer et montrer comment nettoyer l'oeil **avant chaque traitement :**
 
-**-** avec une eau propre, sans savon,  
+- avec une eau propre, sans savon,  
 - avec la main propre : de préférence sans instrument car la main pourra être relavée.
 
 *   **Traiter** avec un collyre ou une pommade antibiotique quatre fois par jour pendant huit jours.
@@ -141,7 +141,7 @@ L'examen peut être rendu difficile par l'oedème palpébral :
 *   Expliquer au malade ou à l'accompagnant que :
 
 - la maladie se cache **sous la paupière,**  
-**-** elle est très contagieuse,  
+- elle est très contagieuse,  
 - le traitement est long,  
 - les rechutes sont fréquentes.
 
@@ -154,7 +154,7 @@ L'examen peut être rendu difficile par l'oedème palpébral :
 
 *   **Donner les conseils d'hygiène :**
 
-**-** du corps : lavage du visage et des mains,  
+- du corps : lavage du visage et des mains,  
 - de l'environnement: mesures antimouches (ramasser les ordures, les brûler ou les enfouir, latrines fermées, animaux à distance).
 
 **c) Cas particulier du nouveau-né (premier mois de la vie)**
@@ -199,12 +199,12 @@ Elle est redoutable car elle peut entraîner la perte des deux yeux en 24 heures
 
 *   **Mettre un pansement oculaire**
 
-**-** But du pansement : maintenir les paupières fermées.  
+- But du pansement : maintenir les paupières fermées.  
 - Danger du pansement : le pansement frotte sur la cornée et aggrave les lésions. Chez l'enfant, il doit être laissé le moins longtemps possible, entravant le passage de lumière, il peut être source d'amblyopie séquellaire (baisse de vision).
 
 *   **Comment fabriquer un pansement** **oculaire :**
 
-**-** rondelle oculaire : tailler une rondelle de coton de six centimètres de diamètre et la placer entre deux rondelles de gaze de même diamètre,
+- rondelle oculaire : tailler une rondelle de coton de six centimètres de diamètre et la placer entre deux rondelles de gaze de même diamètre,
 
 - ou utiliser une compresse pliée en deux recouverte par une compresse carrée (6 cm de côté).
 
@@ -213,7 +213,7 @@ Elle est redoutable car elle peut entraîner la perte des deux yeux en 24 heures
 (image: i952-7.jpg)
 
 
-**-** demander au malade de fermer les deux yeux,  
+- demander au malade de fermer les deux yeux,  
 - placer la rondelle (ou la compresse pliée) sur l'oeil,  
 - mettre les sparadraps,  
 - demander au malade d'ouvrir les yeux **l'oeil sous le pansement doit rester** **fermé.** Dans le cas contraire, recommencer depuis le début.

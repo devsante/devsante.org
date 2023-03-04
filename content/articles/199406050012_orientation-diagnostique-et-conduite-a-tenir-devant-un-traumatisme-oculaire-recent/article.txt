@@ -28,7 +28,7 @@ Devant tout traumatisme oculaire, il est nécessaire de respecter les principes 
 
 **1. Tout traumatisme oculaire, même minime, doit être considéré comme potentiellement grave**
 
-**-** l'infection est la complication majeure des plaies oculaires, des brûlures et des atteintes cornéennes, même superficielles,
+- l'infection est la complication majeure des plaies oculaires, des brûlures et des atteintes cornéennes, même superficielles,
 
 - les traumatismes graves peuvent être minimisés à tort : la douleur et la baisse d'acuité visuelle peuvent faire défaut,
 
@@ -38,7 +38,7 @@ Devant tout traumatisme oculaire, il est nécessaire de respecter les principes 
 
 **2. Il faut éviter d'aggraver les lésions existantes**
 
-**-** l'examen d'un oeil suspect de traumatisme doit se faire avec douceur : l'ouverture des paupières ne doit jamais être obtenue
+- l'examen d'un oeil suspect de traumatisme doit se faire avec douceur : l'ouverture des paupières ne doit jamais être obtenue
 
 par la force. Rassurer le malade et expliquer ses gestes suffisent le plus souvent à obtenir sa coopération. En cas d'impossibilité, mieux vaut référer,
 
@@ -230,7 +230,7 @@ Vous avez éliminé une plaie et une brûlure, vous devez rechercher:
 
 **2. Les signes fonctionnels peuvent être importants**
 
-**-** malaise avec bradycardie par réflexe oculo-cardiaque,
+- malaise avec bradycardie par réflexe oculo-cardiaque,
 
 - douleurs, altération de la vision.
 
