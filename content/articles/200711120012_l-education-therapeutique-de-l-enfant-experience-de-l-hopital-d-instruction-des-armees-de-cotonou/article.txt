@@ -117,7 +117,8 @@ Il est adapté à la mère ou aux adultes et adolescents responsables de l'enfan
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <tbody>
 
@@ -151,7 +152,8 @@ Ils sont surtout adaptés aux petits enfants car ils captent plus leur attention
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <tbody>
 

@@ -73,7 +73,8 @@ Aspiration</td>
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 <caption>Les premiers soins avant le transport du patient</caption>
 
 <thead>

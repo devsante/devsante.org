@@ -455,7 +455,8 @@ Hépatite chronique à IT
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <thead>
 

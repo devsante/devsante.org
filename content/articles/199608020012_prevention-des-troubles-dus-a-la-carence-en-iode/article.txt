@@ -73,7 +73,8 @@ Thyroïde volumineuse, nettement visible à plus de cinq mètres.
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <tbody>
 

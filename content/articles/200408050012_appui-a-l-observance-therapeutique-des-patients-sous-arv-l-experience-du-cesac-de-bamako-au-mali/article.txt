@@ -125,7 +125,8 @@ Module 1 : Comprendre le VIH
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <tbody>
 

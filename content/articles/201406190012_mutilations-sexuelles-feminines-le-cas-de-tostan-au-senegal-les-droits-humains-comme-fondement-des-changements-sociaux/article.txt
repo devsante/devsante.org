@@ -74,7 +74,8 @@ Quelques chiffres sur le Sénégal
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <tbody>
 
@@ -91,7 +92,8 @@ Quelques clés du programme Tostan
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <tbody>
 

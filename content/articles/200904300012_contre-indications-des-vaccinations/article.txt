@@ -139,7 +139,8 @@ Antécédent de Tuberculose, même limitée au stade de primo-infection.</td>
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <tbody>
 

@@ -158,7 +158,8 @@ organochlorés
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 <caption>Tableau 3. Atteintes cardiovasculaires toxiques (liste non exhaustive)</caption>
 
 <tbody>

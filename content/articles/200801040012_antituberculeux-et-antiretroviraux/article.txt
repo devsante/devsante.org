@@ -197,7 +197,8 @@ Streptomycine
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 <caption>Antituberculeux en combinaisons à doses fixes (CDF)</caption>
 
 <thead>

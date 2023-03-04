@@ -232,7 +232,8 @@ Après 18 mois : on peut, comme chez l'adulte, faire le diagnostic sur les antic
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <tbody>
 

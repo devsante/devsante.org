@@ -92,7 +92,8 @@ Conseils de bonne utilisation des préservatifs masculins
 </tbody>
 
 </table>
-<table>
+
+$1<table>
 
 <thead>
 
