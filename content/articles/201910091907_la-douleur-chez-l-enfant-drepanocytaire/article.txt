@@ -176,7 +176,7 @@ Des examens complémentaires sont réalisés : NFS, réticulocytess, CRP, hémoc
 
 ** Effets secondaires à rechercher et à combattre :**
 - **Dépression respiratoire** (la fréquence respiratoire FR doit rester > 15/mn entre 1 et 5 ans et > 10/mn après 6 ans ; surtout, la FR doit être vérifiée pendant le sommeil) ; elle n’est observée que pour des doses élevées au delà de 3 mg/kg/j ; arrêt respiratoire : injecter 1 ampoule de naloxone (1 ml = 0,4 mg) ; en cas de dépression respiratoire, diluer 1 ampoule de naloxone à 10 ml, puis l’injecter en IVD ml par ml jusqu’à la levée de la dépression respiratoire.
--** Prurit** : nalbuphine 0,1 mg/kg/j IVC ou naloxone  0,25µg/kg/h IVC.
+- ** Prurit** : nalbuphine 0,1 mg/kg/j IVC ou naloxone  0,25µg/kg/h IVC.
 - **Nausées et vomissements** : rares ; s’améliorent le plus souvent avec le temps.
 - **Constipation** : constante, combattue par le lactulose (0,1 à 0,2 ml/kg/8h).
 - **Globe vésical** : cède souvent à la palpation ; combattu par Nalbuphine  IV à 0,1 mg/kg en dose de charge IV sur 5 minutes puis en perfusion continue au 1/10ème des doses de morphine (à ces doses, la nalbuphine n’antagonise pas les effets antalgiques de la morphine).
