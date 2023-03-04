@@ -160,8 +160,7 @@ Tout va dépendre des circonstances dans lesquelles on se trouve.
 
 _**Enfant de moins de 1 an                                                  Enfant de plus de 1 an**_
 
-###   
-2. Si échec des tapes dorsales
+### 2. Si échec des tapes dorsales
 
 #### Moins de un an : 5 compressions thoraciques
 

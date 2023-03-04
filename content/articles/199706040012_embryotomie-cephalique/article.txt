@@ -10,8 +10,7 @@ Text:
 
 L'embryotomie est une technique d'extraction foetale par voie basse. On y a souvent recours pour éviter une césarienne sur enfant mort pendant le travail, après l'ouverture de l'oeuf mort, qui est de la plus haute gravité. C'est une technique qui a disparu dans les pays développés où les instruments d'embryotomie sont devenus des pièces de musée. Mais elle reste d'actualité dans les pays à faible couverture sanitaire. Devant la rareté des instruments d'embryotomie, nous avons été amenés à mettre au point une technique simplifiée ne nécessitant pas un matériel particulier.
 
-##   
-**I. Conditions de réalisation de l'embryotomie**
+## **I. Conditions de réalisation de l'embryotomie**
 
 Certaines conditions sont liées au foetus, d'autres à la mère.
 

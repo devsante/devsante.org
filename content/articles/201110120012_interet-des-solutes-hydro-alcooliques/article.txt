@@ -46,8 +46,7 @@ La contagiosité du VRS est extrême, à la fois par contact direct (contagion m
 
 L’inactivation a été montrée de la même manière sur de nombreux virus épidémiques :  hépatite A, rhinovirus, virus influenzae H1N1, norovirus, calicivirus, adenovirus type 5, poliovirus type 1. 
 
-###   
-Bactéries
+### Bactéries
 
 Pour ce type de germe, la transmission se fait essentiellement par contact direct : mains, surfaces, objets.  
 La particularité est que souvent ces germes sont devenus multirésistants aux antibiotiques, surtout en milieu hospitalier.  

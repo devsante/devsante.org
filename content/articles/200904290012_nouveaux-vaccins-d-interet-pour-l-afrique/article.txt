@@ -202,8 +202,7 @@ Il se conserve entre + 2° C et + 8° C à l'abri de la lumière et ne doit pas 
     Ainsi, la première dose doit être administrée à partir de l'âge de 6 semaines, mais pas après 12 semaines.  
     La deuxième dose est administrée après un intervalle d'au moins 4 semaines, au plus tard à l'âge de 24 semaines.
 
-####   
-Vaccin oral vivant polyvalent à 5 valences (sérotypes de rotavirus humain-bovin G1, G2, G3, G4, P1(8)).
+#### Vaccin oral vivant polyvalent à 5 valences (sérotypes de rotavirus humain-bovin G1, G2, G3, G4, P1(8)).
 
 Il se conserve entre + 2° C et + 8° C, et l'administration se fait par voie orale, selon un schéma de 3 doses. La première dose est donnée à partir de 6 semaines sans dépasser l'âge de 12 semaines, puis à intervalles de 4 à 10 semaines.  
 La vaccination doit être terminée au plus tard à l'âge de 26 semaines.

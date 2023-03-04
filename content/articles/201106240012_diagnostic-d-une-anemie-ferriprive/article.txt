@@ -231,8 +231,7 @@ Chez l’enfant :
 
 </table>
 
-####   
-2. La confirmation du diagnostic d’anémie ferriprive
+#### 2. La confirmation du diagnostic d’anémie ferriprive
 
 *   Le taux de fer sérique : il détecte la quantité de fer en circulation dans le sang, il est abaissé, inférieur à 9 µmol/L (valeurs de référence = 9 à 30)
 *   Le taux de transferrine : le taux de transferrine disponible, protéine de transport du fer, augmente en cas de carence en fer.

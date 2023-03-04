@@ -23,8 +23,7 @@ En 2007, 202 pays et territoires (sur 212) ont notifié à l'OMS des données co
 
 Les cibles de la lutte mondiale ont été fixées dans le cadre des objectifs du Millénaire pour le développement (OMD). La cible 6.C de l'OMD 6 consiste à maîtriser la tuberculose et commencer à inverser la tendance d'ici 2015. Les cibles fixées par l'OMS en 1991 consistent à détecter au moins 70% des nouveaux cas à frottis positif et à traiter avec succès au moins 85% des cas détectés. La Stratégie Halte à la tuberculose lancée par l'OMS en 2006 vise à atteindre ces cibles en 2015.
 
-###   
-La Stratégie Halte à la tuberculose comprend six éléments essentiels :
+### La Stratégie Halte à la tuberculose comprend six éléments essentiels :
 
 *   poursuivre l'extension d'une stratégie DOTS de qualité et son amélioration ;
 *   lutter contre la co-infection tuberculose-VIH et contre la tuberculose MR ;

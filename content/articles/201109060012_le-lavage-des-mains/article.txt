@@ -48,8 +48,7 @@ Tube digestif
 *   Avant et après un soin ou un contact avec un patient
 *   A chaque fois que l'on passe d'un patient à un autre
 
-##   
-II. Hygiène des mains en milieu communautaire
+## II. Hygiène des mains en milieu communautaire
 
 Savon ordinaire et eau.
 

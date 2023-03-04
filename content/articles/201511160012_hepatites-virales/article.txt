@@ -279,8 +279,7 @@ La décision de traiter tient compte :
     *   troubles hématologiques : neutropénie, thrombopénie.
 *   Les inhibiteurs de l’ADN polymérase sont bien tolérés. Les effets secondaires sont mineurs et rares. Ils nécessitent surtout une surveillance régulière de la fonction rénale.
 
-####    
-b. Hépatite chronique C
+#### b. Hépatite chronique C
 
 **But du traitement**
 
@@ -327,8 +326,7 @@ Indiquée surtout chez les voyageurs en provenance des pays développés (Europe
 
 Les mesures préventives contre l’hépatite B assurent la protection contre l’hépatite D.
 
-###    
-3.   Hépatites B et C
+### 3.   Hépatites B et C
 
 *   Recherche des marqueurs sériques du VHB et du VHC chez les donneurs de sang, et rejet des poches de sang contaminées.
 *   Usage individuel (pas de partage avec l’entourage) des objets de toilette et de soins corporels (rasoir, brosse à dents, coupe-ongle, pince à épiler…).

@@ -540,8 +540,7 @@ Le  diagnostic  se  fait  par  recherche  des  anticorps totaux anti-VHD
 (image: image010-0.png)
 
 
-###   
-4. Hépatite C
+### 4. Hépatite C
 
 Le diagnostic se fait par technique ELISA au moyen de tests plus performants dits tests de 3<sup>ème</sup> génération. Deux tests différents doivent être effectués, pour le dépistage et la confirmation. La détection des anticorps anti VHC n’est positive que 12 à 15 semaines après la contamination, et l’on n’est pas encore en mesure de distinguer IgM et IgG.
 

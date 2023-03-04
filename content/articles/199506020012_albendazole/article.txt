@@ -10,8 +10,7 @@ Text:
 
 L'albendazole (Zentel®) est un puissant médicament actif contre les vers intestinaux. Il est proche du mébendazole, du flubendazole, du thiabendazole avec qui il constitue le groupe des benzimidazolés.
 
-##   
-**I. Caractéristiques du médicament**
+## **I. Caractéristiques du médicament**
 
 *   Il existe en pays francophone sous forme de comprimés (400 mg) et de suspension buvable (400 mg pour 10 ml).
 *   Après ingestion, une faible partie est absorbée et transformée en un dérivé (sulfoxyde) actif sur les vers. Son absorption est augmentée si l'ingestion se fait avec des aliments gras (huile, beurre).

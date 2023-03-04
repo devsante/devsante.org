@@ -222,8 +222,7 @@ Enfouir dans un trou d’au moins 50 cm de profondeur et distant de plus de 50 m
 (image: incinerateurs-4.jpg)
 
 
-##   
-Utilisation des désinfectants pour les DC
+## Utilisation des désinfectants pour les DC
 
 ### 1. Dérivés chlorés
 
@@ -234,8 +233,7 @@ Sensible à la chaleur, aux rayons UV, au Ph, aux matières organiques.
 Caustique pour les êtres vivants et corrosif pour les métaux.  
 Arroser le seau de déchets avec solution pure ou diluée au 1/3.
 
-####   
-b. Trochlosène
+#### b. Trochlosène
 
 Il existe deux formes le Klorsept et le Klor-Kleen qui contient un détergent. Ils se présentent sous forme de tablettes effervescentes qui dans l’eau donnent une solution désinfectante.  
 La substance chimique de base est le sodium dichloroisocyanurate (NaDCC) qui est un producteur organique de chlore. Ce produit est plus actif que l’hypochlorite, en particulier en présence de matières organiques, de plus les tablettes ne sont pas caustiques ni corrosives. Elles se conservent bien pendant 3 à 5 ans.
@@ -348,8 +346,7 @@ Klor Kleen*
 
 * Avec détergent
 
-###   
-2. Crésyl (phénols)
+### 2. Crésyl (phénols)
 
 Dénature les protéines et donc détruit parasites et bactéries.  
 Peu soluble dans l’eau.  

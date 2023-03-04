@@ -47,8 +47,7 @@ Le diagnostic de cette filaire, due à _Onchocerca volvulus_, ne se fait pas dan
 
 Due à _Dracunculus medinensis_, sa réparation géographique actuelle tend à se réduire à quelques foyers sahéliens. Le diagnostic évident cliniquement lors de l'extériorisation de la filaire au niveau de la cheville, ne fait pas appel à la biologie.
 
-##   
-II. Diagnostic biologique des microfilaires sanguicoles africaines
+## II. Diagnostic biologique des microfilaires sanguicoles africaines
 
 Les examens de laboratoire seront donc demandés en cas de signes cliniques évocateurs permettant de suspecter une filariose lymphatique (adénite, lymphangite "rétrograde") ou une loase (oedème migrateur). La recherche de microfilaires sanguicoles est ici pleinement justifiée. Parfois, il s'agira d'identifier une microfilaire découverte sur un frottis sanguin réalisé pour d'autres raisons : recherche d'hématozoaires du paludisme par exemple.
 

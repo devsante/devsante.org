@@ -35,8 +35,7 @@ Les rappels ne sont plus nécessaires à l’exception des insuffisants rénaux
 **Fait important** - et c’est une particularité de ce vaccin - chez beaucoup de sujets les anticorps anti-hépatite B disparaissent  du  sang.  Cela ne veut pas dire que le sujet n’est plus protégé : en effet,  il persiste une mémoire immunitaire médiée par les lymphocytes T et B. Si le sujet rencontre le VHB, une réponse immu-  
 nitaire rapide se produit, avec réapparition des anticorps circulants, sans aucun signe d’infection.
 
-##   
-II. Chez le nouveau-né d’une mère porteuse du VHB
+## II. Chez le nouveau-né d’une mère porteuse du VHB
 
 Le risque d’hépatite aiguë et surtout de portage chronique est grand. L’administration du vaccin dans les premières heures de vie est une nécessité absolue.  
 A ce prix, le vaccin protège le nouveau-né dans plus de 90 % des  cas.  L’administration d’anticorps anti-VHB entraîne une protection supérieure, mais leur coût élevé est un frein à leur utilisation.

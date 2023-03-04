@@ -305,8 +305,7 @@ Les plaies des brulés sont souvent infectées par des staphylocoques et par des
 
 Préparations à base de zinc, de cuivre, colorants en solution alcoolique, solutions d’iode, de chlorhexidine.
 
-###   
-3) Antisepsie des muqueuses et des séreuses
+### 3) Antisepsie des muqueuses et des séreuses
 
 Les antiseptiques sont généralement employés dilués à cause de la fragilité de ces tissus.
 
@@ -493,8 +492,7 @@ Ce produit est stable, de bonne conservation à l’abri de l’humidité.
 Il fait partie de la liste des médicaments essentiels de l’OMS.  
 Pour la désinfection de l’eau de boisson, il est utilisé à la dose d’un comprimé à 3,5 mg dans un litre d’eau, à ne consommer qu’après 30 minutes de contact et pendant une durée maximale de 24 heures.
 
-###   
-3. Précautions d’utilisation
+### 3. Précautions d’utilisation
 
 Ne jamais utiliser l’extrait de Javel sans l’avoir dilué.  
 Toujours rincer le matériel ou les surfaces en acier inoxydable nettoyés à l’eau de Javel (détérioration).  

@@ -117,8 +117,7 @@ Vous recevrez, de la Caisse primaire d'assurance maladie ou du service hospitali
 *   soit dans l'hôpital dans lequel vous êtes suivi pour le VIH s'il organise lui-même la vaccination. Dans ce cas, la lettre que vous recevrez vous invitera à vous présenter dans le service dans lequel vous êtes suivi. Il établira un bon de vaccination et vous serez vacciné ;
 *   soit dans le centre de vaccination le plus proche de chez vous si l'hôpital dans lequel vous êtes suivi pour le VIH n'organise pas la vaccination. Dans ce cas, la lettre que vous recevrez vous invitera à vous présenter au centre d'accueil de l'Assurance maladie le plus proche de chez eux (Caisse Primaire d'Assurance Maladie, CPAM, par exemple), pour y retirer le bon de vaccination. Vous serez orienté vers le centre de vaccination le plus proche de chez vous (un peu plus de 1000 centres de vaccinations ont été établis sur tout le territoire).
 
-###   
-Cas particuliers
+### Cas particuliers
 
 ****Que faire si vous ne recevez pas de courrier d'invitation à la vaccination ?****  
 Vous pourrez bien sûr avoir accès à la vaccination en vous rendant au centre d'accueil de l'Assurance maladie le plus proche de chez vous (CPAM) pour vous faire remettre un bon de vaccination. Vous serez ensuite orienté vers le centre de vaccination le plus proche.
@@ -146,8 +145,7 @@ Vous avez été ou vous êtes en contact étroit (personnes vivant sous le même
 *   **Le dernier contact date de moins de 48 heures (2 jours) et vous n'avez pas encore les signes de la grippe :** Contactez votre médecin traitant ou, s'il n'est pas disponible, le médecin prenant en charge votre infection à VIH ou le service hospitalier dans lequel vous êtes suivi, afin qu'on puisse vous prescrire un traitement préventif contre la grippe A pour une durée de 10 jours. Il s'agit soit de l'oseltamivir (Tamiflu®) 75 mg par jour (1 cp par jour/10 j), soit du zanamivir (Relenza®) 2 inhalations de 5 mg par jour.
 *   **Le dernier contact date de plus de 48 heures (2 jours) et vous avez les signes de la grippe** (courbatures, fièvre supérieure à 38°C, toux, mal de tête…) sans signes de gravité (difficultés à respirer au repos ou au moindre effort…) : Contactez votre médecin traitant, ou s'il n'est pas disponible, le médecin prenant en charge votre infection à VIH ou son service hospitalier, pour une prescription d'un traitement curatif contre la grippe A, d'une durée de 5 jours : soit du Tamiflu® 75 mg 2 fois par jour (2 cp par jour), soit du Relenza® (2 inhalations de 5 mg 2 fois par jour). Dans ce cas, au bout de 48 heures de traitement, le médecin devra s'assurer de l'absence d'aggravation des signes.
 
-###   
-2) Si vous avez moins de 200 CD4 (T4), que faire  
+### 2) Si vous avez moins de 200 CD4 (T4), que faire  
 si vous avez des signes sévères de la grippe ?
 
 Contactez votre médecin traitant ou le médecin prenant en charge l'infection à VIH ou son service hospitalier, ou allez aux urgences de l'hôpital le plus proche ou appelez le 15 (SAMU) si vous n'êtes pas en état de vous déplacer, afin qu'un médecin fasse le diagnostic de grippe A ou d'une autre maladie (prélèvement nasal, prise de sang), évalue la gravité et la présence ou non de complications (si suspicion de pneumonie, une radiologie des poumons sera effectuée).  

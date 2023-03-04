@@ -526,8 +526,7 @@ Le traitement prophylactique sera accompagné de conseils pour les 6 mois suivan
 
 Un certificat médical initial est essentiel, qui permettra le suivi des personnes exposées : en effet, il peut être impossible d’établir _a posteriori_ un lien avec un AES. Les personnels infectés peuvent être vus dans d’autres établissements de soins n’ayant accès à aucun document pouvant préciser l’exposition.
 
-##   
-IV - Surveillance
+## IV - Surveillance
 
 ### 1. Pour le VIH
 

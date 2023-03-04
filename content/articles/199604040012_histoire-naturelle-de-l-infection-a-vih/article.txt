@@ -156,18 +156,15 @@ L'histoire naturelle de cette infection reste encore mal connue, en particulier 
 
 <ul><li>amaigrissement > 10 %</li><li>diarrhée > un mois</li><li>fièvre > un mois (continue ou intermittente)</li></ul>
 
-####   
-Critères mineurs
+#### Critères mineurs
 
 <ul><li>toux > un mois</li><li>dermatite prurigineuse généralisée</li><li>zona récidivant</li><li>candidose oropharyngée</li><li>herpès virose chronique</li><li>lymphadénopathie généralisée</li></ul>
 
-####   
-Critères d'exclusion
+#### Critères d'exclusion
 
 <ul><li>cancer</li><li>malnutrition sévère</li><li>autre étiologie</li></ul>
 
-####   
-La présence
+#### La présence
 
 <ul><li>d'au moins deux critères majeurs et</li><li>d'au moins un critère mineur permet de poser le diagnostic de sida, de même que la présence</li><li>d'un sarcome de Kaposi agressif ou</li><li>d'une méningite à cryptocoques prouvée  
  </li></ul></td>
@@ -180,18 +177,15 @@ La présence
 
 <ul><li>amaigrissement > 10 %</li><li>diarrhée > un mois</li><li>fièvre > un mois (continue ou intermittente)</li></ul>
 
-####   
-Critères mineurs
+#### Critères mineurs
 
 <ul><li>toux persistante</li><li>dermatite prurigineuse généralisée</li><li>candidose oropharyngée</li><li>infections banales récidivantes (otite, pharyngite...)</li><li>infection à VIH confirmée chez la mère lymphadénopathie généralisée</li></ul>
 
-####   
-Critères d'exclusion
+#### Critères d'exclusion
 
 <ul><li>cancer</li><li>malnutrition sévère autre étiologie</li></ul>
 
-####   
-La présence
+#### La présence
 
 <ul><li>d'au moins deux critères majeurs et</li><li>d'au moins deux critères mineurs permet de poser le diagnostic de sida</li></ul></td>
 
