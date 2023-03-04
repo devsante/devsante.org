@@ -13,9 +13,9 @@ Assurer la croissance et demeurer en bonne santé grâce aux vitamines naturelle
 ----  
 Text:
 
-## **I. Définition** - **Classification et rôle**
+## I. Définition - Classification et rôle
 
-### **A. Définition**
+### A. Définition
 
 Les vitamines ont été définies comme " des substances azotées indispensables à la vie ". Ce sont des combinaisons organiques qui doivent être fournies à l'organisme de façon continue pour permettre la subsistance et la croissance du cytoplasme et le fonctionnement normal des organes.
 
@@ -23,7 +23,7 @@ Ces substances chimiques, notre corps ne peut les fabriquer. Elles doivent donc 
 
 Elles sont différentes les unes des autres, chacune a sa constitution propre, son activité spécifique, et ses sources très variées.
 
-### **B. On distingue**
+### B. On distingue
 
 les vitamines **liposolubles** (solubles dans les huiles et les graisses) et les vitamines **hydrosolubles** (solubles dans l'eau).
 
@@ -58,7 +58,7 @@ Dans ce groupe, on trouve aussi les vitamines:
 (image: i4-1.jpg)
 
 
-## **II. Où trouver les** **vitamines?**
+## II. Où trouver les vitamines?
 
 Dans une alimentation aussi variée que possible; au niveau culinaire, il faudrait consommer autant que possible les vivres à l'état frais et éviter un stockage trop long ou dans de mauvaises conditions, et inclure dans la ration journalière des fruits car consommés crus, ils contiennent encore la presque totalité de leurs vitamines, alors que les légumes et feuilles perdent à la cuisson 30 à 50 % de leurs vitamines.
 
@@ -100,7 +100,7 @@ sur onze vitamines de ce groupes, **trois** d'entre elles doivent nécessairemen
 
 Enfin **la vitamine B12: **se trouve dans de très nombreux aliments et les besoins sont minimes. A forte dose, par voie IM, elle aurait un rôle antalgique.
 
-## **III. Apports nécessaires**
+## III. Apports nécessaires
 
 En consultant les tableaux suivants, on peut retenir aisément les besoins journaliers nécessaires en vitamines.
 
@@ -110,7 +110,7 @@ En consultant les tableaux suivants, on peut retenir aisément les besoins journ
 (image: i4-3.jpg)
 
 
-## **IV. Les avitaminoses**
+## IV. Les avitaminoses
 
 Les maladies constatées par défaut de vitamines sont appelées avitaminoses. Elles peuvent avoir plusieurs origines:
 

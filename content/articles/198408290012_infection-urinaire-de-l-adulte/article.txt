@@ -20,7 +20,7 @@ Nous n'aborderons ici que l'infection urinaire de l'adulte,
 ----  
 Text:
 
-## **I. Diagnostic de l'infection des urines**
+## I. Diagnostic de l'infection des urines
 
 Une infection urinaire, c'est la présence de pus et de germes dans les urines (pyurie et bactériurie) Cette infection est le plus souvent aisément reconnue par l'examen à l'oeil nu des urines. Cet examen fidèle, obéit à certaines règles:
 
@@ -58,7 +58,7 @@ Ainsi, le simple examen à l'oeil nu permet-il en quelques secondes d'affirmer d
 (image: i134-1.jpg)
 
 
-## **L'examen cytobactédologique des urines** **(ECBU)**
+## L'examen cytobactédologique des urines (ECBU)
 
 S'il est possible pour vous de faire examiner ces urines en laboratoire, cet examen est intéressant. Il vous permettra de confirmer l'infection :
 
@@ -86,13 +86,13 @@ La découverte de protéus doit faire suspecter l'existence d'un calcul urinaire
 (image: i134-2.jpg)
 
 
-## **II. Reconnaître l'origine de l'infection**
+## II. Reconnaître l'origine de l'infection
 
 On parle d'infection urinaire mais parle-t-on d'"infection à crachats" ? Non, tout le monde sait bien que si un crachat est infecté, le problème n'est pas de stériliser le crachat, mais de savoir pourquoi il est infecté, et de quelle partie de l'appareil respiratoire provient l'infection.
 
 Il en est de même de l'" infection urinaire ". Il faut savoir quelle est la partie de l'appareil urinaire responsable de l'infection, la présence de microbes dans les urines n'est donc que le reflet de l'infection d'une des parties de l'appareil urinaire. Traiter seulement l'infection urinaire par des antibiotiques pour stériliser les urines sans savoir d'où proviennent ces microbes, ce sera parfois suffisant mais souvent, on laissera évoluer derrière une lésion du rein, des uretères, de la vessie, de la prostate qui continuera jusqu'à la prochaine crise ou à la mort du rein ou du malade.
 
-## **Infection du haut** **ou du bas appareil**
+## Infection du haut ou du bas appareil
 
 Les signes cliniques et l'examen suffisent souvent à différencier si c'est le haut appareil ou le bas appareil qui est en cause:
 
@@ -100,7 +100,7 @@ Les signes cliniques et l'examen suffisent souvent à différencier si c'est le 
 
 **bas appareil:** vessie, urèthres (prostate chez l'homme adulte).
 
-### **a. Infection du bas appareil**
+### a. Infection du bas appareil
 
 **Cystite:** c'est l'infection de la vessie. Elle se manifeste par des urines troubles associées à des brûlures mictionnelles, des envies très fréquentes d'uriner (pollakiurie), des douleurs hypograstriques. La fièvre est absente ou ne dépasse pas 38°.
 
@@ -120,7 +120,7 @@ La prostatite peut se compliquer de rétention d'urine, qu'il faut alors drainer
 
 Le traitement est l'antibiothérapie. Les complications à court terme sont la prostatite et l'épididymite (infection des testicules), et plus tard, mal traitée, la sténose de l'urèthre dont le traitement est difficile.
 
-### **b. Infection du haut appareil:** **pyélonéphrite**
+### b. Infection du haut appareil: pyélonéphrite
 
 C'est l'infection de l'uretère, du bassinet et surtout du rein.
 
@@ -165,7 +165,7 @@ La plus redoutable de ces pyélonéphrites par obstacles est celle qui atteint l
 
 Il faut là encore penser à la pyélonéphrite par obstacle dont le gros rein témoigne et prendre les mesures chirurgicales.
 
-### **3. Urines troubles et hématurie**
+### 3. Urines troubles et hématurie
 
 Une banale cystite peut s'accompagner d'hématurie mais il faudra toujours penser cependant qu'une autre cause, responsable de l'infection et de l'hématurie, existe (calcul de la vessie, tumeurs de vessie ou du rein, bilharziose).
 
@@ -183,7 +183,7 @@ C'est une parasitose touchant d'abord la vessie et sténosant parfois le bas ure
 
 La présence de ces corps étrangers peut donner des signes de cystite et des hématuries mais l'altération vésicale qu'ils entraînent peut entraîner une infection surajoutée authentique et lorsque cette infection touche le haut appareil par une sténose du bas uretère, ceci peut provoquer une pyélonéphrite grave.
 
-### **Conclusion**
+### Conclusion
 
 L'infection urinaire n'est donc qu'un symptôme dont il faut retrouver la cause, afin de combattre le germe responsable par les antibiotiques et corriger parfois une éventuelle cause chirurgicale qu'il serait grave d'ignorer.
 

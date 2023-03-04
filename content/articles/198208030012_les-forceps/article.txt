@@ -23,7 +23,7 @@ _(figures: 1 et 2)._
 (image: i49-1.jpg)
 
 
-## I. Conditions d'application **du forceps**
+## I. Conditions d'application du forceps
 
 Elles sont impératives et doivent toutes être réunies sous peine de voir I'application du forceps se transformer en une manoeuvre difficile et dangereuse pour la mère et l'enfant
 
@@ -83,7 +83,7 @@ L'application du forceps sur une présentation en occipito-pubienne est l'applic
 
 Ils se produisent lorsque les conditions d'application ne sont pas remplies :
 
-### **1.** Accidents maternels
+### 1. Accidents maternels
 
 Déchirures vulvaires, périnatales, plus rarement vaginales ou cervicales, exceptionnellement vésicales ou rectales, mais aussi hématomes pelviens.
 

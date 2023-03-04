@@ -18,9 +18,9 @@ Il faut donc prescrire avec prudence et être sûr que tous les médicaments pre
 ----  
 Text:
 
-## **I. Quelques généralités sur les interactions**
+## I. Quelques généralités sur les interactions
 
-### **1. Les principaux types d’interactions médicamenteuses**
+### 1. Les principaux types d’interactions médicamenteuses
 
 Indépendamment du mécanisme ou de la cause, on définit trois types d’interactions entre deux ou plusieurs substances administrées simultanément :
 
@@ -28,15 +28,15 @@ Indépendamment du mécanisme ou de la cause, on définit trois types d’intera
 *   Antagonisme : une substance réduit (ou annule) les effets de l’autre.
 *   Potentialisation : une substance augmente les effets d’une autre.
 
-### **2. Les mécanismes des interactions**
+### 2. Les mécanismes des interactions
 
 Les interactions médicamenteuses sont de deux types : pharmacodynamiques et pharmacocinétiques.
 
-#### **Les interactions pharmacodynamiques**
+#### Les interactions pharmacodynamiques
 
 Liées aux mécanismes d’action des médicaments, elles sont observées lorsque l’un des médicaments modifie les effets de l’autre. Elles concernent des médicaments ayant des propriétés ou des effets indésirables complémentaires analogues ou antagonistes vis-à-vis d’un même système physiologique. Les effets peuvent d’additionner ou au contraire s’annuler.
 
-#### **Les interactions pharmacocinétiques**
+#### Les interactions pharmacocinétiques
 
 Elles peuvent intervenir aux différentes étapes de la vie du médicament dans l’organisme :
 
@@ -51,7 +51,7 @@ Il convient de préciser que le risque d’interaction est augmenté en cas de p
 
 Contre-indication : l’association d’un anticoagulant avec un autre médicament peut être formellement contre-indiquée : parce qu’elle peut conduire soit à un surdosage (risque hémorragique), soit au contraire à une inefficacité.
 
-### **Association déconseillée**  
+### Association déconseillée  
 
 Dans ce cas, il s’agit d’une contre-indication relative.  L’association doit être de préférence évitée, et si cela est possible, la surveillance du traitement doit être renforcée.
 

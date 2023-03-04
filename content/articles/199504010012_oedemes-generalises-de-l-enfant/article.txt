@@ -10,7 +10,7 @@ Text:
 
 Les œdèmes correspondent à un excès d'eau dans les tissus sous-cutanés. Ils peuvent être le résultat de différents mécanismes qu'il faut savoir reconn2citre. Devant un tableau d'œdèmes généralisés de l'enfant, différentes questions diagnostiques doivent être posées: s'agit-il d'œdèmes, et sont-ils généralisés? Y a-t-il des signes de gravité? Quel en est le mécanisme pour en reconnaître la cause ?
 
-## **I. S'agit-il d'œdèmes?**
+## I. S'agit-il d'œdèmes?
 
 a. Il faut faire la différence entre un syndrome œdémateux et une couche sous-cutanée graisseuse épaisse d'un gros nourrisson obèse. Les œdèmes s'accompagnent d'une prise de poids inhabituelle sur quelques jours, et pour la famille l'aspect de l'enfant a changé.
 
@@ -28,11 +28,11 @@ Trois situations peuvent être rapidement préoccupantes :
 
 - une hypertension artérielle. Les œdèmes, d'origine rénale, s'accompagnent alors d'une hématurie trouvée à la bandelette. Il y a un danger de convulsion et d'insuffisance cardiaque. Le traitement diurétique doit être donné rapidement.
 
-## **III. Quel en est le mécanisme ?**
+## III. Quel en est le mécanisme ?
 
 Deux types d'œdèmes sont possibles:
 
-### **1.** **Des œdèmes de stase**
+### 1. Des œdèmes de stase
 
 Ils sont liés à l'accumulation passive d'eau dans les espaces sous-cutanés. Ils peuvent correspondre à deux mécanismes:
 
@@ -42,17 +42,17 @@ Ils sont liés à l'accumulation passive d'eau dans les espaces sous-cutanés. I
 
 Les œdèmes de stase sont mous, ternes, indolores, gardent la marque des vêtements ou du doigt appuyé. Ils prédominent aux régions inférieures du corps: les membres inférieurs chez l'enfant qui marche, la région dorso-lombaire chez l'enfant qui reste allongé.
 
-### **2. Des œdèmes inflammatoires**
+### 2. Des œdèmes inflammatoires
 
 Ils correspondent à un afflux actif de liquide accompagnant une réaction inflammatoire: rougeur, chaleur, et parfois douleur.
 
 Les œdèmes inflammatoires peuvent s'observer dans toutes les régions du corps. Ils sont élastiques et ne gardent pas la marque des vêtements ni des doigts de l'examinateur. La peau est souvent luisante, parfois siège d'une éruption. l peut y avoir de la fièvre et d'autres manifestations inflammatoires (douleurs articulaires et arthrites).
 
-## **IV. Quelle en est la cause ?**
+## IV. Quelle en est la cause ?
 
 L'identification du mécanisme permet celle de la cause.
 
-### **1. Les œdèmes de stase**
+### 1. Les œdèmes de stase
 
 **a. Les œdèmes normoprotidémiques**
 
@@ -84,7 +84,7 @@ _- Le syndrome néphrotique_ correspond à une anomalie du rein qui laisse passe
 
 _- L'insuffisance hépatique_ est rare chez l'enfant. Elle peut être aiguë (hépatite) avec parfois ictère et syndrome hémorragique. Elle peut être chronique (cirrhose) avec ascite et troubles de croissance, le plus souvent après une hépatite B passée inaperçue. Il s'agit de situations graves ne pouvant être prises en charge qu'en milieu hospitalier équipé.
 
-### **2. Les œdèmes inflammatoires**
+### 2. Les œdèmes inflammatoires
 
 On peut les classer en deux catégories:
 
@@ -106,7 +106,7 @@ Ils siègent surtout au niveau du visage et de la moitié supérieure du corps:
 
 - loase où les œdèmes fugaces se voient au niveau des mains (œdème de Calabar), du visage, avec prurit et conjonctivite.
 
-## **V. Conclusion**
+## V. Conclusion
 
 Un tableau d'œdèmes généralisés chez l'enfant est le plus souvent lié à une malnutrition ou à un syndrome néphrétique que l'on peut distinguer facilement par l'examen des urines. Les autres causes se manifestent plus rarement par un tel tableau, mais c'est une démarche diagnostique rigoureuse et systématique qui permettra de les reconnaître après avoir tenté d'en identifier le mécanisme.
 

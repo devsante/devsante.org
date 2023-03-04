@@ -86,7 +86,7 @@ Destruction _in vivo_ des dépôts de fibrine (rôle de la plasmine, enzyme prot
 
 *   CIVD (coagulation intravasculaire disséminée).
 
-#### Mécanismes compensateurs physiologiques pendant **la grossesse**
+#### Mécanismes compensateurs physiologiques pendant la grossesse
 
 Ces mécanismes compensent et limitent l'hémorragie "physiologique" de l'accouchement par des majorations volémiques et des déplacements des équilibres coagulolytiques.
 
@@ -256,7 +256,7 @@ Coopération anesthésico-obstétricale :
 *   surveillance 24 heures minimum de toute accouchée en milieu hospitalier.
 *   évaluation régulière des pratiques professionnelles, surtout en cas d'incident.
 
-### **5. Complications**
+### 5. Complications
 
 *   **Décès maternel :** la fréquence dépend de l'étiologie; l'embolie amniotique est mortelle dans plus de 70 %.
 *   **Syndrome de Sheehan :** responsable d'un panhypopituitarisme qui nécessitera une hormonothérapie substitutive.

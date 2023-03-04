@@ -15,11 +15,11 @@ Ainsi, avant toute transfusion sanguine, il faut connaître le groupe sanguin du
 ----  
 Text:
 
-## **I.** **Le système ABO**
+## I. Le système ABO
 
 Découvert en 1900 par Landsteiner, c'est un groupe tissulaire, car présent sur la plupart des cellules de l'organisme, y compris les globules rouges ou hématies.
 
-### **1. Les antigènes** **du système ABO**
+### 1. Les antigènes du système ABO
 
 Situés à la surface de la membrane cellulaire, ils sont au nombre de deux :
 
@@ -99,13 +99,13 @@ Groupe 0 = absence d'antigène.
 
 </table>
 
-### **2. Les anticorps**
+### 2. Les anticorps
 
 Appelés naturels et réguliers, ils sont toujours présents dans le sérum, en dehors des extrêmes de la vie, chez un sujet non immunodéprimé. Les anticorps présents dans le sérum correspondent toujours à l'antigène absent des globules rouges.
 
 Par exemple, un sujet de groupe A possède, à la surface de ses hématies, l'antigène A, et dans son sérum l'anticorps anti B (_tableau n° 1_).
 
-### **3. Génétique et phénotype _(tableau n° 2)_**
+### 3. Génétique et phénotype _(tableau n° 2)_
 
 La transmission génétique des antigènes A et B est autosomale dominante.
 
@@ -168,9 +168,9 @@ Ainsi, un sujet de groupe A marié à une femme de groupe B pourra avoir des enf
 (image: i741-1-web.jpg)
 
 
-### **4. Applications**
+### 4. Applications
 
-#### **Le groupage sanguin**
+#### Le groupage sanguin
 
 _- L'épreuve globulaire ou réaction de Beth Vincent :_
 
@@ -256,7 +256,7 @@ Réaction positive : les hématies sont agglutinées entre elles par l'anticorps
 
 Réaction négative : les hématies se remettent en suspension homogène dans le liquide de réaction.
 
-#### **La transfusion**
+#### La transfusion
 
 La règle en transfusion est de toujours respecter l'anticorps du receveur.
 
@@ -279,19 +279,19 @@ En l'absence de sang du groupe du patient, se rappeler le schéma de compatibili
 (image: i741-5-web.jpg)
 
 
-#### **La grossesse**
+#### La grossesse
 
 L'incompatibilité ABO du couple mère-enfant très fréquente n'a que très rarement des conséquences cliniques, qui restent très discrètes.
 
-#### **La greffe d'organe**
+#### La greffe d'organe
 
 Le système ABO est un groupe tissulaire pouvant être impliqué dans la greffe d'organe.
 
-## **II. Le système Rhésus**
+## II. Le système Rhésus
 
 La découverte en 1940 par Landsteiner et Wiener du caractère agglutinant du sérum d'une multipare vis-à-vis de la plupart des échantillons de sang de la population a été à l'origine du décryptage encore très récent, biochimique et génétique, des antigènes de ce système. Des mystères persistent quant à leur fonction, puisqu'ils sont des éléments constitutifs de la membrane du globule rouge.
 
-### **1. Les antigènes**
+### 1. Les antigènes
 
 Situés sur toute la hauteur de la membrane cellulaire, les antigènes principaux du système Rhésus sont au nombre de cinq ; ils sont spécifiques des globules rouges du sang. Par leur présence ou leur absence ils définissent de nombreuses combinaisons.
 
@@ -307,7 +307,7 @@ C est l'allèle de c ; E est l'allèle de e ; D n'a pas d'allèle : il y a D ou 
 
 La présence de l'antigène à la surface des hématies, mise en évidence par l'anticorps correspondant, définit, comme dans le système ABO, le groupe sanguin (_tableau n° 6)._
 
-### **2. Les anticorps**
+### 2. Les anticorps
 
 Toujours immuns, ils apparaissent après stimulation par grossesse ou transfusion, chez un sujet dépourvu de l'antigène correspondant.
 
@@ -315,7 +315,7 @@ Toujours immuns, ils apparaissent après stimulation par grossesse ou transfusio
 
 Leur mise en évidence demande des techniques plus complexes que celle des anticorps du système ABO, telle la réaction de Coombs, ou test à l'antiglobuline, utilisée dans la recherche d'agglutinines irrégulières (RAI).
 
-### **3. Génétique et phénotype**
+### 3. Génétique et phénotype
 
 Les antigènes du système Rhésus sont le résultat de l'expression des gènes de ce système.
 
@@ -335,7 +335,7 @@ Ainsi, un individu de phénotype DCcee est probablement de génotype DCe/dce mai
 
 Le phénotype d'un individu ne correspond que rarement à son génotype : homozygotie ddccee: dce/dce.
 
-### **4. Applications**
+### 4. Applications
 
 #### Le groupage
 
@@ -457,13 +457,13 @@ Les sérums monoclonaux dispensent de ces artifices et s'emploient sur plaque et
 
 En cas de difficulté de réaction, considérer le sujet comme de groupe Rhésus négatif.
 
-#### **La transfusion**
+#### La transfusion
 
 Les antigènes du système Rhésus sont très immunogènes . Il est préférable autant que possible de respecter en particulier l'absence d'apport d'antigène D pour les receveurs de Rhésus négatif, et ce d'autant plus qu'il s'agit d'une petite fille ou d'une femme en âge de procréer.
 
 L'immunisation du receveur Rhésus négatif entraîne des accidents d'hémolyse de type ictère retardé, si on poursuit la transfusion de sang de Rhésus positif, parfois un accident d'hémolyse intravasculaire comme l'accident ABO, lorsque l'anticorps est très puissant.
 
-#### **La grossesse**
+#### La grossesse
 
 L'immunisation de la femme enceinte Rhésus négatif se fait par le passage d'hématies foetales portant le caractère Rhésus positif, le plus souvent en fin de grossesse et surtout au moment de l'accouchement.
 
@@ -481,7 +481,7 @@ Elle est possible également lorsque la mère a été précédemment stimulée p
 
 Les autres antigènes du système Rhésus peuvent aussi être responsables d'une MHNN.
 
-### **Conclusion**
+### Conclusion
 
 En vue d'une transfusion sanguine, il est indispensable de déterminer le groupe sanguin du malade et celui du ou des donneurs, La transfusion ne pourra être effectuée que si les groupes sont compatibles (_tableau n° 7_). Dans le cas contraire, la transfusion peut être responsable de la mort du malade.
 

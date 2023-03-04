@@ -23,7 +23,7 @@ Text:
 
 ## I. Mécanismes Généraux
 
-### **1. Les différents types d’interactions**
+### 1. Les différents types d’interactions
 
 Indépendamment du mécanisme ou de la cause, on définit trois types d’interactions entre deux substances administrées simultanément :
 
@@ -31,30 +31,30 @@ Indépendamment du mécanisme ou de la cause, on définit trois types d’intera
 *   Antagonisme : une substance réduit (ou annule) les effets de l’autre
 *   Potentialisation : une substance augmente les effets d’une autre
 
-### **2. Les étapes de la vie du médicament dans l’organisme**
+### 2. Les étapes de la vie du médicament dans l’organisme
 
 Ces étapes définissent la pharmacocinétique du médicament. Les interactions peuvent survenir à chacune d’elles.
 
-#### **La résorption ou absorption**
+#### La résorption ou absorption
 
 C’est le passage du médicament dans la circulation à partir de son site d’administration. La plupart des médicaments administrés par voie orale sont absorbés dans l’intestin grêle.  
 L’absorption dépend de la voie d’administration, des propriétés physico-chimiques du médicament, et des caractéristiques liées à l’individu : pH digestif, motilité intestinale, alimentation, pathologies associées… La fraction de médicament qui atteint la circulation générale et la vitesse à laquelle il l’atteint définit la biodisponibilité*.
 
 * voir la définition en fin d'article.
 
-#### **La distribution ou diffusion dans l’organisme**
+#### La distribution ou diffusion dans l’organisme
 
 Le médicament se distribue dans les différents tissus/organes et va exercer son effet. La diffusion dans les différents tissus dépend elle aussi de plusieurs facteurs : caractéristiques physico-chimiques du médicament, débit sanguin tissulaire, âge, état d’hydratation, pathologies associées…
 
-#### **Le métabolisme**
+#### Le métabolisme
 
 Le médicament est le plus souvent transformé par des réactions enzymatiques en un ou plusieurs métabolites, actifs ou inactifs. Le foie est le principal organe impliqué dans le métabolisme des médicaments. Certains médicaments sont éliminés sans transformation.
 
-#### **L’élimination**
+#### L’élimination
 
 Le médicament et/ou ses métabolites sont éliminés essentiellement par voie urinaire et/ou biliaire, les autres voies (salivaire, pulmonaire…) sont moins importantes.
 
-### **3. Les mécanismes des interactions entre médicaments et aliments**
+### 3. Les mécanismes des interactions entre médicaments et aliments
 
 Ces interactions peuvent s’observer à différentes étapes de la vie du médicament, essentiellement  lors de l’absorption et du métabolisme. Elles peuvent être cliniquement significatives pour les médicaments à marge thérapeutique étroite (dose efficace proche de la dose toxique).
 
@@ -72,30 +72,30 @@ L’alimentation (aliments, boissons, alcool) suit le même trajet dans l’orga
 
 L’interaction concerne essentiellement l’absorption des médicaments par la paroi digestive, mais certains nutriments interfèrent sur leur métabolisme et leur élimination.
 
-### **1. Interactions aliments-médicaments : quelques données générales**
+### 1. Interactions aliments-médicaments : quelques données générales
 
-#### **Alimentation et pH gastrique**
+#### Alimentation et pH gastrique
 
 L'arrivée du bol alimentaire dans l’estomac augmente le pH gastrique, modifiant ainsi l'état d'ionisation et/ou de solubilisation des principes actifs. Cela diminue l'absorption des acides faibles* (par exemple : acide acétylsalicylique, sulfamides, lithium) et favorise celle des bases faibles (par exemple : quinidiniques, amphétamines). Les acides labiles* (pénicillamine, érythromycine) sont particulièrement sensibles aux variations du pH  et un repas peut leur faire perdre jusqu'à 50 % de leur biodisponibilité.
 
-#### **Alimentation riche en lipides**
+#### Alimentation riche en lipides
 
 L'arrivée d'une grande quantité d'aliments dans l'intestin grêle (surtout un repas riche en lipides) ralentit le péristaltisme intestinal, favorise la dissolution de certains principes actifs et stimule la sécrétion biliaire, augmentant ainsi la biodisponibilité de certains médicaments liposolubles (griséofulvine, ciclosporine, phénytoïne, carbamazépine…). La biodisponibilité de l'albendazole, un vermifuge couramment utilisé en infectiologie ou parasitologie, est quadruplée par un repas riche en graisses.
 
-#### **Alimentation riche en calcium (produits lactés) ou en fer**
+#### Alimentation riche en calcium (produits lactés) ou en fer
 
 Un aliment riche en calcium ou en fer diminue l'absorption et la biodisponibilité de la tétracycline ou de l'oxytétracycline de près de 50 %. En revanche, la ciprofloxacine et la norfloxacine peuvent voir leur biodisponibilité diminuée respectivement de 30 % et 50 % après l'ingestion de produits laitiers. Ceci s’explique par la formation de chélates (chélation*) insolubles non absorbables par association entre le calcium, le magnésium ou le fer et certains médicaments.
 
-#### **Alimentation riche en protéines**
+#### Alimentation riche en protéines
 
 Ces aliments augmentent l'absorption de certains principes actifs (propranolol, métoprolol, labétalol) en augmentant le flux sanguin splanchnique et hépatique, diminuant par ce biais l'effet de premier passage hépatique*. La biodisponibilité du médicament se trouve par conséquent améliorée.  
 En revanche, un repas riche en protéines diminue l'absorption de certains médicaments comme la lévodopa*.
 
-#### **Alimentation riche en fibres**
+#### Alimentation riche en fibres
 
 Les aliments  riches en fibres, comme les légumes, retardent l'absorption de la digoxine dans les 6 heures suivant la prise et en diminuent de 28 % la biodisponibilité par adsorption* sur les fibres végétales.
 
-### **2. Le pamplemousse, les agrumes**
+### 2. Le pamplemousse, les agrumes
 
 Le pamplemousse est connu pour interagir avec certains médicaments. Il ne s'agit pas d'une réduction de leur efficacité, mais d'une augmentation de la fréquence et de la gravité de leurs effets indésirables.
 
@@ -114,17 +114,17 @@ _Enfin, il n’y a pas d’interactions décrites avec les autres agrumes (orang
 
 Un cas particulier cependant : la vitamine C (contenue notamment dans les fruits et jus de fruits) augmente l’absorption du fer. Il est donc conseillé, en cas d’administration de fer chez un patient carencé, de prendre le médicament avec un jus de fruit.
 
-### **3. Les aliments riches en vitamine K**
+### 3. Les aliments riches en vitamine K
 
 Ces aliments - choux, brocolis, épinards, avocats, persil, laitue, abats - sont à consommer avec parcimonie lors d’un traitement par les antivitamine K (AVK), qui sont des anticoagulants oraux. Ces aliments diminuent l’efficacité du traitement et donc augmentent le risque de thromboses. Il est donc conseillé, en cas de traitement par AVK, de ne pas manger plus d’une portion de légume par jour, ainsi que de ne pas modifier soudainement ses habitudes alimentaires, en cessant ou en augmentant toute consommation.
 
-### **4. L’alcool**
+### 4. L’alcool
 
 L’alcool interfère avec la pharmacocinétique et la pharmacodynamie des médicaments. Lorsque sa concentration intra-gastrique est supérieure à 20 %, il induit un spasme pylorique et ralentit la vidange gastrique, retardant ainsi l’absorption de certains médicaments.
 
 A l’opposé, il peut favoriser l’absorption des médicaments liposolubles et potentialiser les effets des tranquillisants (anxiolytiques de type benzodiazépines),  hypnotiques, neuroleptiques, certains antidépresseurs, analgésiques centraux (tramadol) ou antitussifs contenant de la codéine, et certains médicaments antiallergiques… Un effet de type antabuse<ins cite="mailto:Calou" datetime="2013-06-27T18:27">*</ins>, généralement observé avec l'association au disulfirame, peut survenir aussi avec d’autres médicaments (métronidazole, céphalosporines, sulfamides hypoglycémiants …).
 
-### **5. La caféine**
+### 5. La caféine
 
 Il faut éviter de consommer de la caféine lors d’un traitement contenant certains antibiotiques comme l’énoxacine, la ciprofloxacine et la norfloxacine, utilisés notamment pour traiter des infections urinaires (cystites), ainsi qu’avec la théophylline, un anti-asthmatique ayant des effets proches de ceux de la caféine.
 
@@ -310,7 +310,7 @@ Limiter la consommation du thon au cours du traitement.</td>
 
 En pratique, les antituberculeux (isoniazide, rifampicine) sont pris à jeun, 1 h avant le déjeuner.
 
-### **2. Les antirétroviraux**
+### 2. Les antirétroviraux
 
 Pour les antirétroviraux, à la différence d’autres médicaments, une légère hausse de la concentration plasmatique du médicament peut entraîner des effets indésirables, et une légère baisse peut rendre le médicament inefficace. Certains antirétroviraux peuvent être ingérés sans tenir compte de la prise d’aliments aliments, pour d’autres il peut exister une interaction. C’est pourquoi il est indispensable de suivre le<del cite="mailto:Calou" datetime="2013-07-08T12:57">s</del> Résumé des Caractéristiques du Produit (RCP).
 

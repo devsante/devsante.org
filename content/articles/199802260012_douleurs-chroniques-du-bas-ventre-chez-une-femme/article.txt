@@ -31,7 +31,7 @@ Nous proposons donc une conduite à tenir pratique visant à :
 ----  
 Text:
 
-## **I.** Recommandation préalable
+## I. Recommandation préalable
 
 Tout ce qui a été dit dans l'introduction, à savoir la multiplicité des causes, le vécu pénible et angoissant, la nécessité d'un interrogatoire et d'un examen clinique soigneux fait que la première consultation prendra du temps. Donc, si la patiente vient un matin en même temps que cinquante autres personnes, il vaut mieux lui remettre quelques comprimés d'antalgiques et lui donner un rendez-vous, en dehors des heures de consultation normales, afin de pouvoir passer suffisamment de temps avec elle.
 

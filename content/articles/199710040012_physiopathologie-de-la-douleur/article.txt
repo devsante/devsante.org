@@ -28,7 +28,7 @@ Les expériences douloureuses sont mémorisées et peuvent servir de référence
 _Comportement et situation_  
 On conçoit clairement que la douleur ne peut être appréhendée comme une réaction simple univoque, elle occupe une place particulière dans la diversité des sensations que les êtres vivants peuvent éprouver et doit être comprise comme un phénomène multidimensionnel.
 
-## **I. Définir la douleur**
+## I. Définir la douleur
 
 La définition qui a été adoptée par le comité de taxonomie de l'Association internationale de l'étude de la douleur (IASP) a été proposée par Merskey (1979) :
 
@@ -36,19 +36,19 @@ _" La douleur est une expérience sensorielle_ et _émotionnelle désagréable l
 
 Cette définition intègre la dimension affective et émotionnelle à la dimension sensorielle. Elle rend compte de l'ensemble des mécanismes générateurs qui peuvent être d'origine physique ou psychologique.
 
-## **II.** **Douleur aiguë, douleur chronique**
+## II. Douleur aiguë, douleur chronique
 
 La douleur est une sensation physiologique normale qui participe à la survie et à la protection de l'espèce. En effet, dès les premiers jours de la vie, tout individu apprend que la douleur est un système des plus efficaces pour prévenir les atteintes lésionnelles de l'organisme. La douleur entraînée par une lésion ou un stimulus va induire un comportement quia pour but, dans un premier temps, de protéger les tissus non lésés et de limiter l'importance et les conséquences de l'agression en elle-même. Ceci se manifestera par un mouvement de retrait, la fuite ou tout autre comportement normal de protection qui a pour but d'empêcher l'aggravation de la blessure comme l'immobilisation ou l'enlèvement de l'agent responsable. Dans un deuxième temps, c'est par l'apprentissage que l'individu évitera les situations ou les agents nocifs : les expériences douloureuses antérieures mémorisées préviennent une lésion potentielle ou future.
 
 Cette fonction protectrice est bien mise en évidence dans les douleurs accompagnant les lésions articulaires majeures ou les affections importantes de l'organisme qui imposent l'inactivité et le repos permettant aux mécanismes récupérateurs de favoriser la guérison.
 
-### **1. La douleur aiguë : douleur signal d'alarme**
+### 1. La douleur aiguë : douleur signal d'alarme
 
 La principale caractéristique de la douleur aiguë, inhérente à sa définition, est la place qu'elle occupe dans le temps : elle est récente, transitoire et disparaît rapidement. En général ressentie comme intense, elle est secondaire, dans la grande majorité des cas, à l'activation du système de transmission du message douloureux. Elle est provoquée par des agressions telles que la brûlure, la piqûre, les pincements. Elle persiste jusqu'à la fin du processus de cicatrisation. Un traitement étiologique va, en général, la faire disparaître.
 
 Cependant, cette fonction d'alarme est imparfaite ; en effet les lésions cancéreuses n'induisent une douleur que lorsqu'elles ont évolué localement, et dans ce cas la destruction tissulaire est permanente, ou lorsqu'elles ont métastasé. Quand ces lésions se manifestent, le plus souvent elles ne sont plus accessibles aux thérapeutiques. De plus, lorsque cette douleur se prolonge et queue n'est pas rapidement traitée, elle perd sa fonction utile et devient préjudiciable, elle donne naissance à une douleur chronique.
 
-### **2. La douleur chronique : la douleur maladie**
+### 2. La douleur chronique : la douleur maladie
 
 Qu'elle reste symptomatique d'une maladie encore évolutive (cancer, pathologie rhumatismale) ou qu'elle résulte de séquelles traumatique ou chirurgicale (avulsion plexique, amputation de membre), ou d'une maladie guérie (post-zostérienne), cette douleur va induire différents retentissements sur le plan physique et psychologique qui peu à peu constituent un véritable syndrome douloureux chronique qui va évoluer pour son propre compte.
 
@@ -80,11 +80,11 @@ Concerne les divers processus mentaux participant au traitement des nombreuses i
 *   références aux expériences passées : si le sujet a déjà vécu ou observé chez des proches des expériences douloureuses traumatiques sur le plan psychologique, il pourra anticiper de telles conséquences vis-à-vis de son état pathologique et, par le biais de troubles émotionnels, faciliter la survenue ou amplifier l'intensité de ses douleurs ;
 *   l'attitude de l'environnement : l'analyse que le patient fait de l'attitude du milieu soignant ou de son entourage familial : attitude compréhensive et rassurante ou au contraire distante, inquiétante, voire agressive, influence négativement ou positivement son état émotionnel et par là même l'intégration des phénomènes sensoriels.
 
-## **III. Les mécanismes** **générateurs** **de la douleur**
+## III. Les mécanismes générateurs de la douleur
 
 Depuis plusieurs années, on oppose classiquement deux grands types de douleurs chroniques : les douleurs par excès de nociception et les douleurs par désafférentation.
 
-### **1. Les douleurs par excès** **de nociception**
+### 1. Les douleurs par excès de nociception
 
 Elles correspondent à l'activation du système de transmission des messages nociceptifs par stimulation excessive des récepteurs périphériques mis en jeu par des processus lésionnels (destruction tissulaires, inflammatoires, ischémiques (entraînant des perturbations métaboliques loco-régionales), ou par des stimulations mécaniques importantes (fracture, distension viscérale ou étirements musculo-ligamentaires). Il s'agit d'un fonctionnement normal du système sensoriel activé par un excès de messages, une hyper stimulation. Cependant, dans certains cas, comme pour les douleurs référées qui sont ressenties à distance de la lésion causale, la stimulation des nocicepteurs périphériques ne peut pas expliquer complètement la genèse de ces douleurs; celles-ci font intervenir des phénomènes centraux.
 
@@ -119,7 +119,7 @@ D'une façon schématique, il existe trois types de douleurs viscérales :
 *   celle qui est secondaire à l'atteinte des séreuses qui entourent l'organe en cause cette douleur est nettement mieux localisée
 *   la douleur projetée ou référée, la moins évidente, la plus difficile à expliquer, celle qui ne présente apparemment aucune relation avec la représentation cutanée de la douleur. C'est la douleur rapportée. Elle se situe à distance du viscère atteint. Le patient est tout à fait capable de montrer le siège de sa douleur, mais il se trompe sur la localisation de sa lésion.
 
-### **2. Les douleurs après lésion** **du système nerveux** :  
+### 2. Les douleurs après lésion du système nerveux :  
 **les douleurs** **par désafférentation**
 
 Toutes les douleurs ne peuvent être expliquées par des lésions tissulaires comme c'est le cas pour les douleurs par excès de nociception.

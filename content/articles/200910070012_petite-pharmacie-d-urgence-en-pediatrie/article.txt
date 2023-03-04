@@ -85,7 +85,7 @@ Cela permettra de mieux pratiquer les soins :
 *   Codéine en sirop (1mg/ml), qui se donne avec une cuillère-mesure graduée de 1 à 15 mg, 0,5 mg/kg/prise (exceptionnellement, si la douleur est très intense, 0,75 mg/kg/prise), à renouveler toutes les 8 heures.
 *   Codéine + paracétamol à partir de 6 ans : 3 mg/kg/j en 4 à 6 prises.
 
-### **2. Blessures, piqûres d'insectes, plaies plus ou moins infectées**
+### 2. Blessures, piqûres d'insectes, plaies plus ou moins infectées
 
 La pharmacie doit être bien pourvue en produits de soins :
 
@@ -103,7 +103,7 @@ La pharmacie doit être bien pourvue en produits de soins :
 
 Bien sûr, ciseaux et pinces seront toujours en place et en bon état.
 
-### **3. Brûlures légères ou moyennes**
+### 3. Brûlures légères ou moyennes
 
 *   Trolamine pour les brûlures de premier degré.
 *   Tulle gras, povidone iodée pour le 2ème degré.
@@ -113,7 +113,7 @@ Bien sûr, ciseaux et pinces seront toujours en place et en bon état.
 
 Désinfectant local et, si cela est possible, vaccin antirabique rapidement... _(voir article "Rage")._
 
-### **5. Entorses, fractures**
+### 5. Entorses, fractures
 
 La pharmacie doit contenir de quoi immobiliser un membre en attendant qu'un diagnostic soit posé
 

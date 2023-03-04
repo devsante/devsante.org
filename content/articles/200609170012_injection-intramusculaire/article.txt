@@ -8,9 +8,9 @@ Datetime: 2006-09-17 00:00
 ----  
 Text:
 
-## **I. Matériel**
+## I. Matériel
 
-### **1. Pour le soin**
+### 1. Pour le soin
 
 *   Aiguille en acier inoxydable ou en nickel à biseau long (moins douloureux) :
     *   aiguille longue de 7 cm de longueur (couleur verte), son biseau est long ;
@@ -19,7 +19,7 @@ Text:
 *   Seringue adaptée à la quantité à injecter.
 *   Diluant de reconstitution si le produit est lyophilisé (préférer le diluant fourni avec le produit à l'eau pour préparation injectable, ce diluant est plus efficace et contient éven­tuellement un anesthésique local, diminuant la douleur lors de l'injection du produit).
 
-### **2. Pour l'asepsie**
+### 2. Pour l'asepsie
 
 *   Gants non stériles à usage unique.
 *   Compresse ou coton.
@@ -27,11 +27,11 @@ Text:
 *   Boîte à aiguilles souillées.
 *   Sac poubelle.
 
-## **II. Préparation du patient**
+## II. Préparation du patient
 
 Le patient est allongé en décubitus ventral, il peut rester debout, s'il le souhaite, mais cette position est à éviter. En pédiatrie, il n'est pas rare que l'enfant se sente mal. Si c'est le cas, patienter, surveiller l'enfant et lui lever les jambes si nécessaire (afin de faciliter le retour veineux) pour qu'il reprenne conscience.
 
-## **III. ****Réalisation technique du geste**
+## III. Réalisation technique du geste
 
 *   Pratiquer un lavage des mains antiseptique (ou lavage simple plus friction avec un solu­té hydro-alcoolique).
 *   Reconstituer le produit si nécessaire en injectant la quantité de diluant dans le flacon de manière aseptique (désinfecter le bou­chon), mélanger le produit sans le secouer. Réchauffer le produit entre les mains si nécessaire.
@@ -47,7 +47,7 @@ Le patient est allongé en décubitus ventral, il peut rester debout, s'il le so
 (image: 12016.jpg)
 
 
-## **IV. Surveillance après le soin**
+## IV. Surveillance après le soin
 
 Surveiller l'absence d'une douleur vive après l'injection.
 

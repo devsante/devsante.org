@@ -29,7 +29,7 @@ Nous nous sommes posé la question suivante " Est-il possible de changer l'évol
 
 Aubierge a été prise en charge par notre équipe. Durant une année nous n'avons observé aucune crise douloureuse vaso-occlusive, aucune transfusion n'a été nécessaire, aucun autre traitement antibiotique n'a été prescrit en dehors du traitement par la pénicilline orale biquotidienne, l'ictère a nettement régressé, le volume de la rate a franchement diminué, son état général s'est très nettement amélioré, elle a grandi de 5 cm et a gagné 2 200 g. Elle n'a manqué l'école que pendant quatre jours.
 
-## **I. Comment sommes-nous parvenus à ce résultat ?**
+## I. Comment sommes-nous parvenus à ce résultat ?
 
 D'abord quelques vérités sur la drépanocytose dans notre pays.
 
@@ -37,7 +37,7 @@ Le Bénin est situé sur la côte ouest de l'Afrique et compte plus de cinq mill
 
 Depuis mai 1993, a donc été mis en place à Cotonou un programme de dépistage précoce de la drépanocytose, de prise en charge médicale et de suivi régulier des nourrissons et enfants atteints. Ce programme comporte un volet d'éducation, d'information et de formation des parents dont l'objectif est de réduire la fréquence des complications et de permettre à l'enfant drépanocytaire de mener une vie comparable à celle des enfants non atteints de son âge.
 
-## **II.** **Quelles sont nos stratégies ?**
+## II. Quelles sont nos stratégies ?
 
 Quatre principaux termes sont ciblés :
 
@@ -46,7 +46,7 @@ Quatre principaux termes sont ciblés :
 *   la lutte contre le paludisme
 *   la lutte contre les infections.
 
-### **1. Alimentation**
+### 1. Alimentation
 
 _L'enfant atteint de drépanocytose doit donc_ _avoir une alimentation riche, équilibrée,_ _variée et en quantité suffisante et doit manger_ _deux à trois fois plus qu'un enfant de son âge._
 
@@ -66,7 +66,7 @@ Nous proposons aux parents de faire manger les enfants en plusieurs fois par jou
 
 évolution de la courbe de croissance (poids et taille) et l'aspect général de l'enfant sont nos deux principaux paramètres de surveillance.
 
-### **2. Hydratation**
+### 2. Hydratation
 
 _L'enfant atteint de drépanocytose doit_ _boire suffisamment pour avoir les urines_ _toujours claires._
 
@@ -90,7 +90,7 @@ Les éléments qui permettent de s'assurer que l'enfant reçoit assez d'eau sont
 
 *   L'humidification des muqueuses : ses muqueuses et sa langue sont en permanence bien humidifiées.
 
-### **3. La lutte contre le paludisme**
+### 3. La lutte contre le paludisme
 
 _L'enfant atteint de drépanocytose doit dormir sous moustiquaire et prendre régulièrement de la chloroquine._
 
@@ -105,7 +105,7 @@ Au Bénin, le paludisme est toujours responsable d'une mortalité et d'une morbi
 
 *   Donner régulièrement de la chloroquine à l'enfant à la dose prescrite.
 
-### **4. La lutte contre les infections**
+### 4. La lutte contre les infections
 
 _L'enfant atteint de drépanocytose doit être lavé à l'eau et au savon trois fois par jour et prendre de la pénicilline V deux fois par jour tous les jours._
 
@@ -139,7 +139,7 @@ Le _palper de la rate_: les parents doivent connaître le volume habituel de la 
 
 *   La _surveillance de ses comportements_ habituels : en cas de perte de connaissance, de claudication, de tristesse ou de somnolence, les parents doivent s'inquiéter et le signaler au médecin traitant.
 
-## **III. Résultats préliminaires et difficultés**
+## III. Résultats préliminaires et difficultés
 
 De façon générale, nous pouvons distinguer deux groupes.
 
@@ -162,7 +162,7 @@ La mère est revenue demander la prise en charge de son enfant que nous avons na
 (image: i719-1.jpg)
 
 
-### **Conclusion**
+### Conclusion
 
 En fait, les résultats sont très satisfaisants puisque l'état général de nombreux enfants s'est amélioré. L'information de bouche à oreille permet que le nombre d'enfants suivis augmente. Actuellement près de quatre cents enfants sont régulièrement suivis.
 

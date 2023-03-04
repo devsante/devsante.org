@@ -33,21 +33,21 @@ La durée d'immobilisation des fractures est très variable. En règle général
 
 La formation du cal sur la zone de fracture est un préalable pour l'ablation du plâtre.
 
-## **I. Etapes de la confection du plâtre**
+## I. Etapes de la confection du plâtre
 
-### **1. Préparation du membre**
+### 1. Préparation du membre
 
 La position d'immobilisation doit être maintenue par une aide après la réduction durant tout l'acte et jusqu'à la fin du séchage pour éviter la formation des plis qui peuvent causer une compression sous plâtre et une perte de la réduction.
 
 La peau est protégée par du jersey tubulaire et des bandes de coton cardé. Pour les plâtres de correction faits après réduction de fracture, il est préférable d'utiliser trois jersey sans bande de coton pour prévenir tout déplacement secondaire. Pour les plâtres de contention, un jersey et une bande de coton sont suffisants.
 
-### **2. Application**
+### 2. Application
 
 L'eau préparée pour l'immersion doit être à 20-25 °C pour assurer un séchage rapide. Si l'eau est trop chaude, le plâtre est feuilleté*, (est dans le glossaire) donc moins homogène et moins solide. Il peut même y avoir un risque de brûlure. L'immersion se fait au mieux en tenant la bande avec un angle de 45° plutôt que verticalement ou horizontalement pour faciliter un trempage uniforme. La bande une fois immergée est prête pour l'application dès la disparition des bulles d'air. On applique la bande sans trop d'essorage afin de ne pas perdre de plâtre. Il ne faut pas trop serrer le plâtre sur le membre surtout au niveau des plis de flexion. Avant le séchage complet on réalise un modelage soigneux sur les reliefs osseux et un lissage du plâtre. Bien modelé l'appareil ne bougera plus et, bien lissé, il sera plus résistant.
 
-## **II. Principaux appareils plâtrés circulaires**
+## II. Principaux appareils plâtrés circulaires
 
-### **1. Appareils plâtrés du membre supérieur**
+### 1. Appareils plâtrés du membre supérieur
 
 #### a. Le plâtre brachial anté-brachial ou huméro-brachial _(figure n° 1)_
 
@@ -77,7 +77,7 @@ Au niveau proximal, le plâtre commence à trois travers de doigt sous l'aissell
 (image: i897-2.jpg)
 
 
-#### c. Manchette plâtrée type scaphoïde **_(figure n° 3)_**
+#### c. Manchette plâtrée type scaphoïde _(figure n° 3)_
 
 **Définition:** appareil immobilisant les os et les articulations du carpe et la colonne du pouce.
 
@@ -100,7 +100,7 @@ Le plâtre doit couvrir les premières phalanges et laisser libres les articulat
 (image: i897-3.jpg)
 
 
-### 2. Appareils plâtrés **du membre inférieur**
+### 2. Appareils plâtrés du membre inférieur
 
 #### a. Le plâtre cruro-pédieux _(figure n° 4)_
 
@@ -115,7 +115,7 @@ Le plâtre doit couvrir les premières phalanges et laisser libres les articulat
 (image: i897-4.jpg)
 
 
-#### b. La genouillère plâtrée ou plâtre **cruro-jambier _(figure n°_ 5)**
+#### b. La genouillère plâtrée ou plâtre cruro-jambier _(figure n°_ 5)
 
 **Définition:** appareil immobilisant l'articulation du genou.
 
@@ -125,7 +125,7 @@ Le plâtre doit couvrir les premières phalanges et laisser libres les articulat
 
 **Application:** la technique est la même que pour le cruro-pédieux mais le plâtre s'arrête au trois travers de doigt au-dessus des malléoles.
 
-#### c. La botte plâtrée ou botte pédieuse **_(figure n° 6)_**
+#### c. La botte plâtrée ou botte pédieuse _(figure n° 6)_
 
 **Définition:** appareil immobilisant, en dessous du genou, articulation, os du pied et de la jambe.
 
@@ -138,7 +138,7 @@ Le plâtre doit couvrir les premières phalanges et laisser libres les articulat
 (image: i897-5.jpg)
 
 
-## **III. Attelles plâtrées**
+## III. Attelles plâtrées
 
 Les attelles plâtrées sont pratiquées comme le plâtre circulaire dans le but d'immobilisation. Elles sont appliquées en cas d'oedème important au niveau du membre et en cas d'attente de l'acte chirurgical.
 
@@ -150,7 +150,7 @@ On peut faire une attelle plâtrée de deux façons :
 
 **Confection :** pour les membres supérieurs, on mesure la longueur de l'attelle sur le membre blessé et on prépare 12 à 14 couches superposées. Pour les membres inférieurs, l'attelle est faite avec 16 à 18 couches. La sous structure est comme le plâtre circulaire avec jersey tubulaire et bandes de coton.
 
-## **IV. La technique de l'ablation**
+## IV. La technique de l'ablation
 
 L'ablation du plâtre circulaire se fait à l'aide d'une scie électrique oscillante. Cette scie fait des gestes avant et arrière mais non circulaires pour ne pas couper la peau. Le plâtre est coupé en évitant toute pression excessive et en suivant longitudinalement le membre. On évite de suivre les saillies osseuses (crête tibiale) où la scie peut couper les téguments recouvrant le squelette. La meilleure façon est de travailler perpendiculairement au plâtre que l'on coupe avec des mouvements intermittents de la superficie vers la profondeur du plâtre en évitant un geste continu qui risque de léser la peau fragilisée sous le plâtre. Après avoir coupé le plâtre on sectionne attentivement le coton et le jersey tubulaire.
 
@@ -164,7 +164,7 @@ En cas de complication vasculaire précoce, (douleurs importantes, extrémités 
 
 Avant le départ de l'hôpital, le patient doit être informé sur les éléments de surveillance et les signes de complications. L'augmentation de la chaleur et de la douleur, tout changement de couleur et l'existence d'une odeur inhabituelle sont des signes d'alerte.
 
-## VI. Les complications **tardives sous plâtre**
+## VI. Les complications tardives sous plâtre
 
 **Le déplacement secondaire** peut-être causé par la fonte de l'oedème, l'amyotrophie par l'absence de contraction musculaire et la fragilisation du plâtre.
 

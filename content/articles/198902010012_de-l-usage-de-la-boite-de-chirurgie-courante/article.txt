@@ -31,7 +31,7 @@ Elle permet une préhension plus fine mais moins forte. Elle est utile pour l'ex
 
 Il ne sert qu'à l'incision de la peau et du tissu sous-cutané. C'est un mauvais instrument pour la dissection, car peu précis et contondant. Il peut éventuellement servir à couper les fils superficiels en l'absence de ciseaux adéquats.
 
-### **5. Le ciseau à disséquer**
+### 5. Le ciseau à disséquer
 
 C'est l'instrument roi de la dissection des plans anatomiques au cours d'interventions comme la hernie, l'hydrocèle, l'ablation de kystes ou lipomes. Ces petits ciseaux ne doivent pas couper de gros tendons ou aponévroses, et encore moins des fils, même les catguts car très vite, ils prendront du jeu dans l'axe central et perdront leur précision et leur biseau.
 

@@ -16,11 +16,11 @@ Les bandelettes réactives sont commercialisées par différentes firmes, mais l
 
 Certains laboratoires proposent en même temps des appareils de lecture des bandelettes, munis d'une imprimante, délivrant ainsi un compte rendu d'analyse écrit. Le fait de disposer de ces appareils ne dispense pas des précautions d'emploi.
 
-## **I. Conservation**
+## I. Conservation
 
 C'est un point très important les bandelettes sont imprégnées d'un réactif chimique, souvent sensible à la chaleur, à l'humidité et à la lumière. Si ce réactif est altéré, les résultats peuvent être difficiles à lire ou, ce qui est encore plus grave, faussement négatifs. Il faudra toujours respecter les consignes indiquées par le fabricant pour la conservation. En particulier, les bandelettes doivent toujours être conservées à une température inférieure à 30°, dans un endroit sec (pièce climatisée si possible). Elles doivent être gardées dans le flacon d'origine avec le desséchant et sorties seulement au moment de l'utilisation (attention, un réfrigérateur est trop humide !).
 
-## **II. Recueil des urines**
+## II. Recueil des urines
 
 Il faut utiliser un récipient propre et sec, et ne pas y mettre d'antiseptiques ou de conservateurs qui peuvent modifier certains tests.
 
@@ -28,7 +28,7 @@ Recueillir les urines de milieu de jet afin d'éviter les contaminations du carr
 
 Ne pas oublier que les leucorrhées et les pertes menstruelles peuvent donner des résultats positifs (protéines, hématies, leucocytes) dont l'origine n'est pas urinaire.
 
-## **III. Mode d'emploi**
+## III. Mode d'emploi
 
 Le délai indiqué pour la lecture est primordial. Son non-respect entraîne des réponses faussement positives ou faussement négatives.
 
@@ -40,7 +40,7 @@ Toutes les bandelettes sont livrées avec un mode d'emploi comportant, entre aut
 (image: i693-2.jpg)
 
 
-### **Conclusion**
+### Conclusion
 
 Les bandelettes urinaires constituent un bon outil de dépistage. La confirmation devra être apportée par des examens biologiques.
 

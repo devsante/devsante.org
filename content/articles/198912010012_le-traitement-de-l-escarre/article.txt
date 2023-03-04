@@ -50,7 +50,7 @@ Elles dépendent de la position du malade :
 
 Nous envisagerons dans un premier temps, le traitement préventif qui, correctement appliqué, évite dans tous les cas l'apparition de la lésion. Ensuite, nous étudierons le traitement de l'escarre constituée.
 
-### **1. Les moyens de prévention**
+### 1. Les moyens de prévention
 
 *   **Le matelas spécial :** il a pour but de diminuer la compression des tissus mous entre le malade et le plan du lit.
 
@@ -78,7 +78,7 @@ Quelle que soit l'efficacité du matelas utilisé, il faudra toujours utiliser l
 
 Certaines pathologies peuvent contre-indiquer certaines positions mais aucune ne peut empêcher totalement cette technique. L'association retournements, massages et hygiène constituent les moyens de prévention fondamentaux.
 
-### **2. Les moyens curatifs**
+### 2. Les moyens curatifs
 
 Nous allons étudier les différents moyens qui s'offrent à nous avant de voir les indications, puis enfin la réalisation du pansement lui-même.
 

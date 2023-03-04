@@ -59,14 +59,14 @@ C’est avant tout lui qui va vous permettre de prendre une décision.
 *   Son volume : normal ou augmenté par apport au volume habituel ? S’il est augmenté, le percuter au doigt : s’il est très sonore (comme le thorax) c’est qu’il contient de l’air, on parle de _météorisme_, évoquant une occlusion. S’il est mat (comme la cuisse) on évoque une ascite ou une grosse masse (kyste, foie ou rate).
 *   Respire-t-il ou non ? c’est-à-dire se soulève-t-il et se creuse-t-il avec la respiration? S’il est immobile, c’est peut-être à cause d’une contracture (voir plus loin).
 
-#### **Vous pouvez alors commencer la palpation,** temps le plus important de l’examen :
+#### Vous pouvez alors commencer la palpation, temps le plus important de l’examen :
 
 *   avec vos deux mains bien à plat l’une à côté de l’autre, posées et déplacées très lentement sur le ventre en gardant toujours le contact avec la peau de l’abdomen ;
 *   en ayant dans la tête le plan d’examiner tout l’abdomen en commençant là où le malade semble avoir le moins mal ;
 *   en appuyant très progressivement pour apprécier la souplesse de la paroi et rechercher une résistance, mais sans insister si la douleur (qu’on appelle ici douleur provoquée) est vive (ne pas quitter le visage du malade des yeux) ;
 *   n’oubliez pas les régions inguinales pour rechercher une hernie : si elle est douloureuse et si vous ne pouvez pas la réduire, c’est quelle est étranglée et elle peut expliquer une occlusion.
 
-#### **L’essentiel est d’arriver à dire (et à écrire sur la feuille d’examen) :**
+#### L’essentiel est d’arriver à dire (et à écrire sur la feuille d’examen) :
 
 *   si le ventre est plat ou météorisé, ou déformé par une masse ;
 *   s’il y a ou non une douleur provoquée, légère (le malade grimace) ou forte (le malade se plaint nettement) ;
@@ -76,7 +76,7 @@ C’est avant tout lui qui va vous permettre de prendre une décision.
     *   qu’elles ne soient pas faussées par une agitation ou des cris (notamment chez l’enfant).rendant l’examen ininterprétable. Il ne faut pas hésiter alors à reprendre l’examen une demi-heure après avoir administré un calmant ou un antalgique fort (morphine au besoin !) ;
     *   qu’elles soient permanentes, sans relâchement (même pendant quelques secondes) au cours de l’examen, autre raison pour recommencer l’examen un peu plus tard si on a un doute.
 
-#### **Devez-vous faire un toucher rectal** **(TR) ou vaginal* ? **
+#### Devez-vous faire un toucher rectal (TR) ou vaginal* ? 
 
 **Oui, mais à trois conditions :**
 

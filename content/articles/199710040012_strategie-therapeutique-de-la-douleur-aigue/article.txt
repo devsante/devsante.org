@@ -85,7 +85,7 @@ Un certain nombre de points sont alors à considérer :
 
 **Figure n° 1. Relation de la douleur aiguë avec d'autres composantes du stress.**
 
-### **3. Conséquences**
+### 3. Conséquences
 
 Il faut avoir en tête que la douleur peut avoir des _conséquences néfastes_ pour un malade.
 
@@ -154,11 +154,11 @@ Il est souhaitable alors d'effectuer une "titration" initiale intraveineuse qui 
 
 La dose d'entretien doit être administrée régulièrement en tenant compte des caractéristiques du produit choisi ou si on dispose de matériel de perfusion, de façon continue à la seringue électrique ou en administration autocontrôlée par le malade (" PCA " pour " _patient-controlled analgesia ")._ La voie spinale permet une analgésie de qualité après administration d'une dose faible de morphinique : elle est néanmoins sophistiquée et nécessite une surveillance très particulière et donc rarement utilisée.
 
-### **2. Approche anesthésique**
+### 2. Approche anesthésique
 
 Les anesthésiques locaux permettent d'obtenir une analgésie en agissant sur la douleur de fond mais aussi sur celle des paroxysmes : ils sont utilisés au cours des infiltrations et des blocs nerveux. Avec les produits du groupe " amide " (lidocaïne ou Xylocaïne®, bupivacaïne ou Marcaïne®) les accidents allergiques sont rares ; par contre, il faut être vigilant quant aux doses administrées afin de ne pas dépasser les doses toxiques. Il faut donc toujours faire un test aspiratif avant de les injecter, les administrer lentement, utiliser éventuellement des solutions avec des vasoconstricteurs, éviter les doses importantes (8 mg/kg pour la Xylocaïne, 2 mg/kg pour la bupivacaïne). Les accidents sont neurologiques et/ou cardiaques. Outre les problèmes propres aux produits, les techniques locorégionales sont susceptibles aussi de provoquer des complications : il faut donc connaître parfaitement leurs aspects techniques certes, mais aussi leurs conséquences. Tous ne sont pas difficiles à réaliser et peuvent être parfois très utiles (bloc intercostal pour des fractures de côtes par exemple). La durée d'un bloc est limitée dans le temps et il faut donc ou refaire le bloc ou mettre en place des cathéters.
 
-## **II. Que peut-on suggérer en pratique ?**
+## II. Que peut-on suggérer en pratique ?
 
 Devant toute douleur aiguë, il est important d'en connaître la cause afin de la traiter - si cela se révèle possible.
 

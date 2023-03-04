@@ -56,7 +56,7 @@ Dans tous les cas, l'enfant est curieux, il veut connaître, il met les mains pa
 
 Ce sont les couteaux, les coupe-coupe, les pointes ou aiguilles laissées à portée des enfants, ou encore des morceaux de verre, des arêtes de poisson. Le risque est d'autant plus grand que le ménage est mal fait et que l'enfant se déplace à quatre pattes, à moitié nu.
 
-### 5. Les intoxications et ingestions **dangereuses**
+### 5. Les intoxications et ingestions dangereuses
 
 Dans les causes précédentes, c'est la peau, enveloppe protectrice, qui est menacée. Mais la bouche est aussi la porte d'entrée d'accidents parfois gravissimes. L'enfant, par curiosité, par faim, gourmandise, porte à sa bouche un objet qui traîne. Il avalera :
 
@@ -186,7 +186,7 @@ Il faudrait donc élaborer un système local d'amélioration de l'information su
 
 </table>
 
-### **1.** Les mesures éducatives
+### 1. Les mesures éducatives
 
 Elles ont lieu à trois niveaux :
 

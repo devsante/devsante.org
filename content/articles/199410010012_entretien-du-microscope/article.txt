@@ -32,7 +32,7 @@ Toutes les parties du microscope sont à entretenir.
 
 Cet article vous donnera quelques gestes indispensables à faire dans votre laboratoire.
 
-### **1. Entretien des oculaires**
+### 1. Entretien des oculaires
 
 *   **Protection de la poussière:** après utilisation, mettre une housse sur le microscope.
 *   **Nettoyage des oculaires :** la lentille externe (où on met l'oeil) se nettoie avec un chiffon sec ou un papier qui ne raye pas (papier spécial pour les lentilles, kleenex, sopalin, papier toilette). Ne jamais utiliser de xylène.
@@ -43,7 +43,7 @@ Les lentilles internes des oculaires se nettoient uniquement avec un pinceau fin
 
 Toujours éviter de dévisser les lentilles des oculaires (le faire uniquement lorsqu'il y a de la poussière à l'intérieur de l'oculaire).
 
-### **2. Entretien des objectifs**
+### 2. Entretien des objectifs
 
 *   **Nettoyage de l'objectif x100 à** **immersion:** essuyer l'huile après chaque utilisation avec un papier qui ne raye pas (papier lentille, kleenex, papier toilette).
 
@@ -51,23 +51,23 @@ Lorsque l'huile a séché, utiliser un papier imbibé légèrement avec du xylè
 
 *   **Pour les autres objectifs x40, X10:** on peut les nettoyer avec un chiffon imbibé avec de l'alcool ou un mélange alcool-éther. Faire attention à ne pas utiliser de l'huile à immersion avec ces objectifs.
 
-### **3. Entretien du condensateur**
+### 3. Entretien du condensateur
 
 *   **Poussière:** essuyer la lentille du condensateur avec un chiffon ou un papier qui ne raye pas.
 *   **Diaphragme:** pour enlever la poussière, utiliser un pinceau fin ou souffler de l'air avec une poire (poire optique pour appareil photo).
 
-### **4. Entretien du miroir**
+### 4. Entretien du miroir
 
 Essuyer le miroir avec un chiffon ou un papier qui ne raye pas. On peut imbiber légèrement le papier avec de l'alcool, jamais de xylène.
 
-### **5. Entretien du système** **électrique**
+### 5. Entretien du système électrique
 
 **Lampes, fusibles:** pas de réparation possible. Ce sont des pièces du microscope qui se changent, toujours en avoir en stock en faisant attention à avoir les bonnes références (il faut connaître les références de son microscope). Éviter de mettre les doigts sur la lampe en la changeant.
 
 (image: i610-1.jpg)
 
 
-### **6. Autres entretiens**
+### 6. Autres entretiens
 
 *   **Graissage des crémaillères** (en général, elles sont protégées par une partie métallique): on peut les frotter avec de la cire, du savon si on n'a pas d'huile spéciale (ne jamais utiliser de l'huile de cuisine ou de l'huile à immersion).
 
@@ -75,7 +75,7 @@ Ne jamais essayer de démonter le microscope soi-même pour nettoyer le prisme, 
 
 *   **Entretien des parties peintes:** il s'agit du pied du microscope et de la platine. Elles se nettoient avec un chiffon sec ou un chiffon avec de l'alcool. Ne jamais utiliser d'acétone, ni de xylène.
 
-### **7. Protection contre l'humidité**
+### 7. Protection contre l'humidité
 
 Il est facile de nettoyer son microscope contre la poussière. Par contre, pour le nettoyer contre la présence de champignons qui se développent facilement dans un climat humide, il est préférable de recourir à des spécialistes.
 
@@ -91,7 +91,7 @@ Cependant, certaines mesures peuvent être prises pour protéger son microscope 
 (image: i610-2.jpg)
 
 
-### **8. Protection contre les chocs**
+### 8. Protection contre les chocs
 
 Au laboratoire, le microscope doit être posé sur un endroit bien stable, évitez de le déplacer trop souvent. Il faut toujours porter le microscope avec ses deux mains.
 

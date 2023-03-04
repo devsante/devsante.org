@@ -17,7 +17,7 @@ La lutte contre cette maladie suppose la connaissance de l'épidémiologie, c'es
 (image: i88-1.jpg)
 
 
-### **I. Epidémiologie**
+### I. Epidémiologie
 
 **a.** L'agent de la maladie est un parasite microscopique vivant dans le sang et pouvant pénétrer dans le système nerveux. Il a un aspect caractéristique, reconnaissable au microscope, allongé, ondulant, se déplaçant entre les cellules.
 
@@ -31,7 +31,7 @@ La chaîne épidémiologique comprend donc:
 *   la mouche tsé tsé qui va se contaminer à partir du malade et transporter le parasite,
 *   le sujet sain qui peut être contaminé par la piqûre de la mouche.
 
-## **II. La lutte**
+## II. La lutte
 
 contre la maladie doit viser ces trois éléments:
 
@@ -39,7 +39,7 @@ contre la maladie doit viser ces trois éléments:
 *   repérage et destruction des mouches tsé tsé,
 *   protection du sujet sain.
 
-### **1. Dépistage et traitement**
+### 1. Dépistage et traitement
 
 **Le dépistage**
 
@@ -54,11 +54,11 @@ Il doit se faire dans les régions où l'on sait que la maladie existe, basé su
 
 **c.** Chez les sujets ainsi suspectés, surtout lors de campagnes de masse, l'examen biologique le plus simple est le dosage des immunoglobulines M (Ig-M). Il suffit de piquer le doigt pour avoir une goutte de sang, la recueillir sur papier buvard, mettre, lorsqu'il est sec ce fragment de papier buvard dans une enveloppe avec le nom et l'adresse du sujet, et l'acheminer sans précautions particulières vers le laboratoire central (en général dans la capitale). La découverte d'un taux élevé de Ig-M conduira à hospitaliser le malade dans un centre équipé pour retrouver le parasite (hôpital régional). Lorsque cet examen n'est pas possible, on se base sur la mise en évidence du trypanosome sur la goutte épaisse, la ponction ganglionnaire, éventuellement la ponction lombaire ; mais en cas de doute, une hospitalisation au centre régional est nécessaire.
 
-#### **Le traitement**
+#### Le traitement
 
 Il n'est possible que si le diagnostic a été porté avec certitude car il peut être dangereux. Il ne peut être fait qu'en milieu hospitalier. Il est basé sur la Pentamidine (Lomidine®) si l'on se trouve à la première période de la maladie, sur l'Arsobal si l'on se trouve à la seconde.
 
-### **2. Lutte contre les mouches**
+### 2. Lutte contre les mouches
 
 Il faut d'abord les reconnaître, puis les détruire si possible, sinon limiter le contact avec les habitants.
 
@@ -76,7 +76,7 @@ Les pulvérisations d'insecticides visent une action plus large. Le DDT est touj
 
 La mouche vit près de l'eau mais en zone forestière. Il est le plus souvent impossible d'éloigner les villages de l'eau et de la forêt. Cependant, le débroussaillement et l'abattage des arbres sur une distance de vingt mètres de part et d'autre des eaux infestées détruit les forêts et impose aux mouches des gîtes plus éloignés.
 
-### **3. Protection du sujet sain**
+### 3. Protection du sujet sain
 
 **a.** La protection par un médicament (chimioprophylaxie) n'est plus pratiquée de façon
 

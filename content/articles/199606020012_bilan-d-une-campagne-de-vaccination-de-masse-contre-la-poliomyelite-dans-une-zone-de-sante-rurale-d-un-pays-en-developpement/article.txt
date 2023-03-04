@@ -13,29 +13,29 @@ La zone de santé rurale de Ngandajika est située dans la sous-région de Kabin
 ----  
 Text:
 
-## **I. L'épidémie**
+## I. L'épidémie
 
 L'épidémie de poliomyélite qui a atteint la ville de Mbuji-Mayi s'est étendue à la zone de Ngandajika, distante de quatre-vingt-dix kilomètres. Une cinquantaine de cas a été recensée dans les centres de santé (CS) et à l'hôpital. Devant l'importance de la propagation de la maladie, une campagne de masse a été organisée. Le virus incriminé est le poliovirus de type 1, qui se trouve être le plus redoutable.
 
-## **II. Organisation de la campagne**
+## II. Organisation de la campagne
 
 La campagne a été organisée par le bureau central de zone (BCZ) et Médecins du Monde (MDM). Parallèlement une campagne a eu lieu dans d'autres zones de la région, avec MSF (Médecins Sans Frontières) France et Belgique : d'un commun accord, il a été décidé de vacciner en deux phases espacées d'un mois et d'associer la rougeole à la seconde fois. Le vaccin utilisé a été oral pour la poliomyélite (2 gouttes) et injectable pour la rougeole (0,5 cc), les flacons sont de vingt doses pour le premier et de dix doses pour le second. La population cible pour la rougeole comprend les enfants entre neuf mois et cinq ans, soit 46 862 cas.
 
-### **1. La préparation**
+### 1. La préparation
 
 Soixante-neuf sites ont été prévus dans le programme, à faire en onze jours, dont dix-sept sites en deux jours sur la cité même de Ngandajika.
 
-### **2. La sensibilisation**
+### 2. La sensibilisation
 
 Elle a touché toute la zone de santé et a été faite par l'intermédiaire des autorités locales : administratives, religieuses, coutumières, sanitaires et éducatives. Cette sensibilisation a duré un mois, ce qui a permis d'avoir une large diffusion.
 
-### **3. Les ressources**
+### 3. Les ressources
 
-#### **a. Humaines**
+#### a. Humaines
 
 Les infirmiers-chefs de centre ont vacciné chez eux, aidés de leurs comités de santé (COSA). Des équipes mobiles sont venues renforcer les sites déficients. Elles étaient composées de deux superviseurs, dix infirmiers de l'hôpital et du BCZ, dix élèves infirmiers de l'ITM (Institut technico-médical),,une infirmière et un médecin de MDM. A la seconde phase, le médecin-chef de zone a renforcé les équipes.
 
-#### **b. Matérielles**
+#### b. Matérielles
 
 *   Les vaccins, accumulateurs de froid et glacières ont été fournis par l'Unicef, par l'intermédiaire de l'antenne régionale du PEV (Plan Elargi de Vaccination).
 *   Les réfrigérateurs : le BCZ n'en possède qu'un seul, déjà occupé par les vaccins du programme normal. Celui du centre de santé de référence et celui de l'équipe de MDM ont été utilisés.
@@ -49,11 +49,11 @@ Les infirmiers-chefs de centre ont vacciné chez eux, aidés de leurs comités d
 *   Les seringues (jetables) de dilution (2 800 à 5 cc) et d'injection (40 000 à 1 cc), les sacs poubelles (140) pour la récupération des aiguilles que nous brûlions tous les jours, les savons (80), le coton (9 000 g) ont ;été financés par MDM.
 *   Les véhicules : trois Land Rover et une moto (pour les endroits inaccessibles en voiture) ont été utilisés.
 
-## **III. Déroulement** **de la campagne**
+## III. Déroulement de la campagne
 
-### **1. Au niveau d'un site**
+### 1. Au niveau d'un site
 
-#### **a. À la première phase**
+#### a. À la première phase
 
 Sur chaque site, deux infirmiers, un pointeur et un service d'ordre de deux à quatre personnes assuré par les gens du village, étaient présents :
 
@@ -63,7 +63,7 @@ Sur chaque site, deux infirmiers, un pointeur et un service d'ordre de deux à q
 
 Chaque site avait un responsable ; le superviseur avait, lui, la surveillance de trois sites par jour.
 
-#### **b. À la seconde phase**
+#### b. À la seconde phase
 
 En plus des équipes constituées, se sont ajoutés pour la rougeole :
 
@@ -73,13 +73,13 @@ En plus des équipes constituées, se sont ajoutés pour la rougeole :
 
 Sur place, se trouvaient toujours un responsable du lieu et un superviseur pour trois sites.
 
-### **2. Dans la journée**
+### 2. Dans la journée
 
 Après avoir préparé le matériel nécessaire (vaccins, accumulateurs, glacières, provisions de bouche ... ) et récupéré les membres de l'équipe mobile, chaque véhicule partait déposer les infirmiers sur les sites prévus.
 
 Les Superviseurs se chargeaient de repasser vérifier si n'en ne manquait et si tout allait bien. À la fin de la journée, les voitures reprenaient les équipes et le matériel.
 
-## **IV. Les résultats**
+## IV. Les résultats
 
 Au premier tour, 41 141 enfants ont été vaccinés, sur une population attendue de 53 891, ce qui donne un pourcentage de 85,62 et 50 000 doses de vaccins ont été utilisées (92,28 % de taux d'utilisation).
 
@@ -87,7 +87,7 @@ Au premier tour, 41 141 enfants ont été vaccinés, sur une population attendue
 
 Ce sont en tout 38 842 enfants de neuf mois à cinq ans qui ont reçu le VAR (vaccin anti-rougeoleux), soit 82,88 %, le nombre de doses de vaccins utilisées est de 40 000, soit 97,10 % de taux d'utilisation. Le nombre de seringues utilisées est le même que le nombre de doses de vaccins.
 
-## **V. Coût de la campagne**
+## V. Coût de la campagne
 
 Toutes les dépenses ont été supportées par MDM* (en millions d'anciens Zaïres)  
 *(Les prix sont marqués en anciens Zaïres : 1 dollar = 15 millions d'anciens Zaïres = 5 FF).
@@ -113,7 +113,7 @@ Il faudrait revoir le programme national du PEV afin de réhabiliter pour éleve
 
 Cette réhabilitation concernerait surtout la chaîne de froid, l'approvisionnement en vaccins contre les six maladies cibles et même la fièvre jaune et les moyens de transport des infirmiers-chefs de centre.
 
-### **Conclusion**
+### Conclusion
 
 Le faible taux de couverture vaccinale des pays en développement, du Zaïre en particulier, fait que les pays du Sud ne sont pas à l'abri des épidémies. L'organisation des campagnes de vaccination de masse, pendant les épidémies, est coûteuse et n'est pas à la portée de tous les États.
 

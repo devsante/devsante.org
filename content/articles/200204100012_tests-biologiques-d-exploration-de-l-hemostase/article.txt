@@ -131,7 +131,7 @@ C'est un test global réalisé sur sang total. Le sang est recueilli dans 2 tube
 
 Ce test est peu sensible et ne devrait être pratiqué qu'en l'absence de matériel permettant la réalisation du TCA et du TQ.
 
-### 4. Etude de l'aspect du caillot **(variante du TC)**
+### 4. Etude de l'aspect du caillot (variante du TC)
 
 Après avoir recueilli 2 ml de sang du patient sur tube sec et l'avoir laissé coaguler, on pourra observer la taille du caillot, sa capacité de rétraction (hémostase primaire), sa lyse (fibrinolyse) et l'aspect du sérum (ictère ou hémolyse).
 
@@ -169,7 +169,7 @@ Il est automatisable, simple et peu coûteux.
 
 </table>
 
-### 7. Temps de Quick (TQ) ou **Taux de prothrombine (TP)**
+### 7. Temps de Quick (TQ) ou Taux de prothrombine (TP)
 
 Il explore la voie extrinsèque (facteurs VII et X) et la voie commune (V, II, I).
 
@@ -254,7 +254,7 @@ Pratiqué fréquemment en période pré-opératoire (normale : 2-4 g/l), son int
 *   Tous les facteurs de coagulation (voie intrinsèque et voie extrinsèque) peuvent être dosés séparément.
 *   Le choix des facteurs à tester est fonction des résultats des tests globaux et du contexte clinique.
 
-### 2. Recherche d'un anticoagulant **circulant**
+### 2. Recherche d'un anticoagulant circulant
 
 Au moins un des tests de dépistage est allongé (TCA le plus souvent).
 
@@ -268,7 +268,7 @@ Au moins un des tests de dépistage est allongé (TCA le plus souvent).
 
 #### b. Les anticorps
 
-#### Anticorps spécifiques d'un facteur **(le plus souvent F VIII)**
+#### Anticorps spécifiques d'un facteur (le plus souvent F VIII)
 
 Leur présence entraînent un risque hémorragique très élevé nécessitant un traitement adapté en service spécialisé.
 
@@ -280,7 +280,7 @@ Un bilan immunologique normal n'exclut pas la présence d'un anticorps antiphosp
 
 _Il existe des examens plus spécifiques permettant d'étudier les fonctions plaquettaires et la maladie_ _de Willebrand._
 
-## **III.** En pratique
+## III. En pratique
 
 Il n'est pas toujours possible de disposer de tous ces examens. En l'absence de TCA, TQ, TH, TT, dosage du fibrinogène ou de numération des plaquettes, et si l'interrogatoire, l'examen clinique, l'intervention prévue ou ses suites immédiates laissent apparaître un risque hémorragique réel, il convient, au minimum :
 

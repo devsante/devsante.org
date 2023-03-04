@@ -20,7 +20,7 @@ Nous aborderons essentiellement la lombosciatique commune, qui représente la gr
 
 Le diagnostic est et reste à l'heure actuelle essentiellement clinique.
 
-### 1. La crise douloureuse **est caractéristique**
+### 1. La crise douloureuse est caractéristique
 
 #### Par son trajet
 
@@ -85,7 +85,7 @@ Elles demanderont les mêmes examens : arthrose interapophysaire postérieure, d
 
 En cas de canal lombaire étroit, la douleur ou les paresthésies surviennent à la marche et cèdent à l'arrêt. L'examen neurologique est souvent pauvre. L'âge est différent (supérieur à 50 ans).
 
-#### 3) Ce qui n'est ni une hernie discale **ni une arthrose**
+#### 3) Ce qui n'est ni une hernie discale ni une arthrose
 
 Il est capital d'éliminer toute autre cause, de s'en méfier si le tableau clinique s'écarte du tableau classique.
 
@@ -119,7 +119,7 @@ Il est de bonne pratique d'attendre une à deux semaines de traitement médical 
 
 soit trois clichés. Les incidences de trois quarts ne sont pas utiles (en général).
 
-#### b) Les anomalies à rechercher pour **la hernie discale :**
+#### b) Les anomalies à rechercher pour la hernie discale :
 
 *   un espace intersomatique pincé,
 *   la région lombo-pelvienne peut être le siège d'une anomalie transitionnelle lombosacrée, d'une bascule pelvienne, d'une scoliose,
@@ -154,7 +154,7 @@ Cet examen présente les caractères suivants :
 
 Il ne doit être fait que si les conditions de technique et d'asepsie sont parfaites.
 
-### 4. L'IRM (imagerie par résonance **magnétique)**
+### 4. L'IRM (imagerie par résonance magnétique)
 
 Elle n'est pas supérieure, pour la visibilité des coupes, au scanner lombaire. Nous n'en parlerons pas ici.
 
@@ -176,7 +176,7 @@ Elle ne peut se faire que dans des conditions particulières de technique.
 
 Il peut être instauré d'emblée la plupart du temps.
 
-#### **a) À** la phase aiguë
+#### a) À la phase aiguë
 
 Il s'agit de repos, d'antalgiques, d'anti-inflammatoires non stéroïdiens et de myorelaxants. En l'absence de signe de gravité, le traitement de la lombosciatique commune est médical.
 

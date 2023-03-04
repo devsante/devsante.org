@@ -57,7 +57,7 @@ Des protocoles nationaux circulent maintenant dans la plupart des pays africains
 
 Très peu de données pharmacologiques pédiatriques ont été réalisées par les firmes pharmaceutiques qui ont souvent extrapolé les résultats des études réalisées chez les adultes pour définir les doses _chez_ les enfants. Or les rares études existantes ont toutes montré de grosses différences dans les taux d'absorption et le métabolisme des ARV chez les petits enfants qui entraînent en général des sous dosages pouvant rendre le traitement moins efficace. Ainsi les réponses aux questions précédentes restent-elles encore trop souvent empiriques. Pourquoi cette carence dans les recherches pédiatriques ? Certes, il a été difficile de réunir un nombre suffisant d'enfants dans les pays riches pour des études comparatives de protocole mais très peu de financements ont été obtenus pour les études proposées dans les PVD ! De plus les procédures éthiques et juridiques des essais chez les enfants sont lourdes et peuvent rebuter les chercheurs.
 
-### **7.** L'observance chez l'enfant est donc plus complexe
+### 7. L'observance chez l'enfant est donc plus complexe
 
 Outre les formes galéniques non adaptées, l'horaire des prises tenant compte du style et des rythmes de vie des familles est difficile à respecter, certains médicaments demandant d'être strictement à jeun ou pris 3 fois par jour. Les effets secondaires toujours sont mal vécus par les enfants mais aussi par les parents, très inquiets de voir leur enfant "malade" alors que le traitement était censé le protéger...
 

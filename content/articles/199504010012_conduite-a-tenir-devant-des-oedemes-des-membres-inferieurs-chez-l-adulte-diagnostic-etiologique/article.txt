@@ -10,13 +10,13 @@ Text:
 
 La conduite diagnostique consiste à différencier en premier lieu les œdèmes uni- et bilatéraux; ensuite à évoquer les principaux organes mis en cause. Il devient facile à partir de quelques signes cliniques d'orienter le diagnostic étiologique.
 
-## **I. Œdèmes des membres** **inférieurs (OMI) unilatéraux**
+## I. Œdèmes des membres inférieurs (OMI) unilatéraux
 
-### **1. Infection**
+### 1. Infection
 
 Présence de signes inflammatoires (chaleur, rougeur, douleur) et éventuellement de fièvre. On recherche une porte d'entrée comme une plaie infectée. Il s'agit d'un œdème par infection, nécessitant antibiotiques et nettoyage de la plaie.
 
-### **2. Suspicion de phlébite**
+### 2. Suspicion de phlébite
 
 Le mollet est modérément douloureux et chaud. La dorsiflexion du pied provoque parfois la douleur. Mais c'est le contexte clinique qui doit alerter. Il s'agit:
 
@@ -28,14 +28,14 @@ Le mollet est modérément douloureux et chaud. La dorsiflexion du pied provoque
 
 Il faut référer au médecin.
 
-### **3. L'œdème est non** **inflammatoire, chronique** **et unilatéral**
+### 3. L'œdème est non inflammatoire, chronique et unilatéral
 
 Il s'agit le plus souvent de séquelles de fracture, d'une ancienne phlébite non guérie, d'un éléphantiasis, etc.
 
 (image: i633-1.jpg)
 
 
-## **II.** **Œdèmes des membres inférieurs bilatéraux**
+## II. Œdèmes des membres inférieurs bilatéraux
 
 On évoque les différents organes qui peuvent être touchés, l'un après l'autre. Le diagnostic repose sur:
 
@@ -61,11 +61,11 @@ Deux choses sont à comprendre:
 (image: i633-3.jpg)
 
 
-### **2. Anémie grave**
+### 2. Anémie grave
 
 Elle peut évidemment s'associer au diagnostic précédent. Le patient est très fatigué, dyspnéique, ses conjonctives sont très pâles. Le dosage de l'hémoglobine par une méthode calorimétrique (Lovibond, Sahli, Tallquist) ou par la numération indique un taux inférieur à 9 g/l. A référer au médecin.
 
-### **3. Insuffisance cardiaque**
+### 3. Insuffisance cardiaque
 
 La triade évocatrice: tachycardie, dyspnée et œdème invite à rechercher:
 
@@ -81,7 +81,7 @@ La triade évocatrice: tachycardie, dyspnée et œdème invite à rechercher:
 
 A référer au médecin.
 
-### **4. Cirrhose hépatique**
+### 4. Cirrhose hépatique
 
 - Le foie est dur et indolore. Il est gros et déborde sous les côtes,
 
@@ -89,11 +89,11 @@ A référer au médecin.
 
 - on a la notion d'un alcoolisme chronique ou d'une bilharziose à _Schistosoma_ _mansoni_ ancienne et non traitée.
 
-### **5. Insuffisance rénale**
+### 5. Insuffisance rénale
 
 On découvre de l'albumine dans les urines, deux ou trois +++. On recherche une hypertension artérielle.
 
-### **6. Insuffisance veineuse**
+### 6. Insuffisance veineuse
 
 Les varices sont apparentes. Les pieds gonflent lorsqu'il fait chaud.
 
@@ -107,7 +107,7 @@ Pour soulager le patient, on peut proposer :
 
 - d'utiliser des bas à varices .
 
-## **III. En conclusion**
+## III. En conclusion
 
 Pour les œdèmes bilatéraux, il faut penser:
 

@@ -43,7 +43,7 @@ Exemple :
 *   Pyocyanique
 *   BK
 
-## **II. Pha**r**macocinétique**
+## II. Pharmacocinétique
 
 Après absorption orale (la voie intraveineuse est exceptionnelle), les macrolides traversent rapidement le tube digestif pour pénétrer dans :
 
@@ -78,11 +78,11 @@ Dans les uréthrites et les prostatites, les macrolides sont indiqués sans rest
 
 Dans les salpingites, ils sont aussi efficaces que les tétracyclines.
 
-### **5. Macrolides et sida**
+### 5. Macrolides et sida
 
 La clarithromycine est l'antibiotique le plus actif sur le _Mycobacterium avium,_ le principal agent responsable des diarrhées chroniques dans l'infection à VIH. Malheureusement, l'apparition des résistances nécessite une association à l'éthambutol ou la rifabutine.
 
-### 6. **Macrolides et trachome**
+### 6. Macrolides et trachome
 
 Les macrolides sont efficaces sur l'agent du trachome et la plupart des germes responsables de surinfection conjonctivales.
 

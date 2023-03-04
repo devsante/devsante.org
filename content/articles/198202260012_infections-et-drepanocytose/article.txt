@@ -29,7 +29,7 @@ Pour améliorer le pronostic de ces enfants, il faut:
 
 **4.** Une attitude rigoureuse lors des épisodes fébriles.
 
-### **Le risque infectieux**
+### Le risque infectieux
 
 Chez l'enfant drépanocytaire homozygote, on sait :
 
@@ -57,7 +57,7 @@ Plus rarement :
 
 - le straphylocoque.
 
-#### **Quel type d'infection?**
+#### Quel type d'infection?
 
 **Septicémies**
 
@@ -81,13 +81,13 @@ Elles aussi très fréquentes, elles sont bien particulières :
 
 • enfin parce qu'il existe souvent plusieurs localisations et que les rechutes sont fréquentes.
 
-#### **Infections pulmonaires**
+#### Infections pulmonaires
 
 Plus fréquentes que graves, elles sont provoquées par le pneumocoque et le mycoplasme. Il est quelquefois difficile de différencier infarctus pulmonaire et infection.
 
-#### **Infection et thrombose ****sont souvent associées !!!**
+#### Infection et thrombose sont souvent associées !!!
 
-#### **Infections urinaires**
+#### Infections urinaires
 
 Moins connues, elles sont pourtant fréquentes en particulier au cours de la grossesse. Ces infections se voient à tout âge et s'accompagnent souvent d'hémoculture positive (60%). Les klebsielles sont souvent en cause.
 
@@ -107,7 +107,7 @@ d'où:
 
 Chez l'enfant, on considère que 3/4 des crises vaso-occlusives (dont le syndrome pied-main) sont secondaires à une infection.
 
-### **Traitement**
+### Traitement
 
 **La prévention est l'idéal**
 

@@ -54,7 +54,7 @@ Cependant, toutes les études montrent que la sensibilisation à l'hygiène, la 
 
 Face à ce constat, les médecins de EAST (Eau Agriculture Santé en milieu Tropical) ont concentré leurs recherches sur les moyens de désinfecter l'eau de boisson en zone rurale, quelle que soit la source disponible. Après avoir évalué plusieurs techniques, souvent conseillées mais pas toujours efficaces ou réalisables, le choix s'est porté sur la **chloration** par l'hypochlorite de sodium (eau de Javel), précédées, pour les eaux turbides, d'une filtration grossière et d'une _floculation-décantation_ à l'alun. Outre son efficacité et la simplicité de sa mise en oeuvre, le procédé présente l'avantage d'utiliser des produits courants et bon marché. L'application de ce traitement permet de détruire la plupart des micro-organismes et d'obtenir un taux de chlore résiduel élevé capable d'inactiver les germes introduits dans l'eau pendant toute la durée du stockage (plusieurs heures).
 
-#### **Comment chlorer l'eau de boisson à domicile ?**
+#### Comment chlorer l'eau de boisson à domicile ?
 
 La quantité utile de produit générateur de chlore à introduire est fonction de la qualité de l'eau brute ; elle est d'autant plus faible que l'eau est limpide et son pH inférieur à 8. Elle dépend aussi de la concentration en chlore actif du produit disponible, du volume d'eau à désinfecter et du taux de chlore résiduel libre (CRI-) que l'on désire obtenir après traitement. Dans tous les cas, il faut préférer, pour la boisson, l'eau la plus pure possible (forages, sources, puits cimentés) ; l'utilisation d'une eau trouble (puits traditionnels, eaux de surface), si elle ne peut être évitée, nécessite un prétraitement et rend la désinfection souvent moins efficace.
 

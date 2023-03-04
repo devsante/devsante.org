@@ -61,7 +61,7 @@ Le séchage de la lame doit se faire autant que possible à la température du l
 *   Il peut éventuellement s'effectuer en posant la lame sur une platine chauffante réglée à 37°, ou en la maintenant dans l'air chaud au-dessus de la veilleuse d'un bec Bunsen _(figure n° 5)._
 *   Il faut éviter un séchage trop brutal, à une température trop élevée (altération de certains constituants, en particulier la paroi bactérienne).
 
-### **3. Fixation de la préparation**
+### 3. Fixation de la préparation
 
 La fixation doit s'effectuer sur une préparation sèche.
 
@@ -98,7 +98,7 @@ Quelle que soit la technique de fixation employée, la lame doit être rincée �
 (image: i715-2.jpg)
 
 
-## **II. Colorations usuelles**
+## II. Colorations usuelles
 
 La coloration la plus informative est la coloration de Gram. Dans le cas ou les réactifs nécessaires ne seraient pas disponibles, une coloration au bleu de méthylène peut apporter des informations concernant la morphologie des germes.
 
@@ -174,7 +174,7 @@ Suivant la composition de leur paroi :
 
 - d'autres bactéries ne résistent pas et ne sont plus visibles. On doit donc utiliser un deuxième colorant de teinte contrastante (fuchsine, ou safranine, colorants rouges). Ces bactéries apparaissent alors colorées en rose, elles sont dites Gram négatif.
 
-### **1. Coloration classique de Gram**
+### 1. Coloration classique de Gram
 
 Préparation des réactifs
 
@@ -240,7 +240,7 @@ Avant utilisation, diluer la fuchsine au 1/10 :
 
 attention cette dilution ne se conserve pas et doit être effectuée extemporanément.
 
-### **2. Technique de coloration**
+### 2. Technique de coloration
 
 Le frottis doit être parfaitement refroidi
 
@@ -289,7 +289,7 @@ Rincer à l'eau et sécher entre deux feuilles de papier filtre ou à la chaleur
 
 **Gram-standard " américain " ou Gram Hucker**
 
-### **1. Préparation des réactifs**
+### 1. Préparation des réactifs
 
 *   Violet-cristal oxalaté
 
@@ -322,7 +322,7 @@ saturée et filtrée de safranine 20 ml
 
 - eau distillée 80 ml
 
-### **2. Technique de coloration**
+### 2. Technique de coloration
 
 *   Coloration par le violet :
 
@@ -370,7 +370,7 @@ Il faut cependant savoir que la coloration de Gram peut être variable pour une 
 
 Certaines bactéries sont même dites " Gram faible " ou " Gram variable " (ex. : corynébactéries).
 
-## **III. Description de la morphologie bactérienne après coloration**
+## III. Description de la morphologie bactérienne après coloration
 
 Selon la forme, on peut distinguer :
 
@@ -405,7 +405,7 @@ ou encore bacilles plus petits (comme _Haemophilus_ _ou Bacteroïdes) (figure_ _
 
 Les bacilles peuvent être également incurvés (vibrion) ou très fins en forme de " moustache " ou " de vol d'oiseaux " (_Campylobacter) (figure n_° _17)._
 
-### **Conclusion**
+### Conclusion
 
 Les colorations usuelles et en particulier la coloration de Gram constituent un élément essentiel en bactériologie, permettant d'orienter et/ou de confirmer un diagnostic, afin d'adapter au mieux un traitement efficace.
 

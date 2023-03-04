@@ -16,7 +16,7 @@ Les vers mâles et femelles vivent dans les tissus sous-cutanés, pelotonnés da
 
 C'est la mise en évidence des microfilaires _d'Onchocerca volvulus_ qui permet d'apporter un argument diagnostique de certitude.
 
-### **Matériel**
+### Matériel
 
 Compresses, alcool à 70°
 
@@ -41,7 +41,7 @@ Sérum physiologique (ou à défaut, eau distillée.)
 
 **Technique**
 
-### **Sites de prélèvement : _(figu_re _n° 2)_**
+### Sites de prélèvement : _(figu_re _n° 2)_
 
 - Les prélèvements cutanés doivent être effectués dans les zones ou les microfilaires se concentrent en plus grand nombre, c'est-à-dire :
 
@@ -58,7 +58,7 @@ Sérum physiologique (ou à défaut, eau distillée.)
 (image: i733-2.jpg)
 
 
-### **Méthode**
+### Méthode
 
 Flamber à l'alcool le matériel de prélèvement. Désinfecter à l'alcool la zone à prélever.
 
@@ -85,7 +85,7 @@ Pendant ce temps, nettoyer à l'alcool la zone où a été effectué le prélèv
 (image: i733-3.jpg)
 
 
-### **Résultats**
+### Résultats
 
 Le prélèvement est observé au microscope à faible grossissement (objectif x10), en examinant les contours du morceau de peau d'où sortent les microfilaires.
 
@@ -101,7 +101,7 @@ Les microfilaires _d'Onchocerca volvulus_
 
 En 2 heures environ, presque toutes les microfilaires sont sorties du prélèvement.
 
-### **Causes d'erreur**
+### Causes d'erreur
 
 D'autres microfilaires dermiques peuvent être retrouvées dans une BCE, mais elles ne sont pas pathogènes. C'est le cas de _Dipetanolema_ _streptocerca._
 

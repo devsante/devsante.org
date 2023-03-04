@@ -32,7 +32,7 @@ Ces produit doivent être gardés à une tempé­rature plus ou moins basse. Les
 ### 2. Les produits "critiques" :  
 à ranger selon des directives particulières
 
-#### **Les substances contrôlées**
+#### Les substances contrôlées
 
 *   les stupéfiants,
 *   les analgésiques opioïdes,
@@ -40,11 +40,11 @@ Ces produit doivent être gardés à une tempé­rature plus ou moins basse. Les
 
 doivent **obligatoirement** être conservées dans un endroit sécurisé, en respectant les directives nationales.
 
-#### **Les médicaments antirétroviraux**
+#### Les médicaments antirétroviraux
 
 Ils doivent être gardés dans une armoire fermée à clé, éventuellement avec certains antituber­culeux (rifampicine).
 
-### **3. Les produits "standard"**
+### 3. Les produits "standard"
 
 C'est le cas habituel, ils doivent être conservés à température ambiante de +15°C à + 30°C
 
@@ -92,9 +92,9 @@ Ces principes sont valables pour tous les médi­caments : "standards", "critiqu
 
 Pour chaque forme galénique, les produits similaires doivent être **rangés** ensemble sous leur **dénomination commune internatio­nale (DCI).**
 
-#### Classez les produits de **chaque forme galénique** par ordre **alphabétique**.
+#### Classez les produits de chaque forme galénique par ordre alphabétique.
 
-#### Respectez la règle du "**premier périmé**, **premier sorti"** (PPPS**)**
+#### Respectez la règle du "premier périmé, premier sorti" (PPPS)
 
 Les produits ayant la durée de conservation la plus courte (date de péremption proche) doivent être placés devant ceux de la même catégorie (DCI, forme etc.) dont la durée de conservation est plus longue (date de péremption éloignée).
 
@@ -117,7 +117,7 @@ Les produits ayant la durée de conservation la plus courte (date de péremption
 
 Il faut, là aussi, adopter certains principes qui vont éviter des accidents et des pertes.
 
-### **1. Sur les étagères du haut**
+### 1. Sur les étagères du haut
 
 Rangez les **formes solides** : comprimés, gélules, sachets de SRO dans des **récipients hermétiques.**
 
@@ -179,11 +179,11 @@ Les réactifs de laboratoire périmés peuvent donner des résultats erronés.
 *   Rangez les produits qui n'ont pas de date de péremption selon le principe du "pre­mier entré, premier sorti". Rangez les produits qui ne portent pas de date de péremption (savons, détergents par exemple) dans l'ordre où vous les recevez. Placez les produits que vous venez de recevoir derrière ceux qui étaient déjà entreposés.
 *   S'il n'y a pas de date de péremption, il peut y avoir une date de fabrication sur l'étiquette qui vous indique les produits les plus anciens à utiliser en premier.
 
-#### **b) Vérifiez les dates**
+#### b) Vérifiez les dates
 
 **A intervalles réguliers, vérifiez** les dates de péremption de tous les produits en stock.
 
-#### **c) Retirez de la pharmacie**
+#### c) Retirez de la pharmacie
 
 **Les médica­ments périmés** et ceux de mauvaise qualité et les placer dans la zone prévue à cet effet.
 

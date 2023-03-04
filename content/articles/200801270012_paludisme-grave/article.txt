@@ -13,11 +13,11 @@ Le paludisme à Plasmodium falciparum, seul paludisme potentiellement mortel, es
 ----  
 Text:
 
-## **Définition**
+## Définition
 
 Classiquement, pour les auteurs francophones, les formes graves de paludisme étaient regrou­pées sous le terme d'accès pernicieux palustre, alors que, pour les auteurs anglo-saxons, le palu­disme grave se limitait à la seule _cerebral malaria_ ou neuropaludisme. Aujourd'hui le paludisme grave doit être défini comme un syndrome de dysfonction(s) d'organe(s) et/ou de dysfonction(s) métabolique(s), secondaires à la présence intra-érythrocytaire de _P. falciparum_.
 
-## **I. Physiopathologie** _(Figure 1)_
+## I. Physiopathologie _(Figure 1)_
 
 Le cycle de _P.falciparum_ chez l'homme, en particulier son passage intra-érythrocytaire, est responsable de la séquestration des héma­ties parasitées au niveau des capillaires et des veinules post-capillaires par deux mécanismes
 
@@ -125,7 +125,7 @@ En milieu tropical, le diagnostic de paludisme grave doit être évoqué devant 
 
 Le diagnostic biologique est, dans ces circons­tances, une urgence. La prise de sang doit être faite immédiatement, sans attendre un frisson ou un pic thermique.
 
-### **2. Diagnostic de paludisme grave**
+### 2. Diagnostic de paludisme grave
 
 Critères de paludisme grave _(Tableau 2)_
 

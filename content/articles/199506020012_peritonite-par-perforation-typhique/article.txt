@@ -12,25 +12,25 @@ La fréquence et la gravité des péritonites par perforation typhique en zone t
 
 Les facteurs socio-économiques qui constituent l'origine lointaine de ce fléau dépassent le cadre de cet article. Nous insisterons plutôt sur les particularités locales de cette complication de la fièvre typhoïde et sur notre conduite pratique face à elle avec les moyens limités dont nous disposons au sein de l'hôpital.
 
-## **I. Étiologie**
+## I. Étiologie
 
 La péritonite par perforation typhique est une complication de la fièvre typhoïde causée par la virulence des germes ou par la défaillance des moyens de défense de l'hôte. L'insuffisance ou l'absence de traitement, la malnutrition ou d'autres affections débilitantes la favorisent. Il s'agit presque toujours d'une péritonite fibrino-purulente généralisée.
 
 La perforation unique ou multiple siège sur l'iléon terminal et rarement sur le caecum. _Salmonella typhi_ est le principal germe responsable de la fièvre typhoïde. Il s'agit d'une affection strictement humaine au mode de transmission direct par ingestion de boisson ou d'aliments souillés (mouches, mains sales, etc.), par les déjections des sujets infectés.
 
-### **1.** **Fréquence**
+### 1. Fréquence
 
 La perforation typhique survient dans 10 à 18 % des fièvres typhoïdes. C'est l'une des premières causes de laparotomie d'urgence en zone tropicale. Sa fréquence augmente avec celle de la fièvre typhoïde en saison des pluies.
 
-### **2. Profil des malades**
+### 2. Profil des malades
 
 Tous les âges et les deux sexes sont concernés. Les patients sont issus des couches sociales pauvres du milieu urbain. Peu de cas viennent des campagnes.
 
-## **II.** **Physiopathologie**
+## II. Physiopathologie
 
 Après une phase d'incubation d'une à deux semaines, certains germes essaiment dans le sang créant une septicémie _(tableau n° 1)._ D'autres sont détruits dans les ganglions mésentériques et libèrent des endotoxines aux multiples effets nocifs dont la nécrose des plaques de Peyer, qui conduit à la perforation intestinale à partir de la troisième semaine. Les conséquences de cette dernière sont indiquées au _tableau n°2._ La déshydratation engendrée par les pertes liquidiennes dans le péritoine et le troisième secteur, la péritonite, la septicémie, la toxémie, et la décompensation des organes essentiels qui s'ensuit, tout converge vers l'installation rapide du choc et la survenue de la mort.
 
-### **1.** **Symptômes**
+### 1. Symptômes
 
 L'histoire correspond à un tableau de fièvre typhoïde depuis une ou deux semaines avec des troubles digestifs: diarrhée ou constipation, douleur abdominale et nausées ou vomissements. Insuffisamment ou pas du tout traités, les patients se plaignent à l'admission, de l'installation depuis plusieurs jours de :
 
@@ -53,35 +53,35 @@ Face à un tel tableau, le diagnostic est quasiment certain.
 (image: i640-1.jpg)
 
 
-## **III. Examens paracliniques**
+## III. Examens paracliniques
 
-### **1. Biologie**
+### 1. Biologie
 
 Hémoglobine, globules blancs, temps de saignement et de coagulation, groupe sanguin et rhésus sont réalisés en urgence. L'anémie est habituelle et les globules blancs sont élevés seulement dans la moitié des cas.
 
-### **2. Radiologie**
+### 2. Radiologie
 
 L'abdomen sans préparation (ASP), debout de face, montre des niveaux hydroaériques du grêle (iléus), une grisaille diffuse (épanchement péritonéal), un croissant gazeux sous-diaphragmatique (air libre péritonéal). Le thorax de face évalue l'état pleuro-pulmonaire et cardiaque en prévision de l'anesthésie générale.
 
 La réalisation de ces radiographies ne doit pas retarder l'acte opératoire.
 
-## **IV. Diagnostic**
+## IV. Diagnostic
 
 Les moyens de diagnostic bactériologique de la fièvre typhoïde (hémoculture et coproculture) et le sérodiagnostic de Widal et Félix n'ont pas de place dans ce contexte d'urgence abdominale. C'est la clinique surtout et la radiologie dans une moindre mesure qui nous orientent. Finalement ce sont les constatations peropératoires qui établissent le diagnostic.
 
 Péritonite fibrino-purulente sur perforation de l'iléon terminal avec adénopathies mésentériques et lésions perforatives éventuelles équivaut en zone d'endémie typhique à une péritonite par perforation typhique.
 
-## **V. Conduite à tenir**
+## V. Conduite à tenir
 
-### **1. Au poste de santé**
+### 1. Au poste de santé
 
 L'infirmier confronté à une perforation typhique doit organiser le transfert rapide du malade vers un hôpital à même de le prendre en charge. L'arrêt de l'alimentation solide et l'administration du chloramphénicol à une dose de 50 mg/kg/jour sont indiqués.
 
-### **2. En milieu hospitalier**
+### 2. En milieu hospitalier
 
 Trois étapes doivent être distinguées.
 
-#### **a. Pré-opératoire**
+#### a. Pré-opératoire
 
 Une réanimation visant à corriger les perturbations décrites _(tableau n°2)_ et rendre le patient opérable est entreprise.
 
@@ -98,7 +98,7 @@ Une réanimation visant à corriger les perturbations décrites _(tableau n°2)_
 
 Cette réanimation doit être la plus courte possible car la mortalité augmente avec le délai opératoire. Cependant, la réanimation doit au moins atteindre des objectifs essentiels tels que la restauration d'une bonne hydratation et d'une diurèse adéquate de 50 ml/heure chez l'adulte et 2 ml/kg/heure chez l'enfant jusqu'à 25 kg, la levée de l'état de choc et la correction de l'anémie. Nombre de patients perforés depuis plusieurs jours arrivent à l'hôpital moribonds. L'acte opératoire dans ce cas est parfaitement inutile !
 
-#### **b. Opératoire**
+#### b. Opératoire
 
 L'acte chirurgical mené sous anesthésie générale avec intubation est fonction des lésions. La majorité de nos péritonites sont anciennes (plusieurs jours) avec beaucoup de pus, d'adhérences intestinales, une fibrine épaisse et une paroi intestinale oedématiée autour de la perforation iléale. Exceptionnellement, la perforation intéresse la vésicule biliaire.
 
@@ -120,11 +120,11 @@ Selon les lésions, on pratiquera une bourse d'enfouissement à la soie fine (3 
 
 La durée moyenne de l'opération est de 1 heure et demie. Il faut s'efforcer de faire vite mais bien.
 
-#### **c. Postopératoire**
+#### c. Postopératoire
 
 Tous les patients séjournent en réanimation jusqu'à la reprise de l'alimentation orale vers le sixième jour postopératoire. La sonde nasogastrique est conservée quatre jours au moins jusqu'à la reprise du transit (gaz, péristaltisme). Les perfusions sont abondantes (3-4 litres/jour chez l'adulte). L'antibiothérapie est poursuivie pendant dix à quinze jours. La paroi abdominale est soutenue par un bandage de corps.
 
-## **VI. Pronostic**
+## VI. Pronostic
 
 La mortalité de la perforation typhique reste importante (autour de 40% des cas). Le pronostic est lié au délai opératoire et aux perturbations physiopathologiques dont il permet l'installation. Il est également lié au terrain et en particulier à l'état nutritionnel. La réanimation et la chirurgie jouent un rôle non négligeable quand le délai et le terrain le permettent. La mortalité postopératoire est dominée par les infections de la paroi.
 

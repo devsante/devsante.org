@@ -28,13 +28,13 @@ Les infirmiers et médecins doivent savoir distinguer les différents types d'in
 *   **Déceler les signes de gravité** qui doivent conduire l'enfant en urgence dans un centre de soins ou un hôpital plus équipé.
 *   "**Mettre en condition" l'enfant au domicile** par des mesures simples qui peuvent empêcher ou limiter certaines complications.
 
-### **1. La contamination**
+### 1. La contamination
 
 **a.** Une réelle prévention est le plus souvent impossible car il n'existe pas de vaccin contre l'ensemble des agents infectieux responsables. Cependant, une vaccination précoce contre la coqueluche permet de protéger le petit nourrisson à l'âge où il risque de faire la maladie la plus grave.
 
 **b.** La mère, dès les premiers signes (toux, écoulement nasal, gêne respiratoire) devrait tenir son enfant à l'écart, sinon du reste de la famille, ce qui est en général impossible, du moins des endroits où il risque de contaminer les autres et de surinfecter son organisme fragilisé (marché, fêtes).
 
-### **2. Les signes de gravité**
+### 2. Les signes de gravité
 
 **a.** Certains sont évidents et sont assez facilement reconnus spontanément :
 
@@ -53,7 +53,7 @@ Les infirmiers et médecins doivent savoir distinguer les différents types d'in
 
 **d.** L'enfant doit alors être rapidement mené au centre de santé et il sera éventuellement hospitalisé.
 
-### **3. La "mise en condition " à domicile**
+### 3. La "mise en condition " à domicile
 
 Il faut assurer la liberté des voies nasales. Les moyens sont limités :
 

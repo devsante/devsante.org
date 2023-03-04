@@ -8,7 +8,7 @@ Datetime: 1990-05-01 00:00
 ----  
 Text:
 
-## **Définition**
+## Définition
 
 Une fistule vésico-vaginale (FVV)  
 est une communication anormale entre la vessie et le vagin.  
@@ -21,7 +21,7 @@ Il est important de connaître cette affection pour savoir la prévenir lors d'u
 
 Quand on a fait le diagnostic, ce qui est assez simple, il faut rassurer ces patientes, parvenir à les convaincre de se faire traiter et ne pas hésiter à les adresser à l'hôpital car il existe des procédés de chirurgie qui permettent le plus souvent la fermeture de la fistule mais aussi qui rendent parfois possibles des grossesses ultérieures.
 
-## **Etiologie et Epidémiologie**
+## Etiologie et Epidémiologie
 
 Dans la grande majorité des cas, en Afrique, la cause des FVV est obstétricale (les fistules survenant après une opération ou un traitement par la radiothérapie sont bien plus rares et posent d'autres problèmes).
 
@@ -40,7 +40,7 @@ Parmi les causes favorisantes, il y a des facteurs ethniques, liés à la morpho
 (image: i417-1.jpg)
 
 
-## **I.Description des lésions**
+## I.Description des lésions
 
 _(fig. 2)_
 
@@ -61,7 +61,7 @@ L'infection est presque constante, à la fois locale et urinaire.
 (image: i417-2.jpg)
 
 
-## **II. Examen clinique diagnostic**
+## II. Examen clinique diagnostic
 
 L'examen doit se faire sur une table d'examen gynécologique, avec des valves (assez étroites) pour présenter la paroi vaginale, un spéculum, une petite sonde ou une canule pour mettre en évidence la fistule, avec un bon éclairage.
 
@@ -78,7 +78,7 @@ Après ce bilan la femme doit être adressée dans un hôpital où l'on opère c
 (image: i417-3.jpg)
 
 
-### **III. Traitement**
+### III. Traitement
 
 Le traitement de cette affection est chirurgical.
 
@@ -88,7 +88,7 @@ Avant d'opérer il est utile de prévoir une ou deux semaines de préparation; t
 
 Ils sont trop nombreux pour être présentés en détail, chaque chirurgien choisissant un procédé en fonction des lésions observées et de ses habitudes.
 
-### **a. Les interventions curatrices**
+### a. Les interventions curatrices
 
 Elles ont pour objectif de restaurer une anatomie normale, c'est-à-dire de rendre la vessie à la fois étanche et continente. Cela suppose de fermer la fistule et de restaurer l'appareil sphinctérien s'il était lésé.
 
@@ -111,7 +111,7 @@ Enfin les très importantes pertes de substance vésico-urétrales seront répar
 (image: i417-4.jpg)
 
 
-### **b. La chirurgie palliative**
+### b. La chirurgie palliative
 
 Lorsque les lésions sont jugées trop importantes, des procédés palliatifs sont utilisés.
 
@@ -123,7 +123,7 @@ Cette chirurgie est donc souvent difficile. Les suites opératoires immédiates 
 
 Lorsque le résultat final est bon, il est très important d'expliquer très soigneusement à la patiente queue doit impérativement se faire suivre à l'hôpital lors de la prochaine grossesse, si elle survient, pour éviter un nouvel accident. Une césarienne sera en général indiquée. Si la femme ne souhaite plus de grossesse, la ligature des trompes est indiquée.
 
-### **Conclusion**
+### Conclusion
 
 En conclusion, il faut dire que le meilleur traitement de cette grave infirmité est la **prévention. C'est le dépistage dans les villages, des accouchements dystociques par des sages-femmes assez nombreuses et compétentes ayant la possibilité de faire des évacuations vers l'hôpital le plus proche à tout moment.** C'est donc le progrès et l'amélioration des structures de santé qui feront disparaître cette pénible affection.
 

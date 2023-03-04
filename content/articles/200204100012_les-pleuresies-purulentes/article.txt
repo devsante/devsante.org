@@ -8,7 +8,7 @@ Datetime: 2002-04-10 00:00
 ----  
 Text:
 
-## **I.** Généralités
+## I. Généralités
 
 La cavité pleurale est un espace virtuel où siègent environ 10 ml de fluide constamment renouvelés. Au cours des affections de la plèvre, l'équilibre entre les différents mécanismes régulant ce liquide pleural est perturbé, conduisant à une augmentation de la quantité de liquide et à des modifications de sa composition.
 
@@ -43,7 +43,7 @@ Les germes anaérobies sont associés dans un quart des cas.
 
 La tuberculose pleurale peut entraîner un épanchement purulent. En cas d'épanchement pleural récidivant, en zone d'endémie et chaque fois que l'épanchement contient un nombre important de lymphocytes, **il faut** **penser à la tuberculose.**
 
-## **III.** Manifestations cliniques
+## III. Manifestations cliniques
 
 Les signes cliniques vont dépendre principalement du stade évolutif.
 
@@ -155,7 +155,7 @@ La chirurgie (pleuroscopie et/ou thoracotomie) est indiquée après échec du tr
 
 Dans tous les cas, une **kinésithérapie** à type d'expiration et surtout d'inspiration forcées est utile pour diminuer les adhérences pleurales. Elle doit être débutée précocement et prolongée plusieurs semaines.
 
-## **VI.** Conclusion
+## VI. Conclusion
 
 Les pleurésies purulentes sont des infections sévères. La qualité de l'évacuation pleurale associée à une antibiothérapie adaptée et à la kinésithérapie permettent de diminuer les complications (fistule... ) et les séquelles fonctionnelles et, surtout, de réduire la mortalité qui reste supérieure à 15%.
 

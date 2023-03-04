@@ -235,7 +235,7 @@ Le diagnostic repose sur l’accélération de la vitesse de sédimentation, la 
 
 Le traitement, en milieu hospitalier, repose sur la pentamidine (4 mg/kg/j) ou le mélarsoprol (3,6 mg/kg/j). Ces produits sont assez mal supportés et peuvent provoquer un avortement. Mais la trypanosomiase ayant une évolution mortelle quasi inéluctable, le traitement est indispensable. Le DFMO ou éflornithine (400mg/kg/j) apporte l’espoir d’une nouvelle thérapeutique efficace et sans les effets secondaires des produits classiques. Cependant, son retentissement sur la grossesse n'étant pas connu, il est plus prudent de l’éviter echez la femme enceinte. Les examens biologiques donnent les mêmes résultats que chez l’adulte. Le trypanosome peut être retrouvé dans le sang du cordon. Le traitement est identique à celui de l’adulte.
 
-### **2. La trypanosomose américaine, ou maladie de Chagas**
+### 2. La trypanosomose américaine, ou maladie de Chagas
 
 Elle est due à un flagellé, _Trypanosoma_ _cruzi,_ transmis par une punaise. Très répandue en Amérique du Sud, elle sévit essentiellement dans les milieux défavorisés et infeste 10 à 18 millions de personnes,  y compris au Etats-Unis.
 

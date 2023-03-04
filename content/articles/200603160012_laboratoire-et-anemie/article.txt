@@ -123,7 +123,7 @@ Ainsi :
 *   Le taux d'hémoglobine définit l'anémie et son degré de gravité.
 *   Les constantes permettent de mieux préciser les caractères de cette anémie (normochrome normocytaire, hypochrome macrocytaire...).
 
-#### **b) l'analyse morphologique permet par­fois à elle seule d'établir un diagnostic  
+#### b) l'analyse morphologique permet par­fois à elle seule d'établir un diagnostic  
 Exemples :**
 
 *   drépanocytose avec présence d'hématies falciformes (drépanocytes) ;

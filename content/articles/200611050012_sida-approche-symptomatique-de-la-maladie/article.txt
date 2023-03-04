@@ -17,7 +17,7 @@ Toux et/ou douleur thoracique et/ou difficultés respiratoires qui persistent ou
 *   infections (exemples : tuberculose, pneumonie, pneumocystose, CMV...),
 *   cancers (exemples : sarcome de Kaposi, lymphome).
 
-### **3. Signes cliniques**
+### 3. Signes cliniques
 
 *   toux chronique,
 *   difficultés respiratoires,
@@ -553,7 +553,7 @@ La douleur est soulagée par les vomissements et aggravée par les efforts.</td>
 (image: i166-12.jpg)
 
 
-## **VII. Ganglions et lymphadénopathie**
+## VII. Ganglions et lymphadénopathie
 
 ### 1. Définition
 

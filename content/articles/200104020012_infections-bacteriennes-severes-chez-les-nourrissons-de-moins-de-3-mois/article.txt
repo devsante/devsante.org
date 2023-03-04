@@ -76,7 +76,7 @@ Il est important de noter d'éventuelles modifications du comportement, du somme
 
 L'examen clinique recherche en particulier les signes de gravité :
 
-#### Troubles hémodynamiques **:**
+#### Troubles hémodynamiques :
 
 *   pâleur, teint gris, cyanose péri-buccale et des extrémités, marbrures
 *   allongement du temps de recoloration cutanée (3 secondes).
@@ -185,7 +185,7 @@ Sauf urgence, le premier temps de l'examen clinique est le recueil d'information
 
 L'examen clinique est au mieux réalisé chez un enfant dont la température est normale, calme, éveillé, déshabillé et n'ayant pas faim. Il comporte un temps d'inspection important, puis un examen organe par organe.
 
-#### **Evalu**a**tion de l'état général :**
+#### Evaluation de l'état général :
 
 *   poids
 *   taille

@@ -70,7 +70,7 @@ Quand la **douleur se prolonge** ou chez l’enfant **chroniquement malade**, un
 ### Il faut ensuite évaluer la douleur 
 On utilise des outils adaptés à l’âge afin de confirmer l’existence d’une douleur, d’apprécier son intensité, de déterminer les moyens antalgiques nécessaires, et d’évaluer le traitement.
 
-#### Age < 3 ans : échelle comportementale inspirée de l'échelle Evendol**
+#### Age < 3 ans : échelle comportementale inspirée de l'échelle Evendol
 (image: evendol.png)
 
 score ≤ 3 :  douleur légère - palier 1 ou pas d’antalgique

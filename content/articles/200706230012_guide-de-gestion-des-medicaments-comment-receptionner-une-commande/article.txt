@@ -27,7 +27,7 @@ Les colis sont toujours expédiés avec un bor­dereau d'expédition, vérifiez 
 
 Veillez à ce que le déchargement des colis se déroule correctement. Si les colis qui vous sont destinés ont été chargés sous d'autres colis, ils doivent être **dégagés cor­rectement, et non tirés**, au risque de les déchirer. Les colis doiven être descendus du véhicule en les portant, et non en les jetant même s'ils ne sont pas d'un maniement commode comme les petits fûts.
 
-### **2. La vérification des colis**
+### 2. La vérification des colis
 
 **Chaque colis doit être vérifié sur toutes ses faces.**  
 Si les colis sont habituellement cerclés, le cerclage doit être présent. En général, le cerclage est assez serré pour laisser des traces sur le carton s'il y a des traces de cerclage sans ruban de cerclage, notez le.
@@ -114,7 +114,7 @@ Mettez-les à part pour les renvoyer ou les détruire.
     *   sont cassés, réduits en poudre, poisseux, fendus ou gonflés, ils peuvent avoir été endommagés.** _Ne les acceptez pas._**
 *   **Solutions injectables**. Agitez le flacon. Observez-le à la lumière. Une solution lim­pide ne doit pas contenir de particules réfléchissant la lumière. La présence de petites particules indique que le produit est détérioré. _**N'acceptez pas le flacon**_.
 
-## **V. Conduite à tenir après l'inspection de la livraison**
+## V. Conduite à tenir après l'inspection de la livraison
 
 *   **Les vaccins et produits nécessitant une chaîne de froid, même éliminés, ont été mis dans des conditions de conservation correctes.**
 *   **Vous avez convenablement rangé les produits en bon état sur les étagères au fur et à mesure que vous les avez déballés.**

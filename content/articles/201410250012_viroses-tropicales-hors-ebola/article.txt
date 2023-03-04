@@ -13,7 +13,7 @@ Les viroses sont des affections très répandues dans le monde et sont très loi
 ----  
 Text:
 
-## **Un syndrome grippal parfois grave**
+## Un syndrome grippal parfois grave
 
 Les arboviroses (nom condensé de arthropodes born viroses) regroupent de très nombreuses zoonoses transmises par un vecteur hématophage, chez qui le virus se multiplie. Il existe actuellement plus de 500 arbovirus, dont 110 pathogènes pour l’homme, classés par famille (tableau I) et 40 pour les animaux. Toutes ces arboviroses se manifestent par un syndrome fébrile aigu avec, selon les virus en cause, une tendance à l’évolution vers une forme polyarthralgique, hémorragique ou encore neurologique (tableau II).
 
@@ -264,17 +264,17 @@ Les encéphalites, Muray valley, West Nile, Kunjin, vallée du Rift
 
 En effet, les arboviroses évoluent toujours selon le même schéma. Ces affections passent le plus souvent inaperçues. Dans les autres cas, après une incubation de quelques jours, survient un syndrome grippal : fièvre à 39-40°C, frissons, céphalées, arthralgies, douleurs abdominales.  Puis les symptômes régressent pendant un à deux jours avant de réapparaître de façon plus intense. Le diagnostic est basé sur l’isolement du virus à partir des liquides biologiques (sang, LCR, biopsie) par différentes techniques et par le sérodiagnostic. Le traitement n’est que symptomatique et l’évolution est le plus souvent favorable, mais parfois fatale. La prophylaxie est basée sur la protection contre les vecteurs.
 
-## **Arboviroses subtropicales**
+## Arboviroses subtropicales
 
-### **L’encéphalite japonaise**
+### L’encéphalite japonaise
 
 Essentiellement rencontrée dans les zones rurales d’Asie, et tout particulièrement en Chine, elle atteint environ 50 000 personnes chaque année, avec une mortalité importante. On observe une extension au Népal et en Inde.  Les réservoirs de virus sont les oiseaux aquatiques et les porcs et le vecteur est un moustique (_Culex, Aedes_).  Cette affection reste le plus souvent asymptomatique. Dans environ un cas sur 300, après une incubation d’une dizaine de jours, le patient présente un syndrome fébrile avec des céphalées et une encéphalite. L’évolution est sévère, la létalité variant de 5% à 40% et les séquelles neurologiques atteignant 50% des sujets. Le traitement n’est que symptomatique, mais il existe un vaccin efficace (2 injections à J. et J.28).
 
-###  **Le virus Ross River**
+###  Le virus Ross River
 
 Endémique et très fréquent en Australie où il a été identifié en 1959,  il a déjà provoqué d’importantes épidémies dans toute la région du Pacifique. Les formes asymptomatiques sont fréquentes. Les patients se plaignent surtout d’arthralgies persistantes. **Le virus Kunjin**, isolé en 1960 en Australie où il est endémique, est très proche du West-Nile. Il est le plus souvent asymptomatique ou provoque un syndrome fébrile  et des adénopathies. **Le virus Murray,** identifié en 1951 en Australie et en Papouasie-Nouvelle Guinée. Les cas sont rares mais graves en raison des séquelles et  la mortalité due à la forme avec encéphalite.
 
-## **Arboviroses tropicales**
+## Arboviroses tropicales
 
 ### La fièvre jaune
 

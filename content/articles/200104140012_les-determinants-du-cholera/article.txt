@@ -29,7 +29,7 @@ Ils sont favorisés par l'activité et le comportement humains :
 *   _Les mouvements de population_ : déplacements de population à la suite de guerres, de catastrophes naturelles, de famine : les épidémies de choléra peuvent réapparaître en zone d'endémie (la malnutrition, le stress, l'épuisement, la promiscuité favorisent la contamination). Des épidémies de choléra ont été favorisées par des déplacements de personnes au cours de la transhumance (par exemple, le cheminement du choléra au Sahel de 1970 à 1980), ou au cours de migrations liées au déplacement des travailleurs saisonniers : un exemple significatif est la dissémination de l'épidémie en Equateur, en 1991, par les pêcheurs rentrant chez eux et essaimant ainsi le choléra dans presque tout le pays.
 *   _Les grands rassemblements_ (pèlerinages, fêtes, rites, coutumes) favorisant la promiscuité et le manque d'hygiène, sont des déterminants habituels et connus d'une flambée épidémique. Il suffit d'un cas importé par avion et l'épidémie se propage vite. Les axes de communication de l'épidémie de choléra sont toujours terrestres, maritimes, fluviaux mais de plus en plus aériens (l'accélération des moyens de communication favorise la diffusion rapide du vibrion cholérique parmi des populations sensibles très éloignées).
 
-## **III.** Déterminants géographiques, écologiques
+## III. Déterminants géographiques, écologiques
 
 ### Le climat
 

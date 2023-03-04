@@ -43,11 +43,11 @@ Il s'adapte à toutes les plaies. On peut retirer les points simples un par un p
 
 L'aiguille pénètre par une des berges et ressort par l'autre berge à égale distance puis refait le trajet en sens inverse en étant plus proche de chaque berge _(figure n° 4)._ Il permet alors un très bon affrontement mais donne une cicatrice moins esthétique.
 
-#### **Le surjet simple**
+#### Le surjet simple
 
 C'est la méthode de fermeture la plus rapide mais l'affrontement des berges est moins bon et la désunion partielle de la plaie est impossible en cas de problème _(figure n° 5)._
 
-#### **Le surjet intradermique**
+#### Le surjet intradermique
 
 Après pénétration cutanée par l'une des extrémités de la plaie, l'aiguille et le fil cheminent en intradermique en décrivant des créneaux prenant alternativement les 2 berges, et ceci jusqu'à l'autre extrémité de la plaie _(figure n°_ 6). On applique ensuite des steristrips sur la plaie ainsi que sur les 2 extrémités du fil pour les bloquer.
 
@@ -56,7 +56,7 @@ Son avantage est de donner de très belles cicatrices lorsqu'il est correctement
 (image: i847-4.jpg)
 
 
-## **II.** Plaie nette et septique
+## II. Plaie nette et septique
 
 Dans ce cas, il faut insister sur la décontamination de la plaie avec nettoyage et rinçage très abondant.  
 Si la plaie est profonde, il vaut mieux fermer sur un drainage ou sur des crins de Florence.  

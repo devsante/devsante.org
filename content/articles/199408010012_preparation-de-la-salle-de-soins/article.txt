@@ -10,7 +10,7 @@ Text:
 
 Nous commençons la publication d'une série d'articles portant sur des aspects pratiques des soins infirmiers et rédigés sur la base d'une expérience de formation de personnels paramédicaux à l'ouest du Tchad. Y sont exposés les principes techniques qui doivent permettre de réaliser, dans de meilleures conditions, pour le malade comme pour le soignant, des gestes simples qui évitent des complications et parfois même sauvent des vies.
 
-## **I. La salle de pansement**
+## I. La salle de pansement
 
 *   Une salle, dans le dispensaire ou le centre médical, si possible réservée à cet effet.
 
@@ -30,20 +30,20 @@ Nous commençons la publication d'une série d'articles portant sur des aspects 
 
 *   Un filtre à eau permet d'avoir de l'eau filtrée pour la préparation des antiseptiques.
 
-### **1. Nettoyage**
+### 1. Nettoyage
 
 _Voir tableau ci-dessous._
 
 (image: i604-1.jpg)
 
 
-## **2. Évacuation des déchets**
+## 2. Évacuation des déchets
 
 Elle se fait au minimum tous les jours avant la descente (et plusieurs fois dans la matinée si la poubelle est pleine). La poubelle est vidée dans la fosse à déchets. Faire brûler tous les jours.
 
 La fosse à déchets est construite à proximité de la structure sanitaire à une distance d'au minimum vingt mètres d'une source d'eau. C'est un trou profond (exemple: 4 x 4 x 4) dont les murs peuvent être consolidés par des parpaings si le sol est sablonneux. La fosse est recouverte d'une grille métallique constituée de fers à béton soudés entre eux, formant un grillage dont les trous ont environ vingt centimètres de côté. Cette grille est fixée au ciment au-dessus de la fosse; elle empêche les animaux de tomber dans la fosse ainsi que la récupération des aiguilles et des seringues. Les déchets sont vidés sur la grille, les plus petits objets tombent au fond, le feu est mis aux déchets restant sur la grille.
 
-## **II.** **Le mobilier**
+## II. Le mobilier
 
 Il doit être réduit au strict minimum, l'encombrement ne facilitant pas le nettoyage à fond.
 
@@ -79,7 +79,7 @@ Tout le mobilier doit être métallique et donc facilement lavable. Il est posé
 
 Les essuie-mains ne sont pas recommandés à cause des risques de contamination.
 
-## **III.Les instruments**
+## III.Les instruments
 
 La quantité d'instruments nécessaire dépend de la charge de travail moyenne. Il faut au minimum une pince de Kocher et une pince anatomique sans griffe par pansement.
 

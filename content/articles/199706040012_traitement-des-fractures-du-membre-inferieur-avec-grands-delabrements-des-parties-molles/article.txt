@@ -12,7 +12,7 @@ Les fractures ouvertes de cuisse et surtout de jambe posent de nombreux problèm
 
 Aucune fracture ouverte avec délabrement ne ressemble à une autre mais nous allons essayer de décrire une stratégie applicable dans la plupart des situations.
 
-## **I. Généralités**
+## I. Généralités
 
 On distingue trois grands types de traumatismes :
 
@@ -22,7 +22,7 @@ On distingue trois grands types de traumatismes :
 
 - les traumatismes par écrasement prolongé réalisant le "crush syndrome" caractérisé par une nécrose musculaire étendue, responsable de désordres rénaux et parfois d'un choc mortel.
 
-### **1. Lésions cutanées**
+### 1. Lésions cutanées
 
 - **Les excoriations et phlyctènes** posent le problème d'une intervention chirurgicale dont la voie d'abord passera par ces lésions ou à proximité. Le risque infectieux n'est alors pas négligeable.
 
@@ -32,15 +32,15 @@ _- Les lésions contuses_ témoignent toujours d'un traumatisme direct : la lés
 
 _- Le décollement sous-cutané_ est une lésion grave, étendue, le décollement entre peau et tissus sous-jacents passe en sus-aponévrotique. La souffrance cutanée tient à trois facteurs : l'avulsion des perforantes (artérioles venant de la profondeur, perforant l'aponévrose et assurant la vascularisation de la peau), la contusion et l'importance en surface du décollement, qui génèrent une diminution de la perfusion tissulaire. Cette lésion comporte un risque important de nécrose.
 
-### **2. Lésions musculaires**
+### 2. Lésions musculaires
 
 Ce sont les plus importantes à considérer. La destruction des masses musculaires est responsable d'exposition du foyer de fracture et d'ischémie osseuse compromettant la consolidation des foyers. Les lésions sont très variables et tout peut se voir, depuis l'attrition musculaire localisée jusqu'au broiement avec dilacération nécessitant l'amputation en urgence. Un point très important doit être souligné à ce stade : il faut distinguer les lésions musculaires à aponévrose ouverte de celles à aponévrose fermée, responsables d'hématome compressif et de syndrome de loge. La règle est d'ouvrir largement toutes les aponévroses.
 
-### **3. Lésions vasculo-nerveuses**
+### 3. Lésions vasculo-nerveuses
 
 Il peut s'agir de contusion, compression ou de rupture vasculaire. Les nerfs peuvent être le siège de lésions variées (neurapraxie, axonotmésis et neurotmésis) (voir encadré).
 
-### **4. Lésions osseuses**
+### 4. Lésions osseuses
 
 Il s'agit de lésions majeures où tous les facteurs de gravité sont réunis: comminution, perte de substance osseuse, contamination du foyer fracturaire.
 
@@ -58,7 +58,7 @@ Type III : Importants dégâts des tissus mous et forte contamination; fracture 
 *   IIIB : dépériostage avec os exposé à nu et sévère comminution. Un lambeau local ou libre est nécessaire pour recouvrir.
 *   IIIC : n'importe quelle fracture incluant une blessure artérielle avec ischémie nécessitant une réparation.
 
-## **II. Conduite thérapeutique**
+## II. Conduite thérapeutique
 
 Il s'agit d'une véritable stratégie d'ensemble dans laquelle tous les problèmes doivent être pris de front :
 
@@ -70,7 +70,7 @@ Il s'agit d'une véritable stratégie d'ensemble dans laquelle tous les problèm
 
 - assurer la couverture du foyer fracturaire elle peut être réalisée de façon légèrement différée par rapport aux gestes précédents mais sans toutefois dépasser 48 à 72 heures. Il faut alors y associer un _second look_ ou deuxième temps d'excision.
 
-### **1 . Premier temps le débridement**
+### 1 . Premier temps le débridement
 
 La conduite thérapeutique vis-a-vis des lésions des parties molles est guidée par deux impératifs contradictoires : exciser les tissus dévitalisés ou de vitalité douteuse, mais en conserver suffisamment en vue du recouvrement des foyers fracturaires.
 
@@ -84,7 +84,7 @@ Ce parage doit être complet, éliminant tous les tissus voués à la nécrose e
 
 Il faut également exciser les fragments osseux libres et cureter soigneusement le fût diaphysaire pour éliminer le spongieux contaminé.
 
-### **2. L'ostéosynthèse**
+### 2. L'ostéosynthèse
 
 Le but est d'obtenir un os bien aligné et maintenu par un montage chirurgical solide.
 
@@ -113,7 +113,7 @@ _- L'enclouage_ centro-médullaire est réalisable mais les risques infectieux s
 
 - De même, l'immobilisation par _plâtre après réduction_ ne permet pas d'avoir accès aux parties molles.
 
-### **3. La couverture du foyer fracturaire**
+### 3. La couverture du foyer fracturaire
 
 Ces deux temps de parage et d'ostéosynthèse étant accomplis se pose le problème du recouvrement : deux cas de figure peuvent se poser :
 
@@ -127,17 +127,17 @@ La couverture sera réalisée après 24 à 48 heures : schématiquement, les per
 (image: i731-3.jpg)
 
 
-### **4. Lutte contre l'infection**
+### 4. Lutte contre l'infection
 
 Parallèlement est mise en oeuvre la lutte contre l'infection. Outre le parage soigneux des parties molles, les antibiotiques doivent être administrés à fortes doses par voie veineuse dès l'admission du blessé et poursuivis en per- et postopératoire. La séro-vaccination antitétanique est indispensable mais pas toujours réalisable en situation précaire. Les antibiotiques les plus utilisés sont la péni G en association avec le Flagyl. L'Augmentinâest une bonne alternative mais plus coûteuse. L'antibiothérapie ne doit pas être poursuivie au-delà des cinq jours postopératoires.
 
-## **III. Amputations et désarticulaition**
+## III. Amputations et désarticulaition
 
 C'est hélas souvent le seul recours devant un traumatisme majeur du membre inférieur. Le chirurgien opérant en situation précaire doit considérer l'amputation ou la désarticulation non comme un échec mais plutôt comme un acte chirurgical majeur dont le but est non seulement de sauver la vie du patient mais également lui permettre de retrouver rapidement son autonomie. Le chirurgien devra réaliser le meilleur moignon possible pour la prothèse disponible.
 
 Nous rappellerons brièvement les grands principes des amputations dans le cadre traumatique.
 
-### **1. Amputation en urgence pour traumatisme**
+### 1. Amputation en urgence pour traumatisme
 
 **Une règle formelle : amputer le plus** **bas possible** (_figure n°3)._
 
@@ -157,7 +157,7 @@ _- Le pansement peropératoire_ : sur la plaie est appliquée une lame de biogaz
 
 _- Le pansement postopératoire_ : si le moignon est fermé, de simples compresses sèches peuvent être appliquées après désinfection, et maintenues par une bande Velpeau. Lorsque la fermeture cutanée n'a pas été possible, des compresses grasses seront appliquées sur la plaie; le pansement sera alors refait toutes les 48 heures.
 
-### **2. Amputations pour infection**
+### 2. Amputations pour infection
 
 Dans les infections suraiguës type gangrène gazeuse, l'amputation est un acte de sauvetage. On pratique l'amputation en saucisson, c'est-à-dire en sectionnant de façon circulaire tous les plans au même niveau. Toutes les parties molles sont laissées largement ouvertes et pansées à plat. Le moignon obtenu est généralement défectueux avec sclérose, cicatrice adhérente et vicieuse et devra être repris.
 

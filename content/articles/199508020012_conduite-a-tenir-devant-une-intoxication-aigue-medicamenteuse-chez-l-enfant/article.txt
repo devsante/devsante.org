@@ -13,7 +13,7 @@ Les intoxications aiguës médicamenteuses de l'enfant sont, dans la majorité d
 ----  
 Text:
 
-## **I.** **Démarche diagnostique**
+## I. Démarche diagnostique
 
 L'intoxication évolue en trois phases :
 
@@ -23,7 +23,7 @@ L'intoxication évolue en trois phases :
 
 Dans la pratique, trois situations sont possibles :
 
-### **1. Il** s'agit d'une intoxication et le **toxique est identifiable**
+### 1. Il s'agit d'une intoxication et le toxique est identifiable
 
 Il faut chercher à déterminer rapidement :
 
@@ -31,11 +31,11 @@ Il faut chercher à déterminer rapidement :
 *   la quantité maximale absorbée: la boîte était-elle pleine? Combien de comprimés reste-t-il ?
 *   le délai écoulé depuis l'ingestion du toxique.
 
-### **2. Il s'agit d'une intoxication,** mais le toxique n'est pas **identifiable**
+### 2. Il s'agit d'une intoxication, mais le toxique n'est pas identifiable
 
 On a vu l'enfant prendre des comprimés, ou il a vomi des comprimés mais on ne sait pas ce dont il s'agit. La prise en charge diffère peu, mais pour évaluer au mieux la gravité de l'intoxication, on insistera auprès de l'entourage pour savoir toutes les substances que l'enfant aurait pu trouver au domicile.
 
-### **3. S'agit-il d'une intoxication ? Les signes qui peuvent orienter** **vers le diagnostic d'intoxication** **médicamenteuse aiguë**
+### 3. S'agit-il d'une intoxication ? Les signes qui peuvent orienter vers le diagnostic d'intoxication médicamenteuse aiguë
 
 On doit évoquer le diagnostic d'intoxication chez un enfant jusque-là en bonne santé et présentant:
 
@@ -297,7 +297,7 @@ II. Traitements évacuateurs et épurateurs
 
 L'ingestion de médicaments est la cause principale des intoxications accidentelles de L'enfant. Le premier temps de la prise en charge vise à limiter l'absorption digestive du produit ingéré. Dans de rares circonstances, on peut accélérer son élimination rénale par une diurèse forcée.
 
-### **1. Diminution de l'absorption digestive**
+### 1. Diminution de l'absorption digestive
 
 #### a. Le lavage gastrique
 
@@ -410,11 +410,11 @@ Pour rappel, on calcule la surface corporelle d'un enfant par la formule :
 
 SC = (4P + 7)/(P + 90) avec SC = surface corporelle en M<sup>2</sup> et P = poids en kilogrammes.
 
-## **III.** Exemples d'intoxication
+## III. Exemples d'intoxication
 
 Plusieurs exemples d'intoxications médicamenteuses de l'enfant sont développées. Ce sont des intoxications fréquentes, potentiellement graves, dont la prise en charge adaptée transforme le pronostic.
 
-### **1.** Aspirine: acide acétylsalicylique
+### 1. Aspirine: acide acétylsalicylique
 
 *   antipyrétique, anti-inflammatoire, analgésique,
 *   absorption dans l'estomac et le jéjunum,
@@ -536,7 +536,7 @@ Anticonvulsivants, myorelaxants, hypnotiques classés en barbituriques d'action 
     *   absorption digestive rapide,
     *   métabolisme hépatique.
 
-#### Manifestations cliniques **de l'intoxication aiguë**
+#### Manifestations cliniques de l'intoxication aiguë
 
 _Signes **neurologiques** :_
 
@@ -580,7 +580,7 @@ Les situations d'intoxication sont :
 *   la prise inopinée de comprimés (danger des formes à libération prolongée), de sirop.. ou de suppositoires,
 *   la prise simultanée, chez un malade traité habituellement par théophylline, d'un autre médicament qui ralentit le métabolisme de la théophylline (macrolides par exemple). Doses thérapeutiques et doses toxiques sont proches.
 
-#### Manifestations cliniques **de l'intoxication aiguë**
+#### Manifestations cliniques de l'intoxication aiguë
 
 _Signes **digestifs**:_ nausées, vomissements.
 

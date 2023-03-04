@@ -84,7 +84,7 @@ L'atteinte cardiovasculaire est responsable d'une vasoplégie associée à une d
 *   Lésions hémorragiques et nécrotiques des muqueuses.
 *   Translocation bactérienne probablement à l'origine des défaillances multiviscérales.
 
-#### **e. Anomalies hématologiques**
+#### e. Anomalies hématologiques
 
 *   Chute des facteurs de coagulation avec une CIVD (coagulation intravasculaire dissémi­née).
 *   Phénomènes de micro-thrombose, altérant la microcirculation.
@@ -133,7 +133,7 @@ Cette phase correspond à l'accentuation des atteintes tissulaires notamment :
 *   Hypothermie ;
 *   Oligo-anurie.
 
-#### **b**) Diagnostic de gravité
+#### b) Diagnostic de gravité
 
 L'évaluation de la sévérité repose d'abord sur les données de l'examen clinique qui met en évidence une défaillance viscérale et une détresse vitale :
 
@@ -168,7 +168,7 @@ L'évaluation de la sévérité repose d'abord sur les données de l'examen clin
 *   Choc staphylococcique associant sepsis, érythrodermie scarlatiniforme des paumes et des plantes, atteinte de plusieurs organes.
 *   Selon le terrain, fréquence et gravité du choc septique chez le patient splénectomisé, immunodéprimé, diabétique, cirrhotique, âgé ou dénutri.
 
-## **IV. Principes thérapeutiques**
+## IV. Principes thérapeutiques
 
 Le traitement étiologique du choc septique ne doit pas retarder l'initiation du traitement. Les méthodes de réanimation symptomatique sont à mettre en ceuvre rapidement. Le monitorage :
 

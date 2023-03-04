@@ -10,9 +10,9 @@ Text:
 
 Neisseria gonorrheae est une bactérie diplocoque intracellulaire et principal agent responsable des urétrites aiguës. Écoulement méatique purulent, dysurie, pollakiurie sont les signes habituels, mais les formes asymptomatiques sont fréquentes surtout chez les femmes. Le diagnostic est facile chez l'homme, évoqué sur l'examen direct des sécrétions urétrales (mise en évidence de diplocoques gram négatifs) et confirmé par la culture. Le diagnostic est plus difficile chez la femme car l'examen direct manque de spécificité.
 
-## **A. But du traitement**
+## A. But du traitement
 
-### **1. Éradication du gonocoque**
+### 1. Éradication du gonocoque
 
 La sensibilité du gonocoque aux antibiotiques est variable selon les régions, mais elle va toujours dans le sens de l'acquisition, au cours du temps, de nouvelles résistances. Ce génie évolutif du gonocoque justifie une surveillance bactériologique constante et explique que les traitements soient réadaptés sans arrêt au cours du temps.
 
@@ -20,23 +20,23 @@ La pénicilline, autrefois antibiotique de première intention, est de moins en 
 
 Par contre, quinolones de seconde génération, et céphalosporines de seconde et troisième génération sont constamment efficaces.
 
-### **2. Traitement des partenaires sexuels**
+### 2. Traitement des partenaires sexuels
 
 Interrompre la chaîne de transmission nécessite le dépistage et le traitement des partenaires sexuels. Pour traiter 90 % des partenaires infectés, il faudrait identifier et traiter tous les sujets contacts dans les quinze jours précédents s'il s'agit d'un homme, et dans les soixante jours précédents s'il s'agit d'une femme. L'interruption la plus précoce possible de la chaîne de contamination est également une des raisons d'être des traitements minute plus rapidement efficaces.
 
-### **3. Recherche d'une maladie sexuellement transmissible associée**
+### 3. Recherche d'une maladie sexuellement transmissible associée
 
 La recherche d'une autre maladie sexuellement transmissible associée repose sur les prélèvements locaux adaptés, les sérologies virales, et un TPHA-VDRL*. (Réaction sérologique de la syphilis). L'infection par le virus de l'immunodéficience humaine (V.I.H.) est une maladie sexuellement transmissible. Le dépistage de cette infection par une sérologie devrait être systématique en cas de MST associée. Dans les pays occidentaux, la coexistence d'une infection à chlamydia est fréquente et justifie l'association systématique au traitement antigonococcique d'un traitement antichlamydiae. Bien que la prévalence des infections à chiamydiae soit mal connue dans les pays en voie de développement, une telle association doit également y être recommandée. En effet, la fréquence de l'infection associée par la chlamydia, la difficulté d'isoler ce germe, et les complications à long terme de cette infection évoluant à bas bruit (obstruction tubaire à l'origine de grossesse extra-utérine et de stérilité) sont autant d'arguments en faveur d'un traitement double systématique.
 
-### **4. L'urétrite gonococcique** **est-elle vraiment isolée ?**
+### 4. L'urétrite gonococcique est-elle vraiment isolée ?
 
 La recherche d'une complication de l'infection gonococcique ou d'une localisation extragénitale est un préalable indispensable à la décision thérapeutique car les traitements minute classiques de l'urétrite gonococcique ne sont efficaces que si celle-ci est isolée et non compliquée. Ceci est particulièrement vrai chez les homosexuels (fréquence du portage asymptomatique anorectal) et chez les femmes (fréquence du portage pharyngé). Le seul traitement minute efficace de la gonococcie pharyngienne ou anorectale est la ceftriaxone. Dans cette indication, l'efficacité des fluoroquinolones est insuffisamment documentée.
 
-## **B. Différents traitements** **possibles**
+## B. Différents traitements possibles
 
 _(tableau 1)_
 
-### **1. Traitement minute (urétrite** **gonococcique non compliquée)**
+### 1. Traitement minute (urétrite gonococcique non compliquée)
 
 *   **La pénicilline semi-retard** est la plus anciennement utilisée, mais à des posologies croissantes. La posologie actuellement recommandée est de 4,8 millions d'unités en deux injections intramusculaires avec prise associée de 1 gramme de probénécide (Bénémide®) par voie orale. En France, on utilise la bénéthaminebenzyl-pénicilline (Biclinociline®) et aux USA la procaïne-pénicilline G qui n'est pas commercialisée en France. L'Extencilline® ou l'Oracilline® ne sont pas efficaces en traitement minute car les concentrations sériques sont le plus souvent trop faibles.
 
@@ -54,13 +54,13 @@ _(tableau 1)_
 
 *   **Les fluoquinolones** sont également efficaces en traitement minute, même en cas d'infection par une souche résistante. L'efficacité sur une localisation extra-génitale est insuffisamment documentée. On peut utiliser soit l'ofloxacine (Oflocet®) à la posologie de 400 milligrammes, soit la péfloxacine (Péflacine®) à la posologie de 800 milligrammes, en une prise orale unique. L'inconvénient majeur des traitements par les fluoroquinolones est leur coût très élevé. En théorie, le prix élevé à l'achat est compensé par un moindre coût global si l'on tient compte des coûts de diagnostic, de traitement, et de suivi clinique et bactériologique.
 
-### **2. Traitement long (urétrite** **gonococcique compliquée ou** **associée à une localisation** **extra-génitale)**
+### 2. Traitement long (urétrite gonococcique compliquée ou associée à une localisation extra-génitale)
 
 Les cyclines, les macrolides, les pristinamycines ne sont pas efficaces en traitement minute et nécessitent toujours un traitement long de sept jours pour éradiquer le gonocoque au niveau des voies génitales et donc interrompre la chaîne de transmission. En revanche cyclines et macrolides ont l'avantage, en cas de traitement de quinze jours, de traiter également une infection associée par Treponema pallidum et/ou Chlamydia trachomatis mais les traitements par cycline sont de moins en moins souvent recommandés du fait d'un nombre croissant de gonocoques résistants aux antibiotiques de ce groupe.
 
-## **C. Stratégie thérapeutique**
+## C. Stratégie thérapeutique
 
-### **1. Le traitement d'une urétrite gonococcique est double**
+### 1. Le traitement d'une urétrite gonococcique est double
 
 *   d'abord traitement minute antigonococcique, puis traitement long antichlamydiae.
 
@@ -75,7 +75,7 @@ Allonger cette durée à quinze jours n'est pas plus efficace.
 
 Le fait que les cyclines et les macrolides soient également le plus souvent actifs sur le gonocoque ne dispense pas pour autant d'un traitement minute préalable antigonococcique car celui-ci est plus rapidement efficace, des résistances du gonocoque aux cyclines et macrolides sont possibles et les posologies utilisées sont différentes.
 
-### **2. Dans tous les cas**
+### 2. Dans tous les cas
 
 Les partenaires sexuels seront dépistés et traités, le patient devra être revu au troisième jour (traitement minute) ou au dixième jour (traitement long) pour un contrôle bactériologique, car aucun traitement (en dehors des fluoroquinolones ou de la ceftriaxone) n'est actif à 1 00 %. Une rechute impose un traitement différent. Elle doit faire suspecter une résistance à l'antibiothérapie (faire un antibiogramme avec mesure de CMI), une mauvaise observance (seulement en cas de traitement long) ou une ré-infection. Le traitement de tous les partenaires sexuels est indispensable du fait de la gravité potentielle des gonococcies (stérilité, infection néonatale). Les rapports sexuels devront être protégés jusqu'au résultat de l'examen de contrôle post-thérapeutique, un TPHA-VDRL sera demandé au quinzième jour ainsi qu'une sérologie VIH au troisième mois.
 

@@ -35,7 +35,7 @@ Le but est de créer un cadre de "concertation locale" entre les différents act
 
 Ces différents acteurs sont d'ailleurs regroupés au sein d'un comité de pilotage chargé de suivre l'évolution du projet et ses nouvelles orientations possibles. Il se réunit une fois par trimestre et permet de faire le point sur les activités réalisées en établissant des recommandations pour la suite du projet.
 
-### Le processus comprend plusieurs étapes **:**
+### Le processus comprend plusieurs étapes :
 
 *   Le recueil de données, en privilégiant l'approche anthropologique par rapport aux démarches classiques des enquêtes épidémiologiques. Cette première phase s'accompagne également d'une présentation à la population du projet en cours.
 *   L'identification et la création des groupes de discussion.

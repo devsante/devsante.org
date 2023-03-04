@@ -12,9 +12,9 @@ Les diarrhées aiguës de l'enfant restent encore une cause importante de morbid
 
 - prévenir ou corriger l'état de déshydratation dans les premières vingt-quatre heures, - assurer ensuite un apport énergétique et azoté suffisant pour éviter la survenue d'un déséquilibre nutritionnel qui serait un facteur de pérennisation de la diarrhée.
 
-## **I. Antibiotiques et médicaments antiparasitaires**
+## I. Antibiotiques et médicaments antiparasitaires
 
-### **1. Considérations générales**
+### 1. Considérations générales
 
 L'antibiothérapie encore largement utilisée n'a que très peu d'indications. De nombreuses études ont démontré la place réduite des infections bactériennes suggérant l'inutilité d'une prescription des antibiotiques de façon systématique. Celle-ci peut en , outre être néfaste.
 
@@ -28,7 +28,7 @@ Plusieurs arguments sont avancés :
 
 *   Il n'est pas démontré que l'antibiothérapie modifie l'évolution des diarrhées liées à une infection intestinale. Elle peut au contraire favoriser le développement des résistances. Elle ne réduit pas et parfois même augmente l'incidence et la durée de portage de germes à la convalescence et pourrait, dans le cas de salmonelloses, accroître le risque de rechute clinique et également prolonger la durée et l'excrétion fécale de ce germe.
 
-### **2. Indications d'une prescription** **d'antibiotiques**
+### 2. Indications d'une prescription d'antibiotiques
 
 Les antibiotiques ne s'imposent que :
 
@@ -52,7 +52,7 @@ En pratique, si les selles diarrhéiques ne contiennent pas de glaires, de sang,
 
 *   **Giardiase aiguë :** le traitement peut se faire avec le métronidazole, le trinidazole, la quinacrine ou la furazolidine.
 
-### **3. Usage irrationnel** **de médicaments**
+### 3. Usage irrationnel de médicaments
 
 L'utilisation des agents antibiotiques ou chimiothérapiques suivants est inappropriée et peut être dangereuse. Aucun n'a fait la preuve de son efficacité dans le traitement des diarrhées aiguës.
 
@@ -72,15 +72,15 @@ Les sulfamides non absorbables, considérés autrefois comme les médicaments de
 
 La toxicité de ces produits contre-indique leur utilisation en cas de diarrhée chez l'enfant.
 
-## **II. Les bactéries aciduriques**
+## II. Les bactéries aciduriques
 
 Les études avec des préparations contenant du lactobacile _acidophilus_ et autres ne montrent aucun danger et ont mis en évidence un intérêt prophylactique (laits fermentés). Avec les souches de _Streptococcus thermophilus_ et les _Bifidobacterium_ ayant une activité sur la régression de certains germes pathogènes, nous avons obtenu des résultats intéressants, en raison notamment de leurs propriétés pro-biotiques.
 
-## **III. Les vaccins**
+## III. Les vaccins
 
 Les vaccins à visée prophylactique ne sont pas encore au point, leur développement offre cependant des perspectives intéressantes.
 
-### **Conclusion**
+### Conclusion
 
 Nombreux sont les médicaments proposés pour le traitement de la diarrhée aiguë de l'enfant. Leur prescription est facilitée par l'habitude et la publicité orchestrée autour des avantages que procure le nouveau produit et les difficultés apparentes d'appliquer la SRO qui, couplée à l'alimentation, demeure le seul traitement valable et peu coûteux pour 90 % des enfants présentant une diarrhée acqueuse.
 

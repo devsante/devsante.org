@@ -13,7 +13,7 @@ Phénomène dont la visibilité et la prévention commencent à prendre corps en
 ----  
 Text:
 
-## **I. Pourtant, les accidents domestiques ne sont jamais accidentels**
+## I. Pourtant, les accidents domestiques ne sont jamais accidentels
 
 Ils ne sont pas dus au hasard. Ils résultent de la négligence des adultes et de leur manque d'infor­ination sur les comportements à risques. Le foyer familial est supposé offrir la sécurité d'un cocon dans lequel l'enfant peut s'épanouir loin des dan­gers de la rue, et de la vie en général. La protection que les parents et le milieu familial sont censés garantir aux enfants est prise en défaut là où on l'at­tend le moins, c'est-à-dire clans la maison et la cour.
 
@@ -49,7 +49,7 @@ La prévention de ces accidents passe d'abord par une "sécurisation" du l'em-ir
 
 Deux conditions sont essentielles : une connaissance actualisée des risques, grâce à un recueil perma­nent et à une exploitation rapide des données, et une diffusion large de ces résultats.
 
-## **II. Les principaux accidents domestiques**
+## II. Les principaux accidents domestiques
 
 <table>
 
@@ -69,7 +69,7 @@ Les accidents en fonction de l'âge
 
 </table>
 
-### **1. Le****s brûlures**
+### 1. Les brûlures
 
 En Afrique, les brûlures et l'ingestion de produits toxiques occupent la première place.
 
@@ -98,7 +98,7 @@ Les produits chimiques dangereux (soude caus­tique, produits pour l'agriculture
 
 Les parents doivent très tôt éduquer les enfants sur les dangers du feu et des liquides bouillants. Dès qu'ils se déplacent par terre à quatre pattes, les parents peuvent leur faire comprendre, par la voix et le geste, que la proximité du feu est dangereuse. Aucune boîte d'allumettes ne doit être accessible aux enfants.
 
-### **2. L'ingestion de produits toxiques**
+### 2. L'ingestion de produits toxiques
 
 Les très jeunes enfants sont les premières victimes d'intoxication par ingestion de produits toxiques : produits ménagers pour les jeunes enfants, médica­ments pour les adolescents.
 
@@ -174,7 +174,7 @@ Même lorsqu'il ne reste qu'un ou deux comprimés dans une boîte ou une plaquet
 
 Les parents doivent très tôt éduquer les enfants sur les dangers de porter à leur bouche des objets ou des produits autres que la nourriture.
 
-### **3. Les blessures et les coupures**
+### 3. Les blessures et les coupures
 
 Les lames de rasoir usagées, les couteaux, rasoirs, coupe-coupe ou machettes, ou encore les tessons de verre, boîtes de conserve laissés en n'importe quel endroit de la maison ou de la cour, souvent à terre, sont des causes de blessures diverses. Les enfants ne savent en effet pas les utiliser sans se blesser.
 
@@ -219,7 +219,7 @@ Les tentatives d'extraction avec les doigts sont dangereuses et souvent ineffica
 
 Le rôle des parents est essentiel : ils doivent être particulièrement attentifs non seulement aux objets que l'enfant ramasse sur le sol, mais aussi aux jouets (billes des hochets, yeux des poupées et des nounours... ).
 
-### **5. Les morsures, les piqûres**
+### 5. Les morsures, les piqûres
 
 Lorsque les abords de la cour ne sont pas nettoyés et débroussaillés régulièrement, les enfants peu­vent être victimes de morsures ou piqûres d'ani­maux, reptiles ou insectes.
 
@@ -293,7 +293,7 @@ Les mauvaises herbes, et les buissons constituant des abris pour les animaux, il
 
 Le chef de famille peut également répandre des produits insecticides ou répulsifs autour de sa concession.
 
-### **6. Les chutes**
+### 6. Les chutes
 
 Principales causes d'accidents domestiques en Occident, les chutes paraissent statistiquement moins fréquentes en Afrique. Les chutes des bébés sont rares : pas de table à langer, de sièges de bébé, ni de meubles élevés dans les foyers modestes et/ou ruraux. Le bébé, serré contre le dos de sa mère par un pagne, ne risque pas la chute.
 
@@ -322,7 +322,7 @@ Il ne faut pas laisser à la portée des enfants des échelles ou objets qui leu
 
 Les parents doivent, lorsque leurs enfants commen­cent à parler et à marcher, leur apprendre à ne pas se mettre en danger en grimpant n'importe où sur les murs et les arbres.
 
-## **IV. Les facteurs de risque**
+## IV. Les facteurs de risque
 
 Les quelques études menées sur le continent africain. à partir d'échantillons d'enfants amenés dans les structures sanitaires à la suite d'un accident domestique, font apparaître que certains facteurs de risque sont communs aux différents cas :
 

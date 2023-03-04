@@ -15,7 +15,7 @@ L'embryotomie est une technique d'extraction foetale par voie basse. On y a souv
 
 Certaines conditions sont liées au foetus, d'autres à la mère.
 
-### **1. Conditions liées au foetus**
+### 1. Conditions liées au foetus
 
 - le foetus doit être mort,
 
@@ -23,7 +23,7 @@ Certaines conditions sont liées au foetus, d'autres à la mère.
 
 - la présentation doit être engagée ou au minimum fixée.
 
-### **2. Conditions tenant de la mère**
+### 2. Conditions tenant de la mère
 
 - la dilatation du col doit être complète ou presque complète (> 8 cm),
 
@@ -33,9 +33,9 @@ Certaines conditions sont liées au foetus, d'autres à la mère.
 
 L'état du bassin maternel importe peu. En effet, la mort foetale intrapartum dans nos régions se rencontre le plus souvent chez des femmes évacuées porteuses d'angusties pelviennes passées inaperçues.
 
-## **II.** **Notre technique**
+## II. Notre technique
 
-### **Préparation de la patiente**
+### Préparation de la patiente
 
 - mise en place d'une bonne voie veineuse,
 
@@ -47,7 +47,7 @@ L'état du bassin maternel importe peu. En effet, la mort foetale intrapartum da
 
 - habillage chirurgical de l'opérateur et de son aide.
 
-### **Le matériel**
+### Le matériel
 
 - 2 pinces de Museux (figure _n° 1_),
 
@@ -62,11 +62,11 @@ L'état du bassin maternel importe peu. En effet, la mort foetale intrapartum da
 (image: i732-1.jpg)
 
 
-### **L'anesthésie**
+### L'anesthésie
 
 On y a rarement recours. Si on l'utilise, il faut préférer le Fluothane® qui permet de mieux relâcher l'utérus.
 
-### **La technique proprement dite**
+### La technique proprement dite
 
 - patiente en position gynécologique,
 
@@ -89,7 +89,7 @@ On est parfois amené à ce stade à faire une épisiotomie si la vulve est rét
 
 Après l'extraction du foetus, on complète la manoeuvre par une délivrance artificielle et une révision utérine (_figure n° 3_). On termine toujours par un examen sous valves à la recherche d'une déchirure du col ou du vagin _(figure n° 4)._ On peut alors injecter une ampoule de méthylergotamine (Méthergin®) en intramusculaire ou 5 UI d'oxitocine (Syntocinon®) en perfusion pour assurer la rétraction de l'utérus.
 
-### **Incidents et accidents de la technique**
+### Incidents et accidents de la technique
 
 - dérapage des pinces de Museux qu'il faut replacer,
 
@@ -97,7 +97,7 @@ Après l'extraction du foetus, on complète la manoeuvre par une délivrance art
 
 - déchirure du périnée ou du col rarement.
 
-### **Avantages**
+### Avantages
 
 - technique facile à apprendre et à exécuter,
 
@@ -105,14 +105,14 @@ Après l'extraction du foetus, on complète la manoeuvre par une délivrance art
 
 - risque moindre de lésions maternelles par rapport à la cranioclasie classique.
 
-### **Conclusion**
+### Conclusion
 
 Entre les mains d'un opérateur bien entraîné, cette technique permet d'éviter de recourir à la césarienne sur enfant mort, césarienne dont les risques ne sont pas négligeables dans notre contexte.
 
 (image: i732-4.jpg)
 
 
-### **Note de la Rédaction**
+### Note de la Rédaction
 
 Il parait souhaitable de réaliser tout accouchement par voie basse d'un enfant mort-né par crâniotomie sous anesthésie générale dans les centres où il existe un technicien en anesthésie et des drogues anesthésiques.
 

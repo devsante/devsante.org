@@ -8,13 +8,13 @@ Datetime: 1997-10-26 00:00
 ----  
 Text:
 
-## **I.** **Introduction**
+## I. Introduction
 
-### **Définition de la douleur**
+### Définition de la douleur
 
 Le comité de taxonomie de l'Association internationale de l'étude de la douleur a adopté la définition de la douleur proposée par Merskey en 1979 car elle intègre la dimension affective et émotionnelle à la dimension sensorielle : _"La douleur est une expérience sensorielle et émotionnelle désagréable liée_ à _une lésion tissulaire existante ou potentielle ou_ _décrite en termes d'une telle lésion"_
 
-### **Magnitude du problème**
+### Magnitude du problème
 
 Le nombre de nouveaux cas de cancers a été de 6 millions en 1985, 52% des cas surviennent dans les pays à niveau économiquement faible et 48% dans les pays développés.
 
@@ -30,7 +30,7 @@ Il est primordial de diagnostiquer et d'évaluer la douleur cancéreuse pour pou
 
 La notion de qualité de vie a été récemment introduite dans la pratique médicale courante. Elle a pour but d'évaluer l'impact aussi bien physique que psychique de la maladie cancéreuse et sa thérapeutique sur le patient cancéreux. Une bonne amélioration de la qualité de vie des cancéreux et de leur famille passe par l'application des connaissances existantes sur la lutte contre la douleur et les autres symptômes.
 
-## **II. Évaluation de la douleur** **cancéreuse**
+## II. Évaluation de la douleur cancéreuse
 
 C'est une étape primordiale qui doit précéder la prise en charge thérapeutique.
 
@@ -42,7 +42,7 @@ Elle repose sur :
 *   l'examen clinique ;
 *   les examens complémentaires.
 
-### **Les échelles d'évaluation**
+### Les échelles d'évaluation
 
 Les échelles essentiellement utilisées en clinique sont :
 
@@ -60,7 +60,7 @@ _- Le dessin sur schéma corporel_ utilisé aussi bien chez l'enfant que chez l'
 
 _- Échelles comportementales,_
 
-## **III. Classification des douleurs cancéreuses**
+## III. Classification des douleurs cancéreuses
 
 Le Memorial Cancer Center de New York a proposé une classification des douleurs cancéreuses afin de faciliter la prise en charge thérapeutique.
 
@@ -80,7 +80,7 @@ Le Memorial Cancer Center de New York a proposé une classification des douleurs
 
 5) Patients en phase terminale avec douleur liée au cancer.
 
-## **IV. Diagnostic étiologique : différentes douleurs cancéreuses**
+## IV. Diagnostic étiologique : différentes douleurs cancéreuses
 
 Les causes de douleurs cancéreuses sont multiples :
 
@@ -113,7 +113,7 @@ _6) Les douleurs d'origine iatrogène_
 
 *   Les douleurs post-chirurgicales (douleurs post-thoracotomie, douleurs post-mastectomie, douleurs d'amputation).
 
-## **V. Douleur et qualité de vie**
+## V. Douleur et qualité de vie
 
 Évaluer la qualité de vie, c'est apprécier la souffrance de la globalité d'un individu et non un symptôme clinique ou biologique ou observer un organe. C'est prendre en compte le malade dans toutes ses composantes (physiques, psychiques, affectives, socio-familiales et professionnelles) par rapport à la maladie cancéreuse et les stratégies thérapeutiques.
 
@@ -135,7 +135,7 @@ Cinq questions d'appréciation globale codées de 0 à 10.
 
 Ce questionnaire a l'avantage d'être simple et valide, c'est ce questionnaire que nous avons traduit en arabe dialectal et utilisé pour évaluer la qualité de vie de nos patients.
 
-## **VI. Traitement de la douleur cancéreuse**
+## VI. Traitement de la douleur cancéreuse
 
 La douleur est une constante du cancer.
 
@@ -179,7 +179,7 @@ _Les antalgiques de niveau III_ regroupent les morphiniques forts (chlorhydrate 
 
 Le traitement de la douleur cancéreuse peut faire appel à d'autres thérapeutiques
 
-### **Les antidépresseurs**
+### Les antidépresseurs
 
 À côté de leur effet antidépresseur, ces médicaments ont été démontré avoir un effet analgésique s'observant dans les états douloureux qui répondent mal ou pas du tout aux analgésiques morphiniques, c'est le cas des douleurs neuropathiques. Ils inhiberaient la recapture des neuromédiateurs chimiques permettant une augmentation de la sérotonine. Ils agissent sur la composante dysesthésique des douleurs neuropathiques souvent difficiles à maîtriser. Leur effet antalgique s'exerce à des posologies moindres que les posologies antidépressives, il est retardé mais plus rapide que l'effet antidépressif, souvent incomplet (soulagement de l'ordre de 60 à 80 %), à renforcement secondaire et prolongé à l'arrêt du traitement.
 
@@ -191,7 +191,7 @@ Dans les pays anglo-saxons c'est l'imipramine (Tofranil®) qui est le plus utili
 
 Les effets secondaires doivent être prévenus et corrigés (sécheresse de la bouche, somnolence, constipation, rétention d'urine et troubles cardiovasculaires) pouvant nécessiter une diminution des doses, voire même l'arrêt du traitement.
 
-### **Les anticonvulsivants**
+### Les anticonvulsivants
 
 Carbamazépine (Tégretol®) et clonazépam (Rivotril®) : ils agissent sur la composante fulgurante des douleurs neuropathiques.
 
@@ -201,7 +201,7 @@ Les doses sont pour le clonazépam 0,03 à 0,1 mg/kg/jour en une seule fois ou r
 
 Il est mieux toléré que la carbamazépine et peut être actif sur les signes allodyniques.
 
-### **Autres possibilités médicamenteuses pour les douleurs neuropathiques**
+### Autres possibilités médicamenteuses pour les douleurs neuropathiques
 
 *   Baclofène (Lioresal®) : c'est un stabilisant de membrane pouvant être actif sur la composante fulgurante des douleurs neuropathiques. L'augmentation des doses doit être progressive.
 
@@ -209,7 +209,7 @@ Il est mieux toléré que la carbamazépine et peut être actif sur les signes a
 
 *   Les anesthésiques locaux.
 
-### **Les corticoïdes**
+### Les corticoïdes
 
 Ils sont psychostimulants, anti-inflammatoires, antalgiques, antitumoraux et stimulant de l'appétit, les faisant privilégier en phase terminale du cancer. Ils sont efficaces sur les douleurs hépatiques, les douleurs osseuses, les syndromes neurologiques (méningites tumorales, péridurites métastatiques, compressions médullaires et syndromes d'hypertension intracrânienne).
 
@@ -217,15 +217,15 @@ Ce sont essentiellement prédnisone (Cortancyl®g) prednisolone (Solupred®) ; b
 
 La dose est de 1 mg/kg, dans les syndromes neurologiques et les poussées inflammatoires aiguës, les doses de charge sont beaucoup plus importantes, 3 à 4 mg/kg pendant 24 à 48 heures, avec diminution progressive et stabilisation à 1 mg/kg.
 
-### **Hypocalcémiants**
+### Hypocalcémiants
 
 On a recours le plus souvent actuellement aux diphosphanates qui ont montré un effet direct sur les douleurs de métastases osseuses (Clastoban®, Aredia®).
 
-### **Les thérapeutiques non médicamenteuses**
+### Les thérapeutiques non médicamenteuses
 
 Elles jouent un rôle important dans la prise en charge des cancéreux par la relation humaine qui les sous-tend : massages locaux, kinésithérapie, auriculothérapie, neurostimulation transcutanée, musicothérapie et le soutien psychothérapique. Ce sont des moyens supplémentaires de contrôler la douleur.
 
-### **Conclusion**
+### Conclusion
 
 Il est important d'insister sur une bonne communication entre les patients et les professionnels de la santé, ce qui va permettre de distinguer la douleur physique de la souffrance morale du patient cancéreux et donc contribuer à une meilleur prise en charge thérapeutique et par conséquent à une meilleure qualité de vie.
 

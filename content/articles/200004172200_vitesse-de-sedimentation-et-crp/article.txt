@@ -67,7 +67,7 @@ Présentées sous forme de kits, elles sont d'utilisation très simples mais son
 
 Il faut également connaître leurs limites (risques de faux négatifs et surtout faux positifs).
 
-## **Il.** Valeurs usuelles
+## Il. Valeurs usuelles
 
 ### 1. Vitesse de sédimentation
 
@@ -84,7 +84,7 @@ Le taux normal est < 6 mg/I.
 
 Ce taux augmente avec la prise d'oestrogènes et l'inhalation de fumée de cigarettes.
 
-## **III. Variations de la VS** et de la CRP
+## III. Variations de la VS et de la CRP
 
 ### 1. Les variations de la VS
 

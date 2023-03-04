@@ -234,7 +234,7 @@ Les phases initiales des traitements se font en hospitalisation ou avec TDO (DOT
 
 Le traitement des tuberculoses multirésistantes fait appel à cyclosérine, éthionamide, kana­mycine, capréomycine et quinolones.
 
-## **III. Contre-indications**
+## III. Contre-indications
 
 La streptomycine est contre indiquée pendant la grossesse (elle provoque une surdité chez l'enfant).
 

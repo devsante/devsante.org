@@ -47,7 +47,7 @@ Cet examen est aussi celui qui est utilisé pour le suivi thérapeutique à 3, 6
 
 Cette stratégie a nécessité, outre les études de terrain, un accord FORT entre cliniciens et biologistes.
 
-### **2. L'examen parasitologique des selles**
+### 2. L'examen parasitologique des selles
 
 C'est un examen très fréquemment réalisé mais le plus souvent sans justification argumentée.
 
@@ -99,7 +99,7 @@ Au total, ce débat contradictoire, cet échange qui doit décider des stratégi
 *   évaluer les examens qui ont participé au dia­gnostic ou à un changement de régime thé­rapeutique,
 *   évaluer les questions posées par la réalisation de ces examens.
 
-### **3. Se réunir ensemble et :**
+### 3. Se réunir ensemble et :
 
 *   comparer les résultats des évaluations précé­dentes,
 *   évaluer les examens qui se sont révélés utiles,

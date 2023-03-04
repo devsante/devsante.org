@@ -22,11 +22,11 @@ Le matériel de base est l'élastoplaste, synonyme de bande élastique adhésive
 ## I. Contention dans l'entorse du ligament  
 latéral externe (LLE) de la cheville
 
-### **1. Indications**
+### 1. Indications
 
 Il s'agit de traumatismes en inversion varus équin, c'est-à-dire le pied tourné vers l'intérieur. L'entorse est essentielle ou secondaire à un pied creux, une paralysie L5 ou une affection neurologique. La contention élastique est thérapeutique dans les entorses essentielles et adjuvante dans les autres cas.
 
-### **2. Matériel**
+### 2. Matériel
 
 Le matériel nécessaire est le suivant :
 
@@ -34,7 +34,7 @@ Le matériel nécessaire est le suivant :
 *   Elastoplaste 3 cm : 1 rouleau.
 *   Elastomousse ou sous bande : 1 rouleau.
 
-### **3. Technique (figure 1)**
+### 3. Technique (figure 1)
 
 *   Mise en place de l'élastomousse et de 2 compresses protégeant le tendon du jambier antérieur et le tendon d'Achille _(1)._
 
@@ -48,7 +48,7 @@ Le matériel nécessaire est le suivant :
     *   Fermeture inférieure : on applique la première bande à la face plantaire, au niveau de l'ancrage inférieur, en rabattant les deux chefs latéraux sur le dessus du pied, sans tension. On procède de la même manière avec les autres bandes en les faisant chevaucher en tuile à demi, jusqu'à ce que l'on atteigne le devant de la jambe.
     *   Fermeture supérieure : on applique la première bande à la face postérieure de la jambe, en rabattant les deux chefs latéraux sur le devant de la jambe, depuis l'ancrage supérieur, jusqu'au niveau des malléoles. Les bandes successives doivent se chevaucher en tuile et être posées sans tension.
 
-### **4. Durée d'immobilisation**
+### 4. Durée d'immobilisation
 
 Elle est de 15 jours pour les entorses bénignes et de 5 semaines pour les entorses graves.
 
@@ -57,7 +57,7 @@ Il faut souligner la gravité et l'importance du diagnostic de variété.
 (image: i935-1.jpg)
 
 
-## **II. Contention de l'épaule**
+## II. Contention de l'épaule
 
 ### 1. Indications
 
@@ -81,7 +81,7 @@ Dans les disjonctions acromio-claviculaires, comme pour les entorses de cheville
 (image: i935-2.jpg)
   
 
-## **III. Contention du pouce**
+## III. Contention du pouce
 
 ### 1. Indication
 
@@ -112,9 +112,9 @@ Cette durée va de 12 à 15 jours pour les entorses bénignes, de 4 à 5 semaine
 (image: i935-3.jpg)
   
 
-## **IV. Contention du genou**
+## IV. Contention du genou
 
-### **1.** Indication
+### 1. Indication
 
 C'est l'entorse bénigne du ligament latéral interne (LLI). Les autres lésions doivent être éliminées par l'examen clinique et les radios. L'entorse grave du LLI isolée peut-être traitée par cette méthode.
 

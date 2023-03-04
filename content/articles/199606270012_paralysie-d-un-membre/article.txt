@@ -26,11 +26,11 @@ Text:
 
 Deux neurones conduisent l'influx du cerveau au muscle.
 
-### 1. Un premier neurone central, dit **faisceau pyramidal croisé**
+### 1. Un premier neurone central, dit faisceau pyramidal croisé
 
 Il naît du cortex cérébral (circonvolution frontale ascendante), descend vers le bulbe rachidien où il croise la ligne médiane puis redescend vers la corne antérieure de la moelle où il va s'articuler au deuxième neurone (un autre faisceau pyramidal ne croise la ligne médiane que plus bas dans la moelle).
 
-### 2. Un deuxième neurone **dit périphérique**
+### 2. Un deuxième neurone dit périphérique
 
 Il naît dans la corne antérieure de la moelle, sort de la moelle par la racine antérieure et s'unit avec la racine postérieure qui contient les nerfs sensitifs. Ces deux nerfs forment donc le nerf rachidien (sensitif et moteur) qui va gagner les membres et se terminer dans les muscles.
 

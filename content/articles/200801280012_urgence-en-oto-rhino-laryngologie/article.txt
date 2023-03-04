@@ -22,7 +22,7 @@ Text:
 L'épistaxis - urgence fréquente en ORL - est une hémorragie provenant des fosses nasales et/ou des cavités qui leur sont annexées (sinus, cavum). Le plus souvent bénigne et ne posant pas de problème thérapeutique, son abondan­ce et sa répétition peuvent engager le pronos­tic vital.  
 Elle peut être essentielle ou symptomatique d'une affection locale ou générale.
 
-#### **a. Signes cliniques**
+#### a. Signes cliniques
 
 Le diagnostic est le plus souvent évident : extériorisation du sang par l'une ou les deux fosses nasales.  
 L'examen **général** :
@@ -185,7 +185,7 @@ La plaie vasculaire est soupçonnée devant :
 *   Mettre une canule de Guedel.
 *   En cas de plaie veineuse, mettre le patient en position de Trendelenbourg afin de limiter le risque d'embolie gazeuse.
 
-## **III. Urgences infectieuses**
+## III. Urgences infectieuses
 
 ### 1. Laryngites aiguës dyspnéisantes
 
@@ -230,7 +230,7 @@ Elles associent une dyspnée laryngée, une voix souvent enrouée, avec toux rau
 **Traitement**  
 Intubation naso-trachéale associée à une antibiothérapie adaptée aux germes.
 
-### **2. Sinusites maxillaires bloquées**
+### 2. Sinusites maxillaires bloquées
 
 L'obstruction du méat moyen par le processus inflammatoire entraîne une rétention purulen­te bloquée, le plus souvent maxillaire.
 
@@ -293,7 +293,7 @@ Il associe : une antibiothérapie (8 à 10 jours) associée aux antalgiques - an
 
 La paracentèse est indiquée dans les otites hyperalgiques et très fébriles. Une hospitalisation est parfois nécessaire (antibiothérapie parentérale).
 
-## **IV. Urgences neurosensorielles**
+## IV. Urgences neurosensorielles
 
 ### 1. Vertige
 

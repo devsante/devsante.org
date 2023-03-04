@@ -29,15 +29,15 @@ L'article est basé sur cette expérience. Il expose les **différents objectifs
 
 3. Être capable de _traiter_ le diabétique.
 
-## **I. Etre capable de diagnostiquer le diabétique insulino-dépendant**
+## I. Etre capable de diagnostiquer le diabétique insulino-dépendant
 
-### **1. Qui peut dépister le diabétique** **insulino-dépendant ?**
+### 1. Qui peut dépister le diabétique insulino-dépendant ?
 
 L'infirmier bien formé connaît le diabète. Il l'étudié à l'École d'infirmiers.
 
 Dans dix des quinze cas mentionnés ci-dessous, les infirmiers avaient suspecté le diagnostic.
 
-### **2. Quand dépister le diabète** **insulino-dépendant ?**
+### 2. Quand dépister le diabète insulino-dépendant ?
 
 C'est à la consultation curative que l'infirmier doit dépister le diabète insulino-dépendant.
 
@@ -45,7 +45,7 @@ La triade (trois signes associés) : **polyurie** (abondance des urines), **poly
 
 L'infirmier doit penser au diabète devant ces signes.
 
-### **3.Comment confirmer** **le diabète insulino-dépendant ?**
+### 3.Comment confirmer le diabète insulino-dépendant ?
 
 #### a) Rôle de l'infirmier
 
@@ -78,7 +78,7 @@ Le médecin peut transférer le malade vers un autre hôpital, ou juger que la p
 
 L'objet de cet article étant de relater une expérience de prise en charge du diabétique insulino-dépendant, nous entrons donc maintenant dans le deuxième objectif à atteindre.
 
-## **II.** **Être capable d'informer et d'éduquer le diabétique insulino-dépendant en vue de son autonomisation**
+## II. Être capable d'informer et d'éduquer le diabétique insulino-dépendant en vue de son autonomisation
 
 Le médecin et les infirmiers qui prennent en charge un diabétique insulino-dépendant doivent savoir qu'il est impératif que le diabétique insulino-dépendant devienne autonome : il ne restera pas, à vie, accroché au centre de santé. Il est soigné pour reprendre une vie sociale, familiale et professionnelle la plus normale possible.
 
@@ -88,7 +88,7 @@ L'enfant de douze ans est scolarisé (milieu rural). Les adultes sont tous paysa
 
 Précisons le rôle du soignant.
 
-### **1. Expliquer sa maladie** **au diabétique et à sa famille**
+### 1. Expliquer sa maladie au diabétique et à sa famille
 
 *   Il ne faut rien cacher au malade. Il doit savoir qu'il est diabétique jusqu'à la fin de sa vie et qu'il est obligatoire qu'il se traite tous les jours jusqu'au dernier jour.
 
@@ -96,7 +96,7 @@ Précisons le rôle du soignant.
 
 *   Si le malade vient seul, nous ne le traitons pas tant qu'il n'a pas une accompagnatrice capable de le nourrir et nous les maintenons surtout en période de mise en route du traitement ou lors de contrôles plus précis au cours du suivi du malade. En règle générale, chez lui, le malade fait seulement la glucosurie du matin à 7 heures.
 
-### **2. Expliquer le traitement**
+### 2. Expliquer le traitement
 
 *   L'injection d'insuline est quotidienne.
 
@@ -106,7 +106,7 @@ Précisons le rôle du soignant.
 
 *   Parler de l'hypoglycémie (malaise à type de sueurs, vertiges, lassitude, somnolence, faim...) et insister sur la nécessité d'avoir toujours à portée de main deux ou trois sucres, à manger en cas de malaise.
 
-### **3. Expliquer notre soutien**
+### 3. Expliquer notre soutien
 
 Le soignant doit dire sa disponibilité :
 
@@ -119,11 +119,11 @@ Le soignant doit :
 *   insister sur le contrat qui s'établit entre le soignant et le diabétique ;
 *   Sa disponibilité a pour objectif une autonomisation du diabétique.
 
-### **4. Savoir attendre la décision du malade**
+### 4. Savoir attendre la décision du malade
 
 Après nos explications, le malade aura un temps de réflexion pour décider d'accepter la mise en traitement.
 
-## **III. Être capable de traiter le diabétique insulino-dépendant**
+## III. Être capable de traiter le diabétique insulino-dépendant
 
 La prise en charge du traitement du diabétique insulino-dépendant exige :
 
@@ -131,7 +131,7 @@ La prise en charge du traitement du diabétique insulino-dépendant exige :
 *   la permanence de l'approvisionnement en insuline ;
 *   la capacité du malade à s'autonomiser.
 
-### **1. La maîtrise du traitement** **par insuline**
+### 1. La maîtrise du traitement par insuline
 
 Médecins et infirmiers appelés à traiter un diabétique doivent être formés pour cela. Ils doivent passer eux-mêmes par un apprentissage auprès d'un médecin qui connaît cette technique. Et cela dans le but d'apprendre au malade à maîtriser lui-même son traitement.
 
@@ -238,7 +238,7 @@ Il est indiqué de contrôler la tension artérielle et de faire une recherche d
 
 Nous n'avons pas encore institué le suivi oculaire car c'est une charge de plus qui n'aboutira pas à des solutions thérapeutiques. Il semble que la meilleure prévention soit un bon traitement par l'insuline.
 
-### **2. La permanence de l'approvisionnement  
+### 2. La permanence de l'approvisionnement  
 en insuline et en matériel d'injection**
 
 Nous touchons ici au problème le plus aigu, celui qui fait reculer les médecins.
@@ -256,7 +256,7 @@ Cependant, nous estimons qu'il n'est pas impossible de se procurer régulièreme
 
 Nous envisageons aussi de créer une association de diabétiques du Moyen Chari. Celle-ci pourrait être jumelée à une association de diabétiques en France.
 
-### **3. La capacité du malade à s'autonomiser**
+### 3. La capacité du malade à s'autonomiser
 
 Nous l'avons déjà écrit : le diabétique ne va pas vivre au centre de santé. Il va retourner dans son village. Il doit acquérir une autonomie pour le traitement quotidien.
 
@@ -270,7 +270,7 @@ L'acquisition de cette autonomie est favorisée par :
 *   La valorisation apportée par la confiance donnée au malade dans l'apprentissage de la technique du traitement.
 *   L'empathie instaurée entre soignant et malade, empathie stimulante pour une participation active.
 
-### **Conclusions**
+### Conclusions
 
 Nous n'avons fait que relater une expérience limitée de prise en charge de diabétiques insulino-dépendants. Nous estimons que d'autres peuvent faire ce que nous avons fait.
 

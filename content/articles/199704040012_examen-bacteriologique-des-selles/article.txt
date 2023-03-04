@@ -40,12 +40,12 @@ Elle est demandée dans les pays industrialisés de façon à orienter judicieus
 
 Elle est plus difficile à obtenir dans les pays en développement, mais une fiche même succincte est utile.
 
-### **3. Examen macroscopique**
+### 3. Examen macroscopique
 
 *   Noter l'aspect de la selle : purulent, présence de mucus, présence de sang.
 *   Sa consistance : liquide, molle, moulée.
 
-### **4. Examen microscopique**
+### 4. Examen microscopique
 
 Pour les selles liquides, on travaillera directement sur la selle.  
 Pour les selles moulées, il faudra faire une suspension à 10 % dans du soluté de NaCI à 9 p. 1000.
@@ -63,7 +63,7 @@ Observation des selles après coloration de Gram :
 
 Cet examen est très important et ne doit jamais être omis. Il permet de rechercher les leucocytes qui, en quantité supérieure à 5 par champ, sont le signe d'une diarrhée à germe invasif, de même que la présence d'hématies. Il permet de voir aussi si la flore est équilibrée entre bactéries à Gram positif et à Gram négatif (environ 60 % de bactéries Gram -, et 40 % de bactéries Gram +, dans une selle normale).
 
-### **5. Ensemencement, identification**
+### 5. Ensemencement, identification
 
 **_Salmonella - Shigella_**
 
@@ -190,7 +190,7 @@ La recherche de _C. difficile_ dans les selles en cas de diarrhée n'est effectu
 
 L'isolement d'une souche _C. difficile_ ne permet pas de prédire son caractère toxinogène, c'est la recherche de la toxine qui donne les résultats les plus rapides et les plus intéressants car seules les souches toxinogènes sont pathogènes.
 
-### **6. Résultat**
+### 6. Résultat
 
 Il doit comporter
 
@@ -198,7 +198,7 @@ Il doit comporter
 
 - les bactéries recherchées avec "présence ou absence".
 
-### **Conclusion**
+### Conclusion
 
 Les résultats d'une coproculture doivent être interprétés et confrontés aux données cliniques. La présence d'une bactérie ne témoigne pas forcément de son caractère pathogène. Par ailleurs il faut savoir que l'émission dans les selles, de certaines bactéries agents de diarrhées, peut être très brève et que souvent les coprocultures sont réalisées trop tard. En effet, il peut être difficile de recueillir des selles en cas d'épidémie. Il ne faut pas oublier également que de nombreuses diarrhées ont une origine virale, expliquant alors la négativité des cultures bactériennes.
 

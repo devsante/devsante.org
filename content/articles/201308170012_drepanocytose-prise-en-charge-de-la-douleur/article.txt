@@ -35,7 +35,7 @@ En 4 à 5 jours, les douleurs s’estompent et le sujet retrouve son état anté
 
 Ils doivent **toujours être associés à l’hyperhydratation**.
 
-### **1. A domicile**
+### 1. A domicile
 
 *   **Paracétamol **: 15 mg/kg/dose (première dose : 30 mg/kg).  
     Pour un adulte : 1 gramme toutes les 6 heures.  
@@ -52,7 +52,7 @@ Toujours assurer une **hyperhydratation** avec 1,25 à 1,5 fois les besoins d�
 
 **Recherche d’une complication** : infection (pulmonaire, urinaire), anomalie neurologique, cholécystite, anémie profonde, détresse respiratoire, priapisme, etc.
 
-#### **Morphine**
+#### Morphine
 
 Il est regrettable que les morphiniques soient si peu employés dans les pays francophones !  
 La morphine est toujours efficace, ne coûte pas cher et ne conduit pas à la toxicomanie.  

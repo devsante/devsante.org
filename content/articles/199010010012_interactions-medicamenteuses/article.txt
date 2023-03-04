@@ -39,7 +39,7 @@ Ailleurs, la potentialisation de l'effet thérapeutique peut avoir des conséque
 *   De nombreux médicaments provoquent une diminution de la vigilance : l'utilisation de tranquillisants (dériv"s le plus souvent des benzodiazépines), de plus en plus répandue, provoque cet effet, ce qui aboutit à de fréquents accidents de circulation.
 *   L'action des antidiabétiques oraux (le diabète est de plus en plus fréquent en Afrique) est facilement perturbée par les inducteurs enzymatiques, tels que la rifampicine.
 
-### **2. Antagonismes**
+### 2. Antagonismes
 
 A l'opposé, un médicament peut s'opposer à l'action d'un autre. La tétracycline freine la multiplication des bactéries : la pénicilline agit sur la synthèse bactérienne quand elles se multiplient: l'association pénicilline-tétracycline est donc illogique puisqu'un antibiotique gêne l'action de l'autre.
 
@@ -55,7 +55,7 @@ Un médicament peut agir sur :
 
 *   l'élimination urinaire ou intestinale.
 
-### 1. Modification de l'absorption **intestinale**
+### 1. Modification de l'absorption intestinale
 
 #### a) Les pansements gastriques
 
@@ -173,7 +173,7 @@ Antivitamine K + chloramphénicol</th>
 
 </table>
 
-### **2. Activation enzymatique**
+### 2. Activation enzymatique
 
 Deux médicaments, très utilisés activent certaines enzymes du foie et peuvent faire chuter les taux sériques d'un médicament donné (qui devient alors inefficace). Ce sont surtout :
 
@@ -184,7 +184,7 @@ Deux médicaments, très utilisés activent certaines enzymes du foie et peuvent
 Le phénobarbital peut ainsi diminuer les taux d'antivitamine K (anticoagulants).  
 La rifampicine peut rendre inefficace la pilule contraceptive (oestroprogestatifs) et être responsable de grossesses non désirées.
 
-### **3. Modification de répartition** **dans l'organisme :  
+### 3. Modification de répartition dans l'organisme :  
 notion de** **liaison protéique**
 
 De nombreux médicaments se fixent dans le sérum aux protéines et en particulier à l'albumine.

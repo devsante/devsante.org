@@ -85,11 +85,11 @@ La plus fréquente, elle est ainsi classée du fait :
 *   du mode de survenue : non inquiétant, car épisode isolé sans notion de récidive,
 *   du terrain du patient : absence de tare clinique et/ou trouble de l'hémostase. Cette épistaxis se présente selon deux circonstances :
 
-#### a) Saignement non actif au moment de **la consultation**
+#### a) Saignement non actif au moment de la consultation
 
 A l'aide d'une source de lumière, on recherche une lésion au niveau de la fosse nasale, surtout au niveau de la tache vasculaire. S'il n'y a pas de lésion visible, on expliquera aux parents des principes simples de surveillance (recherche de signe de pâleur conjonctivale, surveillance de la coloration des phanères, recherche de signes d'essoufflement anormal et d'hyperthermie) et on convoquera à nouveau le patient avec les résultats d'une numération formule sanguine, un bilan minimal d'hémostase et un cliché des sinus en incidence de Blondeau, une semaine après. Si lésion de la tache, prescription de pommade hémostatique et au besoin antihistaminique oral, pour lutter contre le prurit nasal, tout en n'oubliant pas de prévoir un bilan d'atopie.
 
-#### b) Saignement actif au moment de la **consultation**
+#### b) Saignement actif au moment de la consultation
 
 On calme l'anxiété du malade en lui expliquant sa maladie, on le fait moucher et on procède à un lavage doux des fosses nasales à l'aide d'une seringue de 20 ml remplie de sérum physiologique. Ensuite, après avoir placé une alèse protégeant le patient, on procède à l'examen de la fosse nasale pour rechercher la zone de saignement, à l'aide d'une source de lumière (tache vasculaire surtout). S'il y a une lésion à ce niveau, on procède d'abord à une compression bidigitale des deux ailes narinaires pendant 10 min pour arrêter l'épistaxis, ensuite suivra une cautérisation de la tache : galvanocautère (geste médical), acide chromique dilué au tiers, acide trichloracétique dilué au tiers, crayon de nitrate d'argent. A cette cautérisation sera associée une prescription de pommade grasse ou d'huile goménolée pour éliminer les croûtes, sans traumatisme.
 
@@ -141,11 +141,11 @@ Ces gestes doivent être encadrés par une couverture antibiotique. Théoriqueme
 
 Les épistaxis avec profil de gravité sont à évacuer au niveau supérieur après avoir réalisé et/ou raté l'hémostase par les moyens locaux et en s'assurant des cinq mesures précitées (figure 3).
 
-## **IV. Les étiologies**
+## IV. Les étiologies
 
 Elles sont diverses. On peut les regrouper en :
 
-### **1.** Facteurs environnementaux
+### 1. Facteurs environnementaux
 
 Le froid, l'air sec sont des causes d'épistaxis. L'activité des cils narinaires est fonction du climat et est optimale entre 32-40°C avec une fréquence de 15 Hz. Elle diminue de 5 Hz à 20° C et est fortement altérée, avec des dommages ciliaires, à 52°C.
 

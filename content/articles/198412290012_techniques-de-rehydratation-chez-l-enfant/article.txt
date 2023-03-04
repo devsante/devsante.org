@@ -15,11 +15,11 @@ Text:
 
 On peut schématiquement considérer deux grands groupes:
 
-## **A. La déshydratation légère ou modérée**
+## A. La déshydratation légère ou modérée
 
 La perte de poids est inférieure à 10 % ; cette situation n'entraîne pas ou peu de signes cliniques, en particulier, il n'y a pas de pli cutané.
 
-### **1. La réhydratation par voie orale (RVO)**
+### 1. La réhydratation par voie orale (RVO)
 
 La solution de réhydratation orale (SRO) proposée par l'OMS comprend pour un litre d'eau : chlorure de sodium 3,50 g, bicarbonate 2,50 g, chlorure de potassium 1,50 g, glucose 20 g. Elle doit être renouvelée toutes les douze à vingt quatre heures; l'eau doit être préalablement bouillie mais la solution elle-même ne doit pas être portée à ébullition.
 
@@ -29,7 +29,7 @@ Au terme de cette période, le refus de l'enfant, des vomissements répétés, l
 
 En revanche, si l'enfant prend du poids et si son état s'améliore, la RVO peut alors être poursuivie à domicile sur la base d'un total de 100 à 200 ml/kg/24 heures dans la mesure où les parents sont attentifs aux contre-indications simples précédentes.
 
-## **II. La voie naso-gastrique**
+## II. La voie naso-gastrique
 
 **Matériel:** une sonde en plastique ou en caoutchouc; son diamètre interne de 1,3 mm à 3,9 mm (calibre 4 à 12) ; sa longueur est de 40, 50 ou 125 cm; une seringue de 10 ou 20 ml adaptable; un stéthoscope et des flacons de SRO.
 
@@ -40,7 +40,7 @@ En revanche, si l'enfant prend du poids et si son état s'améliore, la RVO peut
 (image: i151-1.jpg)
 
 
-### **B. La déshydratation importante ou sévère**
+### B. La déshydratation importante ou sévère
 
 Ce groupe comprend les enfants dont la perte de poids est supérieure ou égale à 10 %, et ceux qui n'ont pas répondu aux techniques précédentes.
 
@@ -52,9 +52,9 @@ On distingue deux catégories de techniques:
 
 *   et l'abord veineux face aux situations d'urgence où le pronostic vital est engagé.
 
-## **I. L'abord veineux périphérique de pratique courante**
+## I. L'abord veineux périphérique de pratique courante
 
-### **1. Matériel et mise en place**
+### 1. Matériel et mise en place
 
 Il est à usage unique et de deux types:
 
@@ -62,7 +62,7 @@ Il est à usage unique et de deux types:
 
 **b. le cathéter transcutané** _(schéma 2):_ l'aiguille-guide métallique interne dépasse le cathéter externe à son extrémité distale ; les calibres utilisés vont de 24 Gauge (56/100° mm) à 16 Gauge (165/1000° mm) ; lorsqu'on est dans la veine, le sang reflue à l'intérieur du cathéter; on fait alors glisser celui-ci le long de l'aiguille-guide puis on enlève celle-ci ; il est nécessaire de laisser le sang refluer pour purger toute trace d'air; son utilisation nécessite une veine de plus gros calibre que l'épicrânienne, mais il est bien toléré et sa longévité est supérieure.
 
-### **2. Fixation**
+### 2. Fixation
 
 Il est important de ne pas laisser le matériel mis en place coulisser à travers l'orifice cutané: les germes de surface pénètrent alors directement dans la circulation, source d'infection ; la fixation est effectuée à l'aide de deux sparadraps _(schéma n° 3)_ qui ne doivent pas cacher le trajet.
 
@@ -73,7 +73,7 @@ L'immobilisation du membre concerné se fait sur une planchette à l'aide de ban
 
 L'immobilisation de la tête est plus difficile: la bande élastique fixant celle-ci est attachée sur les parties fixes du lit.
 
-### **3. Le choix des veines**
+### 3. Le choix des veines
 
 *   Les veines superficielles du membre supérieur: dos de la main, avant-bras, en règle bien visible; il faut éviter autant que possible les veines des plis de flexion où l'immobilisation est difficile.
 
@@ -85,7 +85,7 @@ L'immobilisation de la tête est plus difficile: la bande élastique fixant cell
 
 Pour l'aborder, l'installation de l'enfant doit être parfaite: épaules soulevées par un billot, tête franchement tournée du côté opposé à la ponction, plan du cou horizontal dans le prolongement du tronc, l'opérateur se place à la tête du patient. Les repères sont pris avec la main gauche: pouce sur la saillie mastoïdienne, médius dans la fourchette sternale, index à mi-chemin de ces deux premiers repères sur le pouls carotidien. L'aiguille est introduite en dehors de l'index à 450 sur le plan du cou, et poussée de un à deux cm, en visant le mamelon droit. Le reflux de sang est souvent immédiat, parfois ce n'est qu'au retour que la ponction est obtenue.
 
-### **4. Précautions - incidents - accidents**
+### 4. Précautions - incidents - accidents
 
 *   Le cathétérisme accidentel d'une artère se traduit par le reflux de sang rouge vif dans la tubulure. Cet incident implique le retrait immédiat du matériel posé et la compression locale de plusieurs minutes afin d'éviter la constitution d'un volumineux hématome.
 
@@ -101,7 +101,7 @@ Pour l'aborder, l'installation de l'enfant doit être parfaite: épaules soulev�
 
 *   Une septicémie secondaire à une thrombophlébite ou un abcès cutané est possible; ainsi, toute fièvre inexpliquée impose l'ablation du matériel de perfusion.
 
-## **II. L'abord veineux face aux situations d'urgence**
+## II. L'abord veineux face aux situations d'urgence
 
 Deux solutions sont offertes:
 
@@ -109,11 +109,11 @@ Deux solutions sont offertes:
 
 - l'autre conserve en principe la perméabilité de celle-ci: c'est le cathétérisme percutané qu'il faut développer.
 
-### **1.** **L'objectif**
+### 1. L'objectif
 
 Il est de perfuser rapidement une grande quantité de liquides, ou d'administrer des produits hypertoniques.
 
-### **2. La méthode**
+### 2. La méthode
 
 Quelle que soit la méthode utilisée, la technique doit être aseptique: lavage des mains et des avant-bras de l'opérateur, habillage chirurgical, préparation du matériel sur champ stérile et large désinfection de la zone de ponction chez l'enfant.
 
@@ -133,7 +133,7 @@ Quelle que soit la méthode utilisée, la technique doit être aseptique: lavage
 
 Le cathéter risque de se couper sur le biseau de l'aiguille si on essaie de le retirer une fois enfoncé; si le cathétérisme s'avère impossible, retirer ensemble l'aiguille-guide et cathéter.
 
-### **3. Le choix des veines profondes**
+### 3. Le choix des veines profondes
 
 *   Dépend de l'expérience de chacun.
 
@@ -153,7 +153,7 @@ Le cathéter risque de se couper sur le biseau de l'aiguille si on essaie de le 
 
 *   On pince alors fortement l'aiguille entre le pouce et l'index le temps de l'injection du produit, puis on retire l'aiguille. Il faut assurer une compression efficace pendant cinq minutes au moins.
 
-### **4. Une situation particulière**
+### 4. Une situation particulière
 
 Lorsque la voie intraveineuse s'avère impossible et que la déshydratation est déjà trop importante pour répondre à la RVO, on peut pratiquer une **injection intrapéritonéale.**
 
@@ -169,7 +169,7 @@ La dose totale de 70 ml/kg peut ainsi habituellement être administrée en dix �
 
 *   **_et la perfusion lntratibiale ou du_** **_calcanéum à l'origine d'ostéomyélites_** **_et ostéo-arthrites sévère._**
 
-### **Conclusion**
+### Conclusion
 
 La responsabilité des médecins et infirmiers est grande en matière d'abord vasculaire et lors du choix d'une méthode de réhydratation, chacun doit avoir le souci constant de **respecter le** **patrimoine veineux de l'enfant.**
 

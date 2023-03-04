@@ -14,9 +14,9 @@ On distingue l'asthme du nourrisson dont les difficultés diagnostiques et les m
 
 De toute façon, il faut reconnaître l'asthme, identifier la sévérité des troubles et préciser les facteurs déclenchants et favorisants.
 
-## **I.** **Reconnaître l'asthme**
+## I. Reconnaître l'asthme
 
-### **1. Asthme du nourrisson**
+### 1. Asthme du nourrisson
 
 Il survient avant l'âge de deux ans.
 
@@ -44,7 +44,7 @@ Ailleurs, il n'y a pas de gêne respiratoire, les signes peuvent être considér
 
 *   On recherche, pour l'éliminer, toute autre cause de bronchite sifflante. Chez le nourrisson avant un an, il s'agit essentiellement de bronchiolite virale. Après un an, il faut surtout craindre l'inhalation d'un corps étranger, qui imposerait un transfert rapide pour le retirer par une bronchoscopie. En fait, l'argument le plus fort est la répétition des bronchites sifflantes, et l'on admet qu'il suffit de trois " bronchiolites " avant l'âge de deux ans pour parler d'asthme, sans préjuger de son évolution.
 
-### **2. Asthme de l'enfant**
+### 2. Asthme de l'enfant
 
 Il se rapproche de celui de l'adulte.
 
@@ -62,11 +62,11 @@ Mais chez un asthmatique connu, il est important de pouvoir reconnaître les tou
 
 *   Plus facilement que chez le nourrisson, le diagnostic, si l'on y pense, est fait sur l'identification de la dyspnée expiratoire sans fièvre, avec sifflements évoluant par crises répétées.
 
-## **II.** **Identifier la sévérité des Troubles**
+## II. Identifier la sévérité des Troubles
 
 Il faut envisager deux étapes:
 
-### **1.** **Immédiatement**
+### 1. Immédiatement
 
 L'enfant est-il en "détresse respiratoire" imposant des traitements particuliers en urgence ou un transfert?
 
@@ -87,7 +87,7 @@ Trois types de signes, à des degrés divers, sont des indices de gravité:
 
 Ceux qui seraient utiles (gaz du sang, saturation en oxygène de l'hémoglobine) sont rarement disponibles. Le plus souvent, si le diagnostic est certain, la radiographie du thorax est sans intérêt, et il ne faut pas angoisser ou fatiguer davantage l'enfant par des examens inutiles qui retarderaient le traitement.
 
-### **2. Après la crise**
+### 2. Après la crise
 
 Il reste à évaluer la gêne que fait peser la maladie asthmatique sur la vie quotidienne.
 
@@ -113,15 +113,15 @@ Pour évaluer cette gêne, ils se limitent, lorsque c'est possible, à des épre
 (image: i615-3.jpg)
 
 
-## **III. Préciser les facteurs** **déclenchants** **et favorisants**
+## III. Préciser les facteurs déclenchants et favorisants
 
 Cela est nécessaire pour savoir comment s'y opposer et faire comprendre à l'enfant et à sa famille leurs rôles actifs dans la prévention des crises.
 
-### **1. Le principal est le tabac et la** **fumée**
+### 1. Le principal est le tabac et la fumée
 
 Quel que soit le caractère de l'asthme, sur des bronches sensibles la fumée de tabac ou d'autres produits (foyers non protégés) est nocive. Fumer à côté de l'enfant est presque aussi dangereux que le faire fumer lui-même. Les adultes doivent connaître ce danger auquel ils exposent l'enfant sans s'en rendre compte.
 
-### **2. Très souvent les facteurs allergiques sont importants**
+### 2. Très souvent les facteurs allergiques sont importants
 
 Il s'agit en général d'allergènes libérés dans l'air et auxquels les bronches réagissent brutalement par les mécanismes de la crise d'asthme. Une observation et un interrogatoire attentifs sont plus utiles que des tests biologiques plus ou moins compliqués. On observe essentiellement:
 

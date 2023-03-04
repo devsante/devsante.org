@@ -14,7 +14,7 @@ L'objectif est clair : il faut réduire les taux élevés de maladie et de déc�
 
 Pour cela, trois stratégies complémentaires :
 
-### **1. La prévention**
+### 1. La prévention
 
 de la rougeole, la coqueluche et la diphtérie, qui, à elles seules, représentent le quart des décès par pneumonie des jeunes enfants. Il faut continuer les efforts de **vaccination dans le cadre du** **PEV.**
 
@@ -74,7 +74,7 @@ Même l'hôpital le mieux équipé ne peut sauver un enfant qui arrive trop tard
 
 **3.** savoir que quand un enfant calme respire **plus de cinquante fois par minute,** il faut l'emmener tout de suite consulter au centre de santé.
 
-### **Les messages**
+### Les messages
 
 *   **Apprendre à compter la respiration d'un** **enfant malade :**
 

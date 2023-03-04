@@ -8,7 +8,7 @@ Datetime: 1995-08-02 00:00
 ----  
 Text:
 
-## **I. Définition et épidémiologie**
+## I. Définition et épidémiologie
 
 Le choléra est une maladie infectieuse très contagieuse, souvent meurtrière.
 
@@ -24,29 +24,29 @@ Les continents touchés sont l'Asie, l'Afrique et l'Amérique du Sud.
 
 Le développement de l'hygiène dans les pays développés les met à l'abri des épidémies de choléra. La pauvreté, la promiscuité, les mauvaises conditions de vie, les déplacements collectifs favorisent au contraire son éclosion.
 
-## **II. La contagion**
+## II. La contagion
 
 Indirecte, elle se fait par l'eau contaminée. Elle peut être aussi directe et se fait alors par les aliments, les mains sales, les poignées de porte des toilettes... Les selles émises en période d'incubation, d'état ou de convalescence contiennent des vibrions. Ils peuvent y être présents vingt jours après la guérison.
 
-## **III. Physiopathologie**
+## III. Physiopathologie
 
 Le choléra est une maladie des soixante-dix premiers centimètres d'intestin grêle.
 
 " Les germes colonisent la lumière intestinale. Ils se fixent par des facteurs d'attachement, connus sous le nom de _glycocalix et_ se multiplient au pied des glandes jusqu'à recouvrir celles-ci en sept à neuf heures d'un véritable tapis de vibrions ". Ils ne pénètrent jamais dans l'organisme mais sécrètent une toxine cholérique, important activateur de l'adényl-cyclase, qui a pour effet de multiplier par quinze l'activité de la 3'5' C-AMP. Cette dernière entraîne la sortie, via les cellules intestinales, de vingt à trente litres d'eau accompagnés de Na et de chlorures. La réabsorption d'une telle quantité de liquide est impossible. Il s'ensuit le tableau clinique de déshydratation sévère observé au cours de la diarrhée du choléra.
 
-## **IV. Clinique**
+## IV. Clinique
 
 Il s'agit d'une diarrhée aqueuse, massive, afécale et sans fièvre accompagnée de vomissements incoercibles parfois. En l'absence de traitement, la mort peut survenir en vingt-quatre/quarante-huit heures dans un tableau de collapsus cardiovasculaire.
 
 Des formes bénignes (gastro-entérite aiguë) existent ainsi que des formes foudroyantes (décès en quelques heures) par collapsus (avant diarrhée).
 
-## **V. Diagnostic**
+## V. Diagnostic
 
 Le diagnostic de laboratoire est obligatoire au début de l'épidémie. "Toute diarrhée en période d'épidémie doit être considérée comme un cas de choléra et traité comme tel. " Toutefois, récemment, dans les camps de réfugiés rwandais au Zaïre, une shigellose très grave a sévi en même temps que le choléra.
 
 Le transport des selles jusqu'au laboratoire se fait en milieu alcalin peptoné.
 
-## **VI. Traitement**
+## VI. Traitement
 
 C'est une urgence médicale. Il faut très vite apprécier l'état clinique du malade. En cas de gravité (choc), la voie intraveineuse doit être choisie. Plusieurs litres de liquide de Ringer ou de sérum salé isotonique et de sérum bicarbonaté à 1,4 % peuvent être administrés en vingt-quatre heures à la demande, en fonction du poids, de l'élasticité cutanée et de la pression artérielle.
 
@@ -58,7 +58,7 @@ Dès l'arrêt des vomissements, l'administration d'antibiotiques (Tétracycline:
 
 Chez l'enfant, la réhydratation initiale devra être plus prudente et une surveillance plus grande sera exercée. Il faudra veiller à compenser la perte de potassium qui est souvent très importante.
 
-## **VII. Prophylaxie**
+## VII. Prophylaxie
 
 La maladie doit être déclarée et le malade isolé.
 
@@ -66,9 +66,9 @@ Une désinfection rigoureuse est de règle et le personnel soignant doit prendre
 
 Les sujets en contact sont placés sous surveillance médicale pendant cinq jours durant lesquels la recherche de vibrions cholériques est effectuée par des examens de selles répétés. ns sont soumis à une chimioprophylaxie, ainsi que les porteurs de germes sains. Mais attention au phénomène croissant de résistance.
 
-## **VIII. Conduite à tenir en cas d'épidémie**
+## VIII. Conduite à tenir en cas d'épidémie
 
-### **1. Logistique**
+### 1. Logistique
 
 L'organisation de la prise en charge des malades est essentielle.
 
@@ -104,7 +104,7 @@ Chaque malade est installé sur un lit percé d'où les selles s'écoulent dans 
 
 Pour limiter la propagation de la maladie, le coordinateur doit limiter au maximum la circulation des germes en limitant les mouvements des malades, des accompagnants et du personnel. Pour cela, il doit exister des barrières qui délimitent l'enceinte du centre de traitement. Cette dernière précaution n'est pas prise en considération par certains auteurs.
 
-### **2. Épuration de l'eau**
+### 2. Épuration de l'eau
 
 Il existe deux moyens de désinfection de l'eau :
 
@@ -158,7 +158,7 @@ Pour une eau trouble:
 
 - l'eau de Javel ne doit jamais être mélangée à un acide ou à un produit détartrant.
 
-### **3. Désinfection des excreta** **(selles, vomissements)**
+### 3. Désinfection des excreta (selles, vomissements)
 
 *   À l'aide de dérivés chlorés à la concentration de 1 000 à 10 000 ppm de chlore actif.
 
@@ -182,15 +182,15 @@ Durée. huit heures de contact pour les selles et vomissures, six heures de cont
 
 Périodicité: renouveler l'opération à chaque émission d'excreta.
 
-### **4. Désinfection des ustensiles et** **instruments, des lavabos, bacs,** **éviers, des eaux usées...** _(tableau)_
+### 4. Désinfection des ustensiles et instruments, des lavabos, bacs, éviers, des eaux usées... _(tableau)_
 
-### **5. Désinfection du lit, de la paillasse, du linge**
+### 5. Désinfection du lit, de la paillasse, du linge
 
 *   Le lavage du lit et de la paillasse est fait à l'aide d'une solution de savon de crésyl diluée à 3 % ; sans rinçage; sans essuyage.
 
 *   Le linge sera désinfecté par lavage à chaud ou par trempage pendant une demi-heure dans le savon de crésyl à 3 %.
 
-### **6. Éducation pour la santé**
+### 6. Éducation pour la santé
 
 *   Enseignement de la méthode de chloration de l'eau de boisson.
 
@@ -198,11 +198,11 @@ Périodicité: renouveler l'opération à chaque émission d'excreta.
 
 *   Assainissement du milieu (latrines).
 
-### **7. Vaccination**
+### 7. Vaccination
 
 La vaccination des populations susceptibles d'entrer en contact avec la zone d'endémie ou avec les malades est recommandée, surtout en période d'épidémie avérée, et ce, malgré l'efficacité limitée du vaccin. Celui-ci a une action vibriocide en stimulant la sécrétion d'anticorps antivibrions déversés par la bile dans l'intestin (vaccin injectable). La mise au point d'un vaccin par voie orale vise également la saturation des sites de fixation du vibrion sur les villosités intestinales empêchant ainsi la multiplication du germe.
 
-### **8. Exemples**
+### 8. Exemples
 
 **Au Honduras, on a avant tout cherché:**
 

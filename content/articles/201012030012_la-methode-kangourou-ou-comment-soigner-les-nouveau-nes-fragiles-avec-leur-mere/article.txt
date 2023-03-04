@@ -13,7 +13,7 @@ Beaucoup de pays en développement n'ont pas de structures de néonatalogie clas
 ----  
 Text:
 
-## **I. Quels sont les besoins des nouveau-nés fragiles ?**
+## I. Quels sont les besoins des nouveau-nés fragiles ?
 
 En dehors de problèmes spécifiques posés par la grande prématurité (détresse respiratoire, inadaptation cardiaque et circulatoire à la vie extra-utérine, immaturité digestive ... ), le nouveau-né de faible poids de naissance a trois besoins vitaux :
 
@@ -27,15 +27,15 @@ Certes, les services de néonatalogie peuvent répondre à ces besoins, cependan
 
 ces infections fait souvent éloigner la famille et même la mère qui n'a qu'un accès limité auprès de son bébé ou parfois doit accepter une séparation prolongée lorsqu'on a dû transférer son enfant.
 
-## **II. La méthode kangourou**
+## II. La méthode kangourou
 
 Elle propose le portage constant du bébé par la mère, répond point par point à ces besoins.
 
-### **1. La chaleur**
+### 1. La chaleur
 
 Elle est apportée par le contact peau à peau on place le bébé à peine vêtu (une couche avec ou non une petite chemise en coton fin) directement sur la peau de sa mère, entre les seins, tête retournée sur le côté. Sa régulation thermique se fait ainsi naturellement par le contact direct avec la chaleur du corps maternel. Le bébé est recouvert d'un pagne ou d'une couverture selon la température ambiante, voire d'un chapeau sur la tête et de chaussons. La mère peut ainsi se promener à l'intérieur et à l'extérieur. Plusieurs études ont montré qu'après quelques instants d'adaptation, le nouveau-né acquiert très vite une température corporelle égale à celle de sa mère et n'en varie pas. Bien sûr, un autre adulte peut prendre le relais lorsque nécessaire : le papa ou un autre membre de la famille, après s'être soigneusement lavé. Ainsi est évité le besoin d'incubateur, souvent en nombre insuffisant dans les services, parfois hors d'état de marche correcte et sources d'infections s'ils ne sont pas bien entretenus ou si plusieurs bébés sont mis dans le même incubateur par manque d'appareils.
 
-### **2. La propreté**
+### 2. La propreté
 
 Lorsque le bébé est ainsi en peau à peau avec sa mère, il en partage les germes commensaux, germes habituels qui vont coloniser son tube digestif, germes que la maman contrôle par son système immunitaire : fabrication d'anticorps, surtout, qu'elle a passés à son bébé par le placenta et qu'elle continue à lui donner par son lait. On évite toute contamination par des germes hospitaliers, résistants aux antibiotiques habituels, en ne laissant pas l'enfant et sa mère au contact avec des personnes malades (adultes ou enfants).
 
@@ -45,7 +45,7 @@ Le bébé lui-même doit être maintenu propre changé régulièrement avec du l
 
 Bien sûr ces règles de propreté s'appliquent à toute personne qui aide la mère dans les soins au bébé : personnel soignant et famille (lavage des mains, vêtements propres, hygiène de la pièce ... ).
 
-### **3. L'alimentation**
+### 3. L'alimentation
 
 Elle est apportée par le lait maternel. Lorsque le nouveau-né est trop faible pour avaler, le **lait maternel** doit être tiré (si possible extrait à la main plutôt que par une tireuse), il est alors donné immédiatement en gavage gastrique par une sonde. Mais dès que le bébé peut avaler, il faut lui proposer le lait maternel directement dans la bouche au moyen d'une petite cuiller ou d'un compte-gouttes. Il faut lui donner à boire très souvent par toutes petites quantités, " fractionner " ses repas pour qu'il puisse tolérer sa ration qui doit passer progressivement de 70 à 80 ml/kg le premier jour à 180 ml/kg au bout d'une semaine.
 
@@ -57,7 +57,7 @@ _Complément :_
 
 Exceptionnellement, si l'enfant ne prend pas de poids après la petite chute initiale et que la maman n'a pas assez de lait, on peut utiliser un lait de complément choisi parmi les laits disponibles sur place : si possible lait spécial pour les bébés, en poudre, reconstitué avec de l'eau bouillie parfaitement propre. Ce complément devra être donné avec beaucoup de prudence, il devra être mis dans des récipients parfaitement propres (verre ou plastique) et donné sans tétine : proposé à boire avec une tasse ou au compte-gouttes, ou à la petite cuiller. Il faut absolument éviter toute tétine qui viendrait interférer avec le mécanisme de succion au sein. À chaque repas l'enfant est d'abord mis aux seins, puis on lui propose sa ration de complément avant qu'il ne s'endorme.
 
-### **4. Surveillance du nouveau-né**
+### 4. Surveillance du nouveau-né
 
 Bien sûr il faut savoir observer le nouveau-né fragile, surveiller sa respiration et sa couleur car il peut faire des **pauses respiratoires :** en fait lorsqu'il est peau à peau sur sa maman, il reçoit une stimulation permanente par les mouvements de sa mère et généralement cela suffit à stimuler sa propre respiration en cas de pause. La maman doit être ,avertie de cette possibilité et le signaler si les pauses sont trop fréquentes et surtout si elles entraînent un changement de couleur du bébé (pâleur ou cyanose). De même, il peut avoir quelques **régurgitations** qui cesseront en général si on fractionne plus les repas dans la journée et surtout si on maintient le bébé en position verticale sur sa mère, ce qui suppose que celle-ci ne dorme pas complètement couchée mais en position demi-assise. On évitera tout risque d'étouffement en respectant cette position et en laissant bien libre le visage du bébé, en particulier son nez pour que l'air circule librement.
 
@@ -66,13 +66,13 @@ Enfin, comme pour tous les nouveau-nés, des vitamines doivent être données :
 *   vitamine D bien sûr, à laquelle il faut ajouter
 *   vitamines A, E et C sous forme d'hydrosol polyvitaminé : 1 ml (35 gouttes).
 
-### **5. L'éveil et le développement neurosensoriel**
+### 5. L'éveil et le développement neurosensoriel
 
 On apprend à la maman à s'assurer du confort de son bébé, de la qualité de son sommeil et à profiter de ses moments d'éveil pour communiquer avec son bébé, lui parler, le bercer, tisser des liens chaleureux avec ce petit être venu trop tôt, le réconforter lorsqu'il manifeste de petits malaises. Peu à peu, la famille, l'entourage vont être amenés à participer à cette communication et invités à prendre le relai de la maman entre deux tétées pour que celle-ci puisse se reposer. Il est extraordinaire de voir la rapidité du développement neurosensoriel du bébé, ses capacités à se détendre, exprimer une certaine sérénité que l'on juge par la qualité de son regard intensément fixé sur sa mère. Ceci est certainement un des meilleurs encouragements à apporter des soins constants, qui pourraient paraître fastidieux, sinon épuisants.
 
-## **III. En pratique**
+## III. En pratique
 
-### **1. Quels enfants peuvent** **bénéficier de la méthode** **kangourou ?**
+### 1. Quels enfants peuvent bénéficier de la méthode kangourou ?
 
 Tout nouveau-né fragile dont **l'état vital est** **stabilisé.** Cela signifie qu'il n'a pas de pathologie associée, que son état clinique est satisfaisant, qu'il ne fait pas d'apnées répétitives. Il doit être capable de déglutir, **prendre** **du poids** d'un jour à l'autre sans gavage, avoir un réflexe de succion et une **bonne** **coordination succion-déglutition** même si la mise au sein n'est pas encore exclusive.
 
@@ -83,7 +83,7 @@ Par rapport au **terme de la grossesse,** s'il est connu et a pu être détermin
 (image: i736-1.jpg)
 
 
-### **2. Quelles familles ?**
+### 2. Quelles familles ?
 
 La méthode kangourou exige une **disponibilité** totale de la mère qui va être sollicitée en permanence, en particulier pour l'allaitement. Il faut qu'elle puisse trouver une aide suffisante autour d'elle, aide matérielle et ménagère, aide dans le portage du bébé pour lui permettre de faire ses propres soins corporels et de dormir en position horizontale de temps en temps. Rappelons que le bébé doit être maintenu en permanence en position verticale, ce qui suppose que la personne qui le porte ne soit jamais couchée, mais debout, assise ou semi-assise. Toute la famille doit donc adhérer au programme, être d'accord et comprendre les impératifs d'hygiène, de soins, de portage et d'alimentation. Elle doit être informée des risques potentiels et doit accepter de venir régulièrement aux rendez-vous fixés pour le suivi du bébé.
 
@@ -91,15 +91,15 @@ La **sélection des familles** est donc un point très délicat car il ne faudra
 
 Certaines cultures ont parfois du mal à accepter spontanément cette position peau contre peau. Pour l'avoir proposé de nombreuses fois au Vietnam avec des ethnies différentes, nous pouvons dire que bien rares sont les mamans qui n'adhèrent pas très vite à ce contact. Ce sont plutôt les familles qui sont plus rejetantes, évoquant les risques pour le bébé, mais pensant à des tabous ou des craintes plus profondes. Bien évidemment il ne faudrait pas tomber dans une situation de ,, forcing " où l'on ne respecterait pas les hésitations, l'éventuel dégoût ou rejet de la mère, ce qui serait alors source de sentiment de culpabilité pour cette maman et augurerait mal de la qualité future de ses relations avec son enfant.
 
-### **3. Quand débuter le programme**
+### 3. Quand débuter le programme
 
-#### **Phase d'apprentissage à l'hôpital**
+#### Phase d'apprentissage à l'hôpital
 
 À la naissance d'un enfant de faible poids va se poser la question du lieu de prise en charge du bébé : y a-t-il sur place une équipe de néonatalogie (pédiatre, personnel soignant) capable de s'en occuper ou devra-t-il être transféré ailleurs ? Si l'enfant peut être pris en charge sur place, c'est cette même équipe qui va évaluer l'état clinique du bébé et éventuellement proposer la méthode kangourou à la mère. Sur place, l'équipe pourra ainsi en très peu de temps apprécier les capacités de la mère à apprendre la méthode, les capacités du bébé à s'alimenter et prendre du poids ainsi que la motivation et la participation de la famille au domicile. L'apprentissage se fera progressivement et la mère et le bébé pourront sortir en " programme kangourou" , en toute sécurité.
 
 Si la maternité ne dispose pas d'une structure d'accueil pour les nouveau-nés fragiles, le bébé doit être transféré et c'est depuis le service où il aura été transféré que se fera l'évaluation des capacités mère/bébé/famille à profiter du programme des mères-kangourou. Il est évidemment capital que la maman puisse suivre son bébé. Souvent existent des chambres d'accueil des mamans dans ou à proximité des services de néonatalogie où la maman peut être hébergée. Là encore, ce seront les quelques jours d'observation qui vont permettre l'apprentissage de la méthode, en particulier le mode d'alimentation, le maintien du bébé, les diverses contraintes à respecter.
 
-### **4. Retour à la maison**
+### 4. Retour à la maison
 
 Dès que le bébé a fait ses preuves de relative autonomie (pas besoin de gavage, pas de pathologie associée, prise de poids), que la maman a compris la méthode et se sent en .confiance, et que la famille adhère fortement au programme, le retour à la maison est proposé. C'est en effet à la maison que se poursuivra pendant plusieurs semaines l'élevage de ce bébé fragile. Bien sûr, un **suivi** **médical et social** strict est absolument nécessaire : par des visites quotidiennes au début avec pesée, examen clinique, discussion avec la maman, écoute des difficultés rencontrées ... À Bogota, les mamans reviennent ainsi tous les jours avec leur bébé dans le service, malgré des transports en commun parfois longs. La rencontre avec l'équipe et avec d'autres mamans permet de très fructueux échanges. Dès que l'enfant prend bien régulièrement du poids et boit entièrement au sein, les visites sont peu à peu espacées.
 
@@ -109,7 +109,7 @@ C'est cette partie du programme dit **ambulatoire** qui est la plus importante. 
 
 À ce prix seront évitées les multiples complications liées à une hospitalisation prolongée : infections iatrogènes, séparation mère-bébé avec son risque de désintéressement, de désaffection, voire d'abandon de l'enfant. Les quelques contraintes, certes bien réelles, imposées à l'équipe et à la famille seront largement compensées par le développement harmonieux du bébé suivi pendant sa première année, voire plus. L'équipe du Mission Hospital de Manama, au Zimbabwé, garde les mères avec leur bébé pendant toute la durée du programme. Ils ont montré le changement considérable qui s'est produit dans l'attitude du personnel qui auparavant avait tendance à délaisser ces enfants trop fragiles et avec peu de chances de survie. Depuis l'application du programme, le taux de survie est de 98 % dès trente et une semaines d'âge gestationnel (une fois passés les premiers jours d'adaptation et éliminées les pathologies associées). Du coup, le personnel a acquis un enthousiasme contagieux et la petite surcharge initiale de travail s'atténue rapidement par la prise en charge totale des bébés par leur mère.
 
-### **5. Fin du programme**
+### 5. Fin du programme
 
 C'est le bébé qui décide du moment où il ne supporte plus de rester peau à peau contre sa mère : soit qu'il y ait trop chaud, soit qu'il se sente à l'étroit, qu'il ait besoin de dormir seul... il n'y a pas là encore de critère de poids absolu, habituellement au terme où l'enfant aurait dû naître normalement. Bébé est " mûr " pour affronter le reste du monde avec une sécurité physique et affective qui l'aidera toute sa vie.
 

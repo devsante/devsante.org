@@ -15,7 +15,7 @@ Text:
 
 La drépanocytose, maladie héréditaire pour laquelle il n'existe pas encore de traitement curatif, est caractérisée par une anémie hémolytique chronique (le taux d'hémoglobine est habituellement à 6-8 g/dl). Sur ce fond permanent viennent se greffer des complications aiguës. Les crises douloureuses constituent une des manifestations aiguës habituelles de la maladie.
 
-## **I. Description clinique**
+## I. Description clinique
 
 La crise de douleur aiguë est un événement fréquent et surtout le plus patent caractérisant l'évolution de la drépanocytose. C'est la manifestation clinique la plus communément reliée à la maladie. Elle est habituellement appelée crise douloureuse vaso-occlusive. Elle survient de manière irrégulière et est généralement imprévisible. Certains facteurs déclenchant sont décrits, tels une contrariété, l'exposition à un changement brutal de température, des efforts physiques excessifs, une déshydratation, les postures immobiles prolongées.
 
@@ -37,11 +37,11 @@ La durée de la douleur peut être de quelques heures à une ou deux semaines. L
 
 Chez le nourrisson et le petit enfant âgé de moins de cinq ans, la crise douloureuse touche les petits os et la présentation clinique est particulière : gonflement avec inflammation importante du dos des mains et des pieds (syndrome pied-main) avec une fièvre qui peut dépasser 38 °C. Une atteinte de l'état général avec aspect de maladie grave peut y être associée et faire la différence avec une infection osseuse débutante, également très fréquente à cet âge, est souvent très difficile. Dans certains cas, ce sont : les cris et pleurs incessants sans causes apparentes, le refus d'être porté au dos qui traduisent la crise douloureuse.
 
-## **II. Physiopathologie**
+## II. Physiopathologie
 
 La physiopathologie de la crise douloureuse vaso-occlusive de la drépanocytose est très complexe et demeure encore mal comprise. Elle semble être due à la souffrance des tissus à la suite de la gêne de la circulation sanguine (ischémie des tissus) secondaire à l'obstruction des petits vaisseaux par les globules rouges falciformes.
 
-## **III. Prise en charge du patient**
+## III. Prise en charge du patient
 
 Deux principaux problèmes sont à résoudre devant un patient atteint de drépanocytose qui présente une crise douloureuse
 
@@ -49,7 +49,7 @@ Deux principaux problèmes sont à résoudre devant un patient atteint de drépa
 
 *   ne pas méconnaître une autre complication aiguë plus grave se présentant comme une crise douloureuse.
 
-### **1. Les problèmes de diagnostic différentiel**
+### 1. Les problèmes de diagnostic différentiel
 
 D'autres événements aigus de la drépanocytose peuvent à leur début prendre l'allure d'une crise douloureuse vaso-occlusive ou en compliquer l'évolution :
 
@@ -58,7 +58,7 @@ D'autres événements aigus de la drépanocytose peuvent à leur début prendre 
 *   la _localisation de la douleur_ au niveau du thorax doit faire discuter le syndrome douleur _thoracique aiguë ;_
 *   les _douleurs abdominales_ font craindre une séquestration hépatique, une cholécystite aiguë ou une thrombose des vaisseaux du mésentère.
 
-### **2. Comment soulager la douleur ?**
+### 2. Comment soulager la douleur ?
 
 Deux erreurs souvent commises dans là prise en charge de la crise douloureuse vaso-occlusive :
 

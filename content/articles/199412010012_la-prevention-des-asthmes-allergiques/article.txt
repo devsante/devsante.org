@@ -10,7 +10,7 @@ Text:
 
 L'asthme, dans la majorité des cas, est d'origine allergique.
 
-## **I. Qu'est-ce que l'allergie ?**
+## I. Qu'est-ce que l'allergie ?
 
 L'allergie est une réaction excessive de notre organisme vis-à-vis de substances qu'il considère comme nocives alors qu'elles ne le sont pas.
 
@@ -18,9 +18,9 @@ Normalement, notre système immunitaire a pour fonction de nous défendre contre
 
 Les personnes allergiques ont une prédisposition héréditaire à fabriquer des anticorps de la classe des IgE (immunoglobuline E).
 
-## **II.** **Les causes principales d'allergie respiratoire responsable d'asthme**
+## II. Les causes principales d'allergie respiratoire responsable d'asthme
 
-### **1. L'allergie à la poussière de** **maison**
+### 1. L'allergie à la poussière de maison
 
 Le contenu de la poussière domestique est variable en fonction de la situation, du type de l'habitat, du climat, de l'altitude et de la saison. La poussière de maison constitue un réservoir complexe d'allergènes.
 
@@ -60,7 +60,7 @@ Pour éviter les moisissures dans la maison, il faut :
 *   éviter de se promener sous la pluie,
 *   éviter de ramasser des paquets de feuilles mortes amassées depuis plusieurs jours.
 
-### **2. L'allergie aux animaux**
+### 2. L'allergie aux animaux
 
 Ce type d'allergie est très fréquent et peut aggraver les manifestations d'autres allergies.
 
@@ -83,7 +83,7 @@ La prévention de l'allergie aux animaux consiste à écarter l'animal lorsque l
 
 Malgré l'éviction de l'animal responsable, les crises peuvent durer encore plusieurs mois après.
 
-### **3. Les pollens**
+### 3. Les pollens
 
 Ce sont des allergènes importants dans le déclenchement de l'asthme. Ce sont de petits grains invisibles de 5/100 de mm. Les pollens sont dispersés par le vent et/ou transportés par les insectes.
 
@@ -93,7 +93,7 @@ Pour éviter une crise d'asthme provoquée par les pollens, il faut connaître l
 
 Enfin, couper l'herbe, pour quelqu'un d'allergique aux pollens de graminées, c'est prendre un risque.
 
-### **4. Les allergies alimentaires**
+### 4. Les allergies alimentaires
 
 Elles donnent volontiers des symptômes de type digestif mais aussi de type respiratoire ou cutané.
 
@@ -111,9 +111,9 @@ Les principales allergies alimentaires sont:
 
 *   Il faut savoir tout de même que la tolérance aux aliments s'améliore avec la croissance.
 
-## **III. D'autres facteurs aggravent l'asthme**
+## III. D'autres facteurs aggravent l'asthme
 
-### **1. Le tabac**
+### 1. Le tabac
 
 Lorsque les parent fument, l'enfant respire un aérosol tabagique extrêmement irritant pour ses muqueuses. Pourtant, le tabac en lui-même est très peu allergénique.
 
@@ -123,13 +123,13 @@ Les nourrissons sont les plus exposés et le tabagisme passif aggrave les virose
 
 La réactivité bronchique des enfants exposés au tabac est augmentée (même pendant la grossesse).
 
-### **2. Les polluants de l'air**
+### 2. Les polluants de l'air
 
 Ils semblent aggraver aussi l'asthme.
 
 Il s'agit, d'une part, de la pollution industrielle; d'autre part, de la pollution liée à la circulation automobile (grandes agglomérations), enfin de toute fumée (feu de bois, cuisine, etc ... )
 
-### **3. Autres facteurs**
+### 3. Autres facteurs
 
 D'autres facteurs non spécifiques irritants aggravent l'asthme: poussière de craie, laine de verre, gaz irritant (laque pour cheveux).
 

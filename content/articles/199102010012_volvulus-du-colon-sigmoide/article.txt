@@ -16,7 +16,7 @@ Il est fréquent également en Inde et au Pakistan, ainsi qu'au Brésil (où il 
 
 Bien que le diagnostic en soit assez facile, cela reste une maladie grave lorsque le traitement est trop tardif, en raison du risque de gangrène du côlon. Dans ce cas la mortalité peut atteindre 50 %, malgré une intervention chirurgicale
 
-## **Mécanisme**
+## Mécanisme
 
 La torsion du côlon sigmoïde sur lui-même survient chez les personnes qui présentent une anse sigmoïdienne longue (80 cm) et mobile, remontant dans l'abdomen (elle est située normalement dans le petit bassin) ; le mésocôlon est allongé mais surtout étroit à sa base, rapprochant les extrémités de l'anse et facilitant leur torsion sur l'axe mésentérique (_schéma 1_).
 
@@ -31,7 +31,7 @@ On distingue deux types de volvulus :
 (image: i458-1.jpg)
 
 
-## **Etiologie**
+## Etiologie
 
 Certains facteurs peuvent peut-être jouer un rôle favorisant :
 
@@ -53,7 +53,7 @@ Le volvulus est une urgence et le malade souffre d'un syndrome occlusif franc :
 
 *   L'état général est variable : il est le plus souvent bien conservé si le malade vient consulter rapidement mais il peut être très altéré si le malade est vu trop tard, après plusieurs jours d'occlusion ou dans certaines formes d'évolution plus rapide. Dans ce cas, le malade est déshydraté, amaigri, très affaibli, avec un pouls accéléré et une tension basse et pincée.
 
-### **Le météorisme**
+### Le météorisme
 
 L'examen clinique du malade dévêtu retrouve le signe essentiel que représente l'énorme distension abdominale: le ventre est ballonné dans son ensemble, de sonorité gazeuse à la percussion légère (météorisme), évoquant un " tambour ". La paroi est tendue mais encore souple et peu sensible et sans défense ni contracture sauf en cas de gangrène du côlon. Le toucher rectal ne retrouve pas de matière (ce qui élimine une occlusion sur fécalome) et les orifices herniaires sont libres (ce qui élimine une hernie étranglée).
 
@@ -73,7 +73,7 @@ Il y aura donc schématiquement trois situations différentes :
 
 *   hôpital régional bien équipé en matériel et spécialiste (chirurgien).
 
-### **1.** **Infirmier isolé en brousse**
+### 1. Infirmier isolé en brousse
 
 Il faut :
 
@@ -119,7 +119,7 @@ Après ce traitement médical, la vie du patient n'est plus en jeu mais néanmoi
 
 En cas d'impossibilité de l'intubation rectale, il ne faut jamais forcer (risque de perforer le côlon, ce qui est bien sûr très grave), mais adresser le malade à l'hôpital le plus proche, dans les meilleurs délais.
 
-### **2. L'hôpital local**
+### 2. L'hôpital local
 
 On dispose alors de moyens supplémentaires :
 
@@ -185,7 +185,7 @@ On procèdera de la façon suivante :
 
 Après la période postopératoire, le patient est adressé à l'hôpital régional le plus proche pour y subir un traitement définitif.
 
-### **3. Hôpital équipé avec un** **service de chirurgie**
+### 3. Hôpital équipé avec un service de chirurgie
 
 Dans ce cas tous les moyens peuvent être mis en oeuvre selon des indications précises :
 

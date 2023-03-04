@@ -16,7 +16,7 @@ Le traitement de l'asthme comprend deux éléments :
 
 - le traitement préventif de la survenue des crises : il s'agit alors de la prise en charge d'une maladie chronique pour laquelle la stratégie thérapeutique est élaborée en fonction de la sévérité de la maladie.
 
-## **I. Les médicaments** **de l'asthme**
+## I. Les médicaments de l'asthme
 
 Les médicaments de la crise d'asthme doivent être actifs sur :
 
@@ -24,7 +24,7 @@ Les médicaments de la crise d'asthme doivent être actifs sur :
 
 - l'inflammation des voies aériennes: ce sont les anti-inflammatoires.
 
-### **1. Les bronchodilatateurs**
+### 1. Les bronchodilatateurs
 
 **a. Les bêta 2 mimétiques**
 
@@ -72,7 +72,7 @@ La voie d'administration est essentiellement orale :
 
 L'utilisation de la forme injectable est devenue rare et reste réservée à l'usage hospitalier.
 
-### **2. Les anti-inflammatoires**
+### 2. Les anti-inflammatoires
 
 Ils limitent l'inflammation bronchique et ont une action préventive.
 
@@ -100,7 +100,7 @@ Il a une action antihistaminique et antidégranulante. Actif essentiellement che
 
 Antidégranulant, c'est un anti-inflammatoire (inhibition de la libération de médiateurs à l'origine de la réaction inflammatoire). La voie d'administration est locale, en spray (2 bouffées 2 à 4 fois par jour). Il n'a pas d'effet secondaire.
 
-### **3. La technique de l'inhalation**
+### 3. La technique de l'inhalation
 
 1 - inspiration profonde  
 => déclenchement du spray  
@@ -128,26 +128,26 @@ L'enfant place sa bouche à une extrémité de la chambre, on ajuste l'aérosol 
 
 On peut l'utiliser pour l'administration des bêta 2 mimétiques, des corticoïdes inhalés.
 
-## **II. Le traitement de la crise** **d'asthme**
+## II. Le traitement de la crise d'asthme
 
-### **1. Chez l'adulte**
+### 1. Chez l'adulte
 
 (image: i618-2.jpg)
 
 
-### **2. Chez l'enfant**
+### 2. Chez l'enfant
 
 (image: i618-3.jpg)
 
 
-### **3. Chez le nourrisson**
+### 3. Chez le nourrisson
 
 Le jeune enfant est peu coopérant: l'administration des thérapeutiques inhalées est peu efficace, voire impossible. Les schémas thérapeutiques sont différents et utilisent plus volontiers les formes orales.
 
 (image: i618-4.jpg)
 
 
-### **4. La crise d'asthme grave**
+### 4. La crise d'asthme grave
 
 Le traitement correctement administré est inefficace. Le malade présente des signes de gravité. Il est hypoxémique. Il doit être référé dans une structure hospitalière.
 
@@ -175,7 +175,7 @@ La prise en charge en milieu hospitalier repose sur les mêmes médicaments, ave
 
 **d. Une antibiothérapie** est prescrite s'il existe des signes d'infection des voies respiratoires. Les antibiotiques sont plus facilement prescrits chez les enfants (attention au risque d'allergie).
 
-## **III. Le traitement de fond**
+## III. Le traitement de fond
 
 (image: i618-5.jpg)
 

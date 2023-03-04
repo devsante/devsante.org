@@ -18,11 +18,11 @@ Par exemple, un texte de l'OMS, en 1973, distinguait trois niveaux de soins:
 
 - les soins tertiaires, qui sont des services très spécialisés, du type chirurgie cardiaque, ou neurochirurgie.
 
-## **I. Les soins les plus adaptés aux besoins du malade**
+## I. Les soins les plus adaptés aux besoins du malade
 
 Le système de référence est donc l'ensemble des opérations à maîtriser et organiser pour que chaque malade soit soigné au niveau où les soins seront les plus efficaces. Dans ces conditions, l'idéal pourrait être de consulter d'emblée le centre ultra-spécialisé. C'est pourquoi la deuxième condition est que chaque malade soit soigné au niveau où les soins pourront être efficaces, mais aussi au niveau le moins spécialisé possible susceptible de prodiguer ces soins.
 
-## **II. La référence en pratique**
+## II. La référence en pratique
 
 Lorsque ce système de référence ne fonctionne pas de façon satisfaisante, deux types de problèmes vont se poser:
 
@@ -44,7 +44,7 @@ C'est le cas pour une femme qui aurait besoin d'une césarienne et dont l'accouc
 
 **Tout personnel de santé en charge du** **fonctionnement des services de soins** **devrait évaluer leurs performances** **concrètes.**
 
-## **III. Quelles questions se poser?**
+## III. Quelles questions se poser?
 
 L'évaluation d'un système de référence conduit à se poser plusieurs questions:
 
@@ -58,7 +58,7 @@ Une enquête n'est pas toujours nécessaire pour répondre à ces questions. Les
 
 Mais parfois les difficultés ne sont pas très apparentes et une enquête simple sera parfois utile pour identifier les problèmes que l'on n'avait pas perçus et cerner leurs causes.
 
-## **IV. Pourquoi le système de** **référence fonctionne-t-il** **souvent mal?**
+## IV. Pourquoi le système de référence fonctionne-t-il souvent mal?
 
 Il est extrêmement difficile de répondre à cette question. C'est pourtant en y répondant que nous pourrons souvent améliorer les soins de la population dont nous avons à nous occuper.
 
@@ -70,15 +70,15 @@ Plusieurs catégories de problèmes peuvent servir de pistes de réflexion:
 
 Mais nous verrons que dans cette dernière catégorie, le système de soins est parfois la source de comportement qu'il ne faut pas trop rapidement rapporter à un manque d'éducation sanitaire.
 
-### **1.** **Transport**
+### 1. Transport
 
 Le problème du transport est parfois le premier obstacle à lever, si l'hôpital de référence est lointain, la piste peu praticable, les véhicules (taxis ou ambulances) non disponibles ou trop chers.
 
-### **2. Les personnels de santé**
+### 2. Les personnels de santé
 
 Ces conditions peuvent amener les personnels de santé à ne pas recourir à la référence s'ils pensent que les familles ne le feront pas ou que c'est trop cher. Adresser un malade dans un autre centre est aussi parfois difficile pour un(e) infirmier(e) qui redoute de montrer ainsi les limites de sa compétence. Le manque de retour d'informations sur ce qui est arrivé au malade lorsqu'il est arrivé au centre de référence n'incite pas à adresser un malade au niveau de référence supérieur.
 
-### **3. Le malade ou sa famille**
+### 3. Le malade ou sa famille
 
 Parfois les personnels de santé ont conseillé une référence, mais le malade ou sa famille ont refusé de suivre le conseil ou simplement ne l'ont pas suivi en pratique. Dans ce cas, il s'agit pour l'infirmier d'expliquer les enjeux, pourquoi il adresse le/la malade vers des niveaux mieux équipés ou compétents dans un domaine précis. Ecouter, expliquer, comprendre pourquoi les consultants ne pensent pas utile d'aller à l'hôpital. Quelles sont leurs idées sur la maladie, l'accident, ce qui arrive... Cette démarche vous est bien connue dans les autres domaines des soins ou de l'éducation pour la santé.
 

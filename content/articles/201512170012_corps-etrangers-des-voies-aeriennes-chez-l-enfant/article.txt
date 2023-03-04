@@ -119,7 +119,7 @@ Ces signes seront à rechercher pendant toute la surveillance car à tout momen
 larynx. De même si le CE est trachéal et non obstructif initialement, l’oedème réactionnel peut le rendre asphyxique dans un  
 deuxième temps.
 
-### **Corps étrangers : trois situations**
+### Corps étrangers : trois situations
 
 (image: corps-etranger-3-situations.jpg)
 
@@ -136,7 +136,7 @@ Tout va dépendre des circonstances dans lesquelles on se trouve.
 *   **En milieu médical non spécialisé**  
     Si l'état respiratoire d'un sujet qui a inhalé un corps étranger s'aggrave, soit d'emblée, soit secondairement, il faut l'intuber.Si le corps étranger est sus-glottique, il sera mis en évidence au cours de l'exposition du larynx puis enlevé avec une pince (pince de Magil servant à l’intubation). S'il n'est pas visible, le corps étranger est sous-glotto-trachéal. On peut espérer le refouler dans une bronche souche et permettre une ventilation. Après amélioration de la ventilation, le patient sera immédiatement dirigé vers un service ORL où sera extrait le CE sous bronchoscopie au tube rigide.
 
-#### **Dans un service d’ORL**
+#### Dans un service d’ORL
 
 **Si l'enfant arrive en état d'asphyxie**, l'endoscope rigide sera glissé par voie orale au travers du larynx sans anesthésie.
 

@@ -11,15 +11,15 @@ Text:
 **Il est d'usage depuis quelques décennies de conseiller aux mères, en particulier à celles dont le jeune enfant présente un retard pondéral, de donner des bouillies afin d'accroître les apports alimentaires. Cet article montre le bien fondé de ces pratiques, à condition que soient respectées quatre règles fondamentales. Le non-respect de ces quatre règles est en effet à l'origine de nombreux échecs et d'aggravation de la malnutrition. Si l'intérêt de donner aux jeunes enfants souffrant de malnutrition ou de sous-nutation des bouillies de haute valeur énergétique est bien établi, les moyens simples d'y parvenir avec des bouillies non lactées (Les bouillies lactées resteront hors de notre propos, la présence de lait permet en effet de résoudre la plupart des difficultés liées aux bouillies préparées à l'eau), sont plus difficiles à trouver et nous proposons ici des solutions faisant appel à de l'amylase domestique.**  
 **Dans la première partie, nous aborderons la notion de valeur énergétique des aliments, appliquée à l'alimentation infantile. Puis, nous parlerons de la viscosité des bouillies et du rôle de l'amylase sur l'amidon. Enfin, nous verrons ce que permet l'utilisation des amylases domestiques.**
 
-## **I. Valeur énergétique** **des aliments dans** **l'alimentation infantile**
+## I. Valeur énergétique des aliments dans l'alimentation infantile
 
-### **1. Les bouillies**
+### 1. Les bouillies
 
 Pour situer le problème, il faut bien comprendre que le nourrisson et le jeune enfant ont une croissance pondérale fabuleuse, comme en témoigne une courbe de poids normale : ils grossissent en moyenne de 20 à 30 grammes chaque jour les premiers mois, et de 10 grammes par jour jusqu'à 1012 mois. Les scientifiques ont observé que pour obtenir une telle croissance, il fallait que le nourrisson de plus de six mois consomme environ 100 kilocalories et 140 ml d'eau par kilo de poids et par jour.
 
 Mais on sait aussi que le nourrisson a des capacités digestives limitées et immatures : en effet, le volume de ce qu'il peut absorber à chaque repas est limité par la contenance de son estomac (200 à 250 ml), et il lui faut un certain temps entre chaque repas. De même il ne peut manger de tout car ses fonctions digestives, mastication, déglutition, équipement enzymatique, ne sont pas encore complètes. Pour toutes ces raisons, il faut donner aux nourrissons des aliments spécifiques. Ces aliments seront _faciles à_ avaler (semi-liquides), faciles _à digérer, nourrissants pour_ _un faible volume_ (haute valeur énergétique). Les bouillies peuvent réunir ces diverses qualités (À ces qualités, on ajoutera : équilibre en nutriments (protides, lipides, glucides), apport suffisant en vitamines et en micronutriments, faible taux de fibres, goût apprécié).
 
-### **2. Quelle valeur énergétique ?**
+### 2. Quelle valeur énergétique ?
 
 On admet facilement que l'aliment donné aux nourrissons doit être liquide ou onctueux et facile à digérer. Mais, qu'est-ce qu'un aliment nourrissant ? Combien d'énergie faut-il que ce liquide apporte pour qu'il soit nourrissant ? Qu'est-ce que la valeur énergétique (ou densité énergétique) ?
 
@@ -41,7 +41,7 @@ La valeur énergétique de cette alimentation doit être au minimum de 70 kcal/1
 
 On peut remarquer que ce chiffre de 70 kcal/100 ml est celui de la valeur énergétique du lait maternel. Rappelons également que le volume maximum de la lactation atteint en moyenne 700 ml.
 
-### **3. Les calories**
+### 3. Les calories
 
 Voyons maintenant combien d'énergie apportent les bouillies, celles que les mères préparent pour leurs enfants, celles qu'on trouve sur les marchés, celles qu'on prépare dans certains CREN. Quelle est leur valeur énergétique ?
 
@@ -51,7 +51,7 @@ Il serait intéressant de savoir combien de calories contient approximativement 
 
 Il faut pour cela un récipient gradué et une petite balance (pèse-lettre).
 
-### **4. Les quantités**
+### 4. Les quantités
 
 Prenons, par exemple, 100 ml d'une bouillie habituellement préparée pour les enfants dont vous vous occupez. Faites-la se dessécher au soleil ou dans un four de façon à obtenir des paillettes sèches. Pesez ces paillettes. La bouillie déshydratée en paillettes, farine cuite (Les paillettes obtenues par déshydratation des bouillies peuvent être plus sèches que la farine dont elles proviennent. La quantité d'eau dans les farines ordinaires représente 10 % de leur poids, alors que les farines grillées, les farines industrielles pour nourrisson et les paillettes de bouillie déshydratée ne contiennent que 5 % d'eau ou même moins. De ce fait, leur valeur énergétique peut être un peu plus élevée) a approximativement le même poids et la même valeur énergétique que la farine crue utilisée pour préparer cette bouillie.
 
@@ -74,7 +74,7 @@ Reprenons notre exemple : si ces 100 ml de bouillie sont préparés avec une far
 (image: i713-1.jpg)
 
 
-### **5. Comparaison avec les aliments pour adultes**
+### 5. Comparaison avec les aliments pour adultes
 
 - Si l'enfant mange ces 100 ml de bouillie, il aura consommé 40 kcal. La valeur énergétique de cette bouillie est de 40 kcal/100 ml.
 
@@ -84,7 +84,7 @@ Nous savons aussi estimer la valeur énergétique d'une bouillie.
 
 La comparaison de la valeur énergétique des bouillies avec la valeur de quelques aliments consommés par les adultes permet de les situer et de constater que même les bouillies les plus riches ont une valeur énergétique inférieure à la plupart des aliments des adultes.
 
-### **6. La consistance des bouillies et leur valeur nutritive**
+### 6. La consistance des bouillies et leur valeur nutritive
 
 Dans l'exemple précédent, nous avons calculé la valeur énergétique d'une bouillie céréale-légumineuse. Le _tableau n°_ 2 permet de situer la valeur énergétique de cette bouillie par rapport à celle d'un soda.
 
@@ -97,7 +97,7 @@ Malheureusement des bouillies encore moins nourrissantes peuvent être parfois d
 
 Les bouillies traditionnelles préparées avec des aliments locaux ont rarement des valeurs énergétiques supérieures à 60 kcal/100 ml. Dès qu'on met trop de farine, la bouillie est trop épaisse pour l'enfant. Par contre, les farines industrielles permettent de préparer des bouillies qui restent fluides même si on met 20 ou 30 grammes de farine.
 
-### **7. Conséquences**
+### 7. Conséquences
 
 Quelles sont les conséquences lorsqu'on nourrit un enfant avec des bouillies de faible valeur énergétique ?
 
@@ -115,7 +115,7 @@ Alimentés avec ces bouillies, les enfants ne prennent pas de poids ou maigrisse
 
 La situation est parfois encore pire lorsque les enfants sont nourris par sonde de gavage. La bouillie étant trop épaisse, elle est diluée avec de l'eau pour pouvoir passer dans la sonde. Sa valeur énergétique, déjà insuffisante pour obtenir une récupération nutritionnelle efficace, est encore diminuée par la dilution !
 
-### **8. Les règles fondamentales**
+### 8. Les règles fondamentales
 
 Lorsque le personnel de santé est averti de ces pièges, l'usage des bouillies est bien sûr bénéfique à condition de respecter quatre règles fondamentales :
 

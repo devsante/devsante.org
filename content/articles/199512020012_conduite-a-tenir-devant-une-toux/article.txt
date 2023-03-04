@@ -19,11 +19,11 @@ La toux comporte quatre temps :
 
 Au cours de ces phases, le débit respiratoire peut être multiplié par trois ou quatre ; la pression intrathoracique et intra-abdominale s'élève beaucoup (risque de hernie inguinale ou de pneumothorax chez le tousseur chronique), la trachée diminue de calibre. Enfin la vitesse de l'air expiré peut atteindre dans la trachée deux cent quatre-vingts mètres/seconde ! (soit 85 % de la vitesse du son).
 
-## **I. Mise en jeu du réflexe** **de la toux**
+## I. Mise en jeu du réflexe de la toux
 
 Le réflexe tussigène prend naissance au niveau de récepteurs situés au niveau du larynx, de la bifurcation trachéale, des divisions bronchiques (et de l'oreille). L'influx nerveux gagne le bulbe rachidien. Le centre de la toux est proche du centre commandant les vomissements (explication des toux émétisantes).
 
-## **II. Différents types de toux**
+## II. Différents types de toux
 
 *   La **toux coquelucheuse,** quinteuse, spasmodique, est typique de la coqueluche. Elle peut aussi se voir au cours de certaines viroses et d'inhalation de corps étrangers.
 
@@ -45,7 +45,7 @@ Le réflexe tussigène prend naissance au niveau de récepteurs situés au nivea
 
 *   La **toux faible,** répétitive, évoque l'insuffisance cardiaque.
 
-## **III. Les causes**
+## III. Les causes
 
 Toute la pathologie respiratoire peut provoquer une toux ! Quelques causes cependant méritent d'être rappelées :
 
@@ -58,7 +58,7 @@ Toute la pathologie respiratoire peut provoquer une toux ! Quelques causes cepen
 
 Une toux sèche, prolongée, ne survenant jamais pendant le sommeil, doit faire penser à une toux psychogène (tics de l'enfant et de l'adolescent<sup>++</sup>).
 
-## **IV. Les traitements** **antitussifs**
+## IV. Les traitements antitussifs
 
 Ils sont uniquement symptomatiques et doivent en principe être administrés une fois la cause précisée.
 
@@ -76,13 +76,13 @@ En cas d'asthme, le traitement doit d'abord comporter :
 
 Si la toux est grasse, les mucolytiques (N. Acétyl-cystéine) et la kinésithérapie peuvent être utiles.
 
-### **1. Antitussifs centraux**
+### 1. Antitussifs centraux
 
 Ce sont essentiellement les dérivés de la morphine : la codéine contre-indiquée chez l'enfant de moins de trente mois, est très efficace mais peut déprimer le centre respiratoire (danger chez le sujet âgé).
 
 Chez l'enfant, on lui préfère les sédatifs : antihistaminiques type Théralène® ou Phénergan®.
 
-### **2. Antitussifs périphériques**
+### 2. Antitussifs périphériques
 
 Ils agissent sur les récepteurs muqueux trachéobronchiques ; les plus efficaces sont, en fait, les :
 

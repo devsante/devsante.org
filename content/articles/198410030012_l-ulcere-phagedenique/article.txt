@@ -17,11 +17,11 @@ Maladie souvent bénigne dont l'évolution peut cependant être émaillée de co
 ----  
 Text:
 
-## **I. Facteurs étiologiques**
+## I. Facteurs étiologiques
 
 L'ulcère phagédénique serait une complication liée à la surinfection des plaies par une association de deux germes: bacille fusiforme et spirochète de Vincent, avec possibilité de contamination interhumaine expliquant le caractère endémique de la maladie dans certaines régions. Mais à la phase de chronicité, de nombreux germes opportunistes sont retrouvés au niveau de la plaie.
 
-## **II. De nombreux facteurs favorisants**
+## II. De nombreux facteurs favorisants
 
 le défaut d'hygiène et de protection des membres inférieurs notamment chez les jeunes adultes ruraux, les carences nutritionnelles: carences protidiques, avitaminoses, application locale de topique sur les lésions cutanées, la drépanocytose, sont retrouvés, parmi lesquels la négligence d'un traumatisme ou d'une plaie minime tient une place importante.
 
@@ -40,7 +40,7 @@ Les deux germes associés sont responsables de l'angine de Vincent, affection ac
 (image: i144-1.jpg)
 
 
-## **III. Description clinique**
+## III. Description clinique
 
 ### 1. Signes et évolution
 
@@ -76,7 +76,7 @@ L'ulcère phagédénique est différent :
 *   de l'ulcère variqueux chez les sujets porteurs de varices,
 *   de l'ulcère de jambe des drépanocytaires homozygotes qui est souvent bilatéral et de siège juxtamalléolaire.
 
-## **IV. Traitement**
+## IV. Traitement
 
 Il est fondamental d'assurer la prévention du tétanos, l'ulcère constituant une porte ouverte favorable au bacille de Nicolaïer :
 

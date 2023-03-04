@@ -8,13 +8,13 @@ Text:
 
 Reproduit avec autorisation de _: Guide pour la formation en nutrition_ _des agents de santé communautaires._ Genève, Organisation Mondiale de la Santé, 1990.
 
-## **I. Problèmes courants**
+## I. Problèmes courants
 
 Quelques problèmes courants se posent pendant l'allaitement, en particulier au cours des deux premières semaines. Le problème le plus fréquent est celui de la mère qui craint de ne pas pouvoir nourrir son enfant et a des doutes sur la quantité et la qualité de son lait. Les autres problèmes sont les mamelons plats, les mamelons douloureux et les seins très gonflés et douloureux.
 
 Si la mère se prépare à l'allaitement pendant sa grossesse, cela lui évitera un certain nombre de problèmes. L'agent de santé communautaire doit entrer en contact avec toutes les femmes enceintes et discuter avec elles de l'allaitement au sein. Elle doit apprendre à la mère à étirer ses mamelons, à les presser pour en exprimer doucement quelques gouttes de liquide et elle doit lui donner confiance dans sa capacité de bien nourrir son enfant. C'est particulièrement important parce que, pour diverses raisons, il se peut que le lait ne monte pas bien pendant la première semaine qui suit la naissance. L'agent de santé communautaire rendra visite à la mère aussitôt après l'accouchement et l'encouragera, l'aidera et la rassurera.
 
-### **1. Mamelons plats**
+### 1. Mamelons plats
 
 Certaines femmes ont des mamelons courts et plats. C'est surtout le cas de femmes qui ont leur premier enfant (_figure n° 1_). En général, les mamelons sont protractiles (ils peuvent s'étirer) et assez longs. Si le mamelon n'est pas protractile, le bébé aura des difficultés à téter.
 
@@ -27,11 +27,11 @@ Une fois le bébé né, les mamelons peuvent être encore étirés davantage. La
 (image: i695-1.jpg)
 
 
-### **2. Seins gonflés (engorgés)**
+### 2. Seins gonflés (engorgés)
 
 Parfois les seins de la mère fabriquent plus de lait qu'il n'en faut au nourrisson. Cela arrive souvent pendant la première semaine après l'accouchement. Parfois le bébé est trop faible pour téter tout le lait. Si le sein n'est pas vidé normalement, il devient douloureux et gonflé de lait (il est engorgé). La peau est tendue et le bébé n'arrive pas à saisir le bout du sein en entier pour téter. La tétée peut être pénible pour la mère. Il convient de prévenir l'engorgement et de traiter les seins engorgés en les vidant régulièrement.
 
-#### **Comment tirer le lait du sein**
+#### Comment tirer le lait du sein
 
 Il faut apprendre à la mère à tirer son lait quand ses seins sont pleins au point d'en être douloureux (_figure n° 3_). Elle doit d'abord se laver les mains et se munir d'un bol ou d'une tasse propre. Elle entoure le sein de ses deux mains qu'elle fait glisser, en appuyant doucement, de la base du sein vers le mamelon.
 
@@ -42,7 +42,7 @@ S'il y a une boule douloureuse dans le sein au cours de la première semaine d'a
 (image: i695-2.jpg)
 
 
-### **3. Mamelons douloureux**
+### 3. Mamelons douloureux
 
 Les mamelons sont très sensibles. Si la peau est très délicate et que le bébé tète très fort, les mamelons deviennent douloureux. Cela se produit surtout chez les femmes dont les seins sont engorgés et chez celles dont les mamelons sont trop petits ou plats, car le bébé doit téter beaucoup plus fort pour pouvoir maintenir le bout du sein dans sa bouche. Parfois se produisent des crevasses qui sont très douloureuses. Elles sont rarement dues à une morsure du bébé. Une crevasse du sein peut être la porte ouverte à l'infection.
 
@@ -50,13 +50,13 @@ Pour empêcher que les mamelons ne deviennent douloureux, il faut masser l'aréo
 
 Pour soigner les mamelons douloureux, il faut bien vider les seins. La tétée étant généralement trop pénible, il sera nécessaire d'exprimer le lait manuellement. On mettra une pommade antiseptique ou antibiotique (onguent à la tétracycline) sur la crevasse. L'enfant ne devra téter que l'autre sein. Si nécessaire, donner à la mère de l'aspirine ou du paracétamol pour la soulager.
 
-### **4. Seins douloureux et fièvre**
+### 4. Seins douloureux et fièvre
 
 Parfois des germes pathogènes pénètrent dans les seins, peut-être par une crevasse dans le mamelon. Cela provoque des infections. Une partie du sein devient douloureuse, gonflée, rouge et chaude. La femme peut avoir de la fièvre.
 
 Il faut lui donner des antibiotiques et pour cela l'envoyer au centre de santé ou à l'hôpital. Dans ce cas encore, il importe de vider le sein en y mettant le bébé à téter ou en exprimant le lait manuellement. Cela sera très douloureux, mais le bébé doit continuer à téter. L'allaitement ne devra être interrompu que si du pus sort du mamelon. Donner à la mère de l'aspirine ou du paracétamol pour la soulager et faire tomber la fièvre.
 
-### **5. Crainte d'avoir trop peu** **de lait ou un lait** **de mauvaise qualité**
+### 5. Crainte d'avoir trop peu de lait ou un lait de mauvaise qualité
 
 Au début, les mères ont souvent peur de ne pas avoir assez de lait pour leur enfant. Les seins commencent à sécréter le lait entre le troisième et le cinquième jour après l'accouchement. Toutefois, pendant les deux ou trois premiers jours qui suivent l'accouchement, les seins sécrètent assez de colostrum pour nourrir le nouveau-né. Il faut encourager les mères en leur expliquant que :
 
@@ -78,7 +78,7 @@ Il arrive souvent que les mères de bébés de deux à six mois aient peur que l
 
 Les mères pensent parfois que leur lait ne convient pas au bébé ou qu'il est de mauvaise qualité. Les femmes ignorantes et les grand-mères disent souvent de telles choses. En fait, le lait de la mère est la nourriture idéale pour le bébé. Il contient des éléments nutritifs et des substances qui protègent contre les infections. Il faut s'employer à rassurer fermement la mère car, si elle n'a pas confiance, son lait diminuera.
 
-## **II.** **Comment nourrir un bébé dont la mère** **n'a pas de lait :** **les dangers du biberon**
+## II. Comment nourrir un bébé dont la mère n'a pas de lait : les dangers du biberon
 
 Si la mère n'a pas de lait ou si elle est morte en couches, il faudra s'efforcer de trouver quelqu'un d'autre pour allaiter le bébé. Une amie ou une parente peut servir de nourrice. Une nourrice est une femme qui allaite le bébé d'une autre femme. Une femme qui a déjà allaité peut être capable d'allaiter à nouveau. Il faut pour cela qu'elle ait envie d'allaiter le bébé ou qu'elle estime que c'est son devoir. Le bébé doit être mis fréquemment à l'un et à l'autre seins. La femme doit aussi recevoir un supplément de nourriture et de boisson. S'il y a des plantes locales dont on pense qu'elles accroissent la lactation, il faut lui en donner. Ce processus est appelé relactation. La relactation n'est pas un phénomène garanti chez toutes les femmes.
 
@@ -96,7 +96,7 @@ Si la mère n'a vraiment pas de lait et si l'on ne peut pas trouver de nourrice,
 
 Voici quelques précautions à prendre pour que l'alimentation artificielle du bébé soit moins dangereuse.
 
-### **1. Ce que la mère peut faire**
+### 1. Ce que la mère peut faire
 
 *   Se laver les mains avec du savon et de l'eau avant de préparer la nourriture.
 
@@ -111,7 +111,7 @@ Voici quelques précautions à prendre pour que l'alimentation artificielle du b
 (image: i695-3.jpg)
 
 
-### **2. Ce que l'agent de santé communautaire peut faire**
+### 2. Ce que l'agent de santé communautaire peut faire
 
 S'assurer que la famille a les moyens d'acheter du lait. Si la famille est pauvre et ne peut se procurer gratuitement du lait auprès du service de santé, il faudra compléter le peu de lait dont elle disposera avec de la bouillie pour que le bébé soit assez nourri.
 
@@ -129,11 +129,11 @@ Si la mère utilise du lait de vache, de chèvre ou de chamelle pour l'allaiteme
 
 Si on utilise du lait de bufflonne, on enlèvera la crème avant de le faire bouillir, car il contient trop de matières grasses pour les nourrissons. Une fois le lait écrémé, l'utiliser de la même façon que le lait de vache.
 
-## **III. Quelle quantité de lait donner au bébé ?**
+## III. Quelle quantité de lait donner au bébé ?
 
 Un bébé allaité artificiellement a besoin d'absorber chaque jour environ 150 millilitres de lait par kilogramme de son propre poids. Ainsi, un nourrisson pesant trois kilogrammes aura besoin de prendre 450 millilitres de lait par jour. Il devra être nourri environ six à huit fois par jour ; il faudra donc lui donner environ 55 à 75 millilitres de lait dilué à chaque repas. Les bébés un peu plus âgés seront nourris cinq fois par jour. Un bébé de cinq mois pesant sept kilogrammes aura besoin d'un peu plus d'un litre de lait non dilué par jour, soit environ 210 millilitres à chaque repas.
 
-### **Quelques notions importantes à enseigner aux mères au** **sujet de l'allaitement artificiel**
+### Quelques notions importantes à enseigner aux mères au sujet de l'allaitement artificiel
 
 Le lait maternel est le meilleur aliment que l'on puisse donner à un enfant jusqu'à 18-24 mois, mais il faut le compléter par d'autres aliments dès que l'enfant a atteint 4-6 mois.
 

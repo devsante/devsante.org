@@ -8,7 +8,7 @@ Datetime: 1984-04-29 00:00
 ----  
 Text:
 
-## **I. Définition**
+## I. Définition
 
 On dit que le placenta est praevia lorsqu'il s'insère en totalité ou en partie sur le segment inférieur de l'utérus:
 
@@ -19,7 +19,7 @@ Toute grossesse qui saigne au cours des derniers mois doit être adressée à un
 
 La fréquence du placenta praevia est relativement grande: entre 0,5 et 1 % des grossesses.
 
-## **II. Facteurs favorisants**
+## II. Facteurs favorisants
 
 On ne connaît pas les causes réelles des insertions basses du placenta. On constate simplement qu'il existe un certain nombre de facteurs favorisants:
 
@@ -33,14 +33,14 @@ On ne connaît pas les causes réelles des insertions basses du placenta. On con
 
 Notons que l'âge de la femme ne joue aucun rôle dans la survenue d'un placenta praevia.
 
-## **III. Différentes variétés de placenta praevia**
+## III. Différentes variétés de placenta praevia
 
 Au cours du travail, on distinguera les variétés non recouvrantes, c'est-à-dire qui n'empiètent jamais sur la surface de dilatation, des variétés recouvrantes dont il faut souligner d'emblée la gravité (schéma).
 
 (image: i119-1.jpg)
 
 
-## **IV. Mécanismes des hémorragies**
+## IV. Mécanismes des hémorragies
 
 Les hémorragies sont dues au décollement du placenta. Deux mécanismes sont à l'origine de ce décollement:
 
@@ -49,9 +49,9 @@ Les hémorragies sont dues au décollement du placenta. Deux mécanismes sont à
 **b.** le développement du segment inférieur provoque un clivage entre la paroi utérine et le placenta.  
 L'hémorragie est donc essentiellement maternelle, mais elle peut être aussi d'origine foetale. Cette hémorragie, imprévisible, peut être d'une abondance extrême et survenir très brutalement. Elle met en danger la vie de la mère.
 
-## **V. La clinique**
+## V. La clinique
 
-### **1. Au cours des trois derniers** **mois de la grossesse**
+### 1. Au cours des trois derniers mois de la grossesse
 
 *   Un signe majeur: **l'hémorragie**
 
@@ -92,7 +92,7 @@ De telles hémorragies survenant dans les derniers mois de la grossesse imposent
 
 **c.** tantôt la gravité des hémorragies ne laisse d'autre solution que la césarienne.
 
-### **2. Au cours du travail**
+### 2. Au cours du travail
 
 *   Les hémorragies apparaissent dès les premières contractions:
 
@@ -106,11 +106,11 @@ De telles hémorragies survenant dans les derniers mois de la grossesse imposent
 
 - plus souvent des membranes rugueuses qu'il faut alors rompre largement.
 
-### **3. Au cours de la délivrance**
+### 3. Au cours de la délivrance
 
 *   **L'hémorragie** est toujours dramatique car elle survient chez une femme qui a déjà saigné.
 
-## **VI. Le diagnostic différentiel**
+## VI. Le diagnostic différentiel
 
 Au cours des trois derniers mois de la grossesse, il faut distinguer le placenta praevia du décollement prématuré du placenta normalement inséré ou hématome rétroplacentaire.
 
@@ -124,7 +124,7 @@ Celui-ci se traduit dans sa forme typique par:
 
 En fait, le tableau n'est pas toujours aussi simple et, de plus, l'association des deux est parfaitement possible. Enfin, il ne faut pas oublier la possibilité d'une rupture utérine.
 
-## **VII. Le pronostic**
+## VII. Le pronostic
 
 Il est sévère.
 
@@ -148,7 +148,7 @@ Il est sévère.
 
 La mortalité est élevée: de 10 à 30%.
 
-## **VIII. Conduite à tenir**
+## VIII. Conduite à tenir
 
 *   **_Au cours de la grossesse, toute hémorragie doit entraîner une hospitalisation avec:_**
 

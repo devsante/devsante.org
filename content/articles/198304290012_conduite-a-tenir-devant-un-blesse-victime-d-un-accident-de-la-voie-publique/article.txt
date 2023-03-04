@@ -22,9 +22,9 @@ Nous tenterons de répondre schématiquement à ces questions.
 ----  
 Text:
 
-## **A. Conduite à tenir sur les lieux de l'accident**
+## A. Conduite à tenir sur les lieux de l'accident
 
-### **1. Organiser les secours**
+### 1. Organiser les secours
 
 Ne pas transformer cet accident en un accident encore plus grave: le plus urgent n'est pas d'examiner le ou les blessés mais d'éviter qu'une nouvelle catastrophe ne survienne comme cela arrive fréquemment.
 
@@ -65,7 +65,7 @@ On doit: **dépister des lésions mettant en** **jeu la vie du blessé.**
 *   le blessé respire-t-il correctement?
 *   quel est son état neurologique ?
 
-### **_1. Le coeur bat-il ?_ (état hémodynamique)**
+### _1. Le coeur bat-il ?_ (état hémodynamique)
 
 **_Le malade saigne-t-il ?_**
 
@@ -87,14 +87,14 @@ traumatisme de l'abdomen (hémopéritoine),
 
 fracture du fémur ou du bassin.
 
-### **2. Le blessé respire-t-il correctement ?** _(état_ _respiratoire)_
+### 2. Le blessé respire-t-il correctement ? _(état_ _respiratoire)_
 
 *   Le voit-on, l'entend-on respirer ?
 
 *   La position de son cou, la présence de vomissement dans la bouche ne l'empêche t-il pas de respirer ?
 *   Sa respiration est-elle efficace: coloration des muqueuses (sous unguéales) bleutée si inefficace ?
 
-### **3. Existe-t-il une** **lésion neurologique:**
+### 3. Existe-t-il une lésion neurologique:
 
 *   Est-il totalement inconscient?
 *   Ou conscient? Et s'il est conscient, est-il réellement "présent", existe-t-il des signes de désorientation (le blessé connaît-il son nom, la date ? Le lieu où il se trouve ?)
@@ -117,7 +117,7 @@ Une fracture de vertèbre y sera suspectée à chaque fois que le malade est inc
 (image: i73-3.jpg)
 
 
-## **II. Les premiers gestes d'urgence**
+## II. Les premiers gestes d'urgence
 
 Plusieurs situations, rares, nécessitent des gestes d'urgence sur les lieux de l'accident:
 
@@ -130,7 +130,7 @@ Plusieurs situations, rares, nécessitent des gestes d'urgence sur les lieux de 
 
 Tout blessé grave, tout blessé inconscient est suspect de fracture du rachis (vertèbres) et doit donc être manipulé avec précautions en conservant toujours l'axe de la colonne vertébrale afin d'éviter un éventuel déplacement de la fracture et les risques de paralysie que cela entraînerait.
 
-### **1. Le blessé est en état de mort apparente:**
+### 1. Le blessé est en état de mort apparente:
 
 le plus souvent, c'est la conséquence d'une hémorragie foudroyante ou de lésion neurologique grave. Cependant, d'autres causes moins graves sont possibles et une réanimation d'urgence doit toujours être tentée (si on arrive tôt sur les lieux du drame), elle comporte:
 
@@ -144,7 +144,7 @@ Mais il est rare que l'on possède autre chose que ses deux mains sur les lieux 
 
 Cette réanimation, si elle est inefficace (mydriase, cyanose, absence de, réapparition des pouls à l'arrêt du massage et de la respiration) ne sera pas prolongée au-delà de vingt minutes.
 
-### **2. Le malade saigne, il est choqué :**
+### 2. Le malade saigne, il est choqué :
 
 son pouls est rapide, ses conjonctives et ses lèvres pâles; il a soif, il est angoissé, sa tension artérielle est basse (si on peut la prendre!).
 
@@ -157,13 +157,13 @@ Et dans tous les cas, si on en a les moyens:
 *   poser une perfusion à grand débit en passant des solutés macromoléculaires ou tout autre soluté dont on dispose,
 *   transférer le blessé le plus vite possible vers l'hôpital en fixant bien la perfusion et en donnant les quantités de flacons nécessaires à la poursuite de la perfusion pour tout le temps du transport.
 
-### **3. Le blessé respire mal, les voies respiratoires sont encombrées (asphyxie):**
+### 3. Le blessé respire mal, les voies respiratoires sont encombrées (asphyxie):
 
 *   Il faut donner une meilleure position au blessé, éviter l'hyperflexion du cou, le dégager de tout ce qui peut comprimer son thorax; désobstruer au doigt tout ce qui peut venir encombrer sa bouche (caillot de sang, corps étranger, vomissements).
 
 *   Si on dispose du matériel et des compétences nécessaires: intuber le malade s'il est inconscient.
 
-### **4.Le blessé est inconscient :**
+### 4.Le blessé est inconscient :
 
 c'est le cas le plus difficile. Tous les signes de gravité doivent être recherchés (état cardiaque, respiratoire, neurologique, rechercher de grosses fractures) :
 
@@ -175,17 +175,17 @@ c'est le cas le plus difficile. Tous les signes de gravité doivent être recher
 
 et surtout, toujours être très prudent dans les déplacements du blessé par crainte d'une fracture de la colonne vertébrale.
 
-### **5. Le blessé présente une fracture évidente:**
+### 5. Le blessé présente une fracture évidente:
 
 le bras, l'avant-bras, la cuisse ou la jambe sont à l'évidence déformés par une fracture (angulation, raccourcissement, rotation). Il faut réduire sommairement la fracture si elle est très mobile et l'immobiliser sur une attelle de fortune en enveloppant le membre de façon qu'il ne soit pas blessé par l'attelle. Si la fracture est ouverte (plaie associée en regard des os brisés), faire un pansement, le plus propre possible, à ce niveau (compresse si possible stérile imbibée de liquide antiseptique).
 
 Le plus souvent, on ne se trouve pas dans une situation d'extrême urgence de ce type mais le blessé a mal ou, sans même se plaindre, il a subi un accident d'une grande violence (regardez la voiture ou le vélo!) et des lésions graves, en particulier crânienne ou abdominale ont pu se produire et ne deviendront apparentes que secondairement. Il serait donc grave de ne pas déceler ces lésions, de rassurer le blessé et de le renvoyer chez lui mourir un peu plus tard au lieu de le diriger à l'hôpital pour surveillance.
 
-## **III. Conduite de l'examen** **en dehors des situations** **d'extrême urgence**
+## III. Conduite de l'examen en dehors des situations d'extrême urgence
 
 Cet examen a donc pour but de rechercher des lésions inapparentes dans l'immédiat afin de décider si le blessé a besoin d'être surveillé à l'hôpital dans les heures qui suivent; cet examen servira de point de comparaison pour la surveillance ultérieure car ce qui compte, c'est **l'évolution des signes** dans les heures qui vont suivre; il est donc important de noter sur une feuille le nom du malade, la date et l'heure de vos constatations et d'écrire sommairement vos principales constatations aisément chiffrables: état neurologique, existence de points douloureux, pouls, tension...
 
-### **1.** **Examen neurologique**
+### 1. Examen neurologique
 
 Le traumatisme, crânien ou facial, est fréquent, il est utile d'évaluer son intensité : type de l'accident, le blessé portait-il un casque, y a-t-il eu une brève perte de connaissance ou une perte de mémoire:
 
@@ -199,14 +199,14 @@ Le traumatisme, crânien ou facial, est fréquent, il est utile d'évaluer son i
 
 *   A-t-il des vertiges, des troubles de l'équilibre ?
 
-### **2. Examen cardio-vasculaire** (état hémodynamique):
+### 2. Examen cardio-vasculaire (état hémodynamique):
 
 *   Prendre et mesurer le pouls.
 *   La tension artérielle si possible.
 *   Noter la pâleur (conjonctives, lèvres, sous l'ongle).
 *   Rechercher une hémorragie externe.
 
-### **3. Examen respiratoire**
+### 3. Examen respiratoire
 
 *   Coloration des muqueuses (bleutées si respiration inefficace).
 *   Liberté des voies respiratoires (souvent encombrées en cas de traumatisme facial avec saignement de nez).
@@ -215,7 +215,7 @@ Le traumatisme, crânien ou facial, est fréquent, il est utile d'évaluer son i
 *   Recherche de mouvement anormal de la paroi thoracique lors de la respiration dû à un volet costal (fracture de plusieurs côtes), une telle lésion doit être immobilisée par un bandage si le blessé suffoque.
 *   Auscultation, percussion recherchant une matité, une abolition du murmure vésiculaire s'il existe un hémothorax (sang dans la cavité pleurale).
 
-### **4. Recherche d'une fracture de** **vertèbre**
+### 4. Recherche d'une fracture de vertèbre
 
 Ceci est essentiel, nous l'avons déjà dit, car un mauvais mouvement, une faute de transport peut déplacer cette fracture et endommager la moelle épinière (ce qui entraîne, suivant le niveau de la fracture, mort brutale ou paralysie).
 
@@ -227,18 +227,18 @@ Ceci est essentiel, nous l'avons déjà dit, car un mauvais mouvement, une faute
 
 L'existence d'un de ces signes doit faire suspecter une fracture de vertèbre et éviter tout transport brutal sans précaution.
 
-### **5. Recherche d'une fracture de** **membre**
+### 5. Recherche d'une fracture de membre
 
 *   Le blessé peut-il se lever, marcher, remuer les bras ?
 
 *   Existe-t-il une déformation douloureuse d'un membre ? Faire remuer les grosses articulations.
 
-### **6. Examen de l'abdomen**
+### 6. Examen de l'abdomen
 
 *   Y a-t-il eu traumatisme abdominal ?
 *   Le ventre est-il douloureux?
 
-## **IV. Le tri des blessés**
+## IV. Le tri des blessés
 
 Au terme de cet examen, forcément sommaire et incomplet, quels sont les blessés qui doivent être évacués vers l'hôpital et quel est l'ordre d'urgence ?
 
@@ -254,7 +254,7 @@ Puis, les autres!
 
 Le transport à l'hôpital doit se faire rapidement mais sans imprudence, rares sont les blessés où les secondes comptent vraiment, mieux vaut un transport doux, à vitesse continue qu'une cavalcade échevelée où l'on risque d'abîmer encore plus le blessé, de renverser les gens en traversant les villages, d'écraser poules et chèvres !... Les accidents d'ambulance sont souvent les plus graves!
 
-### **B. La surveillance** **du blessé à l'hôpital**
+### B. La surveillance du blessé à l'hôpital
 
 Le blessé arrive souvent à l'hôpital sans avoir été examiné au préalable et il faut faire alors un examen complet et noter ses constatations, car ce qui compte alors c'est l'évolution des signes:
 
@@ -266,7 +266,7 @@ Tout signe suspect apparaissant ou s'aggravant après le premier examen (trouble
 
 **3. Examen respiratoire répété**
 
-### **4. Examen de l'abdomen:**
+### 4. Examen de l'abdomen:
 
 recherche d'une douleur, d'une défense. Certains signes inquiétants au début, dus à un choc direct et majorés par l'anxiété peuvent disparaître; d'autres au contraire, vont apparaître au cours des examens répétés, d'où l'intérêt de revoir régulièrement le blessé dans la journée et de **noter** les constatations pour que vous et celui qui prendra le relais de votre surveillance puisse **comparer** les examens.
 
@@ -282,7 +282,7 @@ A chaque fois qu'un blessé est inconscient ou suspect de traumatisme abdominal 
 
 Groupe sanguin, Hématocrite ou numération sanguine, répété au bout de six à vingt-quatre heures selon les signes pour dépister une hémorragie, Radiographie du crâne face, profil, devant tout traumatisme crânien, Radio du rachis cervical, et dorso-lombaire en cas de doute, Radio des membres en cas de suspicion de fracture, Radio du thorax, Radio du bassin.
 
-### **Conclusion**
+### Conclusion
 
 Il est donc difficile d'entrer dans le détail des attitudes thérapeutiques devant chaque lésion possible, mais, devant un accidenté de la voie publique, un certain nombre de principes peuvent être soulignés:
 

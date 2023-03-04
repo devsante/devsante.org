@@ -15,11 +15,11 @@ Cette réanimation ne se conçoit donc qu'au niveau de structures sanitaires éq
 ----  
 Text:
 
-## **I. L'inefficacité circulatoire**
+## I. L'inefficacité circulatoire
 
 Le terme d'inefficacité circulatoire dans sa signification la plus complète, l'arrêt circulatoire, représente l'urgence totale n'admettant aucun délai dans l'institution de son traitement symptomatique.
 
-### **1. Diagnostic**
+### 1. Diagnostic
 
 Il ne tolère aucun délai. Il se fait essentiellement :
 
@@ -27,7 +27,7 @@ Il ne tolère aucun délai. Il se fait essentiellement :
 *   sur l'aspect du sujet : perte de conscience, pâleur et souvent cyanose périphérique, mydriase bilatérale (inconstante),
 *   en cours d'intervention chirurgicale, la plaie opératoire devient exsangue ou cyanosée, les vaisseaux immobiles.
 
-### **2. Conduite à tenir**
+### 2. Conduite à tenir
 
 *   Appeler à l'aide et noter l'heure.
 *   Placer le sujet sur un plan dur.
@@ -40,11 +40,11 @@ Il ne tolère aucun délai. Il se fait essentiellement :
 
 *   Évaluer les résultats de la réanimation précoce, active et efficace au bout de quelques minutes.
 
-## **II. Le rétablissement de la ventilation alvéolaire**
+## II. Le rétablissement de la ventilation alvéolaire
 
 C'est le premier objectif des gestes d'urgence. Plusieurs techniques peuvent être employées en sachant que l'intubation endotrachéale est la plus efficace.
 
-### **1. Technique du "bouche à bouche"**
+### 1. Technique du "bouche à bouche"
 
 C'est la plus rapide à mettre en oeuvre. Le rétablissement de la ventilation alvéolaire se fait par insufflation d'air expiré. Cette technique qui ne nécessite aucun matériel particulier n'est pas décrite dans cet article.
 
@@ -55,7 +55,7 @@ En ce qui concerne les techniques de bouche à bouche et de ventilation au masqu
 
 La canule est glissée sur la langue, tournée vers le haut, puis retournée afin que la canule repose sur la convexité de la langue. Fixer la canule avec du sparadrap sur la lèvre supérieure (_schéma n°_ _2)._
 
-### **2. Ventilation au masque avec ballon auto-gonflable (Ambu)**
+### 2. Ventilation au masque avec ballon auto-gonflable (Ambu)
 
 Cette technique rend de grands services dans trois circonstances particulières et devrait être connue de tous les médecins ou infirmiers exerçant dans un hôpital (_schéma n°_ _3)._
 
@@ -80,7 +80,7 @@ Elle doit être rigoureuse :
     *   20/minute pour l'enfant,
     *   40/minute pour le nouveau-né (attention alvéoles fragiles).
 
-### **3. L'intubation endo-trachéale** **(par la bouche)**
+### 3. L'intubation endo-trachéale (par la bouche)
 
 Nous détaillerons ici le matériel nécessaire à une intubation et vous rappelons que lors de toute anesthésie, ce matériel doit être à portée de la main et en bon état de fonctionnement _(schéma n° 4_) _:_
 
@@ -120,11 +120,11 @@ Si un seul poumon est ventilé, retirer la sonde de 1 à 2 cm après avoir dégo
 
 L'extubation se fait lorsque le patient a récupéré une conscience normale, une ventilation spontanée efficace et un état hémodynamique satisfaisant (ne pas oublier de dégonfler le ballonnet et d'aspirer dans la trachée avant l'extubation) .
 
-## **III. Massage cardiaque**
+## III. Massage cardiaque
 
 C'est le second geste d'urgence, à effectuer simultanément à la ventilation assistée. Les techniques ne nécessitant aucun matériel ne sont pas étudiées dans cet article.
 
-## **IV. Adjuvants thérapeutiques essentiels**
+## IV. Adjuvants thérapeutiques essentiels
 
 L'arrêt circulatoire s'accompagne toujours de perturbations métaboliques dont la plus importante est l'acidose. Pour ramener une activité cardiaque normale, il faut corriger cette acidose et souvent utiliser des agents pharmacologiques (produits vaso-actifs).
 

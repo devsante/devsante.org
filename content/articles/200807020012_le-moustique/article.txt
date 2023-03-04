@@ -39,7 +39,7 @@ Les lieux de ponte de l'anophèle (ou gîtes larvaires) :
 *   Dans une zone où les hôtes à piquer sont nombreux, l'anophèle ne parcourt pas plus de quelques centaines de mètres entre le lieu de ponte et le lieu de son repas de sang. Mais il peut voler jusqu'à 5 kilo­mètres lorsqu'il ne trouve pas de cible à proximité.
 *   Il vole de préférence la nuit, aux heures humides, pour éviter de trop se déshydra­ter. Mais il arrive qu'il entre dans la maison aux heures de la journée.
 
-### **2. La cible de l'anophèle**
+### 2. La cible de l'anophèle
 
 *   L'anophèle est attiré par les odeurs mais aussi par les couleurs sombres, la chaleur (les adultes attirent plus l'anophèle que les enfants), le CO<sup>2</sup>. La piqûre est indolore sur le moment.
 *   Selon les espèces, il préfère piquer soit l'homme, soit les animaux.

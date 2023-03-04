@@ -20,14 +20,14 @@ Lutter contre le choléra c'est lutter contre sa transmission:
 *   transmission de l'eau à l'homme,
 *   transmission directe d'homme à homme.
 
-## **Epidémiologie**
+## Epidémiologie
 
-### **1. Agent pathogène:** **le vibrion cholérique**
+### 1. Agent pathogène: le vibrion cholérique
 
 *   Les vibrions responsables sont des bacilles Gram négatif, très fins, en forme de virgule, très mobiles à l'examen microscopique sur lame.
 *   Les vibrions responsables du choléra sont appelés **vibrio cholerae 01,** et les épidémies actuelles sont dues aux types **el Tor-Ogawa** ou **el Tor-Inaba.** Il existe d'autres espèces de vibrions, qui ne provoquent pas le choléra.
 
-### **2. Réservoir**
+### 2. Réservoir
 
 Le seul réservoir est le tube digestif de l'homme, malade ou porteur sain.
 
@@ -56,7 +56,7 @@ La durée de survie des vibrions émis dans les selles est variable :
 plusieurs semaines dans des vêtements humides,  
 Le vibrion est facilement détruit par le dessèchement, l'ébullition, le chlore.
 
-### **3.** **Transmission**
+### 3. Transmission
 
 L'homme se contamine en absorbant par la bouche des vibrions cholériques:
 
@@ -87,7 +87,7 @@ Contacts avec les selles ou les vomissements d'un malade.
 Contacts avec les cadavres (toilette mortuaire).  
 Rassemblements (fêtes, marchés, enterrements) qui multiplient les contacts et aggravent les conditions d'hygiène.
 
-### **4. Modalités épidémiques**
+### 4. Modalités épidémiques
 
 On distingue l'état endémique et les poussées épidémiques:
 
@@ -97,7 +97,7 @@ En zone **humide** (Asie, littoral et fleuves africains, saison des pluies) les 
 
 En zone **sèche** (Sahel) les poussées épidémiques sont brèves mais brutales et imprévisibles. La transmission est surtout directe, d'homme à homme, avec absorption de grandes quantités de vibrions. On trouve jusqu'à 100 % de porteurs sains et le choléra peut atteindre 50 % de la population.
 
-### **5. Répartition géographique**
+### 5. Répartition géographique
 
 L'épidémie mondiale actuelle a débuté en Asie en 1960, s'est étendue vers l'ouest, et atteint actuellement tout le continent africain.
 
@@ -140,9 +140,9 @@ incubation 8 heures à 37 °C en **eau peptonée alcaline à 3 % de Na CI,** rep
 (image: i186-1.jpg)
 
 
-## **Lutte contre le choléra**
+## Lutte contre le choléra
 
-### **1. Traitement des malades**
+### 1. Traitement des malades
 
 Le choléra guérit en quelques jours, même dans les formes graves, si la réhydratation est précoce et rapide.
 
@@ -202,7 +202,7 @@ Le traitement antibiotique diminue le volume et la durée de la diarrhée. On ut
 
 La possibilité de **résistance** des vibrions aux cyclines et aux sulfamides nécessite, en cas d'épidémie, de transmettre des échantillons de selles à un laboratoire capable d'effectuer un antibiogramme.
 
-### **2. Organisation de la lutte** **contre les épidémies**
+### 2. Organisation de la lutte contre les épidémies
 
 Tout responsable de santé doit:
 

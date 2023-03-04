@@ -18,7 +18,7 @@ L'analyse biologique du liquide céphalorachidien comporte trois étapes:
 
 L'étude complète du liquide céphalorachidien nécessite un laboratoire équipé pour la microbiologie et la biochimie. Cependant, l'examen direct est réalisable facilement, avec peu de matériel: un microscope, une centrifugeuse (si possible, même manuelle), une cellule de Malassez et des colorants. Il est donc à la portée des hôpitaux ou des centres de santé situés en zone rurale ou dans des petites localités disposant seulement d'un petit laboratoire. C'est l'examen le plus intéressant car il donne des renseignements précieux et rapides. Il peut être réalisé en moins d'une demi-heure et les résultats doivent être transmis aussitôt.
 
-## **I. Prélèvement**
+## I. Prélèvement
 
 Il doit toujours être effectué dans des conditions d'asepsie rigoureuses, avant tout traitement antibiotique.
 
@@ -26,7 +26,7 @@ Le liquide céphalorachidien est recueilli dans trois tubes stériles, remplis s
 
 Si l'examen doit être différé, les échantillons seront conservés à 37°C pour les cultures, et à 4°C pour l'étude des cellules.
 
-## **II. Examen macroscopique**
+## II. Examen macroscopique
 
 Après homogénéisation par une légère agitation, on note le degré de limpidité du liquide et sa coloration.
 
@@ -38,9 +38,9 @@ Après homogénéisation par une légère agitation, on note le degré de limpid
 
 *   _Les liquides sanglants ou jaunes_ (appelés xanthochromiques) dans les trois tubes évoquent plutôt une hémorragie méningée, sans toutefois éliminer systématiquement une méningite.
 
-## **III. Examen microscopique**
+## III. Examen microscopique
 
-### **1. Numération des éléments**
+### 1. Numération des éléments
 
 Après homogénéisation du liquide céphalorachidien, la numération des leucocytes et des hématies est effectuée en cellule de Malassez _(figure n° 1)._
 
@@ -79,7 +79,7 @@ Un liquide clair peut également s'observer dans les méningites purulentes déc
 (image: i641-1.jpg)
 
 
-### **2. Examen qualitatif des éléments**
+### 2. Examen qualitatif des éléments
 
 Il doit être fait dès que le nombre de cellules dépasse dix par mm<sup>3</sup>**.** Centrifuger le liquide céphalorachidien à 5 000 tours/mn pendant cinq à dix minutes dans un tube conique stérile.
 
@@ -100,7 +100,7 @@ Il faut noter que dans les premières heures d'une méningite purulente, on peut
 (image: i641-2.jpg)
 
 
-### **3. Examen bactériologique**
+### 3. Examen bactériologique
 
 **Coloration de Gram** _(tableau n°3)_
 

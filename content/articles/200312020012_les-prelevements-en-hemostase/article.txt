@@ -11,7 +11,7 @@ Les conditions de prélèvement sont primordiales, leur qualité conditionne la 
 ----  
 Text:
 
-## **I.** Conditions optimales de prélèvements
+## I. Conditions optimales de prélèvements
 
 **1.** Garrot modérément serré et maintenu peu de temps.
 
@@ -28,7 +28,7 @@ Text:
 
 **6.** Pour certaines explorations de la fibrinolyse, il faut tenir compte de la variation circadienne de l'activité fibrinolytique plasmique. Le prélèvement s'effectue sur un sujet à jeûn, au repos, à distance d'une prise d'alcool (6h minimum).
 
-## II**.** Choix des tubes
+## II. Choix des tubes
 
 <table>
 

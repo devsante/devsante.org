@@ -53,7 +53,7 @@ Parfois la stérilisation du foyer tuberculeux reste impossible. Le BK devient r
 
 De fait, les complications de la tuberculose entrainent un état d'hypercatabolisme avec trois conséquences majeures : l'insuffisance respiratoire, la dénutrition et l'immunodépres­sion. Ce qui justifie la pratique de la chirurgie dans les complications de la tuberculose par une équipe pluridisciplinaire, incluant particu­lièrement le pneumologue, l'anesthésiste­réanimateur et le radiologue. Elle nécessite une évaluation fonctionnelle respiratoire et une préparation rigoureuses à l'intervention. C'est une chirurgie potentiellement hémorra­gique qui doit être pratiquée par une équipe chirurgicale expérimentée.
 
-## **V. Les méthodes chirurgicales**
+## V. Les méthodes chirurgicales
 
 Le traitement chirurgical de la tuberculose et ses complications a été le point de départ de la chirurgie thoracique moderne. De ce fait décrire toutes les techniques utilisées équivau­drait à faire un panorama de la spécialité. Nous nous limiterons donc au rappel des principales techniques dans leurs indications actuelles.
 
@@ -71,7 +71,7 @@ Elles doivent être à la fois radicales (enlevant l'ensemble des lésions) et �
 
 Il s'agit d'intervention effectuées le plus sou­vent pour des raisons bronchiques ou vascu­laires chez des patients à fonction respiratoire limite. Ce sont des lobectomies (sleeve-resec­tion) avec anastomoses bronchiques (broncho­plastie). Ces exérèses sont techniquement difficiles et peu fréquentes.
 
-#### **c) Les exérèses atypiques (wedge-resec­tions) :**
+#### c) Les exérèses atypiques (wedge-resec­tions) :
 
 Ce sont des résections de coins de parenchy­me pulmonaire. Elles sont indiquées "pour des lésions très limitées et périphériques. Elles sont peu pratiquées.
 
@@ -81,7 +81,7 @@ Ce sont des résections de coins de parenchy­me pulmonaire. Elles sont indiqué
 
 Elle consiste à éliminer la gangue pleurale épaissie qui entoure l'épanchement enkysté et à libérer le poumon engainé par cette coque pleurale pour permettre sa réexpansion. Cette pleurectomie peut être associée à une exérèse parenchymateuse en cas de lésions sous-jacentes. Il s'agit le plus souvent d'un lobe, rarement d'une pleuro-pneumonectomie.
 
-#### **b) Les thoracoplasties :**
+#### b) Les thoracoplasties :
 
 Consistent à reséquer les côtes supérieures afin de supprimer la charpente osseuse de la paroi thoracique et permettre par la suite l'affaissement du sommet pulmonaire et la mise au repos des foyers tuberculeux sous­jacents qui, n'étant plus ventilés vont évoluer vers la guérison bactériologique et la fibrose. La thoracoplastie peut être utilisée comme méthode thérapeutique isolée ou comme com­plément d'une exérèse afin de réduire le volume de la cavité pleurale et permettre une meilleure réhabilitation par le lobe restant. Cette thoracoplastie complémentaire peut être pratiquée en même temps qu'une exérè­se ou secondairement.
 
@@ -97,7 +97,7 @@ Le drainage pleural et la thoracostomie sont des techniques de drainage de l'emp
 
 L'anesthésie dans le contexte d'une chirurgie des complications de la tuberculose est carac­térisée par l'intubation sélective avec exclusion du côté à opérer. C'est une condition opéra­toire essentielle qui permet la protection du poumon controlatéral contre l'inondation et la contamination bactériologique. Pour la réussi­te de l'intervention, il doit donc exister une véritable coordination technique "chirurgie­anesthésie" afin d'obtenir une condition opé­ratoire optimale.
 
-## **VI. Les indications**
+## VI. Les indications
 
 ### 1. Circonstances de la décision opératoire
 

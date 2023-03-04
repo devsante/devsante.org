@@ -17,7 +17,7 @@ Nous ne reviendrons pas sur les grandes déshydratations, chacun en connaît les
 
 La PIP est une technique simple, mais exi­geant une grande maîtrise, et la possibilité de disposer d'un matériel rigoureusement stérile. Sinon, il vaut mieux ne pas s'en servir et en choisir une autre.
 
-## **I. Contre-indications**
+## I. Contre-indications
 
 *   La présence d'anses intestinales dilatées (météorisme).
 *   L'ascite.
@@ -25,7 +25,7 @@ La PIP est une technique simple, mais exi­geant une grande maîtrise, et la pos
 
 Dans ces cas, il faut renoncer à utiliser la PIP.
 
-## **II. Matériel**
+## II. Matériel
 
 *   Nécessaire à perfusion
 *   Plateau stérile
@@ -35,11 +35,11 @@ Dans ces cas, il faut renoncer à utiliser la PIP.
 *   Coton, sparadrap
 *   Nécessaire pour immobiliser le patient.
 
-## **III. Liquide de perfusion**
+## III. Liquide de perfusion
 
 Il faut disposer de flacons de différentes capa­cités selon la quantité à passer 100, 250, 500 millilitres.
 
-### **1. En milieu hospitalier**
+### 1. En milieu hospitalier
 
 Liquide de perfusion sans potassium tant que l'enfant n'urine pas.
 
@@ -51,7 +51,7 @@ b) 1/2 Darow, 1/2 de glucosé à 5 %, si l'enfant urine,
 
 c) 1/3 de sérum physiologique à 9 °/°°, 1/3 de glucosé à 5 %, 1/3 de lactate à 1/6 molaire.
 
-### **2. En dispensaire**
+### 2. En dispensaire
 
 On choisit un mélange simple 1/2 de sérum, Nacl 9 °/oo et 1/2 de glucosé à 5 % qui peut aussi être le seul réalisable en milieu hospitalier.
 
@@ -61,9 +61,9 @@ Le potassium, 3 g par litre n'est ajouté qu'après reprise de la diurèse.
 
 Dans la plupart des cas, l'urgence et l'absence d'ionogramme obligent à fixer les mélanges de perfusion arbitrairement.
 
-## **IV. Volume à injecter**
+## IV. Volume à injecter
 
-### **1. Quantité**
+### 1. Quantité
 
 Le calcul du volume à perfuser se fait en addi­tionnant les pertes liquidiennes, généralement appréciées cliniquement ou par mesure de la perte de poids, et la ration hydrique en eau par jour.
 
@@ -73,7 +73,7 @@ Les volumes à perfuser sont les suivants :
 *   240 ml/kg pour une déshydratation sévère (10 % de perte de poids);
 *   280 ml/kg pour une déshydratation gravis­sime (15 % de perte de poids).
 
-### **2. Rythme de la perfusion**
+### 2. Rythme de la perfusion
 
 *   50 à 60 ml/kg à température ambiante;
 *   durée 10 à 30 minutes ;
@@ -83,7 +83,7 @@ Les volumes à perfuser sont les suivants :
 (image: 12020-1.jpg)
 
 
-## **V. Technique**
+## V. Technique
 
 Etablir un bilan général, en particulier, estimer le taux de déshydratation en appréciant les pertes liquidiennes.
 
@@ -104,7 +104,7 @@ On choisit de préférence un point situé à mi-distance entre l'épine iliaque
 (image: 12020-3.jpg)
 
 
-## **VII. Surveillance**
+## VII. Surveillance
 
 Surveiller le patient, ne pas s'inquiéter de l'aug­mentation du volume abdominal pendant la perfusion, rassurer les mères souvent inquiètes à cause de cela pour leur enfant.
 
@@ -113,7 +113,7 @@ L'absorption du liquide, et donc le retour à un volume abdominal, se font très
 (image: 12020-6.jpg)
 
 
-## **VIII. Conclusion**
+## VIII. Conclusion
 
 La réhydratation par perfusion intrapérito­néale est une technique simple et très efficace en cas de déshydratation importante, lorsque l'utilisation des autres voies d'abord n'est pas accessible (IV, dénudation veineuse, etc.).
 

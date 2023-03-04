@@ -10,13 +10,13 @@ Text:
 
 Les traitements locaux connaissent un grand succès auprès des malades de tous les pays atteints d'affections cutanées car l'application d'une lotion ou d'une pommade directement sur la lésion est spectaculaire et logique. Cependant, il faut garder en mémoire quelques règles simples de prescription de ce type de traitement.
 
-### **1. Respecter les indications du traitement local**
+### 1. Respecter les indications du traitement local
 
 Paradoxalement, le traitement par voie générale est souvent plus efficace que la voie locale dans beaucoup de maladies ou symptômes dermatologiques.
 
 Exemple : l'urticaire doit être traité par voie générale (par un antihistaminique).
 
-### **2. Les formes galéniques**
+### 2. Les formes galéniques
 
 doivent être utilisées en fonction du type de lésion et de sa localisation. Les formes
 
@@ -28,7 +28,7 @@ doivent être utilisées en fonction du type de lésion et de sa localisation. L
 
 Se rappeler que les pommades se transforment en huile à la chaleur, si possible les stocker dans un endroit frais.
 
-### **3. Tous les produits sous forme de tube, pot, bouteille**
+### 3. Tous les produits sous forme de tube, pot, bouteille
 
 risquent d'être contaminés dès qu'ils sont ouverts. Il faut systématiquement jeter tout produit ouvert depuis plus de quinze jours.
 
@@ -36,9 +36,9 @@ Il faut donc prévoir le volume du récipient en fonction de la fréquence d'uti
 
 Ne jamais oublier qu'il existe un effet placebo non négligeable avec les produits locaux, d'où leur succès. Il peut s'agir là de l'effet désiré : par exemple, en cas de démangeaison (prurit) chronique sans cause retrouvée ou si la cause a déjà été traitée, un produit local comme la vaseline est à recommander car elle graisse la peau, ce qui diminue le prurit et c'est un produit dénué d'effet secondaire et peu coûteux.
 
-## **I. Les antiseptiques**
+## I. Les antiseptiques
 
-### **1. Règles générales**
+### 1. Règles générales
 
 Ces produits servent à désinfecter la peau saine en prévision d'un acte médical (vaccination, chirurgie), ou lésée pour éviter une infection.
 
@@ -48,7 +48,7 @@ Le choix de l'antiseptique dépend du caractère préventif ou curatif de son em
 
 Deux à trois antiseptiques différents suffisent largement à la pratique médicale en dermatologie. Dans la même catégorie d'antiseptique, choisir le moins cher localement.
 
-### **2. Précautions particulières**
+### 2. Précautions particulières
 
 • Ne pas appliquer successivement deux antiseptiques différents: risque d'incompatibilité, d'irritation ou d'allergie.
 
@@ -60,9 +60,9 @@ Deux à trois antiseptiques différents suffisent largement à la pratique médi
 (image: i605-2.jpg)
 
 
-## **II. Les antibiotiques locaux**
+## II. Les antibiotiques locaux
 
-### **1. Règles générales**
+### 1. Règles générales
 
 *   Ils ne remplacent pas les antibiotiques par voie générale, même en cas d' infection localisée.
 *   Ils sont souvent allergisants.
@@ -70,7 +70,7 @@ Deux à trois antiseptiques différents suffisent largement à la pratique médi
 *   Ils sont plus chers que les antiseptiques.
 *   De ces constatations, on déduit que les indications des antibiotiques locaux sont très réduites. En pratique, on utilise les antibiotiques locaux pour la prévention de la gonococcie néonatale à la naissance (collyre ou pommade ophtalmique à la tétracycline) et le traitement de la conjonctivite bactérienne.
 
-### **2. Précautions d'usage**
+### 2. Précautions d'usage
 
 Les formes crème et pommade sont rapidement contaminées après l'ouverture du conditionnement, il faut les jeter systématiquement après quinze jours d'utilisation.
 
@@ -80,9 +80,9 @@ préférable, après savonnage et rinçage, d'utiliser un antiseptique local plu
 
 En cas d'impétigo étendu, érysipèle, anthrax, abcès, il faut donner un antibiotique général (Pénicilline M ou G), plus ou moins associé à un geste chirurgical pour l'abcès.
 
-## **III. Dermocorticoïdes**
+## III. Dermocorticoïdes
 
-### **1. Règles générales**
+### 1. Règles générales
 
 Ils ont des indications rigoureuses en dermatologie limitées à :
 
@@ -143,13 +143,13 @@ appliquer un dermocorticoïde de classe I chez un nourrisson.
 
 Continuer le traitement, dès qu'une amélioration est notée, par un dermocorticdide de classe III pour un adulte (ou IV pour un nourrisson ou un jeune enfant), ou espacer les applications du même dermocorticoïde (une fois par jour, puis une fois tous les deux jours). Ne jamais arrêter brutalement un traitement dermocorticôide prolongé (plus de dix jours) car il existe un risque de rechute, en particulier pour l'eczéma.
 
-## **IV. Les antiparasitaires**
+## IV. Les antiparasitaires
 
-### **1. Règles générales**
+### 1. Règles générales
 
 Ne pas entreprendre de traitement antiparasitaire sans s'être assuré que la personne et toutes les personnes vivant sous le même toit peuvent se traiter en même temps et qu'elles peuvent prendre une douche ou un bain sur place ou à domicile. Il faut également prévoir un changement de vêtement au moment du traitement.
 
-### **2. Précaution d'emploi**
+### 2. Précaution d'emploi
 
 • Adapter le choix du produit et surtout la _durée d'application_ de l'antiparasitaire à l'âge : risque de toxicité en cas d'application prolongée chez le jeune enfant.
 
@@ -164,13 +164,13 @@ Ne pas entreprendre de traitement antiparasitaire sans s'être assuré que la pe
 
 _Voir tableau n°7._
 
-## **V. Divers**
+## V. Divers
 
-### **1. Cicatrisants**
+### 1. Cicatrisants
 
 _Voir tableau n°8_
 
-### **2. Antiprurigineux**  
+### 2. Antiprurigineux  
 Rappels :
 
 La première cause de prurit (démangeaison) est la gale (et les poux). Seul le naheI ment antlpaiasitaire est définitivement efficace dans ce cas.
@@ -189,15 +189,15 @@ La première cause de prurit (démangeaison) est la gale (et les poux). Seul le 
 
 • La simple application de vaseline peut suffire à calmer un prurit.
 
-### **3. Kératolytiques**
+### 3. Kératolytiques
 
 _Voir tableau n° 9._
 
-### **4. Antifongiques**
+### 4. Antifongiques
 
 _Voir tableau n° 10._
 
-### **5. Dépigmentants**
+### 5. Dépigmentants
 
 Ils sont pour la plupart très toxiques, en particulier la crème des " Trois Fleurs d'Orient" et le trio dépigmentant, en cas d'applications
 

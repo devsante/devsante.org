@@ -15,9 +15,9 @@ Une fois posé le diagnostic lésionnel, il importe de reconnaître sous des asp
 ----  
 Text:
 
-## **I. Aspects fondamentaux**
+## I. Aspects fondamentaux
 
-### **1. Eczéma aigu**
+### 1. Eczéma aigu
 
 La lésion élémentaire passe par quatre stades successifs dominés par un maître symptôme: le **prurit.**
 
@@ -29,7 +29,7 @@ La lésion élémentaire passe par quatre stades successifs dominés par un maî
 
 *   **stade de desquamation et de guérison :** l'oedème et le suintement disparaissent. La desquamation de l'épiderme se produit. Si la cause s'éteint, la peau reprend son aspect normal en quelques jours.
 
-### **2. Eczéma chronique**
+### 2. Eczéma chronique
 
 Il peut succéder à un eczéma aigu ou se manifester d'emblée sous cette forme.
 
@@ -41,9 +41,9 @@ La **surinfection** modifie souvent la lésion qui se présente comme un impéti
 
 En fonction du siège et de la variété étiologique, la prédominance d'un des quatre stades rend compte de l'aspect particulier: forme essentiellement oedémateuse (visage, organes génitaux), forme purement squameuse (kératodermie palmo-plantaire), forme lichenifiée pure (névrodermite).
 
-## **II.** **Principales variétés** **cliniques et étiologiques**
+## II. Principales variétés cliniques et étiologiques
 
-### **1. Eczéma de contact**
+### 1. Eczéma de contact
 
 Il constitue la majorité des causes. Le diagnostic est posé à l'aide d'un faisceau d'arguments.
 
@@ -75,7 +75,7 @@ Certains eczémas sont dus à l'action conjointe sur la peau d'une substance dit
 (image: i391-2.jpg)
 
 
-### **2. La dysidrose et les eczémas** **dysidrosiques**
+### 2. La dysidrose et les eczémas dysidrosiques
 
 C'est une variété particulière l'eczéma siégeant aux mains et aux pieds (paumes, plantes, face latérale des doigts et des orteils).
 
@@ -94,7 +94,7 @@ C'est une variété particulière l'eczéma siégeant aux mains et aux pieds (pa
 (image: i391-3.jpg)
 
 
-### **3. Dermite atopique**
+### 3. Dermite atopique
 
 Les aspects cliniques varient selon l'âge mais dans tous les cas, la tendance à la chronicité et aux récidives est une caractéristique de ces eczémas.
 
@@ -117,13 +117,13 @@ Les aspects cliniques varient selon l'âge mais dans tous les cas, la tendance �
 
 **Eczéma atopique chez l'adulte :** celui-ci peut d'ailleurs apparaître sans passé particulier dans l'enfance. Les lésions sont peu étendues, lichénifiées, épaissies, atteignant les surfaces de flexion (cou, paupières, mains, dos des pieds) avec tendance aux dartres (eczématides achromiantes) à l'ichtyose (xérose diffuse). Les poussées sont favorisées par divers facteurs climatiques (sudation), psychiques, vestimentaires (laine, nylon), cosmétiques. La tendance à la polysensibilisation de ces malades doit être prise en considération pour le choix de certaines thérapeutiques ou de l'activité professionnelle.
 
-## **III. Les principes thérapeutiques des eczémas**
+## III. Les principes thérapeutiques des eczémas
 
 suppression du facteur allergisant ou irritant,
 
 lutte contre la réaction inflammatoire par un traitement local adapté à la variété clinique et au stade, et une médication générale à visée antihistaminique, prévention et traitement de la surinfection, le traitement local suffit dans la majorité des cas à assurer la guérison.
 
-### **1. La phase aiguë suintante**
+### 1. La phase aiguë suintante
 
 Les antiseptiques non irritants vont éviter la surinfection et limiter le suintement :
 
@@ -135,7 +135,7 @@ Les antiseptiques non irritants vont éviter la surinfection et limiter le suint
 
 **En l'absence de surinfection,** les lotions ou crèmes corticoïdes amènent la régression rapide des lésions.
 
-### **2. La phase desquamative** **sèche**
+### 2. La phase desquamative sèche
 
 Les antiseptiques sont toujours de mise, en solution alcoolique, ils auront un effet antiprurigineux (Héxomédine® ).
 

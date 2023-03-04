@@ -8,7 +8,7 @@ Datetime: 1989-06-01 00:00
 ----  
 Text:
 
-## **I.Rappel clinique sur l'ascite**
+## I.Rappel clinique sur l'ascite
 
 La ponction d'ascite consiste à retirer du liquide d'ascite, c'est-à-dire d'un épanchement liquidien dans le péritoine dans le but soit diagnostique, soit thérapeutique.
 
@@ -22,9 +22,9 @@ Normalement la cavité péritonéale ne doit pas être remplie de liquide. Le di
 
 Le diagnostic clinique est généralement aisé devant un gros épanchement. Il peut être difficile si l'épanchement est petit, l'abdomen est à peine augmenté de volume et le principal signe clinique consiste en une matité des flancs. Mieux vaut dans ce cas s'abstenir de pratiquer la ponction si ce geste n'est pas indispensable et que l'on est hors d'un hôpital. Le principal problème est de déterminer la cause et dans ce but, la ponction devient indispensable.
 
-## **II.** **Indications**
+## II. Indications
 
-### **1. La ponction d'ascite peut** **être pratiquée dans un but** **diagnostique**
+### 1. La ponction d'ascite peut être pratiquée dans un but diagnostique
 
 *   Pour affirmer la présence de liquide dans le péritoine, ce qui est anormal.
 
@@ -52,7 +52,7 @@ A noter encore, chez un malade cirrhotique dont le liquide avait été analysé 
 (image: i379-2.jpg)
 
 
-### **2. La ponction d'ascite peut** **être pratiquée dans un but** **thérapeutique**
+### 2. La ponction d'ascite peut être pratiquée dans un but thérapeutique
 
 Il s'agit d'un cirrhotique souffrant d'un énorme épanchement de dix à vingt litres, comprimant le thorax et gênant la respiration et la pompe cardiaque. Des ponctions vont soulager le patient mais sans le guérir et avec le risque de le priver d'eau et d'électrolytes contenus dans le liquide.
 
@@ -70,9 +70,9 @@ Il s'agit d'un cirrhotique souffrant d'un énorme épanchement de dix à vingt l
 
 **b.** Par ailleurs, chez certains malades dont le diagnostic est fait et s'avère de mauvais pronostic et dépourvu de ressources thérapeutiques réelles, il faut se poser la question si ce geste est vraiment indispensable et ne serait pas plutôt nuisible.
 
-## **III.Technique**
+## III.Technique
 
-### **1. Matériel**
+### 1. Matériel
 
 *   Compresses stériles, coton, alcool iodé.
 
@@ -84,7 +84,7 @@ Il s'agit d'un cirrhotique souffrant d'un énorme épanchement de dix à vingt l
 
 *   En cas de ponction évacuatrice, une tubulure de perfusion et un bocal gradué.
 
-### **2. Technique**
+### 2. Technique
 
 Le patient est en décubitus dorsal, couché sur le dos. Avant tout, on palpe l'abdomen et on s'assure qu'il n'a pas une grosse rate qui descend jusqu'à l'ombilic ou plus bas, comme c'est souvent le cas en milieu tropical. La ponction devient contre-indiquée du côté gauche dans ce cas.
 

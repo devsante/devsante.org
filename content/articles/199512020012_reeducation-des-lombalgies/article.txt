@@ -10,7 +10,7 @@ Text:
 
 Les lombalgies et les lombo-sciatiques sont des pathologies extrêmement fréquentes contractées aussi bien lors d'activités professionnelles ou domestiques que sportives ; la banalisation de ces syndromes ne doit pas faire oublier l'importance d'une prise en charge rigoureuse adaptée à chaque patient dont les dominantes seront non seulement la lutte contre la douleur mais aussi la prévention des récidives.
 
-## **I. Rappels anatomo-pathologiques**
+## I. Rappels anatomo-pathologiques
 
 Le grand nombre de formes cliniques reflète la multiplicité des causes, ces dernières devront être identifiées par le médecin afin d'écarter des cas qui ne sont pas redevables de la kinésithérapie, tels que les lombalgies d'origines tumorales ou gynécologiques.
 
@@ -26,7 +26,7 @@ _- arthrosiques_, touchant plus particulièrement les articulations interapophys
 
 - liés à des _souffrances musculaires ou_ _ligamentaires._
 
-## **II. Traitement**
+## II. Traitement
 
 Il sera toujours réalisé après un bilan détaillé permettant de connaître les circonstances d'apparition des signes cliniques, le mode de vie du patient, mais aussi les différentes particularités (examen morphostatique) et possibilités physiques (exploration de la mobilité) du patient, indispensables pour adapter et orienter précisément le traitement.
 
@@ -80,7 +80,7 @@ L'évolution logique du traitement amènera la rééducation en station debout, 
 
 À ce stade, le renforcement se fera plutôt sur le mode dynamique sans pour autant solliciter des mouvements de grande amplitude ; par exemple, le thérapeute pourra se tenir face au patient afin de lui lancer un sac contenant 2 à 3 kg de sable en lui demandant de réceptionner celui-ci en "verrouillant " sa zone lombaire ; préalablement, le patient l'aura correctement placée en co-contractant ses abdominaux et ses paravertébraux et en utilisant ses membres inférieurs comme " amortisseurs " de rotation et de flexion-extension qui d'habitude auraient été "absorbées " par le dos ; le tout en effectuant une apnée en inspiration qui, physiologiquement par la descente du muscle inspirateur principal qu'est le diaphragme, pousse sur les viscères contre la paroi abdominale contractée réalisant ainsi un véritable " caisson " augmentant très largement la résistance de la zone lombaire aux contraintes.
 
-## **III. Prévention des récidives**
+## III. Prévention des récidives
 
 Il s'agit certainement de la phase la plus importante qui devrait être enseignée à tous avant la survenue d'un quelconque syndrome douloureux.
 

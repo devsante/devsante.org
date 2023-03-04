@@ -56,7 +56,7 @@ Text:
 
 ## V. Les différents diagnostics
 
-### **a) Pulpite aiguë**
+### a) Pulpite aiguë
 
 *   Carie importante, le patient a déjà eu des épisodes douloureux, la douleur est discontinue, vive, exacerbée par le chaud et le froid, lancinante, pulsatile.
 *   Le patient ne reconnaît pas la dent douloureuse en raison de l'irradiation de la douleur vers les dents adjacentes.
@@ -65,7 +65,7 @@ Text:
 *   Les tests thermiques sont positifs.
 *   Le cliché radiologique ne révèle pas d'atteinte du périapex.
 
-### b) Gangrène pulpaire ou **desmodontite**
+### b) Gangrène pulpaire ou desmodontite
 
 *   Douleur continue, sourde.
 *   Dent délabrée ou ayant déjà été traitée (reprise de carie).
@@ -86,7 +86,7 @@ Text:
 
 On découvre à l'examen une ulcération, le patient ne supporte pas le port de sa prothèse. L'ulcération se situe aux points de contacts, ce qui entraîne une compression des tissus muqueux et installe progressivement l'ulcération.
 
-### **e) Douleur due aux dysfonctionnements** de l'articulation temporo-mandibulaire **(ATM)**
+### e) Douleur due aux dysfonctionnements de l'articulation temporo-mandibulaire (ATM)
 
 Fragilité ligamentaire faisant suite à une édentation non restaurée, à un traumatisme (fracture ou coups au niveau de la face). La douleur est inconstante, présente lors de la mastication, à l'ouverture buccale maximale. On peut voir des blocages suite à une ouverture buccale importante. On peut entendre des bruits à l'ouverture et à la fermeture buccale s'accompagnant de douleurs.
 

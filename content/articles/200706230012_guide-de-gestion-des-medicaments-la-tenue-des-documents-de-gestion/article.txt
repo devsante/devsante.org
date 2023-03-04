@@ -292,38 +292,38 @@ remarques
 
 </table>
 
-#### **Colonne "Date"**
+#### Colonne "Date"
 
 Il s'agit de la date du mouvement, **entrée ou sortie** du produit.
 
-#### **Colonne "Quantité reçue"**
+#### Colonne "Quantité reçue"
 
 Nombre d'unités reçues à la pharmacie (boîte, flacon, tube, comprimé, etc., selon l'unité de compte indiquée dans la case "conditionnement").
 
-#### **Colonne "Provenance"**
+#### Colonne "Provenance"
 
 D'où vient le produit reçu ; nom du fournisseur (grossiste, centrale d'achat, Pharmappro, don, etc.).
 
-#### **Colonne "Quantité délivrée"**
+#### Colonne "Quantité délivrée"
 
 Nombre d'unités sorties de la pharmacie (boîte, flacon, tube, comprimé, etc., selon l'unité de compte indiquée dans la case "conditionnement").
 
-#### **Colonne "Délivré à"**
+#### Colonne "Délivré à"
 
 Destination du produit, nom du lieu où les médicaments seront dispensés aux patients.
 
-#### **Colonne "Stock restant"**
+#### Colonne "Stock restant"
 
 Nombre d'unités restant dans le stock.
 
 *   S'il s'agit d'une **entrée** (quantité reçue), on ajoute la "**quantité reçue**" au "**stock res­tant**" de la ligne précédente.
 *   S'il s'agit d'une **sortie** (quantité delivrée), on retranche la "**quantité délivrée**" du "**stock restant**" de la ligne précédente.
 
-#### **Colonne "Remarques"**
+#### Colonne "Remarques"
 
 Informations importantes sur les mouvements du produit, numéro de lot, dates de péremption, emprun­té à, retourné à telle autre formation sanitaire, etc..
 
-## **III. L'inventaire**
+## III. L'inventaire
 
 Il ne suffit pas de compléter les fiches de stock à chaque mouvement.  
 En effet, si la colonne "stock restant" permet de connaître en permanence le **stock théo­rique** du produit, c'est-à-dire celui obtenu par le suivi des mouvements, il doit être validé par un comptage des boîtes des produits en stock ou **stock réel**, c'est ce qu'on appelle **l'in­ventaire physique**.
@@ -352,13 +352,13 @@ Il faut créer une fiche de remplacement dès que l'on remplit la dernière lign
 
 Les fiches de stock doivent être remplies très lisiblement et avec soin, certaines données sont non modifiables, d'autres doivent **pou­voir être modifiées**.
 
-#### **Utilisez un stylo** pour enregistrer les données non modifiables
+#### Utilisez un stylo pour enregistrer les données non modifiables
 
 *   **le nom de l'article, le numéro d'identi­fication, et de conditionnement,**
 *   les informations relatives aux **mouvements des produits,**
 *   **utilisez un stylo de couleur différente pour les inventaires**. En général, on utili­se la couleur rouge pour les inventaires.
 
-#### **Utilisez un crayon** pour enregistrer les données variables
+#### Utilisez un crayon pour enregistrer les données variables
 
 *   **le prix à l'unité** est une information qui peut changer ; il ne faut pas effacer le prix antérieur s'il a changé, on risque toujours d'en avoir besoin ; il vaut mieux barrer l'ancien prix sans le rendre illisible et noter dans la case le nou­veau prix et la date de modification ;
 *   **le seuil de commande** : il peut aussi varier (maladies saisonnières, nouveaux traite­ments, délais de livraison...).

@@ -8,11 +8,11 @@ Datetime: 2006-03-17 00:00
 ----  
 Text:
 
-## **I. Définition**
+## I. Définition
 
 L'injection sous-cutanée permet d'injecter une faible quantité de produit thérapeutique dans des conditions relativement simples et indo­lores. Ce type d'injection peut, dans certains cas être pratiqué par le patient lui-même.
 
-## **II. Législation - responsabilité**
+## II. Législation - responsabilité
 
 1. Dans le cadre de son rôle propre, l'infirmier accomplit les actes ou dispense les soins sui­vants visant à identifier les risques et à assurer le confort et la sécurité de la personne et de son environnement et comprenant son infor­mation et celle de son entourage :
 
@@ -22,20 +22,20 @@ L'injection sous-cutanée permet d'injecter une faible quantité de produit thé
 
 - injections et perfusions.
 
-## **III. Indications**
+## III. Indications
 
 *   Produits médicamenteux injectables ne pou­vant être utilisés par voie veineuse.
 *   Injection de produits anticoagulants (ces traitements ne doivent pas être injectés par voie intramusculaire) et d'insuline.
 *   Vaccins.
 
-## **IV. Prérequis indispensables**
+## IV. Prérequis indispensables
 
 *   Utilisation du produit à injecter (voie d'injec­tion, posologie, précaution d'utilisation, mode de reconstitution...).
 *   Anatomie de la peau.
 
-## **V. Matériel**
+## V. Matériel
 
-### **1. Pour le soin**
+### 1. Pour le soin
 
 *   Seringue et aiguille solidaires en monobloc (anticoagulant de bas poids moléculaire ou insuline, par exemple) ou stylo injectable (insuline) ou seringue adaptée à la quantité à injecter (2 ou 5 ml).
 *   Aiguille en acier inoxydable ou en nickel à biseau long (moins douloureux) :
@@ -44,7 +44,7 @@ L'injection sous-cutanée permet d'injecter une faible quantité de produit thé
     *   aiguille de 12,7 mm et 8 mm (pour les insulines, la plus petite évite de pratiquer des injections en intramusculaire).
 *   Diluant de reconstitution si le produit est lyophilisé (préférer le diluant fourni avec le produit à l'eau pour préparation injectable).
 
-### **2. Pour l'asepsie**
+### 2. Pour l'asepsie
 
 *   Gants non stériles à usage unique.
 *   Compresse ou coton.
@@ -52,7 +52,7 @@ L'injection sous-cutanée permet d'injecter une faible quantité de produit thé
 *   Boîte à aiguilles souillées.
 *   Sac poubelle.
 
-## **VI. Préparation du matériel**
+## VI. Préparation du matériel
 
 Si nécessaire, reconstituer le produit lyophilisé à la dose prescrite.
 
@@ -68,11 +68,11 @@ Si nécessaire, reconstituer le produit lyophilisé à la dose prescrite.
 *   Dans le cas de l'utilisation de stylos, intro­duire l'ampoule d'insuline dans le logement du stylo, revisser le capuchon et purger.
 *   Adapter une nouvelle aiguille, régler la quan­tité à injecter en exerçant une rotation du capuchon (ce qui correspond au piston d'une seringue), à l'aide de l'indicateur de dose.
 
-## **VII. Préparation du patient**
+## VII. Préparation du patient
 
 Le patient est en position assise, ou allongé sur le dos.
 
-## **VIII. Réalisation technique du geste et surveillance**
+## VIII. Réalisation technique du geste et surveillance
 
 *   Reconstituer le produit si nécessaire en injectant la quantité de diluant dans le flacon de manière aseptique (désinfecter le bou­chon), mélanger le produit sans le secouer. Réchauffer le produit entre les mains si nécessaire.
 *   Mettre les gants.
@@ -99,11 +99,11 @@ Varier les points de ponction (pour éviter les lipodystrophies) en exerçant un
 
 Injecter l'insuline à température ambiante, elle se diffusera à la même vitesse dans le sang, elle est moins douloureuse que froide.
 
-## **IX. Surveillance après le soin**
+## IX. Surveillance après le soin
 
 Surveiller l'apparition d'un hématome, de signes inflammatoires (chaleur, rougeur, douleur...) et de lipodystrophies.
 
-## **X. Complications et risques**
+## X. Complications et risques
 
 *   Vérifier que le patient n'est pas allergique au produit injecté (en lui demandant s'il a déjà bénéficié de ce traitement, par exemple...).
 *   Ne pas injecter si du sang remonte dans la seringue lors de la ponction, retirer l'aiguille de 1 ou 2 cm et repiquer en variant l'angle, revérifier l'absence de sang puis injecter. Eventuellement, s'il y a un retour franc, reti­rer l'aiguille et comprimer. Préparer une autre seringue.
@@ -133,15 +133,15 @@ Respecter scrupuleusement les pré­cautions d'accidents à l'exposition au sang
 
 </table>
 
-## **XI. Evaluation**
+## XI. Evaluation
 
-### **1. De la procédure de soin**
+### 1. De la procédure de soin
 
 *   L'injection est pratiquée de manière asep­tique et évite le tissu musculaire.
 *   La zone d'injection est respectée, en rap­port avec l'absorption d'insuline au cours de la journée.
 *   Le port des gants a été respecté.
 
-### **2. Du résultat ou des objectifs à atteindre**
+### 2. Du résultat ou des objectifs à atteindre
 
 *   L'injection est efficace.
 *   Le patient, dans le cadre de l'éducation du diabétique, a reçu les informations nécessaires à l'auto-injection sous-cutanée d'insuline.

@@ -50,7 +50,7 @@ Sur la capsule s'insèrent :
 *   le muscle poplité à l'arrière du genou,
 *   les deux ligaments croisés entre le fémur et la table tibiale.
 
-## **Il.** Plaintes et interrogatoire **du malade**
+## Il. Plaintes et interrogatoire du malade
 
 ### 1. La douleur
 
@@ -84,7 +84,7 @@ Fièvre, lombosciatique, polyarthralgies de l'arthritique...
 
 Activités professionnelles, sportives, antécédents traumatiques, obésité, scoliose, etc.
 
-## **III.** Examen du genou
+## III. Examen du genou
 
 ### 1. Regarder le patient
 
@@ -108,7 +108,7 @@ Ces anomalies axiales traduisent l'asymétrie de la charge portée par le genou 
 
 Augmentée, elle oriente vers une inflammation.
 
-#### **Point douloureux**
+#### Point douloureux
 
 *   sus-rotulien : tendinite du quadricipital.
 *   sous-rotulien : tendinite du ligament rotulien.
@@ -136,7 +136,7 @@ Devant un genou douloureux, les manoeuvres seront douces, parfois impossibles à
 
 On explore la flexion et l'extension, passivement ou en s'opposant au mouvement. Ces deux manoeuvres peuvent réveiller une douleur du tendon rotulien ou du tendon quadricipital.
 
-#### **Les mouvements de tiroir et de** latéralité
+#### Les mouvements de tiroir et de latéralité
 
 Normalement, d'autres mouvements que la flexion et l'extension du genou sont impossibles. On les recherchera par une manipulation douce.
 
@@ -159,7 +159,7 @@ La jambe est poussée vers l'extérieur en valgus pendant que l'on tourne le pie
 (image: i922-6.jpg)
 
 
-### 4. Vérifier qu'il ne s'agit pas **d'une douleur dont la cause** **est à distance**
+### 4. Vérifier qu'il ne s'agit pas d'une douleur dont la cause est à distance
 
 *   **Coxopathie :** on mobilise la hanche dans tous les sens à la recherche d'une limitation de mouvements et d'une douleur provoquée sur le genou.
 
@@ -193,7 +193,7 @@ Il s'agit de : rougeur, augmentation de la chaleur cutanée, gonflement douloure
 
 Dans les deux cas, il est nécessaire d'évacuer vers l'hôpital de référence parce que l'infection relève d'un traitement antibiotique énergique associé à un traitement chirurgical.
 
-#### Cas particulier - la crise douloureuse **aiguë du drépanocvtaire :**
+#### Cas particulier - la crise douloureuse aiguë du drépanocvtaire :
 
 Il faut soulager le patient par des antalgiques puissants (dérivés codeïnés, voire éventuellement de la morphine), réhydrater en attendant de discuter les autres traitements (antibiothérapie préventive, hydroxycarbamide (Hydréa®).
 

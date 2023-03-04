@@ -115,7 +115,7 @@ La goutte épaisse permet un enrichissement important en parasites, mais la lect
 
 ### 4. Diagnostic d'espèce
 
-#### **_Plasmodium falciparum_**
+#### _Plasmodium falciparum_
 
 **Frottis minces**
 
@@ -144,7 +144,7 @@ Pour _Plasmodium falciparum_ il est indispen­sable de préciser l'intensité de
 
 Elle présente un intérêt dans les faibles infes­tations. C'est alors le _Plasmodium_ le plus faci­le à reconnaître. On retrouve souvent l'anneau complet du trophozoïte, ou une partie seule­ment en raison de sa dislocation au moment de la technique (aspect en ailes d'oiseau, en point d'interrogation ou d'exclamation). Les trophozoïtes âgés conservent mieux leur cyto­logie, on retrouve l'anneau bleu et le noyau rouge. Les gamétocytes sont en général intacts et sont donc facilement reconnaissables.
 
-#### **_Plasmodium vivax_**
+#### _Plasmodium vivax_
 
 **Frottis minces**
 
@@ -174,7 +174,7 @@ Très panaché, avec présence de tous les stades évolutifs. Le parasitisme est
 *   Trophozoïtes âgés : cytoplasme plus abon­dant avec présence d'hémozoïne, contours moins nets, irréguliers.
 *   Gamétocytes : ils sont difficiles à différencier des schizontes ; leur cytoplasme est plus régulier et ils renferment plus de pigment.
 
-#### **_Plasmodium ovale_**
+#### _Plasmodium ovale_
 
 **Frottis minces**
 
@@ -196,7 +196,7 @@ Parasites en règle peu nombreux. Frottis poly­morphe : présence de trophozoï
 
 Formes rondes ou ovales, compactes. Noyaux irréguliers. Il est impossible d'établir un dia­gnostic d'espèce sur la goutte épaisse.
 
-#### **_Plasmodium malariae_**
+#### _Plasmodium malariae_
 
 **Frottis minces**
 

@@ -15,15 +15,15 @@ C'est simple! Mais le sang ne coule pas toujours sous nos yeux, il peut se vider
 ----  
 Text:
 
-## **I. Les deux types** **d'hémorragies**
+## I. Les deux types d'hémorragies
 
 Il existe deux types d'hémorragie:
 
-### **1.** **L'hémorragie externe:**
+### 1. L'hémorragie externe:
 
 due à une plaie des parties molles, le sang coule, il est visible. C'est facile.
 
-### **2. L'hémorragie interne:**
+### 2. L'hémorragie interne:
 
 le malade saigne d'un point quelconque de son corps sans que le sang s'extériorise. L'affaire est alors plus difficile, le malade saigne mais ne s'en aperçoit pas, il viendra nous voir tardivement et il faudra savoir retrouver les signes de l'hémorragie alors que le sang ne coule pas par terre!
 
@@ -42,7 +42,7 @@ Si le sang est rouge, s'écoule par saccade: c'est une plaie artérielle, si le 
 
 Le saignement ne s'extériorise pas, soit parce qu'il se produit dans une cavité close (abdomen, thorax ... ), soit parce qu'il ne s'extériorise qu'incomplètement et avec retard par un orifice naturel (hémorragie digestive, utérine ... ). Les principales causes sont:
 
-### **1. Les traumatismes**
+### 1. Les traumatismes
 
 **a.** Contusion de l'abdomen entraînant une rupture de rate, du foie, une désinsertion d'un vaisseau intestinal.
 
@@ -54,11 +54,11 @@ Le saignement ne s'extériorise pas, soit parce qu'il se produit dans une cavit�
 
 **e.** Les traumatismes du rein avec hématome rétro-péritonéal.
 
-### **2. Chez la femme**
+### 2. Chez la femme
 
 La rupture de grossesse extra-utérine est la cause la plus fréquente.
 
-### **3. Hémorragie digestive**
+### 3. Hémorragie digestive
 
 - au niveau de l'estomac ou du duodénum par ulcère; le sang s'extériorise alors sous forme de vomissements rouges (hématémèse) et de selles noires faites de sang digéré (méIéna),
 
@@ -74,21 +74,21 @@ Placenta praevia, hématome rétroplacentaire, rupture utérine, rétention plac
 
 La perte de sang circulant dans les vaisseaux va entraîner un certain nombre de signes si elle est importante, tous ces signes reflètent le _choc_ dû au saignement. Lorsque le sang s'extériorise, ces signes sont importants à rechercher pour apprécier la gravité de l'hémorragie. Lorsqu'il s'agit d'une hémorragie interne, seuls ces signes nous permettront de faire le diagnostic d'hémorragie.
 
-### **1. La pâleur**
+### 1. La pâleur
 
 Le sang, responsable de la coloration rosée des muqueuses, est en train de quitter les vaisseaux, il est moins abondant, et les petits vaisseaux périphériques ont tendance à se contracter pour diminuer le volume circulant dans certains territoires afin de privilégier d'autres organes plus nobles (cerveau, reins ... ). La pâleur se recherche au niveau des conjonctives en abaissant la paupière inférieure, à la face interne des lèvres, sous les ongles.
 
-### **2. Le pouls est rapide** (tachycardie)
+### 2. Le pouls est rapide (tachycardie)
 
 Le volume de sang disponible pour le coeur devient moins important, le coeur essaie de pallier ce manque en battant plus vite. Le pouls, habituellement battant à 60 ou 80/minute s'accélère à 100, 120 et plus, Il devient plus faiblement perçu, il est "petit", filant dans les hémorragies graves, il peut même disparaître pratiquement. On le recherchera au niveau des grosses artères: pouls radial, mais aussi au niveau de l'artère fémorale, de la carotide.
 
-### **3. La tension artérielle**
+### 3. La tension artérielle
 
 Il faut la prendre devant ces signes dès que l'on pense à l'hémorragie ou au choc. Habituellement, la maxima est supérieure à 10, aux environs de 14 à 11. La minima est aux alentours de 7-8. Lorsque l'hémorragie est importante, des modifications tensionnelles apparaissent: la maxima baisse, alors que la minima reste encore stable: on dit que la tension est pincée, 10-7 par exemple. Il est important de connaître la pression artérielle habituelle du sujet et d'interpréter les résultats en fonction des circonstances cliniques, car certaines personnes ont la tension naturellement basse à 10, et lorsque cette petite tension s'accompagne de pâleur, de tachycardie et de cause éventuelle de saignement, cela n'a bien sûr pas la même valeur qu'une tension à 10-7 découverte chez une femme habituellement bien portante et bien colorée.
 
 De même, lorsque le malade est hypertendu avec des chiffres habituels élevés (17-10, 20-11, etc.) une tension découverte à 12 chez lui est une hypotension alors que ce chiffre serait normal chez d'autres. Lorsque l'hémorragie est très importante, la tension s'abaisse alors franchement avec une maxima inférieure à 10, elle est parfois si basse qu'elle devient imprenable.
 
-### **4. D'autres signes sont possibles**
+### 4. D'autres signes sont possibles
 
 lors des hémorragies importantes:
 
@@ -98,13 +98,13 @@ lors des hémorragies importantes:
 *   l'anxiété et l'agitation du malade,
 *   les vertiges, lipothymie (malaise).
 
-### **5. Lorsque l'hémorragie se fait doucement**
+### 5. Lorsque l'hémorragie se fait doucement
 
 pendant plusieurs jours, le sang épanché est résorbé par l'organisme en partie et donne lieu à d'autres petits signes:
 
 *   fièvre à 38 °C, subictère conjonctival.
 
-### **6. Chaque cause d'hémorragie**
+### 6. Chaque cause d'hémorragie
 
 enfin donne ses propres signes:
 

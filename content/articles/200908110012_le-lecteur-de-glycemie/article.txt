@@ -13,9 +13,9 @@ Le lecteur de glycémie est un appareil qui permet de doser instantanément (que
 ----  
 Text:
 
-## **I. Utilités du lecteur de glycémie**
+## I. Utilités du lecteur de glycémie
 
-### **1. Pour le patient**
+### 1. Pour le patient
 
 *   Tout d'abord, savoir évaluer son diabète par le dosage immédiat de sa glycémie qu'il peut ainsi contrôler à tout moment.
 *   Connaître la valeur glycémique (appelée index glycémique) d'un aliment en mesurant sa glycé­mie avant et après l'ingestion de cet aliment. Cette information permet ainsi d'adapter sa consommation (quelle quantité de riz, de pain ou de légumes type macabo ou plantain peut être absorbée lors du repas ?).
@@ -23,7 +23,7 @@ Text:
 *   En cas de traitement par insuline, il pourra adap­ter les doses à injecter en fonction de la glycémie (en augmentant ou en réduisant la dose de une ou deux unités).
 *   Permettre une meilleure implication du patient lui-même dans la prise en charge de sa maladie et ainsi lui donner une certaine autonomie.
 
-### **2. Dans les centres de santé**
+### 2. Dans les centres de santé
 
 A la disposition du soignant, il est particulièrement utile si le patient diabétique n'a pas les moyens d'acheter un lecteur de glycémie et le matériel nécessaire à son utilisation.
 

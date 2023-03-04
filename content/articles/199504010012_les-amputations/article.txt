@@ -32,11 +32,11 @@ Ce qui distingue ces quatre grands types d'indications d'amputations sont :
 
 Le patient diabétique doit être mis à part car, chez lui, cohabitent des facteurs vasculaires, neurologiques, et infectieux. Le plus souvent, il est nécessaire de réaliser un geste radical, après ou parallèlement au rééquilibrage du diabète, et ce dans des délais parfois rapprochés (si l'infection semble fusée). Il faut toujours chez le diabétique être très attentif au mode évolutif.
 
-## **I. Les amputations** **du membre inférieur**
+## I. Les amputations du membre inférieur
 
 **_"Il n'y a pas de lieu d'élection: il faut garder le bras de levier le plus long"._**
 
-### **1. Les différents niveaux** **d'amputations**
+### 1. Les différents niveaux d'amputations
 
 Au membre inférieur, quatre types principaux d'amputations sont réalisés, les autres étant d'indication exceptionnelle:
 
@@ -53,7 +53,7 @@ _(figure 1)_ est réalisée plus ou moins postérieure, au plus à la base des m
 (image: i634-1.jpg)
 
 
-### **2. Les différents principes**
+### 2. Les différents principes
 
 Si certains préconisent systématiquement l'amputation ouverte avec le plus souvent section droite, d'autres, sauf contexte infectieux, sont favorables à la fermeture première des amputations. De fait, il semble possible et bénéfique sur la durée de cicatrisation, de réaliser des amputations fermées, en dehors de tout contexte infectieux et dès lors que la trophicité des tissus semble bonne. Ainsi, ce sont surtout les amputations traumatiques qui sont susceptibles d'être fermées de première intention.
 
@@ -63,7 +63,7 @@ Lorsque l'amputation est fermée, s'il s'agit de gros segments (cuisse, jambe ..
 
 La taille des lambeaux postérieur et antérieur est déterminée par la position de la cicatrice qui doit se trouver en dehors des zones de pression et à distance des reliefs osseux.
 
-### **3. Les soins postopératoires**
+### 3. Les soins postopératoires
 
 **a. Les pansements**
 
@@ -109,7 +109,7 @@ Le métabolisme de base est augmenté de 100 % en cas d'amputation de cuisse, au
 
 La rééducation précoce est essentielle pour lutter contre les rétractions (mobilisation passive et active), les attitudes vicieuses (mobilisation, posture manuelle, attelle, voire même traction ... ), l'amyotrophie (contraction isométrique, globulisation ... ), et pour guider le patient dans sa nouvelle fonctionnalité. Elle l'est aussi afin de permettre un appareillage rapide temporaire (si le moignon n'est pas cicatrisé) ou définitif, en facilitant une verticalisation indispensable au bien-être du patient, mais parfois aussi à la survie.
 
-### **4. Aspects techniques:** **l'amputation de jambe** _(figure 2)_
+### 4. Aspects techniques: l'amputation de jambe _(figure 2)_
 
 La désarticulation médiotarsienne de Chopart et la désarticulation tibiotarsienne de Syme, qui nécessitent une bonne vascularisation de la plante du pied ou de la coque talonnière, sont surtout réalisées en dehors de tout contexte vasculaire et leurs indications doivent être bien réfléchies. Le plus souvent, l'alternative à l'amputation transmétatarsienne est l'amputation de jambe.
 
@@ -154,11 +154,11 @@ Pour toute amputation il convient de respecter les trois principes de bases qui 
 
 - la décision de rapprocher ou non les berges en interposant éventuellement une lame de Delbet ou de Penrose dépend de l'aspect des tissus et du degré de risque infectieux. Les points musculo-aponévrotiques et cutanés éviteront d'être ischémiants et auront pour fonction essentielle de rapprocher les tissus sans provoquer de tension.
 
-## **II. Les amputations du membre supérieur**
+## II. Les amputations du membre supérieur
 
 Si les principes restent sensiblement les mêmes, deux notions interviennent énormément dans la prise en charge du patient susceptible de subir une amputation du membre supérieur: ces amputations ne sont pas soumises à des compressions et il existe un rôle fonctionnel qui incite à être extrêmement conservateur. A terme, il est recherché la persistance d'une pince de préhension (pouce/paume, deux os de l'avant-bras ... ), et pour y parvenir, il faut associer des techniques de chirurgie reconstructive. Le plus souvent les amputations sont digitales.
 
-## **III. Aspects particuliers** **de l'amputation** **en milieu précaire**
+## III. Aspects particuliers de l'amputation en milieu précaire
 
 **a. En urgence**
 

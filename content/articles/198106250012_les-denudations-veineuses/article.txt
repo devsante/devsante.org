@@ -17,7 +17,7 @@ Mais la dénudation veineuse se justifie cependant toujours:
 
 Si on dispose du matériel, la dénudation peut être cependant utile chez certains malades piqués à plusieurs reprises et chez qui on ne découvre plus de veine facilement accessible par ponction à travers la peau.
 
-## **Principes généraux**
+## Principes généraux
 
 La dénudation veineuse consiste, après avoir incisé la peau, à découvrir une veine afin d'y introduire un cathéter directement sous contrôle de la vue.
 
@@ -81,7 +81,7 @@ Tout ce matériel doit être prêt et à "portée de main" avant de commencer. M
 
 **6.** ... un aide est souvent très utile!
 
-## **Technique** (_schéma n° 1_)
+## Technique (_schéma n° 1_)
 
 Elle est simple. On choisit le lieu de la dénudation avec soin.
 
@@ -123,11 +123,11 @@ en faisant une épreuve de reflux, la bouteille de perfusion est placée en dess
 
 La plaie et les premiers centimètres du cathéter sont mis sous des compresses stériles en évitant de couder à angle aigu le cathéter.
 
-### **Choix de la veine à dénuder**
+### Choix de la veine à dénuder
 
 Ce choix dépend avant tout de l'habitude de l'opérateur, la veine saphène interne au cou-de-pied est la plus souvent utilisée, cependant il est utile de connaître d'autres lieux de dénudation possible en cas de problème.
 
-## **I. Découverte de la veine saphène Interne au cou-de-pied**
+## I. Découverte de la veine saphène Interne au cou-de-pied
 
 _(schéma n°_ _3)_
 
@@ -138,7 +138,7 @@ La veine saphène interne au niveau de la cheville, passe en avant de la malléo
 
 crosse de la veine saphène interne
 
-## **II - Découverte de la veine saphène externe au cou-de-pied**
+## II - Découverte de la veine saphène externe au cou-de-pied
 
 _(schéma n°_ _4)_
 
@@ -150,7 +150,7 @@ Si on ne trouve pas facilement, le risque est de s'égarer en arrière vers le t
 
 L'incision horizontale permet de la découvrir plus facilement mais le nerf est plus exposé aux blessures.
 
-## **III. Découverte de la crosse de la saphène interne**
+## III. Découverte de la crosse de la saphène interne
 
 _(schéma n° 5)_
 
@@ -167,13 +167,13 @@ La veine reçoit des branches à ce niveau, c'est un bon signe distinctif avec l
 (image: i964-4.jpg)
 
 
-## **IV - Veine du pli du coude**
+## IV - Veine du pli du coude
 
 Autre voie très utilisée, mais souvent, c'est à ce niveau qu'ont eu lieu les essais de perfusion et les veines sont souvent en mauvais état. Le danger est de blesser l'artère humérale. Il est évité si l'on reste superficiel, dans la graisse, sans aller chercher sous l'aponévrose (tissu solide, tendineux, blanc nacré).
 
 Les veines seront trouvées de part et d'autre de la saillie du biceps. L'incision sera horizontale dans le pli du coude en dedans ou en dehors du tendon du biceps, ou oblique comme sur le schéma. Les veines sont superficielles, facilement accessibles.
 
-## **V - Veine céphalique**
+## V - Veine céphalique
 
 au niveau du sillon delto-pectoral
 
@@ -183,13 +183,13 @@ Le sillon delto-pectoral est facilement palpé à la face antérieure de l'épau
 
 La peau est incisée sur ce sillon. La veine assez profonde, située entre ces deux muscles, elle est parfois recouverte d'un tissu solide. Le seul risque est de ne pas le trouver et de se perdre dans le muscle si l'on n'est pas juste dans le sillon. Mais aucun élément dangereux ne se trouve à ce niveau.
 
-### **Cas particulier:**
+### Cas particulier:
 
 chez le nourrisson
 
 Les veines sont petites, mais peuvent être dilatées une fois ouvertes par une pince dont on écarte les branches. La graisse est parfois plus importante qu'on ne l'imagine. Ne pas pousser le cathéter trop loin car il monte très vite jusqu'au coeur et risque de le perforer!
 
-## **Incidents et accidents**
+## Incidents et accidents
 
 **1. Si on ne trouve pas la veine:** bien reprendre ses points de repère:
 
@@ -209,7 +209,7 @@ Ne pas s'acharner, changer de lieu de dénudation ou appeler quelqu'un de plus h
 
 Le cathéter peut perforer la veine si on le pousse sans délicatesse et surtout si on coupe son extrémité en biseau. La perfusion passe alors à côté de la veine, le reflux n'a pas lieu, et le membre gonfle.
 
-### **Complications**
+### Complications
 
 **1.** L'infection de la plaie est fréquente si on n'a pas respecté les règles d'asepsie, en particulier au pli de l'aine. Elle peut être le point de départ de septicémie, le trajet veineux devient rouge, douloureux (phlébite), le malade devient fébrile. Cet accident est fréquent après quelques jours de perfusion si les règles d'hygiène ne sont pas respectées. L'ablation du cathéter et les antibiotiques sont alors nécessaires.
 

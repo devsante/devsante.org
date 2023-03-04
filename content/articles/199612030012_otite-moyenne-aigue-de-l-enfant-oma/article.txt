@@ -16,7 +16,7 @@ Cependant, elle peut se compliquer :
 
 - secondairement, par une lésion chronique du tympan pouvant conduire à la surdité.
 
-## **I. Physiopathologie**
+## I. Physiopathologie
 
 Dans un premier temps, les germes infectent le rhinopharynx, puis vont gagner la trompe d'Eustache (orifice étroit faisant communiquer le pharynx avec l'oreille moyenne).
 
@@ -28,7 +28,7 @@ En dernier lieu, du pus va se former derrière le tympan entraînant douleur et 
 
 D'autrefois, le liquide rétrotympanique va diminuer de volume laissant place à un liquide stérile épais (la glue) qui caractérise l'otite séreuse chronique, qui entraîne presque toujours une surdité partielle qui peut durer de quelques jours à quelques mois.
 
-## **II. Les germes** **responsables**
+## II. Les germes responsables
 
 Schématiquement, 75 % des otites sont bactériennes et les deux germes dominants sont le pneumocoque et _l'Haemophilus influenzae ; Moraxella catarrhalis_ est plus rare.
 
@@ -52,7 +52,7 @@ Il existe une corrélation bactérioclinique pour le pneumocoque et l'_Haemophil
 
 Ces corrélations permettent relativement de faire le bon choix antibiotique.
 
-## **III. Examen otoscopique**
+## III. Examen otoscopique
 
 Trois aspects sont décrits :
 
@@ -62,7 +62,7 @@ Trois aspects sont décrits :
 
 *   Otite **perforée :** du pus s'écoule d'une perforation qui siège dans le quadrant postéro-supérieur.
 
-## **IV. La recherche** **des complications**
+## IV. La recherche des complications
 
 Les OMA se compliquent surtout chez l'enfant dénutri. Comme la fièvre, l'anorexie, la diarrhée et les vomissements sont souvent provoqués par l'OMA. On comprend que la première complication à rechercher est la déshydratation aiguë qui peut ensuite aggraver la dénutrition.
 
@@ -79,7 +79,7 @@ Plus spécifiques sont :
 (image: i707-1.jpg)
 
 
-## **V. Traitement**
+## V. Traitement
 
 Il faut d'abord lutter contre la fièvre et la douleur par l'aspirine ou le paracétamol, ensuite mettre en route une antibiothérapie probabiliste.
 
@@ -97,7 +97,7 @@ Pendant longtemps, l'OMA a été considérée comme un abcès qu'il fallait inci
 
 Pour toute OMA compliquée, une antibiothérapie intramusculaire ou intraveineuse s'impose. Les céphalosporines de troisième génération (Claforan®, Rocéphine®) sont les plus efficaces.
 
-### **Conclusion**
+### Conclusion
 
 Malgré sa fréquence, l'OMA demande de la vigilance car de redoutables complications (mastoïdite, méningite) peuvent menacer la vie.
 

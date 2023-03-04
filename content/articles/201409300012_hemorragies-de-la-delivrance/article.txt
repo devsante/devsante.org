@@ -65,7 +65,7 @@ Text:
 
 ### 3. Anesthésiste
 
-#### **Anesthésie si nécessaire pour révision et examen sous valve**
+#### Anesthésie si nécessaire pour révision et examen sous valve
 
 *   Rien si APD en cours et efficace
 *   Anesthésie légère type ketamine, midazolam dans le cas contraire

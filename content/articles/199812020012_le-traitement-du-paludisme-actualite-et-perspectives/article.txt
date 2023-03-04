@@ -27,7 +27,7 @@ Ces molécules restent la référence thérapeutique de l'accès palustre simple
 
 _Produits_ : chloroquine (Nivaquine®, Aralen®, Resochin®) ; amodiaquine -. (Flavoquine®, Camoquin®).
 
-### 2. Les amino-alcools **(quinine, méfloquine,** **halofantrine)**
+### 2. Les amino-alcools (quinine, méfloquine, halofantrine)
 
 Alcaloïde naturel du quinquina, la quinine est le plus ancien et le plus utilisé de ces amino-alcools. Ses propriétés pharmacologiques et en particulier la possibilité de l'administrer par voie intraveineuse en font le médicament de choix lors du traitement du paludisme grave, d'autant plus qu'il existe peu de résistances à ce produit (elles sont surtout présentes en Asie). Aux doses thérapeutiques (25 mg/kg/j de quinine base en 3 prises), les effets secondaires sont limités (troubles auditifs avec bourdonnements d'oreilles, vertiges ... ) mais les surdosages entraînent rapidement des troubles cardiaques graves. La voie intramusculaire doit être le plus possible évitée compte tenu des risques de nécrose locale et de paralysie sciatique qui lui sont rattachés ainsi que de son manque d'efficacité dans des formes déjà trop évoluées. Les essais concluants de l'administration en intrarectal de ce produit devraient pouvoir pallier cet inconvénient majeur dans un futur proche.
 

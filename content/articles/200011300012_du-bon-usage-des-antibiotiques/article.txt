@@ -223,11 +223,11 @@ Nitrofuranes
 
 </table>
 
-### **2 - Le site de l'infection**
+### 2 - Le site de l'infection
 
 Pour qu'un antibiotique soit actif sur un germe, il est essentiel qu'il le rencontre, et ce, pendant le temps nécessaire à l'efficacité de l'échange. C'est dire l'importance de connaître les capacités d'un antibiotique à pénétrer suffisamment et à se concentrer en un site donné.
 
-### **3 - Le terrain**
+### 3 - Le terrain
 
 Le terrain du patient doit également constituer une préoccupation avant la mise en route d'un traitement antibiotique.
 
@@ -235,11 +235,11 @@ Il est vrai qu'il y a des états physiologiques facilement contrôlables, mais i
 
 En effet, certains antibiotiques, en raison de leurs effets toxiques, risquent d'aggraver des tares préexistantes (insuffisance rénale, insuffisance hépatique, SIDA).
 
-### **4 - Risque écologique**
+### 4 - Risque écologique
 
 Parmi les effets indésirables des antibiotiques, il en est un qui a une importance capitale, c'est la modification de la flore bactérienne normale de l'individu qui peut entraîner la sélection de souches résistantes, non seulement à l'antibiotique administré, mais aussi, en fonction de la nature de la résistance, à d'autres familles d'antibiotiques.
 
-### **5 - Coût**
+### 5 - Coût
 
 Devant la consommation importante d'antibiotiques, le coût devient un élément fondamental.
 

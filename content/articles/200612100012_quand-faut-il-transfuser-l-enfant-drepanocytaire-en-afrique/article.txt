@@ -104,7 +104,7 @@ Les difficultés de la transfusion sanguine chez les enfants drépanocytaires en
 *   limitation du phénotypage des dons au groupe ABO et Rhésus D,
 *   rareté de la pratique du test de compatibilité au laboratoire lorsqu'il est indiqué.
 
-### **2. Problèmes liés à la fréquence des maladies infectieuses transmissibles par la transfusion sanguine dans la population générale**
+### 2. Problèmes liés à la fréquence des maladies infectieuses transmissibles par la transfusion sanguine dans la population générale
 
 *   séroprévalence élevée de l'infection à VIH et de l'hépatite B dans la population général de nombreux pays, avec un risque résiduel de contamination par transfusion qui
 *   reste élevé malgré le dépistage systématique dans les dons (5, 6) ;

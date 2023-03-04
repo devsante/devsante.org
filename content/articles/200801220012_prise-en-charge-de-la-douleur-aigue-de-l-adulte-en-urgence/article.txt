@@ -19,7 +19,7 @@ La première démarche est de demander au patient s'il a mal ou non. S'il s'agit
 
 Deux modalités d'évaluation de la douleur sont à distinguer : l'auto-évaluation pour les patients communicants et l'hétéro-évaluation pour les non-communicants. La qualité de la prise en charge dépend de celle de l'évaluation.
 
-### **1**. Auto-évaluation
+### 1. Auto-évaluation
 
 Trois échelles d'auto-évaluation peuvent être utilisées l'échelle visuelle analogique (EVA), l'échelle numérique (EN) et l'échelle verbale simple (EVS) _(figure 1)._ Toutes trois sont fiables.
 

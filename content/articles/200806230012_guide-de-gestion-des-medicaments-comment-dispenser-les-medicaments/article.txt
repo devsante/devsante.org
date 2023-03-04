@@ -17,7 +17,7 @@ La prescription et la dispensation sont des actions très différentes qui peuve
 *   **la prescription**, qui est la conséquence directe de l'examen du patient, doit être rédigée en salle de consultation ;
 *   **la dispensation** de médicaments doit se faire dans un lieu séparé de la consultation.
 
-## **I. La prescription de médicaments**
+## I. La prescription de médicaments
 
 Après avoir examiné un patient, le médecin ou l'infirmier prescrit un traitement. La prescription est strictement nominative, elle doit rappeler l'âge et le sexe du patient. Elle consiste à écrire lisiblement sur une ordonnance ou sur le carnet de soin du patient :
 
@@ -140,9 +140,9 @@ On ne doit pas donner un médicament à un patient sans lui avoir expliqué à q
     *   frais, sombre et sec,
     *   exempt d'insectes et animaux nuisibles. Cherchez avec le patient quels sont les meilleurs endroits pour conserver les médicaments à la maison.
 
-### **5. Vérifiez que le patient a bien compris**
+### 5. Vérifiez que le patient a bien compris
 
-#### **Le patient doit savoir :**
+#### Le patient doit savoir :
 
 *   quels médicaments lui ont été donnés,
 *   comment les prendre,

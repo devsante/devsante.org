@@ -209,7 +209,7 @@ C'est planifier des temps d'évaluation pédagogique au cours desquels on cherch
 *   Est-ce que le recours à des professionnels différents était pertinent, adapté aux besoins du patient et de son entourage ?
 *   Est-ce que le patient a été sollicité pour donner son point de vue sur l'organisation de l'éducation et sur celle qu'il a reçu ?
 
-### **6. Multiprofessionnelle**
+### 6. Multiprofessionnelle
 
 C'est déterminer si le programme d'éducation proposé au patient et à son entourage fait appel, en fonction des besoins, à différents professionnels et si l'analyse de la situation du patient prend en compte les différents points de vue exprimés par les professionnels.
 

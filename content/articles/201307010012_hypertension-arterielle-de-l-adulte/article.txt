@@ -139,7 +139,7 @@ Dans 99 cas sur 100, aucune cause n’est retrouvée, on parle alors d’hyperte
 
 Trois points sont alors importants dans la prise en charge de ces patients :
 
-### **1. Le traitement doit être indéfiniment poursuivi**
+### 1. Le traitement doit être indéfiniment poursuivi
 
 #### Mesures non médicamenteuses
 
@@ -155,12 +155,12 @@ En effet, ne connaissant pas la cause exacte de l’HTA essentielle, on ne dispo
 Les médicaments utilisés permettent simplement de ramener les chiffres de la TA à des valeurs proches de la normale, mais cela ne signifie pas la guérison de la maladie : les chiffres remontent dès l’arrêt du traitement.  
 Il s’agira également de demander à une personne qui, en apparence, n’a aucun symptôme de maladie, de se traiter et de prendre des médicaments tous les jours, avec l’incidence financière que cela peut avoir chez les personnes ayant des revenus faibles.
 
-### **2. La surveillance médicale doit être indéfiniment poursuivie**
+### 2. La surveillance médicale doit être indéfiniment poursuivie
 
 *   Contrôle régulier de la TA.
 *   Bilan du retentissement.
 
-### **3. Il faut dépister les complications aiguës**
+### 3. Il faut dépister les complications aiguës
 
 Afin de mettre en route rapidement un traitement qui permet parfois d’améliorer le pronostic vital.
 

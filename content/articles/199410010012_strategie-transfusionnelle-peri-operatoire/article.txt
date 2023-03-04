@@ -16,9 +16,9 @@ La transfusion homologue du sang du donneur à un receveur n'est pas toujours po
 
 La transfusion autologue, qui regroupe l'ensemble des méthodes qui permettent de transfuser au patient son propre sang prélevé avant ou récupéré pendant l'intervention chirurgicale, a pour avantage d'économiser les réserves de sang homologue et de réduire le risque transfusionnel. La transfusion autologue différée en chirurgie réglée exige une logistique avec une chaîne du froid et une planification des programmes opératoires. La transfusion autologue péri-opératoire peut être appliquée dans des conditions de travail plus précaires par le personnel médical et para-médical avec l'hémodilution pré-opératoire immédiate et, de façon plus exceptionnelle, la récupération de sang per-opératoire.
 
-## **I. Conduite à tenir devant un patient anémique**
+## I. Conduite à tenir devant un patient anémique
 
-### **1. Faire le diagnostic de l'anémie**
+### 1. Faire le diagnostic de l'anémie
 
 L'anémie se définit par la baisse du taux d'hémoglobine (Hb), pigment du globule rouge qui transporte l'oxygène dans le sang, au-dessous de valeurs physiologiques:
 
@@ -56,7 +56,7 @@ hémoglobine = hématocrite x 0,3
 
 </table>
 
-### **2. Apprécier la tolérance clinique** **de l'anémie**
+### 2. Apprécier la tolérance clinique de l'anémie
 
 *   **Anémie bien tolérée:** les principaux signes sont la pâleur cutanéo-muqueuse, la fatigue qui peut s'accompagner de vertiges et de lipothymies. En cas d'anémie chronique, la symptomatologie peut se limiter à un essoufflement et des palpitations à l'effort.
 
@@ -66,7 +66,7 @@ _- une insuffisance cardiaque congestive_ associant tachycardie, turgescence des
 
 _- un état de choc_ associant une hypotension, une tachycardie, en rapport avec une hémorragie aiguë, supérieure à 10 à 15% du volume sanguin total (VST) ou moindre si elle est associée à une anémie chronique. Le volume sanguin total est en moyenne égal à 70-75ml/kg.
 
-### **3. Faire le diagnostic étiologique** **de l'anémie**
+### 3. Faire le diagnostic étiologique de l'anémie
 
 On distingue des anémies arégénératives par manque de production des globules rouges, des anémies régénératives par destruction (hémolyse) ou fuite de globules rouges (saignement).
 
@@ -78,7 +78,7 @@ Les anémies les plus fréquemment rencontrées sont :
 
 *   **les anémies par saignement aigu** lors d'un traumatisme, d'une chirurgie ou chronique lors de maladies parasitaires (ankylostomiase), de lésions du tube digestif (Ulcère, hémorroïdes), et chez la femme en période d'activité génitale.
 
-### **4. Traiter l'anémie**
+### 4. Traiter l'anémie
 
 La plupart des anémies sont susceptibles d'être corrigées par un traitement médical. La décision de transfuser un patient anémique est une attitude raisonnée au cas par cas qui tient compte de la tolérance clinique, de l'étiologie de l'anémie, du terrain (âge, pathologie) et de la chirurgie éventuelle.
 
@@ -104,7 +104,7 @@ Les indications de transfusion sont associées, en règle générale, à un cont
 
 </table>
 
-## **II.** **Prise en charge d'une hémorragie aiguë** **péri-operatoire**
+## II. Prise en charge d'une hémorragie aiguë péri-operatoire
 
 La conduite à tenir est la même, que l'hémorragie intervienne avant, pendant ou après la chirurgie.
 
@@ -167,21 +167,21 @@ ou augmente l'Hte de 3 %
 
 </table>
 
-## **III. Chirurgie et stratégie transfusionnelle**
+## III. Chirurgie et stratégie transfusionnelle
 
-### **1. Examen préopératoire**
+### 1. Examen préopératoire
 
 *   Rechercher les manifestations cliniques d'une anémie.
 
 *   Déterminer le groupe sanguin et le taux d'hémoglobine ou d'hématocrite est la règle avant toute chirurgie à l'exception de la chirurgie mineure.
 
-### **2. Préparation de l'opéré**
+### 2. Préparation de l'opéré
 
 Corriger une anémie en ramenant l'hémoglobine à 10 g/dl avant l'intervention par le traitement étiologique. La transfusion préopératoire doit être exceptionnelle en dehors d'un contexte d'urgence.
 
 Dans le cas d'une drépanocytose homozygote diagnostiquée par une électrophorèse de l'hémoglobine, la conduite péri-opératoire est codifiée. Une transfusion préopératoire amènera le taux de HbS en dessous d'un seuil de sécurité fixé à 40 % pour la chirurgie comportant un risque hypoxique modéré et à 25 % pour une chirurgie à risque hypoxique majeur, une chirurgie en urgence ou chez un patient en mauvais état général.
 
-### **3. Choix d'une stratégie** **transfusionnelle**
+### 3. Choix d'une stratégie transfusionnelle
 
 La transfusion homologue du sang d'un donneur à un receveur expose aux risques de contamination massive par le virus du _Sida_ et d'accidents transfusionnels (2, 3, 4) infectieux et immunologiques qui peuvent mettre en jeu la vie du malade, et ne doit être pratiquée que si l'indication est absolue _(tableau 2)._
 
@@ -386,7 +386,7 @@ _e. En cas de doute sur l'utilité d'une récupération de sang per-opératoire,
 (image: i608-6.jpg)
 
 
-## **IV. Conclusion**
+## IV. Conclusion
 
 *   _Le respect des indications transfusionnelles_ en fonction, de la tolérance clinique à l'anémie du patient et du type de chirurgie,
 

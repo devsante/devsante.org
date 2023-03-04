@@ -128,11 +128,11 @@ La lèpre peut se manifester sous deux formes dites « polaires », tuberculo�
 (image: fig-3-tableau-evolutif-de-la-lepre.JPG)
 
 
-#### **La lèpre indéterminée**
+#### La lèpre indéterminée
 
 Elle correspond au stade initial de la maladie, se constate surtout chez l’enfant et se manifeste par une tache cutanée légèrement hypochromique, de quelques centimètres de diamètre, à limites floues, avec de très légers troubles de la sensibilité. Cette lésion  soit disparaît spontanément dans la majorité des cas, soit peut évoluer vers une des formes polaires.
 
-#### **La lèpre tuberculoïde**
+#### La lèpre tuberculoïde
 
 Elle se manifeste par quelques lésions cutanées maculeuses, mesurant  plusieurs centimètres de diamètre, hypochromique avec des limites nettes et de répartition asymétrique (figure 4). Il peut s’agir aussi de lésions plus grandes, en relief, infiltrées en bordure ou en totalité, mais toujours anesthésiques. Ces lésions disparaissent sans cicatrice avec un  traitement précoce.
 
@@ -141,7 +141,7 @@ Elle se manifeste par quelques lésions cutanées maculeuses, mesurant  plusieu
 (image: fig-4-tache-de-lepre-tuberculoide.jpg)
 
 
-#### **La lèpre lépromateuse**
+#### La lèpre lépromateuse
 
 Elle peut aussi se manifester sous forme de lésions maculeuses de petite taille légèrement hypochromiques ou érythémateuses, à limites floues. Ces macules peuvent être infiltrées en totalité pour former des lépromes de teinte cuivrée ou seulement en bordure donnant un aspect annulaire, mal limité, de 5 à 10 centimètres de diamètre (figure 5). Ces lésions sont nombreuses (plusieurs dizaines), avec une disposition bilatérale et symétrique, souvent au niveau du lobule des oreilles, des doigts et des orteils et ne sont pas anesthésiques. Une alopécie de la queue des sourcils est constatée dans les formes avancées. Là encore, ces lésions disparaissent sans cicatrice sous l’effet du traitement.
 
@@ -150,7 +150,7 @@ Elle peut aussi se manifester sous forme de lésions maculeuses de petite taille
 (image: fig-5-lepre-lepromateuse.jpg)
 
 
-#### **Les formes "borderline"**
+#### Les formes "borderline"
 
 Ce sont des formes de transition. La **forme borderline tuberculoïde (BT)** comprend quelques lésions de grande taille (de 5 à 20 cm, voire plus), maculeuses ou infiltrées en périphérique, asymétriques et hypoesthésiques avec des lésions plus petites à proximité. La **forme borderline borderline (BB)** se caractérise par la présence de plusieurs lésions de type annulaire, de 5 à 10 cm de diamètre, mal limitées et sans anesthésie. La **forme borderline lépromateuse** **(BL)** comprend plus d’une dizaine de lépromes et de lésions annulaires, bilatérales, non anesthésiques.
 
@@ -180,11 +180,11 @@ Des arthralgies sont fréquentes dans la forme lépromateuse, mais surtout au co
 
 La lèpre évolue insidieusement, mais peuvent survenir des réactions importantes sous l’influence d’un traitement ou même de façon spontanée. Il y a deux types de réactions :
 
-### 1. La **réaction de réversion**, ou réaction de type 1 
+### 1. La réaction de réversion, ou réaction de type 1 
 
 Elle est due à un phénomène d’hypersensibilité retardée renforçant l’immunité à médiation cellulaire. Elle n’est constatée que chez les patients borderline qu’elle déplace vers le pôle tuberculoïde. Elle atteint  de 15 % à 45 % de ces patients, principalement dans les premiers mois du traitement. Elle se manifeste brutalement par une turgescence des lésions déjà connues qui peuvent s’ulcérer, des arthralgies et surtout une névrite aigue, hypertrophique et douloureuse, entraînant une paralysie et une anesthésie des territoires concernés. La réaction de réversion tardive, apparaît chez 10% à 45% des patients dans les mois ou années après l’arrêt du traitement et posent un problème de diagnostic différentiel avec une rechute.
 
-### **2. L’érythème noueux lépreux**, ou réaction de type 2
+### 2. L’érythème noueux lépreux, ou réaction de type 2
 
 Il est observé chez 50 % des patients lépromateux. Il apparaît en début de traitement et évolue par poussées en relation avec une infection  intercurrente ou une grossesse. Les symptômes seraient dus à une élévation du _Tumor Necrosis Factor_ α dans le sérum. Le patient présente une fièvre, une altération de l’état général, des arthralgies, des polyadénopathies, une névrite aigue et des nodules hypodermiques chauds, douloureux et de couleur violacée.
 

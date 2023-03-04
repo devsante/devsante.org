@@ -55,7 +55,7 @@ Le rôle de l’infirmière est à la fois promotionnel, préventif et curatif, 
 
 </table>
 
-### **Cible 2 : l'hydratation**
+### Cible 2 : l'hydratation
 
 <table>
 
@@ -89,7 +89,7 @@ Le rôle de l’infirmière est à la fois promotionnel, préventif et curatif, 
 
 </table>
 
-### **Cible 3 : la nutrition**
+### Cible 3 : la nutrition
 
 <table>
 
@@ -140,7 +140,7 @@ Conseiller une alimentation riche en fruits et légumes et en fibres, pauvre en 
 
 </table>
 
-### **Cible 4 : l'élimination  
+### Cible 4 : l'élimination  
 Les selles**
 
 <table>
@@ -175,7 +175,7 @@ Les selles**
 
 </table>
 
-### **Les urines**
+### Les urines
 
 <table>
 
@@ -261,7 +261,7 @@ Léthargie, céphalées, confusion, incohérence
 
 </table>
 
-### **Cible 5 : les biorythmes**
+### Cible 5 : les biorythmes
 
 <table>
 
@@ -301,7 +301,7 @@ Satisfaire une activité régulière pour promouvoir le repos et la relaxation; 
 
 </table>
 
-### **Cible 6 : la douleur**
+### Cible 6 : la douleur
 
 <table>
 
@@ -365,7 +365,7 @@ Autres mesures de lutte: respirer lentement, fixer un point et masser, chanter e
 
 </table>
 
-### **Cible 7 : la santé mentale**
+### Cible 7 : la santé mentale
 
 <table>
 
@@ -411,7 +411,7 @@ Restaurer les relation sociales; développer des techniques de communication ver
 
 </table>
 
-### **Cible 8 : les polypathologies/associations de plusieurs traitements**
+### Cible 8 : les polypathologies/associations de plusieurs traitements
 
 <table>
 
@@ -457,7 +457,7 @@ Identifier les médicaments inutiles, les traitements dupliqués, les interactio
 
 </table>
 
-### **Cible 9 : la vue**
+### Cible 9 : la vue
 
 <table>
 
@@ -491,7 +491,7 @@ Identifier les médicaments inutiles, les traitements dupliqués, les interactio
 
 </table>
 
-### **Cible 10 : l'ouÏe**
+### Cible 10 : l'ouÏe
 
 <table>
 
@@ -539,7 +539,7 @@ Référence en oto-rhino-laryngologie.</td>
 
 </table>
 
-### **Cible 11 : le toucher**
+### Cible 11 : le toucher
 
 <table>
 
@@ -573,7 +573,7 @@ Référence en oto-rhino-laryngologie.</td>
 
 </table>
 
-### **Cible 12 : l'odorat et le goût**
+### Cible 12 : l'odorat et le goût
 
 <table>
 

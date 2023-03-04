@@ -13,7 +13,7 @@ La pronation douloureuse est une urgence pédiatrique fréquente et bénigne qu'
 ----  
 Text:
 
-## **I. Mécanisme et lésion**
+## I. Mécanisme et lésion
 
 Un traumatisme mineur est toujours à l'origi­ne de la pronation douloureuse. C'est une traction un peu brusque sur la main alors que le coude est en extension et que l'avant-bras, la main, sont en pronation.
 
@@ -22,7 +22,7 @@ Le ligament annulaire qui fait le tour de la tête radiale reste inséré par se
 (image: 12021-1.jpg)
 
 
-## **II. Tableau clinique**
+## II. Tableau clinique
 
 Un jeune enfant arrive aux urgences : il a (ou elle a, car c'est plus souvent une fille qu'un garçon) entre 2 et 4 ans, encore que ces limites d'âge ne soient pas strictes. Il est cependant exceptionnel de voir un enfant de plus de 5 ans ou de moins de 1 an avec une pronation douloureuse.
 
@@ -40,7 +40,7 @@ Une radiographie ne montrerait rien d'anor­mal. Elle n'est utile que si l'on ga
 (image: 12021-6.jpg)
 
 
-## **III. Le traitement**
+## III. Le traitement
 
 Il est très simple, mais un peu douloureux. Comme le succès n'est pas toujours acquis dès la première tentative de réduction, il est sage de faire inhaler à l'enfant quelques bouffées d'Antonox.
 

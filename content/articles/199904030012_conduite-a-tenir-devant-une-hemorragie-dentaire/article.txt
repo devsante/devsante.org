@@ -15,7 +15,7 @@ C'est également une urgence assez fréquente dans les services hospitaliers pen
 ----  
 Text:
 
-## **I.** Examen du malade
+## I. Examen du malade
 
 *   État général du patient : prise de tension artérielle, faciès état fébrile, aspect des yeux et des lèvres, asthénie.
 *   Qualité et importance de l'hémorragie depuis quand l'hémorragie est-elle survenue ?
@@ -33,7 +33,7 @@ Antécédents médicaux connus :
 *   traitement en cours ou médicaments absorbés par le patient : aspirine, AINS (anti-inflammatoire non stéroïdien), antivitamine K<sup>-</sup>;
 *   le patient a-t-il suivi toutes les recommandations données par le stomatologue suite à l'avulsion dentaire (ne pas cracher, abstention de prise d'alimentation et boisson chaude).
 
-## **III.** **Interrogatoire** quant au déroulement **de l'acte chirurgical**
+## III. Interrogatoire quant au déroulement de l'acte chirurgical
 
 *   Heure à laquelle a eu lieu l'avulsion dentaire.
 *   Durée approximative de cet acte.
@@ -60,7 +60,7 @@ Cela est nécessaire s'il existe une pathologie médicale décelée à l'interro
 
 On classe les hémorragies suivant leur survenance par rapport à l'avulsion dentaire :
 
-### a) L'hémorragie survient dans l'heure **qui suit l'avulsion dentaire**
+### a) L'hémorragie survient dans l'heure qui suit l'avulsion dentaire
 
 1 - Faire rincer la bouche du patient afin de nettoyer la cavité buccale.
 

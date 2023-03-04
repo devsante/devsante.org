@@ -12,7 +12,7 @@ La sciatique est une affection fréquente, le plus souvent bénigne et parfois t
 
 Il s'agit d'une affection douloureuse du membre inférieur, secondaire à la compression ou à l'inflammation des racines du nerf sciatique.
 
-## **Rappel anatomique**
+## Rappel anatomique
 
 Le nerf sciatique est un volumineux nerf responsable de la sensibilité et de la motricité des jambes. Il est formé par la réunion de deux racines nerveuses issues de la moelle épinière; ces deux racines, appelées L5 et S1, cheminent dans le canal vertébral, puis sortent du rachis lombaire entre les vertèbres L4 et L5 (racine L5) ou entre les vertèbres L5 et S1 (racine S1) _(schéma n° 1_).
 
@@ -31,7 +31,7 @@ Les fibres issues de la racine S1 permettent :
 (image: i377-1.jpg)
 
 
-## **Diagnostiquer la sciatique**
+## Diagnostiquer la sciatique
 
 La sciatique est une **douleur** du membre inférieur, particulière par son siège : il s'agit d'une douleur traçante partant de la région lombaire, atteignant la fesse et la parti e postérieure de la cuisse et du genou, et descendant dans la jambe (schéma _n° 2) :_
 
@@ -48,7 +48,7 @@ Quelle que soit la topographie de la douleur, l'interrogatoire du patient permet
 
 *   l'existence d'antécédents de lombalgies, de sciatiques anciennes.
 
-### **Rechercher des signes de gravité**
+### Rechercher des signes de gravité
 
 Une fois la sciatique reconnue par la topographie de la douleur, il faut s'assurer de l'absence de complications urgentes à traiter :
 
@@ -57,7 +57,7 @@ Une fois la sciatique reconnue par la topographie de la douleur, il faut s'assur
 
 En présence de telles complications, le patient doit être transféré au centre hospitalier le plus proche, afin d'éviter une paralysie irréversible.
 
-### **Examiner le patient**
+### Examiner le patient
 
 Il faut examiner le rachis en position debout si possible : recherche d'une douleur et d'une raideur lombaire associées à la sciatique.
 
@@ -76,9 +76,9 @@ Enfin l'examen neurologique, explorant les territoires des racines L5 et S1 pour
 (image: i377-2.jpg)
 
 
-## **Reconnaître la cause de la sciatique**
+## Reconnaître la cause de la sciatique
 
-### **La sciatique discale est la plus** **fréquente**
+### La sciatique discale est la plus fréquente
 
 Elle est provoquée par une hernie du disque intervertébral qui vient comprimer la racine nerveuse au niveau de la sortie de celle-ci hors du canal rachidien.
 
@@ -88,7 +88,7 @@ La sciatique peut débuter d'emblée, ou plus souvent succéder à une lombalgie
 
 Dans la grande majorité des cas, l'évolution de cette sciatique discale est favorable en quelques semaines.
 
-### **D'autres affections peuvent être responsables de sciatiques**
+### D'autres affections peuvent être responsables de sciatiques
 
 Elles sont importantes à reconnaître en raison des traitements nécessaires. Ces causes non discales seront suspectées devant :
 
@@ -101,7 +101,7 @@ Elles sont importantes à reconnaître en raison des traitements nécessaires. C
 
 Il s'agit alors de sciatiques d'origine inflammatoire, pouvant être secondaires à une **Infection** vertébrale (spondylodiscite, surtout tuberculeuse), à une tumeur osseuse, ou plus rarement à d'autres causes. Ces sciatiques inflammatoires nécessitent le transfert du patient à l'hôpital pour que le traitement spécifique puisse être débuté.
 
-## **Traiter la sciatique**
+## Traiter la sciatique
 
 Toutes les sciatiques d'origine inflammatoire devront être transférées à l'hôpital, de même que les sciatiques s'accompagnant de paralysie.
 
@@ -113,7 +113,7 @@ Le traitement des sciatiques discales fait appel:
 
 Ce n'est que dans certains cas rebelles au repos bien conduit que l'on pourra proposer l'hospitalisation du patient afin de rechercher une cause non discale, et pour utiliser des traitements complémentaires, voire proposer une intervention chirurgicale.
 
-### **Conclusion**
+### Conclusion
 
 Le diagnostic de la sciatique est simple, reposant essentiellement sur l'interrogatoire du patient qui décrit une douleur localisée et traçante dans le membre inférieur. La sciatique est le plus souvent due à une hernie discale lombaire; son traitement nécessite alors le repos le plus strict, ainsi que la prescription de médicaments antalgiques. Il faut toujours penser à éliminer une sciatique " inflammatoire " ou infectieuse, nécessitant un bilan et un traitement à l'hôpital.
 

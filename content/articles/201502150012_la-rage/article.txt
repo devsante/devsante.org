@@ -21,7 +21,7 @@ Text:
 
 Le virus de la rage fait partie de la famille des _Rhabdoviridae_, il appartient au genre _Lyssavirus_ (du grec lussa, la folie), son génome est constitué d'un ARN. C'est un virus fragile.
 
-## **II. Epidémiologie de la rage**
+## II. Epidémiologie de la rage
 
 La rage est une zoonose, c'est-à-dire une maladie animale qui peut être transmise a l'homme : tous les animaux à sang chaud peuvent la contracter.  
 Selon l'OMS, la rage est au dixième rang des maladies infectieuses mortelles. L'augmentation du nombre de cas est due à une absence de prise en charge efficace par les autorités de Santé publique humaine et vétérinaire.
@@ -43,9 +43,9 @@ _**Figure 1. Transmission de l'animal à l'homme** (Cours de virologie systémat
 
 **Figure 1 : transmission de l'animal à l'homme. (Cours de virologie systématique. Université René-­Descartes, Paris).**
 
-## **III. Ecologie de la rage animale**
+## III. Ecologie de la rage animale
 
-### **1. La rage sauvage**
+### 1. La rage sauvage
 
 Deux cycles assurent la perpétuité de la rage.
 
@@ -58,7 +58,7 @@ Elle existe sur tous les continents, les vecteurs du virus variant selon les pay
 C'est la rage des chauves-souris. Ce sont des mam­mifères qui développent la maladie sous forme d'infection chronique et excrètent le virus par leurs urines et leur salive. Cette rage est présente dans tous les continents.  
 Les chauves-souris semblent occuper un rôle de plus en plus important dans la transmission d'infections virales, on voit actuellement la place qu'elles tiennent dans la propagation du virus Ebola. 
 
-### **2. La rage urbaine ou rage des rues**
+### 2. La rage urbaine ou rage des rues
 
 Les chiens errants constituent le réservoir et le vec­teur principal du virus. L'OMS estime que la rage des rues est responsable de plus de 99 % des cas de rage humaine et d'au moins 50 000 décès chaque année.  
 Les chiens errants sont les intermédiaires entre la rage sauvage et la rage urbaine. Ils transmettent la maladie à d'autres animaux sauvages, aux herbi­vores et aux animaux domestiques non vaccinés : chiens et chats.  
@@ -69,17 +69,17 @@ La rage des chiens sévit à l'état endémique dans les régions défavorisées
 (image: image004-10.jpg)
 
 
-## **IV. La contamination de l'homme**
+## IV. La contamination de l'homme
 
 La contamination par voie cutanée est la plus fré­quente (99 % des cas). Elle a lieu en cas de morsure par un animal enragé. Plus rarement, il peut s'agir du léchage d'une plaie fraîche, d'une griffure de chat par des griffes souillées de salive ou de la manipulation d'un animal enrage.  
 **Le virus ne peut pas franchir la peau saine­ mais il peut franchir les muqueuses.**  
 Citons ici, à titre documentaire, quelques contaminations exceptionnelles : inhalation (grottes à chauves-souris, manipulations de laboratoire), soins à un malade, greffes de cornée.
 
-## **V. Manifestatïons de la rage**
+## V. Manifestatïons de la rage
 
 La multiplication du virus déclenche une encépha­lite toujours mortelle.
 
-### **1. Chez les animaux**
+### 1. Chez les animaux
 
 *   Le renard, le chacal ou l'hyène devient agressif, perd sa méfiance habituelle, se rapproche de l'homme et des animaux domestiques qu'il pour­ra contaminer par morsure.
 *   Le chien et le chat peuvent présenter une forme furieuse ou une forme paralytique. La forme furieuse se traduit, chez le chien, par une grande agitation, un aboiement particulier se terminant par un ton aigu (appelé voix rabique), par l'inges­tion de substances diverses et surtout par des mor­sures répétées de l'homme ou des animaux. La forme paralytique est plus difficile à reconnaître. La paralysie peut prédominer aux mâchoires ou revêtir l'aspect d'une paralysie ascendante. Le chien enragé meurt habituellement entre le 3ème et le 8ème jour, toujours avant le 15ème jour _(Figure 3)._
@@ -92,7 +92,7 @@ _**Figure 3. Chien enragé**_ (cours de virologie systématique. Université Ren
 *   Les bovins ont habituellement une forme paraly­tique.
 *   Les chauves-souris sont prostrées et montrent des difficultés à voler.
 
-### **2. Chez l'homme**
+### 2. Chez l'homme
 
 L'incubation est silencieuse, elle dure de six semaines à plusieurs mois. Ceci explique que son diagnostic peut être difficile, d'autant plus que de nombreux virus entraînent aussi des encéphalites de tableaux cliniques proches. Elle est plus courte en cas de morsures profondes ou multiples, surtout de la face et des mains. Elle est plus courte chez les enfants, plus souvent mordus au visage du fait de leur petite taille.
 
@@ -112,12 +112,12 @@ On observe une grande agressivité du malade. L'évolution est généralement ra
 
 Plus rare, plus difficile à diagnostiquer, elle débute par des rachialgies très intenses. Puis une paralysie ascendante s'installe, atteignant successivement les membres inférieurs, les sphincters, le tronc, les membres supérieurs et la face. Une paralysie respi­ratoire et des troubles bulbaires emportent le mala­de entre le 4ème et le 12ème jour.
 
-## **VI. Conduite à tenir en cas d'exposition au rîsque de rage. Prophylaxie post-exposition (PPE)**
+## VI. Conduite à tenir en cas d'exposition au rîsque de rage. Prophylaxie post-exposition (PPE)
 
 **Il n'existe aucun médicament antiviral efficace, seule la vaccination faite en urgence peut entraîner la guérison.  
 C'est pour cette raison que la PPE est indispensable chez les individus susceptibles d'être contaminés.**
 
-### **1. Soins locaux**
+### 1. Soins locaux
 
 Ils sont très importants, à faire en urgence :
 
@@ -267,7 +267,7 @@ _Il faut ensuite décider de débuter une vaccination ou non, la décision est v
 
 La même conduite générale est appliquée, la per­sonne exposée est adressée, après avoir reçu les traitements locaux, à un centre antirabique qui apprécie le risque de contamination et décide de la mise en route de la vaccination post-exposition. Les modalités sont différentes selon que l'animal est vivant ou mort : l'animal vivant est récupéré et mis en observation, la tête de l'animal mort est envoyée pour analyse, le tout en service spécialisé.
 
-## **VII. Diagnostic de laboratoire**
+## VII. Diagnostic de laboratoire
 
 L’établissement d’un diagnostic clinique de la rage est souvent délicat car les tableaux cliniques sont très variables ; ainsi la confirmation du statut d’enragé d’un animal ou d’un individu repose uniquement sur la réalisation du diagnostic biologique. En trente ans, les progrès ont été considérables : en 1980 il fallait 15 jours pour faire un diagnostic, maintenant 24h suffisent. Ceci permet de mettre rapidement en place une PPE justifiée,  alors qu’un grand nombre sont inutiles (15 millions par an dans le monde).  
 Néanmoins, la réalisation du diagnostic biologique relève de laboratoires spécialisés et habilités, en raison de sa difficulté technique et des risques importants de contamination du personnel.
@@ -302,7 +302,7 @@ Prélèvements cérébraux au niveau du bulbe rachidien, les plus productifs.
 
 Le taux d’anticorps protecteurs doit être supérieur ou égal à 0,5 UI/ml.
 
-## **Conclusion**
+## Conclusion
 
 La rage est un grave problème de santé publique dans certaines régions d'Afrique et d'Asie. Faute de traitement, de nombreuses victimes décèdent de cette maladie. Par ailleurs, 40 % des personnes exposées sont des enfants de 5 à 15 ans. La plupart des morsures ne sont pas signalées ou identifiées par les parents ou les agents de santé. Les enfants ne reçoivent pas le traitement assez tôt ou ne le reçoivent que partiellement, et le nombre de jeunes enfants qui contractent et meurent de rage non diagnostiquée est sous-estimé.
 

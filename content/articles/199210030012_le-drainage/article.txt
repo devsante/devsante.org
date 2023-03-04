@@ -31,7 +31,7 @@ Le drain peut être placé dans une cavité naturelle (cavité péritonéale, ve
 
 Le mode de drainage et le type de drain choisi dépendent étroitement de la cavité à drainer.
 
-### **1.** Mode de drainage
+### 1. Mode de drainage
 
 On oppose le drainage passif et le drainage actif.
 
@@ -85,7 +85,7 @@ Elles doivent être irriguées quotidiennement (avec du sérum physiologique bé
 
 Le sac de Mikulicz est une sorte de sac de gaze, ayant un peu la forme d'un parachute, que l'on étale dans le fond d'une zone cruentée* et infectée (par exemple une pelvipéritonite) et dans lequel on peut en plus disposer deux à trois mèches (dites mèches à prostate) et un petit tube pour irriguer quotidiennement ce système. Les mèches sont retirées à partir du 7e jour et le sac au 12e jour.
 
-#### Drainage filiforme : les crins dits de **" Florence "**
+#### Drainage filiforme : les crins dits de " Florence "
 
 En fait on utilise des faisceaux de fils de nylon monobrins qui ont un effet de drainage capillaire. Ils sont souvent utilisés en cas de plaies avec décollement des parties molles (cuir chevelu par exemple) et ressortent habituellement par les extrémités de la plaie.
 
@@ -129,7 +129,7 @@ Après incision et évacuation de l'abcès, une lame ondulée est placée par l'
 
 Après évacuation, un drain de Redon sera placé et l'incision refermée.
 
-#### Plaie des parties molles, récente et **peu contaminée**
+#### Plaie des parties molles, récente et peu contaminée
 
 Après parage, la plaie est refermée sur une lame placée au niveau de la plaie ou d'une contre-incision.
 

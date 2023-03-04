@@ -16,9 +16,9 @@ Le tétanos demeure une maladie redoutable qui, une fois déclarée, nécessite 
 ----  
 Text:
 
-## **I. Les portes d'entrée**
+## I. Les portes d'entrée
 
-### ****1. **Dans près de la moitié des cas, l'inoculation  
+### 1. Dans près de la moitié des cas, l'inoculation  
 du bacille tétanique est traumatique :**
 
 *   blessure des pieds ;
@@ -27,7 +27,7 @@ du bacille tétanique est traumatique :**
 
 Le risque du tétanos est évalué à 1 cas pour 1 000 blessures mineures chez l'enfant.
 
-### **2. Les pratiques traditionnelles**
+### 2. Les pratiques traditionnelles
 
 La circoncision et aussi l'excision clitoridienne ont tenu une grande place parmi les causes du tétanos.
 
@@ -36,12 +36,12 @@ Les scarifications, tatouages, les percées d'oreilles sont aussi souvent respon
 (image: i901-1.jpg)
 
 
-### **3. Inoculation obstétricale**
+### 3. Inoculation obstétricale
 
 Il est rare qu'un accouchement provoque le tétanos chez la mère.  
 Le tétanos après avortement provoqué se multiplie par contre dans les villes.
 
-### **4. Les infections cutanées et ORL**
+### 4. Les infections cutanées et ORL
 
 *   pyodermites,
 *   fistulation d'un ver de Guinée,
@@ -51,7 +51,7 @@ Le tétanos après avortement provoqué se multiplie par contre dans les villes.
 *   otites chroniques,
 *   pyorrhées.
 
-### **5. Les accidents thérapeutiques**
+### 5. Les accidents thérapeutiques
 
 Les interventions chirurgicales apportent toutes un risque, si une faute d'asepsie est commise.
 
@@ -63,17 +63,17 @@ Cependant, même faites dans de bonnes conditions, certaines interventions expos
 
 Dans 1 0 à 20 % des cas enfin, on ne trouve pas de porte d'entrée, on pense que **le** **bacille passe alors par le tube digestif.**
 
-## **II. La prévention**
+## II. La prévention
 
 Deux mesures s'imposent devant une plaie :
 
-### **1.** Le nettoyage soigneux
+### 1. Le nettoyage soigneux
 
 A l'eau bouillie, ou mieux, avec un antiseptique (eau oxygénée, eau de Javel diluée, éosine, etc.).
 
 L'interdiction de tout pansement à base de terre ou de végétaux souillés, en particulier sur l'ombilic.
 
-### **2.  La séro-anatoxinothérapie**
+### 2.  La séro-anatoxinothérapie
 
 Si l'on peut faire la preuve d'une vaccination récente correcte, il faut injecter en deux points différents par voie sous-cutanée avec deux seringues différentes :
 
@@ -129,17 +129,17 @@ Si la mère a des anticorps antitétaniques, on sait qu'ils vont traverser le pl
 
 **_Le tétanos tue 500 000 personnes par an dans le monde, les deux tiers ont moins de 20 ans._**
 
-## **III. La vaccination**
+## III. La vaccination
 
 Le vaccin antitétanique est le plus sûr, le plus efficace et le moins dangereux de tous les vaccins actuellement utilisés.
 
-### **1. Vaccination classique**
+### 1. Vaccination classique
 
 Trois injections séparées par des intervalles de un à trois mois et suivies d'un rappel l'année suivante ou d'un rappel tous les 10 ans assurent une parfaite protection.
 
 Malheureusement un tel nombre d'injections rend difficile la vaccination de masse.
 
-### **2. Vaccination en deux temps**
+### 2. Vaccination en deux temps
 
 En utilisant un vaccin 5 à 10 fois plus concentré et associé au phosphate d'alumine ou au calcium, il est possible d'obtenir avec une seule injection une bonne protection en quelques semaines.
 

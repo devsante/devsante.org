@@ -69,7 +69,7 @@ On peut reconnaître tôt les enfants en danger et influencer la santé de la fa
 
 **3.** En dernier lieu, le fichier peut parfaitement être utilisé pour suivre de façon rapprochée les enfants à risque.
 
-## **Délimitation du champ d'action de la consultation**
+## Délimitation du champ d'action de la consultation
 
 Il n'y a pas de fichier modèle qui puisse s'appliquer à toutes les consultations. Un fichier doit être conçu en fonction:
 
@@ -79,7 +79,7 @@ Il n'y a pas de fichier modèle qui puisse s'appliquer à toutes les consultatio
 
 **des objectifs** que se fixe l'équipe: par exemple pour le suivi de la première année, il est classique de voir le nourrisson chaque mois afin de suivre la bonne prise pondérale au sein, encourager la diversification à partir de la fin du deuxième trimestre, prévenir les carences et effectuer les principales vaccinations. Cependant si certains enfants suivent parfaitement ce schéma, les consultations sont nombreuses et surchargées et l'on n'a pas le temps d'aller voir à domicile les autres enfants qui n'ont pas été vus régulièrement car leur mère était peu informée ou peu motivée. Il faut éventuellement choisir de diminuer un peu la fréquence générale des consultations conseillées afin de pouvoir mieux se consacrer aux enfants. " à risques ".
 
-## **Utilisation d'un "fichier programme "**
+## Utilisation d'un "fichier programme "
 
 Il en existe plusieurs types mais en règle générale, leur principe est assez simple: il consiste à suivre le cheminement de l'enfant en faisant bouger sa fiche d'une case à une autre.
 
@@ -131,7 +131,7 @@ Ainsi, à la fin de chaque mois, on peut faire le bilan case par case, des enfan
 
 pour un groupe d'enfants, on peut pareillement se rendre compte de la couverture vaccinale, ou du nombre d'enfants nécessitant un support nutritionnel.
 
-## **Utilisation d'un échéancier pour les " enfants à risque "**
+## Utilisation d'un échéancier pour les " enfants à risque "
 
 Le système que nous avons exposé au paragraphe précédent concerne la majorité des enfants bien portants, pour lesquels une surveillance lâche suffit.
 
@@ -171,7 +171,7 @@ Pour les enfants en cours de rougeole ou autre maladie nécessitant une consulta
 
 Lorsqu'un enfant sort d'une zone de danger, guérit d'une maladie, sa fiche retourne dans le fichier-programme.
 
-### **Conclusion**
+### Conclusion
 
 Cet exposé n'a pas la prétention de donner une méthode utilisable dans tous les dispensaires. Elle est en effet d'autant plus utile que la population à suivre est importante. D'autre part, on peut varier les systèmes de cases, selon que l'on veut privilégier un classement permettant de toujours trouver facilement une fiche (ici) ou un classement permettant d'évaluer d'un coup d'oeil rapide l'efficacité d'un programme de vaccinations. L'équipe de rédaction est prête à discuter avec tout lecteur des problèmes d'organisation utilisant ces méthodes.
 

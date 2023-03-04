@@ -26,18 +26,18 @@ Text:
 
 L'interrogatoire doit préciser :
 
-### **1. Existe-t-il des douleurs ?**
+### 1. Existe-t-il des douleurs ?
 
 *   une gêne, _des grains de sable_ orientent vers la **conjonctive,**
 *   des douleurs majorées par le clignement et/ou la lumière (photophobie) orientent vers la **cornée,**
 *   des _douleurs péri orbitaires_ et/ou des _céphalées_ orientent vers des **lésions plus** **profondes** (uvéite, hypertonie).
 
-### **2. Existe-t-il une baisse d'acuité** **visuelle de loin ?**
+### 2. Existe-t-il une baisse d'acuité visuelle de loin ?
 
 *   une diminution de l'acuité visuelle,
 *   une vision anormale (halos colorés) sont des **signes de gravité.**
 
-### **3. Existe-t-il des sécrétions et** **depuis quand ?**
+### 3. Existe-t-il des sécrétions et depuis quand ?
 
 Le sécrétions signent une surinfection.
 
@@ -124,7 +124,7 @@ Au terme de votre examen vous pourrez :
     *   référer en l'absence d'amélioration.
 *   Référer les autres cas en précisant les critères de gravité.
 
-## I. L'oeil rouge **non douloureux**
+## I. L'oeil rouge non douloureux
 
 ### 1. L'hémorragie sous-conjonctivale
 
@@ -353,7 +353,7 @@ Attention : le lépreux qui a une paralysie faciale abîmera sa cornée sans sou
 *   prescrire vitamine A 200 000 Ul aux jours J1, J2, J15, 1/2 capsule de six mois à un an (ou poids inférieur à 8 kg), 1 capsule au-delà de un an (ou poids supérieur à 8 kg),
 *   traiter la maladie générale.
 
-### **4. Cas où vous devez référer rapidement**
+### 4. Cas où vous devez référer rapidement
 
 #### Vous ne voyez pas la pupille :
 

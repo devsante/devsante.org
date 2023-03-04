@@ -400,7 +400,7 @@ Il se pose avec différentes maladies graves, selon les manifestations dominante
 
 Une fièvre typhoïde, éruptions virales, infection urinaire, infection ORL, tuberculose, septicémie.
 
-#### En cas de coma ou altération de la **conscience :**
+#### En cas de coma ou altération de la conscience :
 
 Méningo-encéphalite, méningite, coma diabétique.
 
@@ -435,7 +435,7 @@ Rôle de l'infirmier dans la pr
 
 ### 5. Traitement des principales formes de paludisme grave
 
-#### Le traitement standard du paludisme **grave**
+#### Le traitement standard du paludisme grave
 
 Il repose sur l'emploi du sel de quinine, à raison de 10 mg/kg en perfusion de 20-25 ml/kg de Sérum Glucosé Isotonique (SGI) toutes les 8 heures.
 
@@ -478,7 +478,7 @@ e) s'il y a dyspnée, agitation ou geignement avant, pendant ou après la transf
 
 f) se rappeler que la quinine (du traitement standard) peut provoquer une hypoglycémie.
 
-### Paludisme grave, forme neurologique, **avec coma**
+### Paludisme grave, forme neurologique, avec coma
 
 C'est l'une des formes les plus meurtrières, d'où la nécessité de mettre le traitement en route le plus rapidement possible. Sur le plan clinique le malade présente une obnubilation importante ou un coma avec ou sans méningisme.
 
@@ -500,7 +500,7 @@ g) répéter le score de Glasgow ou Blantyre toutes les heures,
 
 h) éviter les escarres et la dénutrition.
 
-### Paludisme grave, forme neurologique, **avec convulsion**
+### Paludisme grave, forme neurologique, avec convulsion
 
 Il ne faut pas confondre cette forme grave avec un paludisme simple accompagné d'une convulsion hyperpyrétique (avec un coma postcritique bref.
 

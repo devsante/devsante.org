@@ -184,7 +184,7 @@ Celle-ci permettra :
 
 Elle montrera les cavités rénales dilatées et parfois le calcul.
 
-### **3. Une urographie intraveineuse (UIV)**
+### 3. Une urographie intraveineuse (UIV)
 
 L'UIV est réalisée soit en urgence si le dia­gnostic n'est pas certain, soit quelques jours après la crise pour rechercher une cause et apprécier le retentissement de l'obstacle sur le rein. Pendant la crise, l'UIV n'est jamais nor­male (une UIV normale doit faire réfuter le diagnostic de colique néphrétique si elle est pratiquée au moment de la douleur), on obser­ve alors : un retard de sécrétion du rein, un uretère dilaté et atone, un arrêt de la colonne de produit opaque au niveau de l'obstacle. L'UIV montrera très souvent la cause : calcul, sténose de l'uretère... Mais, si l'obstacle est évacué entre la crise et le moment où l'on pra­tique l'examen, elle paraîtra normale, c'est pour cette raison que le tamisage des urines est si important.
 
@@ -245,7 +245,7 @@ Tumeur du rein, de l'uretère, de la vessie, qui peuvent boucher l'uretère par 
 
 Anomalie de la jonction pyélo-urétérale ou vésico-urétérale, reflux vésico-rénal.
 
-### **4. Rétrécissement de l'uretère (sténose)**
+### 4. Rétrécissement de l'uretère (sténose)
 
 Fréquent en Afrique par tuberculose ou bilhar­ziose urinaire.
 

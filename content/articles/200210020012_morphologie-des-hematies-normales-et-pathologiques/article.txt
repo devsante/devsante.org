@@ -78,7 +78,7 @@ Cet aspect s'observe au cours de l'elliptocytose héréditaire, pathologie cong�
 
 On peut retrouver des elliptocytes, moins nombreux et non spécifiques au cours de différentes dysérythropoïèses.
 
-### 6) Drépanocyte ou sickle cell, hématie **falciforme** (figure 7)
+### 6) Drépanocyte ou sickle cell, hématie falciforme (figure 7)
 
 L'hématie prend une forme allongée, classiquement en forme de faucille ou de croissant, avec deux spicules bipolaires : extrémités pointues, plus ou moins effilées.
 
@@ -92,13 +92,13 @@ Leur coloration est foncée et homogène, avec disparition du centre clair.
 
 On les observe au cours de la maladie de Minkowski Chauffard ou sphérocytose héréditaire (anomalies congénitale de la membrane des hématies), mais également au cours d'autres anémies hémolytiques : elles sont dans ce cas moins nombreuses.
 
-### 8) Cellule cible ou _target cell_, hématie **en cloche, codocyte** (figure 9)
+### 8) Cellule cible ou _target cell_, hématie en cloche, codocyte (figure 9)
 
 L'aspect sur frottis est celui d'une cible ou d'une cocarde, l'hémoglobine étant répartie en périphérie et au centre de la cellule.
 
 Les cellules cibles s'observent surtout au cours de certaines hémoglobinopathies (hémoglobinose C, thalassémie), parfois au cours des carences martiales.
 
-### 9) Dacryocytes ou hématies en larme, **en poire ou en raquette** (figure 10)
+### 9) Dacryocytes ou hématies en larme, en poire ou en raquette (figure 10)
 
 Les hématies ont la forme d'une poire avec une extrémité arrondie et l'autre allongée, plus ou moins effilée.
 
@@ -150,7 +150,7 @@ Ils ne sont pas évoqués dans cet article.
 
 **Une plaquette de petite taille peut** **parfois se superposer sur une hématie** **et ne doit pas être confondue avec** **une inclusion intra-érythrocytaire.** _(figure 16)_
 
-## **VI. Conclusion**
+## VI. Conclusion
 
 L'étude de la morphologie des hématies vient compléter les résultats de la numération globulaire, associés à l'étude des constantes érythrocytaires : volume globulaire moyen, concentration et teneur globulaires moyennes en hémoglobine.
 

@@ -89,7 +89,7 @@ Elle comprend deux temps principaux :
 
 Faut-il " tuer " le parasite (les scolex ou les vésicules-filles) avant de l'évacuer ? Cette notion traditionnelle n'a pas de sens et doit être abandonnée. Inutile pour les KHF uniloculaire, elle est irréalisable pour les KHF multiloculaires (on ne peut injecter chaque vésicule ... ) et les produits parasiticides sont très souvent inefficaces parce que dilués dans le liquide hydatique, ou potentiellement dangereux (coma hyperosmolaire pour le sérum hypertonique, cholangite grave pour le formol, explosion du foie pour l'eau oxygénée ... ). Utilisée correctement (_dans_ _une cavité largement ouverte)_ l'eau oxygénée à 20 volumes aurait ma préférence, mais en situation de pénurie un ammonium quaternaire (Cequartyl®) ou même l'alcool iodé peuvent être utilisés.
 
-#### **a.** Pour les kystes uniloculaires
+#### a. Pour les kystes uniloculaires
 
 On utilisera la technique d'ablation du parasite " à kyste fermé " telle que décrite par Galindo pour les KH pulmonaires.
 

@@ -17,7 +17,7 @@ La diarrhée aiguë se définit comme l'existence de selles anormalement liquide
 ----  
 Text:
 
-## **I. Critères de gravité**
+## I. Critères de gravité
 
 Ils sont de trois ordres:
 
@@ -25,7 +25,7 @@ Ils sont de trois ordres:
 *   l'importance de la dénutrition,
 *   les conditions d'environnement à domicile.
 
-### **1. La déshydratation**
+### 1. La déshydratation
 
 C'est le premier élément à préciser car il peut aboutir très vite à la mort de l'enfant et justifier une réhydratation en urgence.
 
@@ -37,7 +37,7 @@ Parfois il s'agit de déshydratation moins spectaculaire: l'enfant s'agite, mani
 
 Parfois il n'y a pas **encore** de signe clinique de déshydratation, mais ceux-ci peuvent apparaître rapidement et une surveillance est indispensable en commençant par la **pesée de** **l'enfant,** geste primordial. En effet, seule la chute rapide du poids peut donner une idée précise de l'existence et du degré de déshydratation. Malheureusement il est rare que l'on connaisse le poids de l'enfant dans les jours précédents.
 
-### **2. La dénutrition**
+### 2. La dénutrition
 
 Un mauvais état nutritionnel va rendre plus fragile cet enfant diarrhéique, et plus difficile le traitement.
 
@@ -47,13 +47,13 @@ Il peut s'agir d'un kwashiorkor avec, malgré une éventuelle déshydratation, d
 
 Il faut de toute façon préciser le type d'alimentation qu'a reçu cet enfant depuis sa naissance.
 
-### **3. L'environnement**
+### 3. L'environnement
 
 L'enfant a eu un **traitement** avant d'être vu dans une structure sanitaire. La mère a pu arrêter l'alimentation, croyant bien faire et aggraver la déshydratation et la dénutrition. Des traitements traditionnels peuvent être utiles (tisanes) ou nocifs (lavements, purges, alimentation avec du lait artificiel ou des produits irritant le tube digestif. Souvent, quelque soit le traitement à domicile, la diarrhée a évolué depuis plusieurs jours et s'est aggravée progressivement en raison d'une consultation trop tardive.
 
 Outre la diarrhée, d'autres signes peuvent augmenter les pertes et rendre difficile leur correction: vomissements, anorexie, fièvre élevée.
 
-## **II. Causes**
+## II. Causes
 
 La recherche d'une cause ne doit pas retarder une réhydratation urgente. Elle n'est possible qu'en l'absence, ou après correction des signes de gravité.
 
@@ -71,7 +71,7 @@ La **rougeole** est grave chez le malnutri par la diarrhée associée, renforcé
 A cet âge, toute infection sévère d'un organe peut s'accompagner de diarrhée. Il s'agit surtout d'otite, mais aussi d'angine, d'infection broncho-pulmonaire, ou d'infection urinaire.  
 Une infection du tube digestif (entérale) est plus rarement associée à une fièvre.
 
-### **2. Si l'enfant n'est pas fébrile**
+### 2. Si l'enfant n'est pas fébrile
 
 Une cause non infectieuse est possible (erreurs alimentaires dans la constitution du biberon, administration intempestive de lavements et de purges). Mais il s'agit souvent d'infection localisée à l'intestin (entérite, entérocolite). Si les selles sont accompagnées de sang rouge, de glaires, ou de pus, il y a des micro-abcès et des ulcérations des parois digestives dues aux Salmonelles et aux Shigelles préférentiellement, qu'il faudra traiter par antibiotiques. Si les selles sont simplement liquides sans s'accompagner de ces signes, les parois digestives sont peu lésées et un traitement antibiotique sera moins utile que le remplacement de l'eau perdue. Il s'agit alors de diarrhées dues à un virus, à des colibacilles, ou au choléra.
 
@@ -82,7 +82,7 @@ Les parasites intestinaux ne donnent que rarement une diarrhée aiguë.
 
 ## III. Le traitement
 
-### **1. La déshydratation**
+### 1. La déshydratation
 
 Elle doit être traitée la première.
 

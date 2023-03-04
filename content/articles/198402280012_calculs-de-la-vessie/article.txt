@@ -17,31 +17,31 @@ Le traitement est chirurgical, relativement aisé ... mais, chez l'adulte, il fa
 ----  
 Text:
 
-## **I. Epidémiologie**
+## I. Epidémiologie
 
-### **1. Age**
+### 1. Age
 
 *   Chez l'enfant, les calculs de la vessie se révèlent vers l'âge de cinq ans.
 
 *   Chez l'homme adulte, ils apparaissent vers cinquante ans, âge auquel commence à apparaître l'adénome de la prostate qui est un facteur favorisant la stase urinaire.
 
-### **2. Sexe**
+### 2. Sexe
 
 Les calculs de la vessie sont exceptionnels chez la petite fille, même dans les pays où ils atteignent l'enfant, car son urèthre est court et large et permet l'élimination facile des éventuels petits calculs avant qu'ils ne grossissent. Chez la femme adulte, ils sont très rares et se forment souvent autour d'un corps étranger présent dans la vessie.
 
-### **3. Répartition géographique**
+### 3. Répartition géographique
 
 Les calculs de l'enfant sont particulièrement fréquents dans les régions rurales des pays en voie de développement.
 
-## **Etiologie**
+## Etiologie
 
-### **1. Les causes nutritionnelles**
+### 1. Les causes nutritionnelles
 
 Elles sont à l'origine des calculs de l'enfant, on a remarqué en effet que, dans les zones d'endémie de lithiase vésicale, les malades font partie des populations rurales pauvres à l'alimentation essentiellement végétarienne.
 
 Leur apport en protéines végétales est suffisant mais pauvre en protéines animales et en lipides. Une hypovitaminose A est souvent retrouvée. Le climat et la déshydratation, par contre, ne semble pas jouer un grand rôle, les lithiases vésicales de l'enfant étaient très fréquentes au siècle dernier dans les pays actuellement industrialisés où cette maladie est devenue tout à fait exceptionnelle avec la disparition de la malnutrition et la diminution des protéines végétales au profit des protéines animales dans l'alimentation ... mais d'autres maladies sont aussi apparues avec ces nouvelles habitudes alimentaires ... !
 
-### **2. La stase urinaire**
+### 2. La stase urinaire
 
 C'est la cause essentielle des calculs de la vessie chez l'homme adulte, ces obstacles au fibre écoulement de l'urine, responsables d'un résidu urinaire, sont:
 
@@ -54,11 +54,11 @@ Les urines stagnantes, souvent infectées, chargées de cristaux de calcium ou d
 (image: i108-1.jpg)
 
 
-### **3. L'infection urinaire**
+### 3. L'infection urinaire
 
 Elle ne peut, à elle seule, provoquer la formation des calculs, mais elle les favorise lorsqu'elle s'associe à la stase urinaire. Certains germes, dits uréolytiques, en modifiant l'acidité des urines favorisent la précipitation des cristaux de calcium, normalement présents dans les urines, sous forme de calcul. Ces microbes " uréolytiques " sont: les proteus, les pyocyaniques, les klebsielles, la mycoplasme, le staphylocoque épidermitis et certaines souches de colibacille. Ainsi, la découverte d'une infection urinaire à proteus, doit faire suspecter l'existence d'un calcul quelque part sur les voies urinaires.
 
-### **4. Les corps étrangers**
+### 4. Les corps étrangers
 
 La seule présence d'un corps étranger dans la vessie suffit à provoquer la formation d'un calcul autour de lui en favorisant la précipitation des cristaux... il se trouve pétrifié ! Des calculs de vessie apparaissant après une opération portant sur la vessie ou le petit bassin doit faire penser que le chirurgien a pu utiliser, pour refermer la vessie, des fils non résorbables. Un fragment de sonde urinaire a pu rester dans la vessie.
 
@@ -66,15 +66,15 @@ Certains malades psychiatriques, ou l'enfant par jeu, peuvent s'introduire volon
 
 Le calcul de vessie est rare chez la femme, lorsqu'il existe, il doit faire suspecter la présence d'un corps étranger.
 
-### **5. Les maladies de la vessie**
+### 5. Les maladies de la vessie
 
 Certaines infections spécifiques de la vessie comme la tuberculose ou la bilharziose peuvent modifier les parois de la vessie au point de les calcifier, mais il ne s'agit pas réellement de calculs libres dans la vessie. Il a été clairement démontré que la bilharziose vésicale n'entraîne pas la formation de calcul sauf lorsqu'elle se complique de stase par sclérose du col de la vessie chez l'adulte.
 
-### **6. Les désordres métaboliques**
+### 6. Les désordres métaboliques
 
 Certaines maladies, en provoquant une accumulation anormale de cristaux dans la vessie, sont à l'origine de calculs. Au niveau de la vessie, seule la goutte (hyperuricémie) peut provoquer facilement la formation de calcul (acide urique) ainsi que l'immobilisation prolongée, comme chez le paraplégique, qui entraîne la formation de calculs de calcium.
 
-### **7. L'association de différents** **facteurs**
+### 7. L'association de différents facteurs
 
 Elle est fréquente chez l'adulte où la stase urinaire existe souvent avec une infection urinaire, et chez le paraplégique où la présence d'une sonde vésicale associée à la stagnation d'urines infectées explique la particulière fréquence de la lithiase vésicale.
 
@@ -86,7 +86,7 @@ L'étiologie du calcul vésical diffère donc beaucoup selon le terrain:
 
 *   chez la femme, le calcul de la vessie est rare et alors souvent dû à la présence d'un corps étranger dans la vessie.
 
-## **Aspect clinique**
+## Aspect clinique
 
 Aucun signe n'est spécifique du calcul de la vessie, et les troubles ressentis peuvent être dus autant à la présence de la pierre qu'à l'éventuel obstacle qui en est la cause.
 
@@ -112,15 +112,15 @@ Tous ces signes ont, en tout cas, le mérite d'orienter vers le bas appareil uri
 (image: i108-2.jpg)
 
 
-## **Examens complémentaires**
+## Examens complémentaires
 
-### **1. La radiographie de l'abdomen sans préparation**
+### 1. La radiographie de l'abdomen sans préparation
 
 Le calcul est souvent formé de calcium, et donc radio-opaque, spontanément visible comme le serait un os. Une radiographie du bassin montrera le ou les calculs, souvent ronds. Il faut savoir le chercher derrière l'opacité du pubis ou devant le sacrum.
 
 Il faudra savoir le différencier des autres opacités pelviennes possibles: ganglion calcifié, phlébolithes pelviens très fréquents (petites opacités latérales)...
 
-### **2. L'urographie intraveineuse**
+### 2. L'urographie intraveineuse
 
 Elle n'est pas indispensable au diagnostic si le calcul est radio-opaque mais nécessaire pour apprécier la cause de ce calcul. Un calcul opaque sera même " noyé " dans le produit de contraste présent dans la vessie au cours de l'urographie.
 
@@ -128,11 +128,11 @@ Par contre, cette urographie est indispensable au diagnostic de calculs radio-tr
 
 Il est rare que l'on soit suffisamment équipé pour pratiquer une échographie de la vessie (examen par ultra-son) car dans ce cas, l'échographie montrerait facilement qu'il s'agit d'un calcul et non d'une tumeur (ou d'un caillot sanguin ou d'un lobe médian de prostate).
 
-### **3. L'endoscopie**
+### 3. L'endoscopie
 
 Si le diagnostic est encore hésitant et si l'hôpital dispose du matériel de cystoscopie, la cystoscopie permettra la vision directe de la pierre. Ce matériel optique est introduit par les voies naturelles jusque dans la vessie. Cependant, chez l'enfant, cet examen nécessite un cystoscope spécial qui peut être traumatisant chez le tout jeune et on évitera de pratiquer la cystoscopie si le diagnostic est certain.
 
-## **Evolution - Complications**
+## Evolution - Complications
 
 La lithiase peut être bien tolérée et parfaitement latente ou ne donner lieu qu'à des inconforts mictionnels. Mais parfois, elle peut donner lieu à des complications, qui sont autant de circonstances de découverte:
 
@@ -144,7 +144,7 @@ La lithiase peut être bien tolérée et parfaitement latente ou ne donner lieu 
 
 **4. La récidive du calcul** après son ablation, est exceptionnelle chez l'enfant, chez l'adulte elle n'est possible que si le facteur de stase des urines n'a pas été traité (sténose de l'urèthre, adénome de la prostate).
 
-## **Traitement**
+## Traitement
 
 Le traitement du calcul de la vessie représente l'un des plus riches chapitres de l'histoire de la médecine... et de l'humanité, car la pierre qui affligea certains hommes célèbres pesa autant sur leur vessie que sur leur décision!
 

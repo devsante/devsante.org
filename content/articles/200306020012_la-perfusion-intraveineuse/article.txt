@@ -8,7 +8,7 @@ Datetime: 2003-06-02 00:00
 ----  
 Text:
 
-## **I. Introduction**
+## I. Introduction
 
 **Une perfusion intraveineuse** est une technique d'injection continue intraveineuse. Elle est justifiée lorsque l'on doit assurer
 
@@ -37,7 +37,7 @@ Text:
 *   Du sang ou du plasma avec des précautions particulières.
 *   D'autres produits, plus rarement (hypertoniques contenant des acides aminés, des lipides, etc.).
 
-## **II. Les sites _(Figures 1, 2, 3, 4)_**
+## II. Les sites _(Figures 1, 2, 3, 4)_
 
 (image: i835-1.jpg)
 (image: i835-2.jpg)
@@ -46,24 +46,24 @@ Text:
 
 Les perfusions intraveineuses peuvent se faire sur :
 
-### **1. Des veines superficielles**
+### 1. Des veines superficielles
 
 *   du membre supérieur : plexus veineux du dos de la main, veines basiliques, céphaliques, veines cubitales internes,
 *   du membre inférieur : saphène interne
 *   des veines temporales et veines du scalp chez le nourrisson, veines jugulaires externes.
 
-### **2. Des veines profondes**
+### 2. Des veines profondes
 
 Jugulaires internes, sous-clavières, fémorales, basiliques, sinus longitudinal, voire veine ombilicale chez le nouveau-né.
 
 Les abords veineux profonds sont réalisés par des médecins expérimentés. Un cathéter placé dans la veine cave permet la surveillance de la pression veineuse centrale. Les veines fines n'assurent pas un débit important. Il vaut mieux éviter de poser un abord veineux à proximité d'une articulation. Le choix d'un tel site expose au risque de transpercer la veine, de perfusion extravasculaire et d'irrégularité de débit lors de flexion du bras, l'immobilisation du membre perfusé est alors nécessaire. Le respect du capital veineux impose de commencer les ponctions par les veines les plus distales.
 
-## **III. Matériel _(figure_ 5)**
+## III. Matériel _(figure_ 5)
 
 (image: i835-4.jpg)
 
 
-### **1. Les aiguilles**
+### 1. Les aiguilles
 
 - Aiguilles classiques à biseau court.
 
@@ -71,7 +71,7 @@ Les abords veineux profonds sont réalisés par des médecins expérimentés. Un
 
 Les aiguilles métalliques imposent, en général, une immobilisation du membre perfusé et des perfusions de courte durée. Leur utilisation au pli de flexion est à éviter : risque de transpercer la veine. Le risque infectieux est réduit.
 
-### **2. Les cathéters**
+### 2. Les cathéters
 
 - Les cathéters courts en chlorure de polyvinyle ou polyéthylène, mais surtout en téflon. Ils possèdent une aiguille-guide interne, leur longueur est de 4 à 8 cm, le diamètre externe de 0,7 à 2 mm. Ils permettent des perfusions de longue durée (une semaine).
 
@@ -79,7 +79,7 @@ Les aiguilles métalliques imposent, en général, une immobilisation du membre 
 
 Il faut choisir un matériel adapté à la taille de la veine à perfuser.
 
-### **3. La tubulure de perfusion**
+### 3. La tubulure de perfusion
 
 En matière plastique, stérile, elle comprend :
 
@@ -91,18 +91,18 @@ En matière plastique, stérile, elle comprend :
 (image: i835-5.jpg)
 
 
-## **III. Technique**
+## III. Technique
 
 La voie percutanée est la plus courante. Dans certains cas, on peut avoir recours à une dénudation : il s'agit alors d'un acte chirurgical à ne faire qu'exceptionnellement (échec de la voie percutanée) car, respectant moins le capital veineux.
 
 (image: i835-6.jpg)
 
 
-### **1. Préparer le malade**
+### 1. Préparer le malade
 
 Lui expliquer ce qui va être fait, le rassurer, demander sa coopération (si le malade est conscient), lui signaler certains événements : fin d'un flacon, débit, infiltration autour du point de ponction. Rapprocher les effets personnels du malade si une immobilisation est nécessaire. Examiner et choisir le site de ponction.
 
-### **2. Préparer le matériel**
+### 2. Préparer le matériel
 
 Le geste doit être effectué avec une **asepsie** **rigoureuse.**
 
@@ -119,7 +119,7 @@ Le geste doit être effectué avec une **asepsie** **rigoureuse.**
 
 La perfusion doit être mise en place rapidement.
 
-### **3. Pose de la perfusion au lit du malade**
+### 3. Pose de la perfusion au lit du malade
 
 *   Noter le pouls et la tension.
 *   vérifier si le soluté préparé correspond bien au malade.
@@ -132,21 +132,21 @@ La perfusion doit être mise en place rapidement.
 *   Desserrer le garrot.
 *   Brancher la tubulure, fixer soigneusement le cathéter, la tubulure.
 
-### **4. Vérifier la bonne situation du cathéter ou bien de l'aiguille**
+### 4. Vérifier la bonne situation du cathéter ou bien de l'aiguille
 
 *   reflux, bon débit = bonne situation
 *   pas de débit, infiltration, hématome, douleurs = mauvaise position possible.
 
-### **5. Régler le débit**
+### 5. Régler le débit
 
-### **6. Jeter le matériel souillé**
+### 6. Jeter le matériel souillé
 
 (image: i835-7.jpg)
 (image: i835-8.jpg)
 (image: i835-9.jpg)
 
 
-## **V. Surveillance**
+## V. Surveillance
 
 **Le débit**
 
@@ -179,7 +179,7 @@ Signalons aussi les accélérateurs de perfusion manuels, électroniques, " bloo
 
 Débit arrêté, infiltration autour du point de ponction, hématome, conduisent le plus souvent à changer le point de ponction.
 
-## **VI. Complications**
+## VI. Complications
 
 **Infectieuses**
 
@@ -205,7 +205,7 @@ Ils conduisent à arrêter la perfusion et à changer de veine.
 
 - Pneumothorax et épanchements pleuraux, médiastinaux sont des accidents des abords veineux profonds.
 
-## **VI. Conclusion**
+## VI. Conclusion
 
 Une asepsie parfaite lors de la pose et de la manipulation des perfusions intraveineuses, une surveillance vigilante des éventuelles complications permettent de tirer le maximum de bénéfice de cette technique utile.
 

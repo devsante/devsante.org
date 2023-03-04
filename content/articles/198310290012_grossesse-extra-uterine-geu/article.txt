@@ -18,7 +18,7 @@ La grossesse extra-utérine est une **urgence chirurgicale** à laquelle il faut
 (image: i93-1.jpg)
 
 
-## **Rappel anatomo-physiologique**
+## Rappel anatomo-physiologique
 
 Chez la femme, l'ovule provient de l'ovaire, chemine dans la trompe utérine et vient se nider au niveau de la muqueuse utérine. L'ovulation a lieu vers le 15<sup>e</sup> jour suivant les règles.
 
@@ -32,7 +32,7 @@ Plusieurs tableaux cliniques sont possibles selon que la grossesse extra-utérin
 
 **(Henri Mondor)**
 
-## **Clinique**
+## Clinique
 
 **_Première éventualité:_**
 
@@ -48,7 +48,7 @@ Ces pertes peuvent même passer totalement inaperçues et c'est le doigtier du t
 
 Devant ces deux signes, vous devez penser à la GEU et examiner minutieusement la malade.
 
-## **Examen clinique**
+## Examen clinique
 
 **1.** Il s'agit d'une grossesse, anormale, mais d'une grossesse quand même: cette femme est en âge d'avoir des enfants, elle se sait parfois enceinte car elle a un retard des règles, elle présente des signes de grossesse: nausées, tension des seins.
 
@@ -65,7 +65,7 @@ Si ces signes sont réunis, le diagnostic ne fait aucun doute, aucun examen comp
 
 Parfois, tout n'est pas aussi net:
 
-### **diagnostic** **différentiel :**
+### diagnostic différentiel :
 
 **1.** Si les pertes vaginales sont abondantes, rouges avec caillots, chez une femme suspecte d'être enceinte, on peut hésiter avec une **fausse-couche** spontanée ou provoquée, mais même si la notion de manoeuvre abortive est connue, il faut se méfier, la grossesse a pu évoluer en fait au niveau de la trompe.
 
@@ -110,7 +110,7 @@ Mais bien souvent aucun examen sophistiqué n'est possible et les meilleurs él�
 
 **4.** au moindre doute, la mise en observation et l'examen répété à quelques heures ou quelques jours d'intervalles quand on se trouve à l'hôpital. Ou envoyer la malade à l'hôpital si on travaille dans un dispensaire.
 
-### **_Deuxième éventualité_**
+### _Deuxième éventualité_
 
 **la rupture de GEU avec hémorragie progressive**
 
@@ -135,7 +135,7 @@ Elle est pâle, les conjonctives, la langue, la paume des mains, les régions so
 
 Le diagnostic est certain, il faut opérer cette malade rapidement. Si vous êtes loin de l'hôpital, placez lui une perfusion pour le transport. Si vous êtes à l'hôpital: perfuser, un seul examen complémentaire est nécessaire: le groupe sanguin de la malade et celui des accompagnants pour qu'ils donnent rapidement du sang pour transfuser la malade pendant l'opération.
 
-### **_Troisième éventualité_**
+### _Troisième éventualité_
 
 **la rupture cataclysmique de GEU**
 
@@ -151,7 +151,7 @@ Le diagnostic est évident, il faut perfuser rapidement la malade avec si possib
 
 *   à l'hôpital, perfuser, grouper et envoyer au bloc le plus vite possible.
 
-## **Le traitement**
+## Le traitement
 
 Il est simple, il sauve la vie. L'intervention consiste à enlever la trompe malade, jusqu'à sa portion intra-utérine pour éviter toute récidive sur un moignon laissé en place. En cas d'hémopéritoine important, on peut récupérer stérilement le sang pour le retransfuser à la malade.
 

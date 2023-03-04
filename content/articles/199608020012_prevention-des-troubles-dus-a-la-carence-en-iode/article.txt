@@ -101,7 +101,7 @@ Il a donc fallu chercher une autre méthode. Un travail en partenariat et en mul
 
 L'idée forte en est que l'apport d'iode se fera au mieux grâce à l'eau.
 
-## **Pourquoi l'eau ?**
+## Pourquoi l'eau ?
 
 C'est un vecteur universel qui concerne des collectivités et non pas des individus. Ce vecteur, indispensable à la vie, permet de traiter la cause (la carence d'apport) et non les conséquences. Il entre dans la chaîne alimentaire. Le problème pour les chimistes et les industriels fut de concevoir un système permettant de fournir des doses physiologiques et régulières d'iode, pour subvenir à des besoins constants, sans engendrer de surcharge iodée. Il a donc été mis au point un système dit " matriciel silicone-iodure de sodium,, (Rhodifuse Iode®) _(photo n° 2_) permettant une libération prolongée, constante et régulière d'iode.
 
@@ -125,7 +125,7 @@ On n'a pas constaté de surdosages ni d'effets toxiques.
 
 Elle serait peu coûteuse : l'évaluation du coût proposée est de 25 cents US/habitant/an, soit environ 125 FCFA. Un panier de trois matrices fournirait suffisamment d'iode à 200 personnes utilisant quotidiennement vingt litres d'eau (coût 50 $ US).
 
-### **Références bibliographiques**
+### Références bibliographiques
 
 Pichard E, Soula G, Fisch A, Rhaly AG, Diarra M, Sebag M, Gentilini M. Prévention des troubles dus aux carences en iode chez les enfants en zone rurale africaine. Annales de Pédiatrie 1992, 39 (2).
 

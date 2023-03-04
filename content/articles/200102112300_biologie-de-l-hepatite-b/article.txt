@@ -109,7 +109,7 @@ A côté des méthodes ELISA, adaptées aux grandes séries, des tests individue
 
 Dix  tests rapides ont fait l'objet d'un rapport d'évaluation de l'Organisation Mondiale de la Santé (OMS), publié en mai 2001, auquel nous renvoyons le lecteur.
 
-## III. Evolution des marqueurs **en fonction de la pathologie** **_(figure 2)_**
+## III. Evolution des marqueurs en fonction de la pathologie _(figure 2)_
 
 ### 1. Hépatite B aiguë
 
@@ -143,7 +143,7 @@ Elle est caractérisée biologiquement par la diminution du taux de prothrombine
 
 Elle survient dans 1 % des hépatites aiguës symptomatiques. Elle est toujours précédée d'une phase d'hépatite aiguë sévère. Elle est marquée biologiquement par un taux de prothrombine inférieur à 50 %, (associé à une encéphalopathie hépatique).
 
-### 2. Hépatite B **chronique**
+### 2. Hépatite B chronique
 
 Elle est définie par un portage d'antigène HBs supérieur à 6 mois après l'épisode d'hépatite aiguë. L'infection se présente sous des formes variables, allant du portage asymptomatique de l'antigène HBs à l'hépatite chronique, la cirrhose, voire le carcinome hépatocellulaire.
 
@@ -163,7 +163,7 @@ La deuxième phase est une phase d'immuno-élimination caractérisée par une fl
 
 Des épisodes de réactivation virale sont possibles, apparaissant soit spontanément, soit provoqués par des traitements immunosuppresseurs. Ils se traduisent par la réapparition des marqueurs de multiplication virale : antigène HBe et ADN sérique.
 
-#### **Carcinome hépatocellulaire et dosage** **de l'alpha-foetoprotéine**
+#### Carcinome hépatocellulaire et dosage de l'alpha-foetoprotéine
 
 Sa fréquence élevée pourrait justifier une surveillance systématique des porteurs chroniques par dosage de l'alpha-foetoprotéine sérique. C'est une glycoprotéine d'origine foetale disparaissant pratiquement du sérum dans les semaines qui suivent la naissance. Son taux peut s'élever dans les hépatites aiguës et chroniques, les cirrhoses et surtout les cancers hépatiques. Son dosage est un outil majeur en association avec l'échographie et la ponction biopsie hépatique dans le diagnostic des carcinomes hépatocellulaires, ainsi que pour le suivi des patients, notamment après l'exérèse de la tumeur en permettant le dépistage précoce des récidives.
 

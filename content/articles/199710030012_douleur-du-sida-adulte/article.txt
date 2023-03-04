@@ -76,7 +76,7 @@ Douleurs ostéo-articulaires
 
 De façon générale, trois types de douleurs peuvent être distingués chez ces patients comme dans l'ensemble de la population générale : _les douleurs nociceptives, les douleurs neuropathiques_ et les _douleurs idiopathiques_ qui se manifestent en l'absence d'atteinte organique connue.
 
-## **I. Les douleurs nociceptives**
+## I. Les douleurs nociceptives
 
 Les lésions susceptibles d'entraîner des douleurs nociceptives sont très nombreuses chez ces patients. Les étiologies les plus fréquentes sont : oropharyngées, gastro-intestinales et rhumatologiques. Les céphalées seront également abordées dans la mesure où leur traitement répond aux mêmes principes.
 
@@ -102,7 +102,7 @@ Les myopathies douloureuses observées aux stades précoces ou intermédiaires d
 
 De nombreux patients présentant un sida souffrent de céphalées. Leur existence doit avant tout faire évoquer une complication neurologique de la maladie (encéphalite, méningite, infections opportunistes virales ou non, lymphomes ... ) et conduire à une recherche étiologique en utilisant les investigations cliniques et paracliniques appropriées. On peut noter également que la zidovudine peut entraîner des céphalées.
 
-## **II. Les douleurs neuropathiques**
+## II. Les douleurs neuropathiques
 
 Les complications neurologiques sont parmi les plus fréquemment rencontrées au cours de l'infection par le VIH. Certaines d'entre elles peuvent être à l'origine de douleurs qui auront les caractéristiques habituelles des douleurs neuropathiques. Il peut s'agir de douleurs secondaires à une lésion centrale (toxoplasmose cérébrale) ; mais le plus souvent, les douleurs sont liées à une **atteinte périphérique**.
 
@@ -122,7 +122,7 @@ Il est le plus souvent dominé par une riche symptomatologie sensitive associant
 *   D'autres types de sensations plus élaborées (sensations de morsures, de lacérations, sensations de marcher sur des cailloux acérés ... ) sont souvent rapportées.
 *   Les phénomènes d'allodynie (douleur provoquée par des stimulations non nociceptives) et hyperalgésie (réponse exagérée à des stimulations nociceptives) sont extrêmement fréquents et invalidants. Ces douleurs peuvent rendre la marche totalement impossible et confiner ces patients dans un fauteuil roulant. Il n'existe pas de traitement spécifique de cette polyneuropathie (vraisemblablement liée au VIH).
 
-## **III. Principe du traitement des douleurs du sida**
+## III. Principe du traitement des douleurs du sida
 
 La prise en charge de la douleur doit s'intégrer dans le cadre du traitement des complications de la maladie. En l'absence de protocole validé de traitement des douleurs liées au VIH, le schéma de traitement de la douleur cancéreuse élaboré par l'Organisation mondiale de la santé (OMS) peut être utilisé comme base de départ.
 

@@ -25,29 +25,29 @@ Le premier article sera un rappel sur le métabolisme du glucose et sur les dér
 
 Le deuxième article relatera la prise en charge concrète de quelques diabétiques insulino-dépendants dans le Centre de santé de Békamba (Moyen Chari, Tchad).
 
-## **I. Définition du diabète**
+## I. Définition du diabète
 
 Le diabète se définit par son symptôme essentiel : l'hyperglycémie chronique, c'est à dire un excès permanent de sucre dans le sang.
 
 Cet excès est une véritable intoxication chronique des cellules de l'organisme, surtout celles du rein, de la rétine et des artères. De cette intoxication découlent les principales complications diabétiques. **Hyperglycémie** **chronique et complications font l'unité** autour de la maladie diabétique dont les causes sont variées.
 
-## **II.** **Rappel sur le métabolisme** **du glucose**
+## II. Rappel sur le métabolisme du glucose
 
-### **1. La glycémie normale** **et sa régulation**
+### 1. La glycémie normale et sa régulation
 
 La glycémie est le taux du glucose dans le sang.
 
-#### a) Taux normal du glucose dans le **sang**
+#### a) Taux normal du glucose dans le sang
 
 Il est stable entre 0,80 g/l et 1,20 g/l.
 
-#### **b) Source et rôle du glucose**
+#### b) Source et rôle du glucose
 
 Le glucose est élaboré dans notre organisme à partir des glucides ou sucres apportés par l'alimentation. Ce sont les aliments d'énergie.
 
 Le glucose est indispensable à la vie de toutes nos cellules. La stabilité de son taux à une valeur normale est indispensable au bon fonctionnement de certains de nos tissus : reins, rétine, artères.
 
-#### **c) Régulation du taux de glucose**
+#### c) Régulation du taux de glucose
 
 La glycémie est le résultat de l'équilibre entre la production et la consommation du glucose. À nos phases de nourriture (repas) et à celles du jeûne (nuit), notre organisme répond par des périodes de stockage et des périodes de libération du glucose.
 
@@ -69,7 +69,7 @@ En résumé, l'insuline est hypoglycémiante. Elle contribue à empêcher la gly
 *   il favorise la production de glucose à partir des graisses ;
 *   de même que le glucagon, les catécholamines sécrétées par la glande médullo-surrénale sont hyperglycémiantes. Leur sécrétion est sous la stimulation de l'hypothalamus.
 
-### **2. L'hyperglycémie chronique**
+### 2. L'hyperglycémie chronique
 
 L'hyperglycémie chronique est l'augmentation permanente du taux de glucose dans le sang.
 
@@ -79,7 +79,7 @@ Pour rester simple, nous écrirons que dans le diabète, la glycémie est égale
 Dans certains cas, l'hyperglycémie ne sera détectée que si on multiplie les glycémies dans la journée.  
 L'épreuve d'hyperglycémie provoquée orale n'est plus pratiquée.
 
-## **III. Causes de l'hyperglycémie** **chronique**
+## III. Causes de l'hyperglycémie chronique
 
 L'étude des facteurs de la régulation de la glycémie nous permet de dire que l'hyperglycémie est en rapport avec :
 
@@ -87,16 +87,16 @@ L'étude des facteurs de la régulation de la glycémie nous permet de dire que 
 *   soit, exceptionnellement, une augmentation de l'action des facteurs hyperglycémiants. Exemples : hypersécrétion de cortisol (syndrome de Cushing) ; ingestion abusive de certains médicaments tels que les corticoïdes, le salbutamol ; accessoirement : diurétiques thiazidiques, oestrogènes de synthèse.
 *   soit une modification des récepteurs : alors qu'ils devraient être sensibles à l'insuline, ils sont devenus résistants (insulino-résistance). Il ne s'agit donc pas, au moins dans les premières années de la maladie, d'une insuffisance en insuline mais d'un blocage de l'action de l'insuline. C'est le cas du diabète de type **Il** non insulino-dépendant qui se voit chez tous les patients obèses.
 
-## **IV. Traduction clinique** **de l'hyperglycémie** **chronique**
+## IV. Traduction clinique de l'hyperglycémie chronique
 
-### **1. Signes cliniques**
+### 1. Signes cliniques
 
 *   la polyurie, conséquence de l'hyperglycémie, est gênante et elle amène le malade à consulter ;
 *   elle s'accompagne de polydypsie (soif) avec augmentation des boissons, conséquence de la polyurie ;
 *   l'augmentation du métabolisme de base et la déperdition énergétique sont responsables de l'amaigrissement ;
 *   dans le diabète non insulino-dépendant (DNID), dit encore diabète gras de l'adulte, les facteurs d'insulino-résistance sont : l'obésité, la répartition abdominale des graisses, la sédentarité et l'âge. Il faut tenir compte que 80 % des sujets avec diabète non insulino-dépendant sont obèses.
 
-### **2. Les complications de l'hyperglycémie chronique**
+### 2. Les complications de l'hyperglycémie chronique
 
 L'hyperglycémie chronique et ses complications sont le **point commun** des différents diabètes. Quelles que soient leurs causes, les diabètes partagent les mêmes complications. La complication est fréquemment la raison d'une première consultation.
 
@@ -118,7 +118,7 @@ L'hyperglycémie chronique et ses complications sont le **point commun** des dif
 *   altérations nerveuses (polynévrite)
 *   altérations cardiovasculaires avec l'insuffisance coronaire (angine de poitrine, infarctus), artérite des membres inférieurs et accident vasculaire cérébral.
 
-### **3. Les signes biologiques**
+### 3. Les signes biologiques
 
 **L'hyperglycémie** est mise en évidence, selon les possibilités locales, dans un laboratoire ou sur place en utilisant des bandelettes de lecture de glycémie à partir du sang capillaire recueilli au bout du doigt.
 
@@ -128,9 +128,9 @@ Il existe des appareils automatiques de lecture, chacun utilisant une bandelette
 
 *   **Le cétonurie** est dépistée et dosée sur les mêmes bandelettes que la glucosurie.
 
-## **V. Traitement de l'hyperglycémie chronique**
+## V. Traitement de l'hyperglycémie chronique
 
-### **1. Le diabète insulino-dépendant**
+### 1. Le diabète insulino-dépendant
 
 #### a) L'insulinothérapie
 
@@ -175,7 +175,7 @@ Il existe toutefois des impératifs :
 (image: i700-1.jpg)
 
 
-### **2. Le diabète non insulino-dépendant**
+### 2. Le diabète non insulino-dépendant
 
 #### a) La diététique est l'élément essentiel
 
@@ -202,7 +202,7 @@ Diamicron® (gliclazide) ; Glibénèse® (glipizide), Diabinèse® (Chlorpropami
 *   Ils sont insulino-sécréteurs, il faut donc savoir qu'en cas de surdosage, il y a un risque d'hypoglycémie.
 *   Il existe des interférences médicamenteuses avec les sulfamides hypoglycémiants, dans le sens d'une majoration de l'effet hypoglycémiant : Cotrimazole®, les salicylés, Probénécil®, Cirnétidine®.
 
-## **VI.** **Éducation et responsabilisation** **du diabétique**
+## VI. Éducation et responsabilisation du diabétique
 
 Prendre en charge un diabétique et en particulier un diabétique insulino-dépendant, c'est vouloir :
 
@@ -214,11 +214,11 @@ Ce double objectif sera obtenu si le malade est informé de sa maladie de telle 
 
 Le soignant sera donc un éducateur de l'autonomie : le diabétique ne sera pas un patient passif mais un malade actif qui s'autonomise. Cela sous-entend que le soignant doit se former à la prise en charge d'un diabétique.
 
-### **Conclusion**
+### Conclusion
 
 Cet article n'est pas une revue exhaustive de tout ce que l'on sait sur le diabète Il s'adresse essentiellement à des infirmiers qui doivent savoir que le diabète existe en Afrique et dans les autres continents en voie de développement. Ces infirmiers doivent chercher à comprendre la maladie diabétique et savoir qu'il n'est pas impossible d'aider un diabétique à vivre.
 
-### **Références bibliographiques**
+### Références bibliographiques
 
 _Les diabètes._ A Grimaldi, C. Sachon, F. Bosquet - EMInter.
 

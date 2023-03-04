@@ -18,7 +18,7 @@ Elle est parfois grave, en particulier en raison de ses complications et du terr
 
 Son diagnostic est souvent difficile d'où l'importance d'évoquer une typhoïde devant toute fièvre qui dure, éventuellement associée à des troubles digestifs ou neurologiques.
 
-## **Définition**
+## Définition
 
 La fièvre typhoïde est une toxi-infection contagieuse.
 
@@ -35,7 +35,7 @@ Ces bactéries possèdent chacune des antigènes différents :
 
 mis en évidence par le sérodiagnostic de Widal.
 
-## **Epidémiologie**
+## Epidémiologie
 
 **Le réservoir de germes est** **strictement humain**
 
@@ -47,7 +47,7 @@ Le sujet devient malade le plus souvent en ingérant de l'eau ou des aliments co
 
 **L'amélioration de l'hygiène,** en particulier de l'eau, est la **meilleure prévention.** Elle est plus fréquente lors de la saison des pluies et peut survenir par épidémie.
 
-## **Physiopathologie**
+## Physiopathologie
 
 Après ingestion, les germes vont se localiser dans la paroi de l'intestin grêle et les ganglions satellites où ils vont se multiplier. C'est la **phase** **d'incubation** asymptomatique qui dure de une à deux semaines.
 
@@ -61,7 +61,7 @@ L'autre partie des germes va être détruite localement dans les ganglions libé
 (image: i457-2.jpg)
 
 
-## **Les symptômes**
+## Les symptômes
 
 **Mode de début (période** **d'invasion)**
 
@@ -99,14 +99,14 @@ L'examen clinique retrouve :
 
 Tout malade ayant une fièvre qui se prolonge, qui est fatigué, avec des signes digestifs et/ou neurologiques doit être considéré comme ayant éventuellement une typhoïde et faire débuter un traitement antibiotique adapté.
 
-## **Les complications**
+## Les complications
 
 Elles peuvent parfois être révélatrices de la maladie, mais le plus souvent elles surviennent à la troisième semaine de la maladie.
 
 (image: i457-3.jpg)
 
 
-### **Complications digestives**
+### Complications digestives
 
 *   **Hémorragies digestives :** Elles se révèlent par la présence de sang dans les selles. Le plus souvent elles sont peu graves et tardives. Mais elles peuvent parfois être abondantes accompagnées d'un état de choc ou être le signe annonciateur d'une perforation digestive.
 
@@ -150,7 +150,7 @@ Etiologie des chutes tensionnelles dans la fièvre typhoïde
 
 *   Les autres complications sont plus rares encéphalites, atteinte rénale, atteintes pleuro-pulmonaires.
 
-## **Le diagnostic**
+## Le diagnostic
 
 **La numération-formule** **sanguine**
 
@@ -172,7 +172,7 @@ Il ne se positive qu'à partir du huitième-dixième jour de la maladie. Il rech
 
 On considère les réactions comme positives au-delà de 1/100<sup>e</sup> pour les anticorps O et de 1/200<sup>e</sup> pour les H. Son interprétation est souvent difficile et sa séroconversion parfois trop tardive. Mais, par sa rapidité de réalisation, il reste un bon examen de routine pour le diagnostic d'une typhoïde.
 
-## **Traitement**
+## Traitement
 
 **Curatif**
 
@@ -205,7 +205,7 @@ Plus récemment certaines céphalosporines de troisième génération (ceftriaxo
 
 Il faudra dépister les rechutes et chercher à éviter que certains sujets deviennent porteurs chroniques et donc disséminateurs de la maladie en contrôlant la négativation de la coproculture quand cela est possible.
 
-## **Prophylaxie**
+## Prophylaxie
 
 *   **Au plan individuel :** Le malade sera isolé. Son linge et ses selles seront désinfectés.
 

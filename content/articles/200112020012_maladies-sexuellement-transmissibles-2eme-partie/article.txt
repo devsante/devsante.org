@@ -99,7 +99,7 @@ Les **étiologies infectieuses** des leucorrhées sont nombreuses : gonocoque, _
     *   - spectinomycine (Trobicine®) : 2g IM (mais ne diffuse pas dans l'oropharynx)
     *   - fluoroquinolones : ciprofloxacine (Ciflox®) : 500 mg _per_ _os._
 
-#### Gonococccies compliquées **(formes disséminées, salpingites)**
+#### Gonococccies compliquées (formes disséminées, salpingites)
 
 Hospitalisations, céfotaxime  1g/8h IV lente pendant 10 jours.
 
@@ -120,7 +120,7 @@ Hospitalisations, céfotaxime  1g/8h IV lente pendant 10 jours.
 
 *   _Mycoplasma genitalium_ : non codifié, sensibilité aux cyclines et macrolides.
 
-#### **Mycose (candidose) vaginale**
+#### Mycose (candidose) vaginale
 
 *   port de vêtements amples et de sous-vêtements en coton bien rincés
 

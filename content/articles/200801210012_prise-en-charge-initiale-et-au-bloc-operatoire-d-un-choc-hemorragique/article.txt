@@ -34,7 +34,7 @@ A cette réponse s'ajoute une augmentation de l'activité du système rénine-an
 
 Cette phase, liée à une inhibition sympa­thique, est marquée par l'apparition d'un cercle vicieux d'aggravation progressive et d'évolution fatale en l'absence de traitement. Elle se traduit par une chute de la PA, une bradycardie (dite paradoxale) dont l'apparition constitue un signe imminent de collapsus' circulatoire et impose un remplissage vasculaire rapide.
 
-#### **c) Choc irréversible**
+#### c) Choc irréversible
 
 Il est défini par un "point de non-retour" quelle que soit la thérapeutique instituée. La péren­nisation de l'ischémie est à l'origine de modifi­cations microcirculatoires et d'une hypoxie tissulaire avec acidose métabolique, aboutis­sant à une défaillance multiviscérale (myocar­dique, rénale, respiratoire, neuropsychique, hépato-splanchnique).
 
@@ -459,7 +459,7 @@ Durée de vie
 
 </table>
 
-### **5. Médicaments sympatho­mimétiques**
+### 5. Médicaments sympatho­mimétiques
 
 Les médicaments sympathomimétiques sont les catécholamines, substances identiques aux médiateurs physiologiques du système ner­veux sympathique. Ils augmentent la pression artérielle systémique mais au prix d'une vaso­constriction potentiellement délétère pour les organes nobles.
 

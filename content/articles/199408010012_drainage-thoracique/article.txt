@@ -10,9 +10,9 @@ Text:
 
 A l'hôpital de district, les indications d'un drainage thoracique avec système de siphonage sont le pneumothorax, l'hémothorax, l'hémopneumothorax et l'empyème aigu.
 
-## **I. Indications**
+## I. Indications
 
-### **1. Pneumothorax**
+### 1. Pneumothorax
 
 Un pneumothorax est la présence d'air dans la cavité pleurale. Il peut être " ouvert " ou " fermé ", suivant l'existence ou l'absence de plaie de la paroi thoracique. Un pneumothorax est classé d'après sa cause: traumatique, spontané ou iatrogène.
 
@@ -30,7 +30,7 @@ Le mieux, pour traiter un pneumothorax à soupape, est de mettre en place un dra
 
 *   **Soins postopératoires:** Administrez des antalgiques, des antibiotiques à titre prophylactique, une prophylaxie antitétanique et prescrivez au malade des exercices respiratoires.
 
-### **2. Hémothorax**
+### 2. Hémothorax
 
 L'hémothorax est la présence de sang dans la cavité pleurale. En général, il est dû à une lésion thoracique, associée le plus souvent à un pneumothorax, à une fracture de côte ou à d'autres lésions du thorax. L'hémorragie a pour origine le poumon traumatisé ou, plus souvent, les vaisseaux intercostaux.
 
@@ -44,7 +44,7 @@ Une radiographie thoracique confirmera la présence de liquide dans la cavité p
 
 Administrez des antalgiques, des antibiotiques à titre prophylactique et pratiquez une prophylaxie antitétanique; prescrivez des exercices respiratoires au malade.
 
-### **3. Empyème aigu**
+### 3. Empyème aigu
 
 L'empyème thoracique est la présence de pus dans la cavité pleurale. Il peut compliquer une pneumonie et des blessures du poumon, du médiastin ou de la paroi thoracique. Il est rarement dû à la diffusion d'un abcès sous-phrénique ou hépatique. Des germes différents, souvent associés, peuvent être responsables de l'infection: staphylocoques, streptocoques, colibacilles, bacilles tuberculeux et même amibes (provenant d'un abcès du foie).
 
@@ -96,19 +96,19 @@ Chez le malade atteint d'un empyème chronique, les symptômes énumérés ci-de
 (image: i603-1.jpg)
 
 
-## **II.** **Drainage**
+## II. Drainage
 
-### **1. Matériel**
+### 1. Matériel
 
 Avant d'intervenir, vérifiez le matériel pour vous assurer que chaque pièce s'adapte bien à la suivante.
 
-### **2. Technique**
+### 2. Technique
 
 Préparez la peau avec un antiseptique et infiltrez la peau, les muscles et la plèvre avec de la lidocaïne à 1 % au niveau de l'espace intercostal voulu, habituellement le cinquième ou le sixième, sur la ligne axillaire médiane. Notez la longueur de l'aiguille nécessaire pour pénétrer dans la cavité pleurale, ce qui pourra vous être utile plus tard, lorsque vous mettrez le drain en place. Aspirez le liquide de la cavité pleurale pour confirmer votre diagnostic. Pratiquez une petite incision transversale juste au-dessus de la côte pour éviter d'endommager les vaisseaux situés sous la côte. Chez les enfants, il est conseillé d'intervenir strictement au milieu de l'espace intercostal.
 
 Avec une grosse pince hémostatique, pénétrez dans la plèvre et élargissez l'ouverture; utilisez la même pince pour prendre le tube par son extrémité et l'introduire dans le thorax. Fermez l'incision par des points séparés, en utilisant un point pour amarrer le tube. A proximité du tube, laissez un pansement de gaze, reliez le tube au système de siphonage, et faites une marque sur le flacon de drainage indiquant le niveau du liquide évacué la première fois.
 
-### **3. Soins postopératoires**
+### 3. Soins postopératoires
 
 Placez une grosse pince hémostatique près du lit pour clamper le tube lors du changement de flacon. Le système de drainage est perméable si le niveau du liquide se déplace avec les changements de la pression intra pleurale. Si des bulles se forment pendant plusieurs jours, il existe probablement une fistule broncho pleurale, ce qui est une indication de transfert du malade.
 

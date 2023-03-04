@@ -8,7 +8,7 @@ Datetime: 2002-04-13 00:00
 ----  
 Text:
 
-## **I.** Matériel
+## I. Matériel
 
 ### 1. Les sondes
 

@@ -19,11 +19,11 @@ Celles dues aux médicaments feront l'objet d'un autre article.
 ----  
 Text:
 
-## **I. Que faire devant une** **intoxication par produits** **ménagers ou domestiques?**
+## I. Que faire devant une intoxication par produits ménagers ou domestiques?
 
 L'interrogatoire de l'entourage permet de connaître rapidement le produit en cause. Il faut d'emblée distinguer deux cas: les intoxications par caustiques et les autres.
 
-### **1. Devant une intoxication par caustiques**
+### 1. Devant une intoxication par caustiques
 
 (_liste donnée plus loin_), **il faut:**
 
@@ -49,7 +49,7 @@ L'interrogatoire de l'entourage permet de connaître rapidement le produit en ca
 
 En effet, les lésions sont d'emblée maximales et se constituent en quelques secondes.
 
-### **2. Devant une intoxication par** **un autre produit, il faut:**
+### 2. Devant une intoxication par un autre produit, il faut:
 
 *   Interroger l'entourage: nature du produit, quantité, heure de l'intoxication, âge et poids de l'enfant, heure du dernier repas.
 
@@ -59,7 +59,7 @@ En effet, les lésions sont d'emblée maximales et se constituent en quelques se
 
 En évacuant le contenu gastrique. Les méthodes en sont:
 
-### **a. Les vomissements provoqués:**
+### a. Les vomissements provoqués:
 
 *   par des moyens mécaniques en " chatouillant " le fond de la gorge,
 *   par des drogues:
@@ -67,15 +67,15 @@ En évacuant le contenu gastrique. Les méthodes en sont:
 
 - l'Apomorphine en injection sous-cutanée (0, 1 mg par kg de poids). Les vomissements sont précédés d'une grande pâleur.
 
-### **b. Le lavage gastrique:**
+### b. Le lavage gastrique:
 
 qui demande une technique particulière, et qui doit être fait par un infirmier.
 
 Si l'évacuation gastrique n'est pas possible sur place, il faut au moins mettre l'enfant en " position de sécurité ": sur le ventre ou sur le côté, une jambe étendue, l'autre fléchie, la tête tournée sur le côté pour que la bouche soit tournée vers le bas.
 
-## **II.** **Quelques notions particulières sur chaque intoxication**
+## II. Quelques notions particulières sur chaque intoxication
 
-### **1. Les caustiques**
+### 1. Les caustiques
 
 **a. Les produits en cause,** ce sont:
 
@@ -105,7 +105,7 @@ Les lésions à l'intérieur de la bouche sont quasi obligatoires. L'atteinte du
 
 - Les autres évoluent vers le rétrécissement ou " sténose " oesophagienne, qui ne peut être traitée que dans un grand centre hospitalier.
 
-### **2. Les produits domestiques**
+### 2. Les produits domestiques
 
 **a. Le pétrole ou ses dérivés** (white spirit, essence de térébenthine, essence ordinaire, fuel, gaz-oil, détachants, cires ... ) :
 
@@ -131,7 +131,7 @@ elles peuvent être graves et précoces.
 
 Comme pour les intoxications par caustiques, il faut débarrasser l'enfant de ses vêtements imbibés, ne rien lui donner à boire, ne pas le faire vomir, ne pas faire de lavage gastrique. Mettre seulement l'enfant en position de sécurité.
 
-### **b. Le Trichloréthylène:**
+### b. Le Trichloréthylène:
 
 - Ce produit est utilisé comme solvant des graisses ou des huiles, ou comme détachant.
 
@@ -171,7 +171,7 @@ Comme pour les intoxications par caustiques, il faut débarrasser l'enfant de se
 
 - Traitement: régime sans lait ni graisse pendant 48 heures. Charbon activé. Évacuation gastrique si intoxication grave.
 
-### **En conclusion**
+### En conclusion
 
 On retiendra la gravité des intoxications aiguës accidentelles par les caustiques. Le meilleur traitement est évidemment la prévention de tels accidents, en rangeant tous ces produits hors de portée des enfants, **car la récidive est fréquente.**
 

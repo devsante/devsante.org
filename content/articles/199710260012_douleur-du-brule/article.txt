@@ -14,7 +14,7 @@ Les brûlures sont une des pathologies les plus douloureuses qu'il soit possible
 
 - parce que la répétition de ces actes, pendant plusieurs semaines, peut être ressentie comme une véritable torture.
 
-## **Pourquoi traiter la douleur du brûlé ?**
+## Pourquoi traiter la douleur du brûlé ?
 
 En dehors de préoccupations purement humanitaires, il est maintenant bien démontré que la douleur du brûlé ne lui fait pas de bien :
 
@@ -22,20 +22,20 @@ En dehors de préoccupations purement humanitaires, il est maintenant bien démo
 
 - elle peut entraîner des troubles psychiques, qui peuvent gêner la thérapeutique au stade aigu, et qui peuvent retarder la rééducation ultérieurement.
 
-## **Mécanismes de la douleur du brûlé**
+## Mécanismes de la douleur du brûlé
 
-### **1. Nociception**
+### 1. Nociception
 
 La douleur du brûlé est due à la stimulation des nocicepteurs cutanés présents dans l'épiderme et aussi assez profondément dans le derme _(figure n° 1)_. Ceux qui ont été détruits sont inactifs, jusqu'à ce qu'ils commencent à régénérer ; ceux qui sont intacts ou seulement partiellement lésés continueront à générer des influx douloureux.
 
 (image: i754-1.jpg)
 
 
-### **2. Hyperalgésie**
+### 2. Hyperalgésie
 
 Immédiatement après la brûlure, la réponse inflammatoire sensibilise les nocicepteurs actifs _(figure n° 2)_ et ceci de façon durable, puisque l'inflammation persistera au niveau de la lésion tant que la cicatrisation ne sera pas complète et même parfois au-delà. Cette hyperalgésie périphérique peut se compléter d'une hyperalgésie centrale, lorsque des actes nociceptifs répétés comme les pansements, ne sont pas contrôlés par une analgésie suffisante. On peut alors assister à de véritables embrasements des systèmes de transmission centraux de la douleur, le moindre stimulus au niveau de la lésion ou même à distance, devenant intolérable.
 
-#### **Caractéristiques cliniques de la douleur du brûlé**
+#### Caractéristiques cliniques de la douleur du brûlé
 
 _La douleur continue_ : elle est ressentie au niveau de la brûlure, mais aussi des sites donneurs de greffes. Elle est relativement peu intense et assez facilement contrôlée par l'immobilisation et la thérapeutique.
 
@@ -44,11 +44,11 @@ _Les douleurs dues aux actes thérapeutiques_ ce sont non seulement les pansemen
 (image: i754-2.jpg)
 
 
-#### **Douleur après cicatrisation**
+#### Douleur après cicatrisation
 
 La prévention et le traitement des cicatrices hypertrophiques pendant la phase de réhabilitation sont l'occasion de nouveaux types de douleur ; plus tardivement, les brûlures cicatrisées peuvent être le siège de douleurs neuropathiques ayant une symptomatologie voisine des douleurs post-zoostériennes.
 
-#### **Intensité**
+#### Intensité
 
 L'intensité de la douleur du brûlé est par essence extrêmement variable :
 
@@ -58,11 +58,11 @@ L'intensité de la douleur du brûlé est par essence extrêmement variable :
 
 Il est donc très difficile de la prédire, d'autant plus qu'elle n'a aucune relation avec le sexe, l'âge, ou les caractères socio-démographiques, contrairement à certaines idées reçues.
 
-#### **Evolution**
+#### Evolution
 
 Initialement, la douleur du brûlé a les caractéristiques d'une douleur aiguë. Cependant, chez les patients dont le traitement nécessite plusieurs semaines, il n'est pas exceptionnel que la douleur prenne les caractères d'une douleur chronique, surtout si l'analgésie n'est pas suffisante et que le brûlé est exposé à des actes très douloureux répétés. En somme, on passe d'une douleur " aiguë aiguë " à une douleur " aiguë chronique " _(tableau n° 1)._ À ce stade, il peut être très difficile de distinguer, dans la symptomatologie douloureuse, ce qui revient à la nociception et ce qui est dû à des altérations psychiques, ce qui peut conduire à des aberrations thérapeutiques comme une insuffisance d'analgésie et un excès de psychotropes, et vice versa.
 
-#### **Traitement**
+#### Traitement
 
 **Principes**
 
@@ -124,7 +124,7 @@ Pour _les enfants_ : l'auto évaluation est possible après 5 ans ; avant 5 ans,
 
 Toutes ces méthodes sont très suffisantes et très faciles à appliquer à condition de les administrer en routine, ce qui est souvent extraordinairement difficile à obtenir dans une unité de soins ni ne l'a jamais fait. Parmi toutes les mesures organisation et de formation, qui sont nécessaires, il est particulièrement fondamental d'intégrer l'évaluation de la douleur de façon écrite dans la feuille de surveillance des patients, au même titre que la tension, le pouls ou la diurèse ! De même est-il très important que les protocoles écrits dont disposent les infirmières soient suffisamment souples pour leur permettre d'adapter elles-mêmes la thérapeutique nécessaire en fonction de l'évaluation de la douleur.
 
-### **Conclusion**
+### Conclusion
 
 La douleur du brûlé n'est pas une fatalité. Son éradication est parfaitement possible sans effet iatrogène. Son contrôle est essentiel pour la qualité des soins au stade aigu. Il est aussi indispensable à la prévention des troubles psychiques qui peuvent survenir à la suite de ce traumatisme, particulièrement mutilant.
 

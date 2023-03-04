@@ -12,9 +12,9 @@ La perfusion est une technique d'injection prolongée, par voie veineuse. Du sav
 
 La pose d'une perfusion intraveineuse, bien que quotidienne, n'est pas un geste anodin. Cet acte technique peut être source d'infection majeure, mais aussi entraîner de graves conséquences sur la santé du patient en cas d'erreur de produit injecté ou de volume injecté, compte tenu de la rapidité de l'effet liée à la voie utilisée.
 
-## **I. Technique**
+## I. Technique
 
-### **1. Matériel à la disposition de l'infirmier**
+### 1. Matériel à la disposition de l'infirmier
 
 **a. Aiguille intraveineuse métallique, à usage multiple**
 
@@ -37,7 +37,7 @@ Précision pour le matériel à usage unique présenté sous sachet papier stér
 (image: i636-1.jpg)
 
 
-### **2. Préparation du malade**
+### 2. Préparation du malade
 
 *   Expliquer au malade et à sa famille ce que l'on va lui faire et pourquoi.
 
@@ -47,7 +47,7 @@ Précision pour le matériel à usage unique présenté sous sachet papier stér
 
 *   Repérer où la perfusion peut être posée afin d'adapter et de choisir le matériel.
 
-### **3. Préparation du matériel**
+### 3. Préparation du matériel
 
 Il est indispensable de réunir tout le matériel avant d'effectuer le geste, car tout manque inopiné entraîne des manipulations intempestives responsables d'échec.
 
@@ -79,7 +79,7 @@ Il est indispensable de réunir tout le matériel avant d'effectuer le geste, ca
 
 - purger le reste de la tubulure en ouvrant la pince régulatrice. L'embout terminal doit rester stérile, ne pas y mettre les doigts ou toucher quoi que ce soit avec.
 
-### **4. Technique de la ponction intraveineuse**
+### 4. Technique de la ponction intraveineuse
 
 **a. Poser le garrot sur le membre supérieur**
 
@@ -123,7 +123,7 @@ Pour les enfants et les adultes inconscients, il faut installer le bras sur une 
 
 *   Lorsque le sang reflue dans la chambre du cathéter, ne plus bouger l'aiguille et faire coulisser la canule en plastique dans la veine à l'aide de la main gauche. a Retirer l'aiguille et adapter la tubulure.
 
-### **5. Surveillance**
+### 5. Surveillance
 
 **a. Réglage du débit**
 
@@ -161,9 +161,9 @@ Pour cela, il faut avertir le malade et son entourage d'appeler l'infirmier dès
 
 Demander au malade de ne pas faire de mouvement intempestif propre à désadapter le branchement ou à enfoncer l'aiguille et transpercer la veine.
 
-## **II. Incidents et complications**
+## II. Incidents et complications
 
-### **1. La chambre compte-gouttes est pleine**
+### 1. La chambre compte-gouttes est pleine
 
 *   Fermer la pince régulatrice.
 
@@ -179,7 +179,7 @@ Si la tubulure comporte un caoutchouc (site d'injection), pour éviter de désad
 
 S'il n'y a pas de caoutchouc, désadapter la tubulure de l'aiguille et purger.
 
-### **3. Le débit est ralenti,** **voire arrêté**
+### 3. Le débit est ralenti, voire arrêté
 
 *   Examiner l'aiguille: s'il y a un gonflement autour du point de ponction, il y a diffusion du liquide dans les tissus car l'aiguille est en dehors de la veine. Repiquer.
 
@@ -189,7 +189,7 @@ S'il n'y a pas de caoutchouc, désadapter la tubulure de l'aiguille et purger.
 
 *   Vérifier si la **tubulure** n'est pas **coudée.**
 
-### **4. Lymphangite**
+### 4. Lymphangite
 
 Le trajet veineux devient rouge, chaud et douloureux; il peut y avoir une adénopathie axillaire. Enlever l'accès veineux et repiquer le malade à l'autre bras. Appliquer un pansement alcoolisé chaud sur le trajet veineux et le renouveler trois à quatre fois par jour jusqu'à la disparition de la lymphangite.
 

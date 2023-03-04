@@ -14,13 +14,13 @@ Il demeure un problème majeur de Santé Publique dans les pays en voie de déve
 
 La prévention est possible par la vaccination et par un traitement correct des portes d'entrée, d'où l'importance des actions de vaccination systématiques et de sensibilisation concernant le déroulement des accouchements et les soins des plaies.
 
-## **I. Physiopathologie**
+## I. Physiopathologie
 
 Le tétanos est une toxi-infection due à une bactérie : Clostridium tetani. C'est un bacille anaérobi **sporulé présent dans le sol.**
 
 La contamination est due à la pénétration dans l'organisme de spores, le plus souvent lorsque des particules de terre souillent une plaie. Le germe reste localisé dans la plaie mais il produit une **toxine** qui va diffuser, en particulier vers le système nerveux. La toxine est responsable des signes neurologiques de la maladie: les contractures.
 
-## **II. Les portes d'entrée**
+## II. Les portes d'entrée
 
 *   **Une plaie souillée** par de la terre le plus souvent après une blessure, une brûlure, une plaie minime en particulier au niveau du pied.
 
@@ -40,7 +40,7 @@ La contamination est due à la pénétration dans l'organisme de spores, le plus
 
 Dans environ 10 % des cas on ne retrouve pas de portes d'entrée, on pense alors que le bacille passe par le tube digestif **N'importe qui peut** **contracter le tétanos s'il n'est pas vacciné.**
 
-## **III. Comment reconnaître** **un tétanos**
+## III. Comment reconnaître un tétanos
 
 Le diagnostic est le plus souvent facile cliniquement et les populations connaissent bien cette maladie et sa gravité.
 
@@ -66,7 +66,7 @@ Il existe également parfois de la fièvre, une constipation et une déshydratat
 
 *   le **tétanos néonatal** devra être **évoqué** **systématiquement** chez un enfant de quelques jours de vie (sept jours en moyenne) qui présente des modifications du comportement, un refus de l'alimentation au sein, des contractures paroxystiques, un trismus.
 
-## **IV. Evolution**
+## IV. Evolution
 
 *   Un score pronostique (Dakar 1975) peut être établi au troisième jour de la maladie.
 
@@ -81,11 +81,11 @@ Le pronostic est fonction de la durée d'incubation, de la rapidité de la gén�
 
 La durée d'évolution est en moyenne de trois semaines. Une récidive est toujours possible si le **sujet n'est pas vacciné.**
 
-## **V. Le traitement**
+## V. Le traitement
 
 Tout malade suspect de tétanos doit être hospitalisé en urgence. L'admission dans un hôpital ou un centre de santé développé et équipé est souhaitable car la surveillance du malade doit être permanente et les soins adaptés.
 
-### **1. Le traitement à visée** **symptomatique**
+### 1. Le traitement à visée symptomatique
 
 Le malade est placé dans une **chambre seule,** **au calme, dans l'obscurité.** On évitera au maximum toutes les manipulations, les stimulations par le bruit ou la lumière. Seule une personne de la famille restera au côté du malade.
 
@@ -113,7 +113,7 @@ quand elle est possible c'est la meilleure dans les cas graves :
 
 On peut également utiliser des doses plus fortes en réanimation avec éventuellement des curares mais la ventilation assistée sera nécessaire.
 
-### **2. La thérapeutique à visée** **étiologique, spécifique, en** **urgence**
+### 2. La thérapeutique à visée étiologique, spécifique, en urgence
 
 **a. Traitement de la porte d'entrée** nettoyage, parage, désinfection locale de la plaie.
 
@@ -125,7 +125,7 @@ On pourra utiliser éventuellement des gamma globulines spécifiques humaines si
 
 **d. Une dose de vaccination antitétanique** sera systématiquement injectée pouvant éventuellement réactiver des défenses de l'organisme et débutant la vaccination qu'il faudra poursuivre.
 
-### **3. Les soins corporels**
+### 3. Les soins corporels
 
 *   **Prévention des escarres,** changement de positions du malade toutes les quatre heures, assurer une hygiène correcte avec un drap propre, bien tendu, sec.
 
@@ -135,7 +135,7 @@ On mettra en place si possible une sonde urinaire qui permettra de surveiller la
 
 On posera également au départ, si possible, une **voie veineuse** surtout si le tétanos est grave et s'il existe une dysphagie importante. Elle permettra de réhydrater le malade, de lui passer les médicaments (Pénicilline G, Valium®).
 
-### **4. La surveillance**
+### 4. La surveillance
 
 *   la température et la tension artérielle,
 
@@ -147,7 +147,7 @@ On posera également au départ, si possible, une **voie veineuse** surtout si l
 
 L'infirmier responsable du malade réalisera un **plan de soins** où il indiquera heure par heure, les soins à réaliser (changements de position, nutrition), les médicaments à administrer, la surveillance de l'état du malade (température, contractures). La vaccination devra être poursuivie après la guérison du malade car le tétanos n'immunise pas.
 
-### **5. Cas particulier du tétanos néonatal**
+### 5. Cas particulier du tétanos néonatal
 
 *   **Isolement**
 
@@ -168,11 +168,11 @@ Relaxants musculaires : diazépam (Valium®)
 
 *   **Surveillance** régulière et étroite, en particulier de l'état respiratoire: le diazépam sera diminué si l'enfant respire mal.
 
-## **VI. Comment éviter** **le tétanos**
+## VI. Comment éviter le tétanos
 
 C'est le **point fondamental** car c'est le meilleur moyen de faire diminuer la mortalité liée au tétanos.
 
-### **1. La vaccination antitétanique**
+### 1. La vaccination antitétanique
 
 C'est le moyen le plus simple et le plus efficace.
 
@@ -189,7 +189,7 @@ Des campagnes de vaccination doivent être organisées régulièrement :
 *   vaccination dans les écoles,
 *   vaccination des femmes enceintes lors des consultations prénatales.
 
-### **2. La sérothérapie** **antitétanique**
+### 2. La sérothérapie antitétanique
 
 Devant toute plaie souillée chez un sujet non correctement vacciné, on pratiquera une injection de sérum antitétanique à la dose de 1 500 unités internationales (une ampoule). On injectera d'abord une dose test de 0,5 cc et on attendra quinze à trente minutes; s'il n'y a pas de réaction, on injectera le reste du sérum (méthode de Besredka). On peut utiliser aussi, quand elles sont disponibles, des gamma globulines humaines antitétaniques à dose de 250 unités internationales.
 
@@ -197,7 +197,7 @@ Lors de la sérothérapie, on débutera également la **vaccination** qui sera �
 
 **Cas particulier de la prévention du tétanos ombilical :** si lors de l'accouchement, le cordon n'a pas été coupé ou lié stérilement, ou si la plaie ombilicale est souillée (terre ou autre), on nettoiera l'ombilic avec un désinfectant et on pratiquera une sérothérapie chez l'enfant à la dose de 750 unités internationales en injectant la moitié de la dose en péri-ombilical.
 
-### **En conclusion**
+### En conclusion
 
 *   **La prévention du tétanos passe par:**
 

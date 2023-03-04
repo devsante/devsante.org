@@ -47,7 +47,7 @@ La durée de l'ischémie tolérable pour un membre ne peut se résumer au dogme 
 
 Par contre, si le niveau supérieur de l'ischémie aiguë est crural, au-delà de 6 à 12 heures, la revascularisation provoquera un oedème musculaire et une rhabdomyolyse majeure, d'autant plus importante que l'ischémie a été profonde et prolongée et la revascularisation efficace. Dans ce cas, les aponévrotomies sont indispensables pour favoriser la revascularisation distale, mais elles majorent la rhabdomyolyse. L'insuffisance rénale aiguë est parfois inévitable, qui impose l'hémodialyse. Dans un tel contexte, avant l'apparition d'une défaillance multiviscérale, ou d'un problème septique incontrôlable, il faut savoir préférer l'amputation surtout en l'absence complète d'espoir fonctionnel.
 
-### 4. La place des examens complémentaires : **écho-doppler, artériographie**
+### 4. La place des examens complémentaires : écho-doppler, artériographie
 
 Dans la prise en charge en urgence des délabrements de membres, les données de l'examen périphérique au doppler portable peuvent être précieuses : s'il existe un flux artériel pulsé à l'extrémité, même en l'absence de pouls palpable, il n'y a pas _a priori_ d'extrême urgence à la revascularisation ou à l'aponévrotomie. Dans le cas contraire avec une absence complète de flux audible, le temps est compté pour la tolérance des muscles et des nerfs à l'ischémie complète, et l'artériographie d'urgence s'impose afin d'aboutir le plus rapidement possible au geste nécessaire de restauration artérielle et/ou d'aponévrotomie.
 

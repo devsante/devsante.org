@@ -8,7 +8,7 @@ Datetime: 1997-10-04 00:00
 ----  
 Text:
 
-## **Les prérequis**
+## Les prérequis
 
 L'enfant dès sa naissance possède les capacités neurophysiologiques pour acheminer les influx douloureux de la périphérie au système nerveux central.
 
@@ -18,7 +18,7 @@ Plus l'enfant est petit, moins les capacités cognitives permettant de réduire 
 
 Les frontières entre douleur aiguë et chronique sont moins différenciées chez l'enfant.
 
-## **I. La reconnaissance de la douleur**
+## I. La reconnaissance de la douleur
 
 La difficulté à examiner de manière satisfaisante les jeunes enfants est fréquente, il faut donc, par un travail d'approche progressif, réussir à apprivoiser l'enfant.
 
@@ -26,9 +26,9 @@ L'examen clinique commencera par l'observation des comportements spontanés, des
 
 Les difficultés concernent surtout les enfants de moins de 1 an : la " poussée dentaire ", " la colique du nourrisson " recouvrent en réalité toute une série d'entités cliniques fort différentes dont le dénominateur commun reste la rupture du bien-être de l'enfant. Seul un examen clinique minutieux et rigoureux permettra de mieux analyser cette sémiologie.
 
-### **Les pièges**
+### Les pièges
 
-#### **Les erreurs par défaut**
+#### Les erreurs par défaut
 
 _Ne pas nier la réalité de la douleur_
 
@@ -61,7 +61,7 @@ _. participation du système autonome : algodystrophie,_
 
 _. infectieux : sida._
 
-#### **Les erreurs par excès**
+#### Les erreurs par excès
 
 _Un traitement antalgique sera inadapté ou insuffisant pour les cas suivants :_
 
@@ -213,7 +213,7 @@ Avec les conditionnements dont nous disposons en France, ce produit peut être d
 
 Lors d'une prescription hors AMM, le médecin devra anticiper les , problèmes,> en avertissant les parents des raisons de ce type de prescription et en informant le pharmacien par une ordonnance avec la phrase " _Je dis_... ".
 
-## **III. Comment évaluer l'efficacité antalgique ?**
+## III. Comment évaluer l'efficacité antalgique ?
 
 Si après deux prises d'antalgique périphérique (palier 1), soit 8 heures, l'enfant présente l'un ou plusieurs des signes suivants (ces signes sont bien sûr à intégrer avec le reste de l'examen clinique concernant la nature et l'évolutivité de la pathologie causale) il faudra alors passer au palier supérieur.
 

@@ -21,7 +21,7 @@ Enfin, bien que cela ne soit pas le sujet de cet article, il faut devant tout si
 ----  
 Text:
 
-## **I. Les syndromes**
+## I. Les syndromes
 
 Les infections respiratoires varient selon :
 
@@ -59,24 +59,24 @@ Au terme de cet examen clinique, il est possible de classer les infections respi
 (image: i479-1.jpg)
 
 
-## **II. Les infections bronchopulmonaires**
+## II. Les infections bronchopulmonaires
 
 Elles peuvent être regroupées en quatre grands groupes de maladies.
 
-### **1. Bronchite aiguë**
+### 1. Bronchite aiguë
 
 C'est une maladie fréquente surtout chez les fumeurs. Elle commence par une toux sèche et douloureuse, puis il apparaît une expectoration mucopurulente. A l'auscultation, il peut y avoir des sibilants et des ronchus, voire des râles sous-crépitants.
 
 L'apparition d'une bronchite chronique est une des principales complications de cette infection.
 
-### **2. Pneumopathie aiguë** **(ou pneumonie)**
+### 2. Pneumopathie aiguë (ou pneumonie)
 
 Cette maladie provoque une condensation pulmonaire. Elle est soit d'origine bactérienne, soit d'origine virale. Il est important d'apprécier sa cause car elle conditionne le traitement. Le _tableau 3_ permet de différencier ces deux types de pneumopathies. Enfin, des maladies parasitaires peuvent être à l'origine de pneumopathies : pneumocystose, aspergillose, filariose.
 
 (image: i479-2.jpg)
 
 
-### **3. Pleurésies**
+### 3. Pleurésies
 
 Il s'agit d'une inflammation de la plèvre aiguë ou chronique avec ou sans épanchement.
 
@@ -87,7 +87,7 @@ Certaines parasitoses peuvent aussi induire une pleurésie : distomatose, filari
 (image: i479-3.jpg)
 
 
-### **4. Suppurations pulmonaires**
+### 4. Suppurations pulmonaires
 
 Le tableau le plus fréquent est celui d'abcès du poumon.
 
