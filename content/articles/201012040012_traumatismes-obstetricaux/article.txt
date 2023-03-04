@@ -6,7 +6,9 @@ Title: Traumatismes obstétricaux
 Datetime: 2010-12-04 00:00
 
 ----  
-Text:<table>
+Text:
+
+<table>
 
 <tbody>
 

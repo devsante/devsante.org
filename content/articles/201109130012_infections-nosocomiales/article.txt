@@ -12,7 +12,9 @@ Toute infection acquise à l’hôpital ou au dispensaire est dite nosocomiale (
 Cela signifie qu’elle survient pendant ou après un séjour à l’hôpital (ex. : infection post-opératoire) ou après une consultation (rougeole, varicelle par exemple) ou un acte invasif (ex. : abcès au point d’injection).
 
 ----  
-Text:<table>
+Text:
+
+<table>
 
 <thead>
 

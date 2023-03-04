@@ -6,7 +6,9 @@ Title: Hygiène : quelques définitions
 Datetime: 2011-09-11 00:00
 
 ----  
-Text:<table>
+Text:
+
+<table>
 
 <tbody>
 

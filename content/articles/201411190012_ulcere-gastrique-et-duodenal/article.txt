@@ -17,7 +17,9 @@ Cette définition s’oppose à celle des ulcères aigus dont la perte de substa
 L’UD est 3 à 4 fois plus fréquent que l’UG. Le rapport de fréquence entre les deux sexes (M/F) est de 2/1 pour l’UD et de 1/1 pour l’UG. L’UD est toujours bénin. L’UG peut se cancériser.
 
 ----  
-Text:<table>
+Text:
+
+<table>
 
 <thead>
 

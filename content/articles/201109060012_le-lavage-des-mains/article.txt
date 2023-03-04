@@ -14,7 +14,9 @@ Tout le personnel soignant, les médecins et la famille doivent respecter les co
 **Le lavage des mains est le plus simple et le moins cher des moyens de prévention de la transmission des infections, il réduit  l’incidence des infections dues aux soins.**  
 
 ----  
-Text:<table>
+Text:
+
+<table>
 
 <tbody>
 
