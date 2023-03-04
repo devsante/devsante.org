@@ -79,7 +79,7 @@ Il n'y a pas de fichier modèle qui puisse s'appliquer à toutes les consultatio
 
 **des objectifs** que se fixe l'équipe: par exemple pour le suivi de la première année, il est classique de voir le nourrisson chaque mois afin de suivre la bonne prise pondérale au sein, encourager la diversification à partir de la fin du deuxième trimestre, prévenir les carences et effectuer les principales vaccinations. Cependant si certains enfants suivent parfaitement ce schéma, les consultations sont nombreuses et surchargées et l'on n'a pas le temps d'aller voir à domicile les autres enfants qui n'ont pas été vus régulièrement car leur mère était peu informée ou peu motivée. Il faut éventuellement choisir de diminuer un peu la fréquence générale des consultations conseillées afin de pouvoir mieux se consacrer aux enfants. " à risques ".
 
-*   ## **Utilisation d'un "fichier programme "**
+## **Utilisation d'un "fichier programme "**
 
 Il en existe plusieurs types mais en règle générale, leur principe est assez simple: il consiste à suivre le cheminement de l'enfant en faisant bouger sa fiche d'une case à une autre.
 

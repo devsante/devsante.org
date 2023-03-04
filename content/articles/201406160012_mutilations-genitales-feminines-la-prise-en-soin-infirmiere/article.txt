@@ -35,7 +35,8 @@ Plus concrètement, la prise en soin infirmière consistera à :
 2.  poser un diagnostic infirmier pertinent selon la situation.
 3.  mettre en pratique des interventions infirmières.
 4.  évaluer ces interventions par la suite.
-5.  ### 1. Collecte de données
+
+### 1. Collecte de données
 
 <table>
 

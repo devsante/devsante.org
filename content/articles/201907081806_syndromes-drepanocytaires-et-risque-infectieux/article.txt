@@ -20,7 +20,7 @@ L’asplénie fonctionnelle, liée à l’infarcissement splénique, diminue for
 Les dégâts tissulaires et la nécrose osseuse sont aussi probablement des facteurs aggravant le risque de colonisation bactérienne. 
 
 ## Infections dues à des germes encapsulés
-Toutes ces anomalies concourent à accroître le risque infectieux pour les **germes encapsulés** comme le pneumocoque, *Haemophilus influenzae*, *Neisseria meningitidis*, ou pour d’autres germes comme *Staphylococcus aureus*, *Salmonella* et *Escherichia coli*. ^
+Toutes ces anomalies concourent à accroître le risque infectieux pour les **germes encapsulés** comme le pneumocoque, *Haemophilus influenzae*, *Neisseria meningitidis*, ou pour d’autres germes comme *Staphylococcus aureus*, *Salmonella* et *Escherichia coli*.
 
 **C'est en effet l'infection sévère à *Streptococcus pneumoniae* que l'on redoute chez le jeune enfant, une des premières causes de mortalité à cet âge ** : l’incidence de l’infection pneumococcique chez l’enfant drépanocytaire était en Angleterre, avant la vaccination , 500 fois plus élevée avec une gravité et une létalité supérieures à celles observées chez des enfants non drépanocytaires [1]. Une méta-analyse réalisée par la *Cochrane Collaboration* sur l’antibioprophylaxie antipneumococcique chez l’enfant drépanocytaire a établi que ce risque infectieux est maximal chez l’enfant de moins de 3 ans [2] .
  
@@ -30,7 +30,7 @@ Un autre germe encapsulé, ***Neisseria meningitidis*** ou** méningocoque**, es
 
 L'invasion par les **salmonelles**, en particulier **non typhiques**, s'explique par l'occlusion capillaire secondaire à la falciformation, provoquant un infarctus du tube digestif. Les anomalies de la réponse immunitaire accentuent la diffusion de ces bactéries . Enfin, la colonisation de la moelle osseuse est favorisée par l'ischémie secondaire à la falciformation.  
 
-## #Paludisme  
+## Paludisme  
 C'est un facteur de mortalité et de morbidité de la drépanocytose en raison du déclenchement des crises vaso-occlusives et de l'hémolyse qui aggravent l'anémie chronique.
 La série dakaroise [3] en 2000 a retrouvé près de 10 % de paludisme à *P. falciparum* dans une étude des patients drépanocytaires hospitalisés pour épisodes fébriles. D'autres  séries africaines confirment ces chiffres.
 
@@ -38,10 +38,10 @@ La série dakaroise [3] en 2000 a retrouvé près de 10 % de paludisme à *P. fa
 Une surveillance de la concentration d'hémoglobine est nécessaire, conduisant parfois à une transfusion.
 Des mesures préventives sont  indiquées, en particulier la destruction des gites larvaires, l'usage de moustiquaires imprégnées et une chimioprophylaxie chez le jeune enfant.
 
-### Les hépatites et le VIH 
+## Les hépatites et le VIH 
 Ils représentent un risque de transmission transfusionnelle.
 
-### Les autres problèmes infectieux
+## Les autres problèmes infectieux
 **Mycoplasme** et ***Chlamydia*** sont responsables de syndromes thoraciques aigus.
 **Parvovirus B 19** ou **erythrovirus** : c'est une infection bénigne mais elle se complique d'érythroblastopénie aiguë pouvant nécessiter une transfusion, et parfois d'un syndrome thoracique et d'une crise vaso-occlusive. La contagion intrafamiliale est habituelle.
 **Grippe** : elle est responsable d’une importante morbidité chez les sujets drépanocytaires et une vaccination annuelle est recommandée, y compris chez l’enfant drépanocytaire à partir de 6 mois.

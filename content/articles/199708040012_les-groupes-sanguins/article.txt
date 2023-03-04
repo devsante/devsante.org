@@ -170,7 +170,7 @@ Ainsi, un sujet de groupe A marié à une femme de groupe B pourra avoir des enf
 
 ### **4. Applications**
 
-*   #### **Le groupage sanguin**
+#### **Le groupage sanguin**
 
 _- L'épreuve globulaire ou réaction de Beth Vincent :_
 
@@ -256,7 +256,7 @@ Réaction positive : les hématies sont agglutinées entre elles par l'anticorps
 
 Réaction négative : les hématies se remettent en suspension homogène dans le liquide de réaction.
 
-*   #### **La transfusion**
+#### **La transfusion**
 
 La règle en transfusion est de toujours respecter l'anticorps du receveur.
 
@@ -279,11 +279,11 @@ En l'absence de sang du groupe du patient, se rappeler le schéma de compatibili
 (image: i741-5-web.jpg)
 
 
-*   #### **La grossesse**
+#### **La grossesse**
 
 L'incompatibilité ABO du couple mère-enfant très fréquente n'a que très rarement des conséquences cliniques, qui restent très discrètes.
 
-*   #### **La greffe d'organe**
+#### **La greffe d'organe**
 
 Le système ABO est un groupe tissulaire pouvant être impliqué dans la greffe d'organe.
 
@@ -337,7 +337,7 @@ Le phénotype d'un individu ne correspond que rarement à son génotype : homozy
 
 ### **4. Applications**
 
-*   #### Le groupage
+#### Le groupage
 
 La détermination du caractère Rhésus ou présence de l'antigène D, fait partie intégrante de la détermination du groupe sanguin et s'effectue en même temps que le groupage ABO.
 
@@ -457,13 +457,13 @@ Les sérums monoclonaux dispensent de ces artifices et s'emploient sur plaque et
 
 En cas de difficulté de réaction, considérer le sujet comme de groupe Rhésus négatif.
 
-*   #### **La transfusion**
+#### **La transfusion**
 
 Les antigènes du système Rhésus sont très immunogènes . Il est préférable autant que possible de respecter en particulier l'absence d'apport d'antigène D pour les receveurs de Rhésus négatif, et ce d'autant plus qu'il s'agit d'une petite fille ou d'une femme en âge de procréer.
 
 L'immunisation du receveur Rhésus négatif entraîne des accidents d'hémolyse de type ictère retardé, si on poursuit la transfusion de sang de Rhésus positif, parfois un accident d'hémolyse intravasculaire comme l'accident ABO, lorsque l'anticorps est très puissant.
 
-*   #### **La grossesse**
+#### **La grossesse**
 
 L'immunisation de la femme enceinte Rhésus négatif se fait par le passage d'hématies foetales portant le caractère Rhésus positif, le plus souvent en fin de grossesse et surtout au moment de l'accouchement.
 
