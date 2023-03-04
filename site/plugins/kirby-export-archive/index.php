@@ -140,18 +140,6 @@ function kirbytextNewlineToMarkdown($kirbytext)
     );
 }
 
-// Make sure <table> tags start on a new line
-function kirbytextTableOpenToMarkdown($kirbytext)
-{
-    return preg_replace("/^(.+?)<table>/m", "$1\n<table>", $kirbytext);
-}
-
-// Add a extra new line after closing </table> tags to get them recognized
-function kirbytextTableCloseToMarkdown($kirbytext)
-{
-    return preg_replace("/<\/table>\n([^\n])/", "</table>\n\n$1", $kirbytext);
-}
-
 function kirbytextNumberedListToMarkdown($kirbytext)
 {
     return preg_replace("/^(\d+)- /m", "$1. ", $kirbytext);
@@ -160,12 +148,6 @@ function kirbytextNumberedListToMarkdown($kirbytext)
 function kirbytextToMarkdown($kirbytext)
 {
     return kirbytextNewlineToMarkdown(
-        kirbytextNumberedListToMarkdown(
-            kirbytextTableOpenToMarkdown(
-                kirbytextTableCloseToMarkdown(
-                    kirbytextImageToMarkdown($kirbytext)
-                )
-            )
-        )
+        kirbytextNumberedListToMarkdown(kirbytextImageToMarkdown($kirbytext))
     );
 }
