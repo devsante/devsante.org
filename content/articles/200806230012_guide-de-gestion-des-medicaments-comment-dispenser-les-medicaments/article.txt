@@ -142,7 +142,7 @@ On ne doit pas donner un médicament à un patient sans lui avoir expliqué à q
 
 ### 5. Vérifiez que le patient a bien compris
 
-#### Le patient doit savoir :
+#### Le patient doit savoir
 
 *   quels médicaments lui ont été donnés,
 *   comment les prendre,

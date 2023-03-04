@@ -14,7 +14,7 @@ Pour décrire les principales caractéristiques épidémiologiques du diabète, 
 
 L'âge de découverte a été obtenu a partir des dates de naissance et d'enregistrement au centre. La population reconnue diabétique a été comparée à la population générale d'Abidjan (recensement de 1998).
 
-## Les patients ont été classés en :
+## Les patients ont été classés en
 
 *   diabète de type 1: patients de moins de 35 ans au moment du diagnostic, ayant un indice de masse corporelle (IMC) inférieur a 20 et traités par insuline ;
 *   diabète type 2 :

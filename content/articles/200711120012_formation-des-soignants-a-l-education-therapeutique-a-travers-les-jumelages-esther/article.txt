@@ -124,7 +124,7 @@ La Clinique Louis Pasteur (CLP) est aujour­d'hui un modèle en ETP ; elle appor
 
 ## III. Programme de formation à l'ETP : objectifs et techniques
 
-### Objectifs pédagogiques :
+### Objectifs pédagogiques
 
 *   Acquérir des notions sur la dynamique de l'infection par le VIH.
 *   Connaître les différents types de traite­ments antirétroviraux, leur modes d'action, objectifs, contraintes de prise et effets secondaires.
@@ -132,18 +132,18 @@ La Clinique Louis Pasteur (CLP) est aujour­d'hui un modèle en ETP ; elle appor
 *   Utiliser différents outils d'éducation thérapeutique.
 *   Réaliser une séance d'éducation thérapeu­tique individualisée, répétée et évaluée régulièrement.
 
-### Techniques pédagogiques :
+### Techniques pédagogiques
 
 *   Jeux de rôles ; utilisation d'outils pédago­giques : chevalets, planning...
 *   Discussions, échanges en sous-groupes.
 
-### Documents pédagogiques remis :
+### Documents pédagogiques remis
 
 *   Définition sur l'éducation thérapeutique.
 *   Dossier d'éducation.
 *   Documents sur le VIH/SIDA et les traite­ments.
 
-### Matériel pédagogique :
+### Matériel pédagogique
 
 *   Mallette d'éducation thérapeutique com­prenant les différents outils pédagogiques.
 *   Questions/réponses pour l'évaluation des connaissances des personnes formées.

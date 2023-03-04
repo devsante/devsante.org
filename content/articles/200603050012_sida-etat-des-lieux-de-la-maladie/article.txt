@@ -9,7 +9,7 @@ Text:
 ## I. Rappel concernant le VIH  
 **(Virus de l'immunodéficience humaine)**
 
-### Il existe deux types de VIH :
+### Il existe deux types de VIH
 
 *   VIH-1 le plus fréquent, présent dans le monde entier ;
 *   VIH-2, à l'origine seulement en Afrique occidentale, puis exporté dans d'autres pays d'Afrique, en Europe et dans les Caraïbes.
@@ -62,7 +62,7 @@ L'infirmier qui travaille dans un centre de santé ou dans un dispensaire a un r
 
 Les tests de dépistage ne sont en général pas réalisés au sein du dispensaire, le patient doit donc être référé par l'infirmier au centre de dépistage ou à l'hôpital le plus proche.
 
-#### a) Dans l'optique d'une prise en charge de qualité l'infirmier doit :
+#### a) Dans l'optique d'une prise en charge de qualité l'infirmier doit
 
 *   Connaître les sites de dépistage les plus proches ;
 *   Prendre contact avec l'équipe chargée du dépistage (l'idéal étant de les rencontrer) ;
@@ -187,7 +187,7 @@ ARV = SIDA
 
 </table>
 
-#### d) En règle générale :
+#### d) En règle générale
 
 *   Faire preuve de discrétion ;
 *   **Confidentialité = Confiance**, si vous respectez ces règles le malade pourra vous parler librement de sa maladie, de ses difficultés et de ses peurs. Vous serez plus à même de l'accompagner dans une dynamique de soins. Vous-même travaillerez mieux.
@@ -261,7 +261,7 @@ Il propose à l'infirmier une lecture simple de la situation médicale de l'indi
 *   **Fatigue chronique**.
 *   **Prurigo.**
 
-#### c) Quelques diagnostics médicaux qui permettent de renforcer le diagnostic :
+#### c) Quelques diagnostics médicaux qui permettent de renforcer le diagnostic
 
 *   Tuberculose
 *   Sarcome de Kaposi

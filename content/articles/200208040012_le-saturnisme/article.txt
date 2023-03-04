@@ -101,7 +101,7 @@ Ces deux dernières méthodes permettent une évaluation du stock osseux et donc
 *   Eliminer le plomb de l'essence, de la peinture et des canalisations d'eau, éliminer la soudure au plomb dans la fabrication des boites de conserve, traitement de l'eau (alcalinisation) ;
 *   Surveillance des populations potentiellement exposées : enfants, femmes enceintes, travailleurs dans les industries à risque.
 
-### Au niveau individuel :
+### Au niveau individuel
 
 *   Laisser couler l'eau avant de la boire si les canalisations sont en plomb ;
 *   Empêcher les enfants de gratter les murs et de manger la peinture, les sortir le plus possible, imposer un lavage de mains fréquent, couvrir les casseroles pendant la cuisson, passer la serpillière à la place du balai pour éviter de mobiliser les poussières ;

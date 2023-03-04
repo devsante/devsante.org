@@ -114,7 +114,7 @@ Faire préciser :
 *   s'il existe un traumatisme (nature de l'agent traumatisant),
 *   les traitements faits.
 
-#### Éléments de gravité :
+#### Éléments de gravité
 
 *   sécrétions purulentes : infection (danger de contagion),
 *   douleur : à la lumière (photophobie), au clignement, céphalées,
@@ -129,7 +129,7 @@ Faire préciser :
 
 ### 2. Examiner le visage
 
-#### En cas de sécrétions :
+#### En cas de sécrétions
 
 Toujours commencer par nettoyer les sécrétions en décollant les cils à l'eau propre.  
 Attention : risque septique, se laver les mains.
@@ -161,7 +161,7 @@ Les deux yeux sont de taille identique et parallèle
 (image: i562-6.jpg)
 
 
-#### Règles :
+#### Règles
 
 *   prévenir le malade,
 *   lui demander d'ouvrir les deux yeux,
@@ -169,7 +169,7 @@ Les deux yeux sont de taille identique et parallèle
 *   éclairer l'œil latéralement,
 *   ne jamais toucher la cornée.
 
-#### Vérifier que :
+#### Vérifier que
 
 *   la conjonctive bulbaire (blanc de l'œil) est blanche,
 *   la cornée est transparente (l'Iris et la pupille sont parfaitement visibles),
@@ -208,7 +208,7 @@ NB. Retourner la paupière supérieure est souvent impossible chez l'enfant de m
 
 Toujours vérifier les cornées et la pupille en s'aidant au besoin des écarteurs (anesthésique local inutile, glisser les écarteurs, l'un après l'autre entre les paupières sans appuyer sur le globe oculaire).
 
-### Signes de gravité :
+### Signes de gravité
 
 *   absence d'ouverture spontanée d'un ou de deux yeux,
 *   mouvements anormaux des globes oculaires,

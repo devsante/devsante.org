@@ -13,14 +13,14 @@ L'accès élargi au traitement antirétroviral (ARV) pour les PvVIH a débuté e
 ----  
 Text:
 
-## I. Création d'un nouveau rôle dans l'équipe :  
+## I. Création d'un nouveau rôle dans l'équipe
 le conseiller thérapeutique
 
 Afin d'assurer le suivi de l'observance, un nouveau rôle a été créé au sein de l'équipe : **le conseiller thérapeutique.** En effet, au CTA de Pointe-Noire la charge de travail des médecins ne leur permettait pas de disposer du temps nécessaire pour faire une consultation d'observance. Le poste de conseiller thérapeutique a été confié à un assistant sanitaire qui est aussi en charge de la gestion de la pharmacie du centre et de la délivrance des ARV mais ce rôle aurait pu être confié à un autre membre du personnel. Le conseiller thérapeutique a été choisi pour sa bonne connaissance des traitements ARV mais aussi pour ses capacités humaines et son abord des patients. Son rôle est d'assurer les consultations d'observance, d'informer les patients, de faire le point avec eux et d'anticiper les difficultés et de trouver les solutions. Le counselling ou conseil thérapeutique a été initié à Pointe-Noire en utilisant les connaissances acquises dans la pratique du counselling de dépistage et la prise en charge des patients VIH+ aux différents stades de l'infection.
 
 ### 1. Contenu du conseil thérapeutique
 
-#### Lors de la mise sous traitement :
+#### Lors de la mise sous traitement
 
 *   expliquer les intérêts et objectifs du traitement,
 *   trouver avec le patient les meilleurs horaires pour ses prises de traitement en fonction de ses horaires de vie quotidienne et des contraintes alimentaires pour les traitements (DDI à jeun, Indinavir à jeun si non "boosté", Ritonavir en fin de repas, Efavirenz au coucher...),
@@ -42,11 +42,11 @@ Afin d'assurer le suivi de l'observance, un nouveau rôle a été créé au sein
 
 Le rôle du conseiller thérapeutique est aussi d'évaluer l'observance de chaque patient, en l'absence de dosage des concentrations plasmatiques d'ARV ou d'examen de la charge virale. Les différentes techniques employées sont :
 
-#### L'évaluation de l'observance par le conseiller thérapeutique :
+#### L'évaluation de l'observance par le conseiller thérapeutique
 
 Au cours du conseil thérapeutique, l'entretien avec le patient permet de recueillir des données sur la régularité des prises, les horaires et le respect des consignes alimentaires. Dans notre expérience, les patients répondent souvent " comme " le conseiller souhaite l'entendre et affirment souvent prendre toutes les prises de façon parfaite alors que le comptage des comprimés où le retard aux approvisionnements indique le contraire. L'évaluation de l'observance par le conseiller sur les simples données de l'interrogatoire est donc souvent faussée, comme montré précédemment par d'autres études sur l'évaluation de l'observance par le médecin.
 
-#### Le comptage des comprimés et la régularité des approvisionnements en ARV :
+#### Le comptage des comprimés et la régularité des approvisionnements en ARV
 
 A chaque consultation d'observance ou approvisionnement en ARV, on demande au patient de rapporter ses comprimés restants pour les compter. On peut alors évaluer le décalage entre le nombre théorique et le nombre réel de comprimés restants à cette date : si le nombre réel est inférieur, on vérifie la bonne compréhension des posologies et on recherche l'origine du problème (perte de comprimés, doubles prises...). On a ainsi vu une patiente VIH+ non traitée prendre en secret les ARV de son mari déjà traité (à J14 du traitement, il ne lui restait plus qu'un seul jour de traitement !). Si le nombre réel est plus grand, le patient n'a pas pris tous ces comprimés correctement. Pour un décalage supérieur à 2 jours, l'observance théorique est déjà inférieure à 95% avec un risque d'échec virologique très important _(Cf. Tableau I)._ On évalue de la même façon l'observance avec le nombre de jours de retard à l'approvisionnement en ARV. Tous les patients sont encouragés à venir au CTA 2 jours avant la fin du mois de traitement et la majorité respecte cette consigne mais 2 jours de retard à l'approvisionnement suffisent pour passer en dessous de la barre des 95 % d'observance. Il faut évidement tenir compte du fait que le patient peut être à jour pour ses approvisionnement mais ne pas consommer ses médicaments. Ainsi lors de visites à domicile chez des patients dont l'état général s'était beaucoup aggravé, on a retrouvé près de 3 mois de médicaments non consommés alors que les boîtes vides étaient rapportées au conseiller thérapeutique.
 

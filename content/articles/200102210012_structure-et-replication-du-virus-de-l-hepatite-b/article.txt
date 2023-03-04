@@ -61,19 +61,19 @@ Elle est associée à la particule virale et pénètre donc dans la cellule en m
 
 ### Ce qu'il faut retenir
 
-#### 1. L'antigène HBs :
+#### 1. L'antigène HBs
 
 <ul><li>c'est lui qui se fixe sur l'hépatocyte</li><li>il constitue l'essentiel de l'enveloppe du virus</li><li>il est associé à une résistance importante du virus</li><li>il comporte au moins 5 spécificités antigé­niques.</li></ul>
 
-#### 2. L'antigène HBc :
+#### 2. L'antigène HBc
 
 <ul><li>il est exprimé à la surface des hépatocytes</li><li>il induit l'activité cytolytique des lympho­cytes T</li><li>il n'apparaît pas dans le sérum.</li></ul>
 
-#### 3. L'antigène HBe :
+#### 3. L'antigène HBe
 
 <ul><li>témoin de la réplication virale</li><li>il est excrété dans le sérum.</li></ul>
 
-#### 4 L'ADN polymérase :
+#### 4 L'ADN polymérase
 
 <ul><li>enzyme associée à la particule virale</li><li>elle intervient dans la multiplication du virus</li><li>elle est retrouvée dans le sang circulant.</li></ul></td>
 

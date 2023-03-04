@@ -144,7 +144,7 @@ déshydratation</th>
 
 </table>
 
-### Appréciation de l'état circulatoire par la mesure du temps de recoloration :
+### Appréciation de l'état circulatoire par la mesure du temps de recoloration 
 
 Pour mesurer le temps de recoloration, il faut appuyer pendant 5 à 10 secondes sur la pulpe d'un doigt ou sur un ongle puis relâcher.  
 On mesure alors le temps que la peau blanchie au point de pression met à reprendre sa couleur antérieure. Normalement, ce temps est inférieur à 2 s.

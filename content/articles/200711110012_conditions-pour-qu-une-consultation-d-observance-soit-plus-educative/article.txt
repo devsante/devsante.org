@@ -16,7 +16,7 @@ Une consultation d'observance contribue à cet objectif si elle conduit le patie
 
 ### Contribution au diagnostic éducatif
 
-#### Il s'agit de passer du temps à s'intéresser :
+#### Il s'agit de passer du temps à s'intéresser
 
 *   aux raisons qui l'on conduit à consulter,
 *   aux représentations qu'il a de sa maladie,
@@ -24,7 +24,7 @@ Une consultation d'observance contribue à cet objectif si elle conduit le patie
 
 Au cours de cette première étape, le soignant valorise les savoirs et les compétences du patient. Il sollicite sa réflexion pour lui permettre de porter un regard sur son expérience. Ces éléments créent chez le patient une disponibilité lui permettant d'accueillir de nouvelles informations, d'écouter, voire de proposer de nouvelles solutions à son problème.
 
-#### Choix de questions possibles :
+#### Choix de questions possibles
 
 *   Est-ce que vous souhaitez aborder un sujet particulier aujourd'hui à propos de votre maladie ? Vous êtes venu aujourd'hui pour une raison particulière ?
 *   Votre traitement vous pose t-il des questions, occasionne t-il des problèmes dans votre vie quotidienne ?
@@ -47,7 +47,7 @@ Proposer des choix thérapeuthiques, les expliquer, les discuter avec le patient
 
 Amener le patient à trouver ses propres solutions pour modifier son comportement, ses habitudes de vie tout en l'aidant à anticiper sur les modifications que la nouvelle prescription risque d'entraîner dans sa vie quotidienne.
 
-#### Choix de questions possibles :
+#### Choix de questions possibles
 
 *   A partir de ce que nous venons de dire comment allez vous vous y prendre pour gérer votre traitement ?
 *   Comment allez vous organiser votre vie quotidienne avec votre traitement ? Quels changements dans votre vie quotidienne votre traitement va vous demander ?
@@ -58,7 +58,7 @@ en présence du soignant les solutions qu'il a identifiées
 
 ### Apprentissage des compétences du patient
 
-#### Activité proposée :
+#### Activité proposée
 
 *   Demander au patient de résoudre une situation vécue par un patient porteur de l'infection par le VIH, dont les conditions de vie sont proches de celle du patient pour l'aider à s'approprier un raisonnement, à évoluer vers d'autres comportements face à son traitement.
 *   Demander au patient de planifier la prise de son traitement sur une journée pour lui permettre d'anticiper d'éventuelles difficultés imprévues ou d'envisager de nouvelles possibilités.
@@ -69,7 +69,7 @@ en présence du soignant les solutions qu'il a identifiées
 
 Conclure la consultation en demandant au patient de faire un résumé, sur ce qui pour lui a été important et sur ce qu'il envisage de faire. Proposer un suivi qui tienne compte de ce que le patient aura réalisé.
 
-#### Choix de questions possibles :
+#### Choix de questions possibles
 
 Dans ce que nous venons de discuter, de voir ensemble, qu'est-ce qui vous a particulièrement intéressé ?
 

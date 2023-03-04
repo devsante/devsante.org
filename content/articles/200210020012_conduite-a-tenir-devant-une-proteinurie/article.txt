@@ -150,7 +150,7 @@ Corticothérapie : 2mg/kg/jour jusqu'à disparition de la protéinurie, puis dé
 
 Il s'agit d'une atteinte rénale faisant suite à une infection habituellement streptococcique (angine, scarlatine, infection cutanée ... ), non ou insuffisamment traitée. Cette affection touche en majorité les enfants entre 2 et 10 ans.
 
-#### a) Le syndrome néphrotique se caractérise par l'association :
+#### a) Le syndrome néphrotique se caractérise par l'association
 
 *   d'un syndrome oedémateux (voir ci-dessus),
 *   d'une hématurie (macro ou microscopique),

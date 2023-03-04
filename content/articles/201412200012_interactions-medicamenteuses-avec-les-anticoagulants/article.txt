@@ -59,7 +59,7 @@ Dans ce cas, il s’agit d’une contre-indication relative.  L’association d
 
 C’est le cas le plus général. L’association est possible en respectant les recommandations.
 
-### Recommandations en cas d’interaction médicamenteuse :
+### Recommandations en cas d’interaction médicamenteuse 
 
 *   Remplacement du médicament associé à l’anticoagulant par une substance ayant un effet thérapeutique comparable et n’interagissant pas avec l’anticoagulant.
 *   Si l’association est inévitable, il faut :

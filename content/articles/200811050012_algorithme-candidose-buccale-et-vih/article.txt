@@ -20,7 +20,7 @@ Préparation de la fungizone pour bain de bouche : mettre un flacon de suspensio
 
 ## Actions et surveillance infirmières
 
-### Dans le but d'améliorer le confort du patient :
+### Dans le but d'améliorer le confort du patient
 
 *   mettre en oeuvre le traitement prescrit ;
 *   conseiller une alimentation équilibrée, semi liquide ;
@@ -34,6 +34,6 @@ Préparation de la fungizone pour bain de bouche : mettre un flacon de suspensio
 Les lésions de la bouche sont souvent très douloureuses et empêchent le patient de s'alimenter correctement.  
 Avoir recours à un **traitement antalgique** pour calmer la douleur : paracétamol 50 mg/ kg/j x 3 ou AAS 500 mg x 3/ j  si douleur.
 
-### Remarque générale :
+### Remarque générale
 
 Il faut toujours examiner la bouche de vos patients car de nombreuses lésions buccales sont évocatrices de l'infection à VIH.

@@ -1181,11 +1181,11 @@ Il faut donc soigneusement archiver les anciennes fiches de stock.
 
 La fiche de stock = le "passeport" du produit
 
-### Elle contient :
+### Elle contient
 
 <ul><li>toutes les données permettant l'identification précise du produit.</li><li>tous les mouvements du stock :<ul>*   date d'entrée en stock et provenance,*   date de sortie et destination,*   calcul du stock restant.</ul></li></ul>
 
-### Les règles à suivre :
+### Les règles à suivre
 
 <ul><li>chaque produit a une fiche de stock sans exception,</li><li>la fiche de stock est placée avec le stock de produit correspondant,</li><li>tous les mouvements sont enregistrés scrupuleusement et au fur et à mesure,</li><li>l'inventaire physique de tous les produits est effectué tous les mois,</li><li>pour chaque produit, le résultat de l'inventaire est reporté de manière explicite sur la fiche de stock, le stock est réajusté si besoin.</li></ul></td>
 

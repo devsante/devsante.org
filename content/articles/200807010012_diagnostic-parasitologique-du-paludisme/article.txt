@@ -81,7 +81,7 @@ Sécher à l'air.
 
 ### 3. Etapes successives du diagnostic parasitologique
 
-#### Reconnaissance de l'hématozoaire par :
+#### Reconnaissance de l'hématozoaire par
 
 *   sa situation intraérythrocytaire (pour toutes les espèces, à tous les stades de leur évolution) ;
 *   les caractères généraux de la forme plas­modiale :
@@ -107,7 +107,7 @@ Formes rondes ou ovalaires remplissant presque entièrement l'hématie. Ils se r
 *   _Microgamétocytes (mâles)_ : cytoplasme pâle, lilas ou rose. Les noyaux de _Pl.vivax, PI. malariae et PI. ovale_, sont en masses granu­leuses colorées en rouge par le Giemsa.
 *   Macrogamétocytes (femelles) : cytoplasme bleu sombre. Pl. vivax, Pl. ovale et Pl. mala­riae : noyau dense, coloré en rouge par le Giemsa.
 
-#### Identification de l'espèce en cause :
+#### Identification de l'espèce en cause
 
 Le frottis mince permet de mettre en évi­dence tous les détails morphologiques du parasite et de l'hématie parasitée.
 

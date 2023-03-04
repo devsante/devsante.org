@@ -18,7 +18,7 @@ On peut distinguer 3 catégories de produits
 
 Dès l'arrivée de la livraison, il faut séparer les 3 catégories et ranger par priorité
 
-### 1. Les produits à température de conservation déterminée :  
+### 1. Les produits à température de conservation déterminée
 à ranger immédiatement
 
 Ces produit doivent être gardés à une tempé­rature plus ou moins basse. Les températures sont précisées sur l'emballage et les conditions de stockage sont alors
@@ -29,7 +29,7 @@ Ces produit doivent être gardés à une tempé­rature plus ou moins basse. Les
 
 (pièce climatisée) Attention les conditions de conservation peuvent être différentes selon les composants de certains produits (par exemple, vaccin et son diluant, réactif et son diluant, etc.).
 
-### 2. Les produits "critiques" :  
+### 2. Les produits "critiques"
 à ranger selon des directives particulières
 
 #### Les substances contrôlées

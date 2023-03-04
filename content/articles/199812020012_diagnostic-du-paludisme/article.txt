@@ -51,7 +51,7 @@ Il s'agit d'une technique de concentration utilisable également pour les recher
 
 ### 3. Étapes successives du diagnostic parasitologique
 
-#### Reconnaissance de l'hématozoaire par :
+#### Reconnaissance de l'hématozoaire par
 
 *   sa situation intra-érythrocytaire (pour toutes les espèces, à tous les stades de leur évolution) ;
 *   les caractères généraux de la forme plasmodiale : le cytoplasme très basophile (exception avec le gamétocyte mâle souvent mauve ou rose) le noyau: azurophile (rouge rubis ou grenat), unique ou fragmenté ; les inclusions pigmentaires provenant du catabolisme de l'hémoglobine, l'hémozc;ine ou pigment brun/noir, de forme et d'abondance croissantes au cours de l'évolution du _Plasmodium_, non visible dans les trophozoïtes jeunes (sauf chez _malariae_), au maximum dans les gamétocytes.
@@ -74,7 +74,7 @@ _Formes sexuées (gamétocytes) :_
 *   Microgamétocytes (mâles) : cytoplasme pâle, mauve ou rose. Les noyaux de _P. vivax, P. malariae et P. ovale,_ sont en masses granuleuses colorées en rouge par le Giemsa.
 *   Macrogamétocytes (femelles) : cytoplasme bleu sombre. _P. vivax, P. ovale et P. malariae_ noyau dense, coloré en rouge par le Giemsa.
 
-#### Identification de l'espèce en cause :
+#### Identification de l'espèce en cause
 
 Le frottis mince permet de mettre en évidence tous les détails morphologiques du parasite et de l'hématie parasitée.
 

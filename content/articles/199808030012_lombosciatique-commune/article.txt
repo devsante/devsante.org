@@ -111,7 +111,7 @@ Il est de bonne pratique d'attendre une à deux semaines de traitement médical 
 
 ### 1. Le bilan radio standard
 
-#### a) S'il est possible on demande :
+#### a) S'il est possible on demande
 
 *   un cliché de face dorso-lombo-bifémoral (incidence de Sèze),
 *   un cliché de profil de la colonne lombaire,
@@ -119,7 +119,7 @@ Il est de bonne pratique d'attendre une à deux semaines de traitement médical 
 
 soit trois clichés. Les incidences de trois quarts ne sont pas utiles (en général).
 
-#### b) Les anomalies à rechercher pour la hernie discale :
+#### b) Les anomalies à rechercher pour la hernie discale
 
 *   un espace intersomatique pincé,
 *   la région lombo-pelvienne peut être le siège d'une anomalie transitionnelle lombosacrée, d'une bascule pelvienne, d'une scoliose,

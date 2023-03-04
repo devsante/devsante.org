@@ -59,7 +59,7 @@ Le traitement chirurgical de la tuberculose et ses complications a été le poin
 
 ### 1. Les interventions sur le poumon
 
-#### a) Les exérèses typiques :
+#### a) Les exérèses typiques
 
 Elles doivent être à la fois radicales (enlevant l'ensemble des lésions) et économes (épargnant au maximum le parenchyme fonctionnel). Il peut s'agir :
 
@@ -67,25 +67,25 @@ Elles doivent être à la fois radicales (enlevant l'ensemble des lésions) et �
 *   D'une lobectomie : la plus fréquemment uti­lisée, surtout les lobes supérieurs, elle permet une exérèse radicale en préservant la fonc­tion respiratoire, donne les meilleurs résultats dans les lésions limitées ou prédomi­nants à un lobe. A droite, une bi-lobectomie inférieure ou supérieure est possible.
 *   D'une pneumonectomie : sa pratique est actuellement rare et s'adresse au poumon détruit tuberculeux. Elle est grevée d'une morbidité et d'une mortalité plus élevées. Elle exige un poumon controlatéral sain.
 
-#### b)  Les exérèses avec plastie :
+#### b)  Les exérèses avec plastie
 
 Il s'agit d'intervention effectuées le plus sou­vent pour des raisons bronchiques ou vascu­laires chez des patients à fonction respiratoire limite. Ce sont des lobectomies (sleeve-resec­tion) avec anastomoses bronchiques (broncho­plastie). Ces exérèses sont techniquement difficiles et peu fréquentes.
 
-#### c) Les exérèses atypiques (wedge-resec­tions) :
+#### c) Les exérèses atypiques (wedge-resec­tions)
 
 Ce sont des résections de coins de parenchy­me pulmonaire. Elles sont indiquées "pour des lésions très limitées et périphériques. Elles sont peu pratiquées.
 
 ### 2. Les interventions sur la paroi
 
-#### a) La décortication pleurale :
+#### a) La décortication pleurale
 
 Elle consiste à éliminer la gangue pleurale épaissie qui entoure l'épanchement enkysté et à libérer le poumon engainé par cette coque pleurale pour permettre sa réexpansion. Cette pleurectomie peut être associée à une exérèse parenchymateuse en cas de lésions sous-jacentes. Il s'agit le plus souvent d'un lobe, rarement d'une pleuro-pneumonectomie.
 
-#### b) Les thoracoplasties :
+#### b) Les thoracoplasties
 
 Consistent à reséquer les côtes supérieures afin de supprimer la charpente osseuse de la paroi thoracique et permettre par la suite l'affaissement du sommet pulmonaire et la mise au repos des foyers tuberculeux sous­jacents qui, n'étant plus ventilés vont évoluer vers la guérison bactériologique et la fibrose. La thoracoplastie peut être utilisée comme méthode thérapeutique isolée ou comme com­plément d'une exérèse afin de réduire le volume de la cavité pleurale et permettre une meilleure réhabilitation par le lobe restant. Cette thoracoplastie complémentaire peut être pratiquée en même temps qu'une exérè­se ou secondairement.
 
-#### c) La spéléotomie :
+#### c) La spéléotomie
 
 Elle consiste à intervenir directement sur la caverne tuberculeuse, à l'ouvrir et à la traiter par des soins locaux répétés. Elle est difficile­ment tolérée par le malade et astreignant pour le personnel médical. Actuellement ses indica­tions sont exceptionnelles.
 
@@ -125,7 +125,7 @@ En cas de lésion bilatérale, si une chirurgie controlatérale est envisagée, 
 
 ### 4. Indications opératoires
 
-#### a) La chirurgie des complications paren­chymateuses :
+#### a) La chirurgie des complications paren­chymateuses
 
 Elle consiste généralement à une exérèse réglée (segmentectomie, lobectomie ou rare­ment une pneumonectomie). Elles sont réali­sées sous anesthésie générale en décubitus latéral. Elle se pratique pour traiter les compli­cations de la tuberculose dans son évolution normale ou lors de séquelles :
 
@@ -135,12 +135,12 @@ Elle consiste généralement à une exérèse réglée (segmentectomie, lobectom
 *   **La caverne tuberculeuse :** elle est le nid de colonisation aspergillaire. Elle nécessite une chirurgie d'exérèse réglée et limitée au lobe atteint. Elle peut se limiter à l'exérèse de la caverne. Un traitement anti-aspergillaire est indispensable.
 *   **Le tuberculome et pseudotumeurs :**ils posent un diagnostic différentiel avec le cancer broncho-pulmonaire, ce qui rend formelle leur exérèse. Quand la preuve de tuberculose est faite cours de l'intervention et que le nodule est périphérique, l'ablation peut en être faite à l'aide d'une approche chirurgicale mini invasive. En cas de nodules centraux ou de pseudo-tumeur, une exérèse typique sera envisagée.
 
-#### b) La chirurgie des complications bron­chiques :
+#### b) La chirurgie des complications bron­chiques
 
 *   **La sténose bronchique** : elle peut être d'origine bronchique pure ou ganglionnaire extrinsèque. La sténose peut se compliquer de destruction parenchymateuse, de bron­cholithiases, de sténose vasculaire ou de bronchocèles. La chirurgie est rendue néces­saire pour pratiquer une exérèse du territoire d'aval détruit par des dilatations des bronches ou des surinfections.
 *   **Les fistules bronchiques :** elles peuvent être bronchopleurale, oesobronchique voire bronchovasculaire. Il s'agit de complications graves et la chirurgie, en plus de la cure de la lésion bronchique, doit traiter l'organe dans le quel s'est fait la fistulisation. Il `agit d'une chirurgie complexe.
 
-#### c) La chirurgie des complications pleu­rales :
+#### c) La chirurgie des complications pleu­rales
 
 Les complications pleurales tubercu­leuses d'origine pulmonaire recouvrent diverses pathologies :
 

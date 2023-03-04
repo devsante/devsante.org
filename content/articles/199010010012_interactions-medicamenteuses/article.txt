@@ -15,7 +15,7 @@ Text:
 
 Pour éviter ce type d'accident thérapeutique, tout prescripteur devra s'efforcer d'éviter les associations de médicaments (trois devant être le maximum).
 
-## I. Schématiquement, on oppose :
+## I. Schématiquement, on oppose
 
 *   les **interactions médicamenteuses propres** survenant dans l'organisme sous l'effet des enzymes : elles sont complexes et mal connues,
 
@@ -27,7 +27,7 @@ Les interactions médicamenteuses ne sont pas toujours nuisibles pour le malade:
 
 Pour détruire une bactérie, il sera utile quelquefois d'utiliser deux antibiotiques attaquant à un niveau différent le germe à détruire.
 
-### Exemples :
+### Exemples
 
 *   Pénicilline-aminoside : la pénicilline agit sur la membrane bactérienne: elle facilite la pénétration de l'aminoside (gentamycine) qui agit au centre de la bactérie. L'aminoside sera donc beaucoup plus efficace s'il est associé à la pénicilline.
 *   Le sulfaméthoxazole et le triméthoprime sont de médiocres antibactériens bactériostatiques. Associés, ils constituent le un puissant sulfamide bactéricide (les deux substances bloquent la synthèse de l'acide folique à deux niveaux : or l'acide folique est indispensable à la croissance des bactéries).
@@ -184,7 +184,7 @@ Deux médicaments, très utilisés activent certaines enzymes du foie et peuvent
 Le phénobarbital peut ainsi diminuer les taux d'antivitamine K (anticoagulants).  
 La rifampicine peut rendre inefficace la pilule contraceptive (oestroprogestatifs) et être responsable de grossesses non désirées.
 
-### 3. Modification de répartition dans l'organisme :  
+### 3. Modification de répartition dans l'organisme
 notion de** **liaison protéique**
 
 De nombreux médicaments se fixent dans le sérum aux protéines et en particulier à l'albumine.

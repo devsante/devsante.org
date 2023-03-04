@@ -44,7 +44,7 @@ Il est réalisé à partir d'un prélèvement effectué sur anticoagulant (EDTA)
 *   l'analyse quantitative des éléments,
 *   l'examen morphologique des cellules.
 
-#### a) L'analyse quantitative comporte l'étu­de de trois valeurs :
+#### a) L'analyse quantitative comporte l'étu­de de trois valeurs
 
 _**La numération des hématies**_ ou nombre de globules rouges par mm<sup>3</sup>.
 

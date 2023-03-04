@@ -152,7 +152,7 @@ En se référant à l'exemple précédent, qui avait fixé les besoins annuels e
 
 ### On distingue plusieurs types de pertes
 
-#### Les premières sont causées par :
+#### Les premières sont causées par
 
 *   les dates de péremptions dépassées,
 *   les bris ou vols de flacons,
@@ -169,7 +169,7 @@ D'autres pertes sont difficilement évitables et parfois induites par le program
 
 Certaines stratégies de vaccination peuvent entraîner des pertes plus importantes, notamment les stratégies avancées et mobiles ou encore l'ouverture de flacon de vaccins pour chaque enfant qui se présente. Cependant, l'application de ces stratégies est parfois nécessaire pour atteindre les objectifs du programme, particulièrement dans les zones à faible performance.
 
-#### Connaître l'ampleur et les causes des pertes :
+#### Connaître l'ampleur et les causes des pertes
 
 Afin de contrôler les pertes, il est nécessaire d'en connaître l'ampleur et les causes..  
 Le calcul des pertes est effectué pour chaque vaccin selon la formule :  
@@ -186,7 +186,7 @@ L'analyse de l'**ampleur** et des **causes** des pertes permet d'établir un pla
 *   aux pertes des vaccins les plus onéreux ; à titre d'exemple, 4 doses de vaccin antirougeoleux représentent le même coût qu'une dose de vaccin anti-amarile ;
 *   aux causes pouvant être traitées au niveau de la formation sanitaire.
 
-#### Les solutions passent par :
+#### Les solutions passent par
 
 *   le renforcement de la gestion des vaccins,
 *   le respect des normes de conservation et de la chaîne du froid,

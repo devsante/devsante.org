@@ -45,7 +45,7 @@ Inexactitude des doses réellement administrées par perte du médicament lors d
 
 En l’absence de rainure sur un comprimé, la division est difficile et aléatoire et doit être évitée (risque d’erreur de dosage).
 
-### Il ne faut pas couper, écraser, ouvrir les formes orales suivantes :
+### Il ne faut pas couper, écraser, ouvrir les formes orales suivantes 
 
 *   **Les formes gastro-résistantes**  
     L’enrobage gastro-résistant protège le principe actif de l’acidité du liquide gastrique. Le principe actif est libéré dans l’intestin où le pH est beaucoup moins acide. Ces formes sont conçues pour protéger le principe actif ou la muqueuse de l’estomac.  

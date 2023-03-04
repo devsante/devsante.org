@@ -21,7 +21,7 @@ Text:
 
 Les tests diagnostiques posent des problèmes différents selon qu'il s'agit de dépister un malade ou de rechercher une immunisation.
 
-## Deux types de tests sont disponibles :
+## Deux types de tests sont disponibles
 - les tests permettant d’identifier les porteurs du virus,
 - les tests sérologiques permettant d’identifier les individus ayant développé une réponse immunitaire contre le virus.
 

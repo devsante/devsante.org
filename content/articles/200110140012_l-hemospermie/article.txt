@@ -93,7 +93,7 @@ On recherchera ainsi :
 *   douloureuse
 *   moins abondante
 
-#### b) des signes d'accompagnement urinaires :
+#### b) des signes d'accompagnement urinaires
 
 *   hématurie, en précisant son caractère :
     *   initial (seules les premières gouttes sont rouges, l'origine est alors urétro-prostatique)
@@ -105,7 +105,7 @@ On recherchera ainsi :
 *   douleur testiculaire ou épididymaire
 *   dysurie récente
 
-#### c) Antécédents récents de :
+#### c) Antécédents récents de
 
 *   sondage vésical ou endoscopie urinaire
 *   fièvre

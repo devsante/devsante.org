@@ -59,7 +59,7 @@ Dans ce cas, la cellule produira à la fois de l'Hb S et de l'Hb A (= forme lég
 
 Si les deux chromosomes, paternels et maternels dont a hérité le sujet sont anormaux, les cellules ne produiront que de l'Hb S (= forme grave).
 
-#### Hérédité :
+#### Hérédité
 
 *   Sujet normal A A
 *   Forme légère A S

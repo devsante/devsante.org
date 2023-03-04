@@ -14,7 +14,7 @@ Le malade doit pouvoir aussi être traité pour ces autres maladies mais le palu
 ----  
 Text:
 
-## I. Tout malade ayant :
+## I. Tout malade ayant
 
 *   une température axillaire égale ou supérieure à 37,5°C,
 *   des antécédents de fièvre,
@@ -22,13 +22,13 @@ Text:
 
 **est considéré comme fébrile et doit être examiné pour le paludisme.**
 
-## II. L'examen doit :
+## II. L'examen doit
 
 *   chercher les signes de danger,
 *   chercher les signes de paludisme grave,
 *   rechercher les signes associés.
 
-### 1. Chercher les signes de danger consiste à :
+### 1. Chercher les signes de danger consiste à
 
 1.  demander si le malade peut manger et boire (ou téter), vomit tout ce qu'il consomme, a des convulsions, a pris des médicaments ?
 2.  observer si le malade est inconscient ou léthargique (prostration chez adulte).
@@ -37,7 +37,7 @@ Text:
 *   si le risque de paludisme est élevé (rési­dence actuelle et dans les semaines précé­dentes)
 *   depuis quand la fièvre a commencé et si elle est présente tous les jours ?
 
-### 2. Les signes de paludisme grave sont :
+### 2. Les signes de paludisme grave sont
 
 *   anémie sévère,
 *   difficultés respiratoires,
@@ -46,7 +46,7 @@ Text:
 
 Faire si possible un examen parasitologique ou un test rapide
 
-### 3. Rechercher les signes associés faisant suspecter une autre maladie :
+### 3. Rechercher les signes associés faisant suspecter une autre maladie
 
 *   raideur de la nuque
 *   nez qui coule
@@ -54,7 +54,7 @@ Faire si possible un examen parasitologique ou un test rapide
 *   éruption cutanée
 *   problème d'oreille
 
-## III. En cas de :
+## III. En cas de
 
 *   signe de danger ou,
 *   signe de paludisme grave ou,
@@ -85,18 +85,18 @@ Si **fièvre isolée** = traitement antipalustre = ACT x 3 jours _(voir article)
 
 ### 1. Etablir un bilan
 
-#### Demander si l'enfant :
+#### Demander si l'enfant
 
 *   peut boire ou manger ;
 *   vomit tout ce qu'il absorbe ;
 *   a des convulsions.
 
-#### Observer si l'enfant :
+#### Observer si l'enfant
 
 *   est léthargique,
 *   convulse actuellement.
 
-#### Demander :
+#### Demander
 
 *   depuis quand l'enfant a de la fièvre,
 *   si la fièvre est présente tous les jours,
@@ -110,7 +110,7 @@ Si **fièvre isolée** = traitement antipalustre = ACT x 3 jours _(voir article)
 *   a la rougeole actuellement
 *   ou s'il a eu la rougeole depuis 3 mois.
 
-#### Rechercher si l'enfant :
+#### Rechercher si l'enfant
 
 *   a une raideur de nuque ou la fontanelle bombée,
 *   a les yeux jaunes,
@@ -121,7 +121,7 @@ Si **fièvre isolée** = traitement antipalustre = ACT x 3 jours _(voir article)
 
 **=> transfert urgent**
 
-#### Rechercher les signes de rougeole actuelle :
+#### Rechercher les signes de rougeole actuelle
 
 *   éruption généralisée,
 *   signe de Köplick,
@@ -137,25 +137,25 @@ Rechercher les **signes de complications de rougeole** (rougeole dans les 3 dern
 
 ### 2. Traiter l'enfant
 
-#### Si paludisme simple :
+#### Si paludisme simple
 
 *   ACT pendant 3 jours : voir article spécifique
 *   +/- paracétamol
 *   + fer
 
-#### Si paludisme grave :
+#### Si paludisme grave
 
 *   transfert
 *   traitement pré transfert = quinine, diazepam, paracétamol, eau sucrée
 
-#### Si rougeole :
+#### Si rougeole
 
 Donner de la vitamine A
 
 *   De 6 à 12 mois : 1/2 gélule de 200 000 UI
 *   De 12 mois à 5 ans : 1 gélule de 200 000 UI
 
-#### Si rougeole compliquée :
+#### Si rougeole compliquée
 
 Traiter par pommade ophtalmique à la tétracy­cline si pus dans les yeux = se laver les mains, essuyer le pus, demander à l'enfant de regarder vers le haut, appliquer une petite quantité de pommade dans  e coin inférieur, traiter 3 fois par jour tant que la rou­geur demeure.
 
@@ -475,14 +475,14 @@ De 12 mois à 5 ans
 
 ### 4. Arrêter les convulsions
 
-#### Dégager les voies respiratoires :
+#### Dégager les voies respiratoires
 
 *   placer l'enfant sur le coté,
 *   ne rien mettre dans la bouche,
 *   s'assurer que les voies respiratoires sont libres,
 *   si besoin, aspirer les sécrétions avec une sonde nasale.
 
-#### Administrer le diazepam par voie rectale :
+#### Administrer le diazepam par voie rectale
 
 *   aspirer la quantité de diazepam dans une seringue,
 *   ajouter 1 à 2 ml d'eau,

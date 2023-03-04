@@ -45,7 +45,7 @@ Vous avez reçu le malade. Vous l’avez écouté et interrogé (s'il s'agit d'u
 
 C’est avant tout lui qui va vous permettre de prendre une décision.
 
-#### Mais il n’a de valeur que s’il est fait de façon impeccable :
+#### Mais il n’a de valeur que s’il est fait de façon impeccable 
 
 *   au calme, dans un local fermé où on ne laisse rentrer qu’un accompagnant ;
 *   le malade est allongé sur le dos, un coussin sous la tête, la bouche légèrement ouverte,  les deux bras le long du corps, les jambes  légèrement repliées (Fig. 1) ;
@@ -54,19 +54,19 @@ C’est avant tout lui qui va vous permettre de prendre une décision.
 (image: palpationabd.jpg)
 
 
-#### Commencez par inspecter l'abdomen en notant :
+#### Commencez par inspecter l'abdomen en notant
 
 *   Son volume : normal ou augmenté par apport au volume habituel ? S’il est augmenté, le percuter au doigt : s’il est très sonore (comme le thorax) c’est qu’il contient de l’air, on parle de _météorisme_, évoquant une occlusion. S’il est mat (comme la cuisse) on évoque une ascite ou une grosse masse (kyste, foie ou rate).
 *   Respire-t-il ou non ? c’est-à-dire se soulève-t-il et se creuse-t-il avec la respiration? S’il est immobile, c’est peut-être à cause d’une contracture (voir plus loin).
 
-#### Vous pouvez alors commencer la palpation, temps le plus important de l’examen :
+#### Vous pouvez alors commencer la palpation, temps le plus important de l’examen 
 
 *   avec vos deux mains bien à plat l’une à côté de l’autre, posées et déplacées très lentement sur le ventre en gardant toujours le contact avec la peau de l’abdomen ;
 *   en ayant dans la tête le plan d’examiner tout l’abdomen en commençant là où le malade semble avoir le moins mal ;
 *   en appuyant très progressivement pour apprécier la souplesse de la paroi et rechercher une résistance, mais sans insister si la douleur (qu’on appelle ici douleur provoquée) est vive (ne pas quitter le visage du malade des yeux) ;
 *   n’oubliez pas les régions inguinales pour rechercher une hernie : si elle est douloureuse et si vous ne pouvez pas la réduire, c’est quelle est étranglée et elle peut expliquer une occlusion.
 
-#### L’essentiel est d’arriver à dire (et à écrire sur la feuille d’examen) :
+#### L’essentiel est d’arriver à dire (et à écrire sur la feuille d’examen) 
 
 *   si le ventre est plat ou météorisé, ou déformé par une masse ;
 *   s’il y a ou non une douleur provoquée, légère (le malade grimace) ou forte (le malade se plaint nettement) ;

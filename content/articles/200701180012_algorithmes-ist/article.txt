@@ -35,7 +35,7 @@ Genève 2001**
 *   Benzyl penicilline aqueuse 12 à 24 millions d'U en IV par jour avec 2 à 4 millions toutes les 4 heures X 14 jours ou
 *   Procaïne benzyl penicilline 1,2 million en IM par jour + probenicide 500 mg oral 4 fois par jour X 14 jours
 
-#### Chez femme enceinte :
+#### Chez femme enceinte
 
 *   Erythromycine 500 mg 4 fois par jour X 15 jours ou 30 jours si syphilis tertiaire
 
@@ -56,7 +56,7 @@ Genève 2001**
 *   Acyclovir 400 mg oral 3 fois par jour X 7 jours
 *   Famcyclovir 250 mg oral 3 fois par jour X 7 jours
 
-#### Nouveau-né :
+#### Nouveau-né
 
 Acyclovir 10mg/Kg IV 3 fois par jour X 10 à 20 jours
 

@@ -49,7 +49,7 @@ L'interrogatoire de l'entourage permet de connaître rapidement le produit en ca
 
 En effet, les lésions sont d'emblée maximales et se constituent en quelques secondes.
 
-### 2. Devant une intoxication par un autre produit, il faut:
+### 2. Devant une intoxication par un autre produit, il faut
 
 *   Interroger l'entourage: nature du produit, quantité, heure de l'intoxication, âge et poids de l'enfant, heure du dernier repas.
 
@@ -59,7 +59,7 @@ En effet, les lésions sont d'emblée maximales et se constituent en quelques se
 
 En évacuant le contenu gastrique. Les méthodes en sont:
 
-### a. Les vomissements provoqués:
+### a. Les vomissements provoqués
 
 *   par des moyens mécaniques en " chatouillant " le fond de la gorge,
 *   par des drogues:
@@ -67,7 +67,7 @@ En évacuant le contenu gastrique. Les méthodes en sont:
 
 - l'Apomorphine en injection sous-cutanée (0, 1 mg par kg de poids). Les vomissements sont précédés d'une grande pâleur.
 
-### b. Le lavage gastrique:
+### b. Le lavage gastrique
 
 qui demande une technique particulière, et qui doit être fait par un infirmier.
 
@@ -131,7 +131,7 @@ elles peuvent être graves et précoces.
 
 Comme pour les intoxications par caustiques, il faut débarrasser l'enfant de ses vêtements imbibés, ne rien lui donner à boire, ne pas le faire vomir, ne pas faire de lavage gastrique. Mettre seulement l'enfant en position de sécurité.
 
-### b. Le Trichloréthylène:
+### b. Le Trichloréthylène
 
 - Ce produit est utilisé comme solvant des graisses ou des huiles, ou comme détachant.
 

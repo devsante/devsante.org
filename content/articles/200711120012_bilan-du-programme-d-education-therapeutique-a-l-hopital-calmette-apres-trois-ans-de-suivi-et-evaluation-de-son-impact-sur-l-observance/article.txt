@@ -17,13 +17,13 @@ Text:
 
 L'évaluation a été réalisée chez 272 patients 158 hommes (58 %) et 114 femmes (42 %), âge médian 34 ans (IQR*, 30-39).
 
-### Concernant le mode de vie des patients :
+### Concernant le mode de vie des patients
 
 *   158 (58 %) vivent à Phnom-Penh et 114 (42 %) en province,
 *   138 (51 %) vivent en couple, 112 en famille (41 %) et 22 seuls (8 %),
 *   les principales professions sont aucune (21 %), commerçants (17 %), militaires/ policiers (17 %), autres fonctionnaires (15 %), activités libérales en PME (11 %), agriculteurs (7 %) et moto-taxis (6 %).
 
-### L'infection VIH a été découverte en raison :
+### L'infection VIH a été découverte en raison
 
 *   de problèmes de santé pour 169 (62 %) d'entre eux,
 *   d'une infection chez le conjoint pour 60 (22%),

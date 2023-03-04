@@ -119,7 +119,7 @@ D'une façon schématique, il existe trois types de douleurs viscérales :
 *   celle qui est secondaire à l'atteinte des séreuses qui entourent l'organe en cause cette douleur est nettement mieux localisée
 *   la douleur projetée ou référée, la moins évidente, la plus difficile à expliquer, celle qui ne présente apparemment aucune relation avec la représentation cutanée de la douleur. C'est la douleur rapportée. Elle se situe à distance du viscère atteint. Le patient est tout à fait capable de montrer le siège de sa douleur, mais il se trompe sur la localisation de sa lésion.
 
-### 2. Les douleurs après lésion du système nerveux :  
+### 2. Les douleurs après lésion du système nerveux
 **les douleurs** **par désafférentation**
 
 Toutes les douleurs ne peuvent être expliquées par des lésions tissulaires comme c'est le cas pour les douleurs par excès de nociception.

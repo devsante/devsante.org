@@ -56,7 +56,7 @@ Certains facteurs influent sur cette carence : sociaux, économiques, culturels,
 Susceptibilité aux infections des enfants de 6 mois à 59 mois : la prévention de la carence en Tanzanie et en Afrique du Sud a permis de réduire de 50 % la mortalité due à la rougeole  
 L’apport de vitamine A réduit la mortalité maternelle et améliore la correction de la carence en fer lors de la supplémentation en fer.
 
-#### Xérophtalmie :
+#### Xérophtalmie
 
 *   altération précoce de l’adaptation à l’obscurité : cécité nocturne, héméralopie,
 *   cécité par atrophie de la conjonctive bulbaire.

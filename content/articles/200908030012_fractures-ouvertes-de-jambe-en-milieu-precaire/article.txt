@@ -61,7 +61,7 @@ La question essentielle que tout chirurgien se pose face à une fracture ouverte
 
 ### 4. Physiopathologie
 
-#### Localement, trois phénomènes s'associent :
+#### Localement, trois phénomènes s'associent
 
 *   **L'infection** liée à une contamination massive par des germes telluriques se développe dès la sixième heure au sein de l'hématome et des tissus musculaires et osseux nécrosés. Elle prend la forme d'un phlegmon diffus à germes banals (staphylocoque..) ou celle d'une gangrène gazeuse à germes spécifiques (Clostridium, notamment perfringens). A terme, l'infection gagne l'os qui se défend mal entrainant une ostéite ou une pseudarthrose septique, de pronostic sévère car empêchant la consolidation.
 *   L'**ischémie relative**, consécutive à l'oedème lésionnel ou à des lésions artérielles, est propice au développement du sepsis, notamment par des germes anaérobies. La diffusion des antibiotiques est mauvaise durant cette période, ce qui oblige à en injecter de fortes doses pour rester efficace.

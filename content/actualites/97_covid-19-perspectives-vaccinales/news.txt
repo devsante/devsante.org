@@ -32,7 +32,7 @@ En Chine, des vaccin"traditionnels" à virus Sars-Cov 2 entiers inactivés sont 
 
 En fait, la recherche  est quasiment totalement orientée vers des vaccins de génie génétique induisant des anticorps spécifiques contre la glycoprotéine de surface «Spike »(S) afin de bloquer sa liaison avec le récepteur ACE2 des cellules de l’hôte.
 
-### Schématiquement et sans souci d’exhaustivité, trois axes peuvent être distingués :
+### Schématiquement et sans souci d’exhaustivité, trois axes peuvent être distingués
 
 #### 1- Vaccins vivants recombinés
  Lors du cycle du virus, l’ARN messager du Sras-Cov 2  est transcrit en ADN. Le fragment d’ARN codant pour S est inséré sous forme d’ADN dans un virus vecteur non pathogène pour l’homme : adenovirus de chimpanzé ou virus vaccinal de la rougeole. Ce vecteur « recombiné » exprimera l’antigène S en se répliquant chez l’homme. Pour le modèle adenovirus, la réplication est abortive. Peu d’antigène S sera exprimé, nécessitant sans doute plusieurs injections.

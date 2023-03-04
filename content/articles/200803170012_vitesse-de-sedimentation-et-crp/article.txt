@@ -163,7 +163,7 @@ Les techniques semi-quantitatives par agglutina­tion passive sur plaque, utilis
 
 ### 1. Vitesse de sédimentation
 
-#### Lecture de la première heure :
+#### Lecture de la première heure
 
 *   Chez l'homme : 1 à 10 mm (< 16).
 *   Chez la femme :3 à 14 mm (< 25).
@@ -189,7 +189,7 @@ Une augmentation de la VS fait suspecter en premier lieu un syndrome inflammatoi
 
 Les variations pathologiques se font toujours dans le sens d'une élévation. L'intérêt du dosage de la CRP réside dans les variations rapides de concentrations, de grande amplitude, en parallèle avec le phénomène pathologie responsable de l'inflammation. Elle augmente dès la 6e heure, parvient à un taux maximum vers la 48e heure, et retourne à un taux normal au 6e jour en l'absence de complication.
 
-#### La CRP est augmentée au cours de :
+#### La CRP est augmentée au cours de
 
 **Maladies infectieuses :**
 

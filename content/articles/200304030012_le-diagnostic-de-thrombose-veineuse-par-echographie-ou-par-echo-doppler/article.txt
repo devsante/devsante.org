@@ -75,12 +75,12 @@ A l'écoute doppler, le flux veineux est comparé à un bruit de vent dans les a
 
 ### 1. Critères diagnostiques de thrombose veineuse
 
-#### Les deux critères diagnostiques principaux sont échographiques :
+#### Les deux critères diagnostiques principaux sont échographiques
 
 *   Le premier critère est l'incompressibilité veineuse sous la pression de la sonde en coupe transversale ou sous l'effet d'une contre-pression manuelle exercée à l'arrière des masses musculaires face à la sonde.
 *   Le deuxième critère est la visualisation directe du thrombus dans la lumière veineuse. Il n'est pas toujours présent car l'échogénicité d'un thrombus est variable et parfois identique à celle du sang circulant.
 
-#### Les critères secondaires sont :
+#### Les critères secondaires sont
 
 *   Une augmentation du calibre veineux,
 *   L'absence de flux doppler (pulsé ou couleur) ou la présence d'un flux coloré moulant les contours du thrombus en doppler couleur.

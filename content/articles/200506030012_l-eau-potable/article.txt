@@ -99,7 +99,7 @@ _UFC : unité formant colonie_
 
 ### Analyse
 
-#### Matériel :
+#### Matériel
 
 *   Bec Bunsen
 
@@ -107,7 +107,7 @@ _UFC : unité formant colonie_
 *   Entonnoirs stériles (5 par point d'eau)
 *   Membranes filtrantes stériles à usage unique de porosité 0,45µ (5 par point d'eau).
 
-#### Milieux de culture :
+#### Milieux de culture
 
 Deux géloses TTC + Tergitol
 

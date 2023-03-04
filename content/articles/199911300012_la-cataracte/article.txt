@@ -283,7 +283,7 @@ Les Assyriens, les Indiens pratiquaient déjà au 2e millénaire avant notre èr
 
 Une variante a été récemment proposée, l'injection d'alpha-chymotrypsine intracamérulaire. En lysant les fibres de la zonule, elle favorise une luxation spontanée, retardée parfois de plusieurs jours, du cristallin dans la cavité vitréenne.
 
-#### Les avantages :
+#### Les avantages
 
 *   incision limitée, punctiforme (du diamètre de l'aiguille) ;
 *   récupération visuelle immédiate;
@@ -291,7 +291,7 @@ Une variante a été récemment proposée, l'injection d'alpha-chymotrypsine int
 *   matériel peu coûteux;
 *   chirurgie de masse envisageable.
 
-#### Les inconvénients :
+#### Les inconvénients
 
 *   Pratiquée le plus souvent par des opérateurs en dehors du circuit médical ou infirmier (" tradipraticiens ", relevant plutôt du statut de sorciers), le contrôle de la qualité et de l'éthique est impossible, les prix demandés sont souvent largement supérieurs à ceux de la chirurgie conventionnelle.
 *   La stérilisation du matériel est le plus souvent nulle.

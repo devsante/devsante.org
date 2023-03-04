@@ -93,7 +93,7 @@ que l'on notera ainsi en ordonnées par rapport au temps (en abscisse).
 
 ### 3. La surveillance maternelle
 
-#### Toutes les heures :
+#### Toutes les heures
 
 *   pouls, tension artérielle, température, urines (volume, couleur),
 *   événements intercurrents : métrorragies, comportement, tolérance à la douleur....

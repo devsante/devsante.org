@@ -40,11 +40,11 @@ Des examens complémentaires peuvent être prescrits en fonction du terrain et d
 
 ### 2. Traitement
 
-#### a. Au stade d'invasion :
+#### a. Au stade d'invasion
 
 Il faut effectuer des bains antiseptiques pluri-quotidiens. Ils sont parfois associés à une antibiothérapie anti-staphylococcique en fonction du terrain (diabète, immunodépression) La surveillance doit être régulière afin d'éviter la chirurgie .
 
-#### b. Au stade de la collection :
+#### b. Au stade de la collection
 
 Le traitement est chirurgical, avec excision complète de tous les tissus nécrosés et des zones purulentes, sous anesthésie. Il ne doit pas être minimisé du fait d'une analgésie insuffisante. Il est classiquement contre-indiqué d'effectuer une anesthésie en bague par bloc des nerfs digitaux et de façon plus générale de faire une anesthésie locale à proximité d'un foyer infectieux. L'anesthésie générale ou loco-régionale (plexique au plexus brachial ou tronculaire au poignet) est préconisée car elle permet un geste chirurgical large.
 
@@ -90,7 +90,7 @@ On retrouve les mêmes germes que pour les panaris et, il peut exister le même 
 
 Ils siègent sur les gaines synoviales des fléchisseurs des doigts. Anatomiquement, ces gaines diffèrent d'un doigt à l'autre. On distingue les gaines digitales des 2<sub>e</sub>, 3<sub>e</sub> et 4<sub>e</sub> doigts dont le cul-de-sac supérieur remonte jusqu'au pli de flexion palmaire inférieur et les gaines digito-carpiennes, radiales pour le pouce et ulnaires pour l'auriculaire dont les culs-de-sac supérieurs remontent au dessus du pli de flexion du poignet. (_figure n° 6_)
 
-#### Les lésions synoviales évoluent en trois stades :
+#### Les lésions synoviales évoluent en trois stades
 
 *   _stade I_, inflammatoire caractérisé par l'apparition d'une sérosité exsudative, distendant progressivement la gaine. Le liquide est louche, la synoviale hypervascularisée ;
 *   _stade II_, purulent caractérisé par une synovite purulente. La synoviale et granuleuse hypertrophiée et hypervascularisée. Si le liquide est franchement purulent, le tendon est encore intact.
@@ -110,7 +110,7 @@ Ces deux espaces communiquent entre eux et avec l'espace dorsal, au niveau de la
 (image: i874-6.jpg)
 
 
-#### Sur le plan clinique :
+#### Sur le plan clinique
 
 *   en cas de phlegmon de l'espace dorsal, on retrouve un oedème diffus de la main notamment à sa face dorsale ;
 *   en cas de phlegmon de l'espace palmaire médian, il existe une tuméfaction inflammatoire et douloureuse de la paume, la mobilisation passive des doigts étant possible ;

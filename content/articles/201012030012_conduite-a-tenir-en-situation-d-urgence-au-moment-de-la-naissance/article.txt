@@ -131,7 +131,7 @@ En pratique, on l'évalue immédiatement, puis 1, 3, 5 et 10 minutes après la n
 *   De 4 à 7 : Désobstruction, oxygène et surveillance ++
 *   Moins de 4 : Réanimation.
 
-### Trois situations peuvent être envisagées :
+### Trois situations peuvent être envisagées
 
 *   **APGAR entre 7 et 10** : Ce n'est pas une urgence à proprement parler mais de la qualité de la prise en charge de cet enfant va dépendre son état par la suite.
 *   **APGAR entre 3 et 7** : le plus souvent, des gestes simples et bien codifiés permettront une bonne récupération de l'enfant et un développement normal ensuite.
@@ -491,7 +491,7 @@ Contrôle Dextro H6</td>
 
 ### 5.Nouveau-né de mère diabétique
 
-#### Les risques encourus par l'enfant :
+#### Les risques encourus par l'enfant
 
 *   Métaboliques : **danger de JO à J5**
     *   hypoglycémies : se référer au chapitre correspondant,

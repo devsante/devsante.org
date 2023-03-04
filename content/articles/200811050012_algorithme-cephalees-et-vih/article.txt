@@ -30,7 +30,7 @@ Souvent associés à des signes méningés ou à des écoulements de nez....
 
 ### 2. Maux de tête aigus et récidivants (type migraine)
 
-#### Signes cliniques :
+#### Signes cliniques
 
 *   douleur intense (pulsatile), unilatérale,
 *   nausées,
@@ -45,11 +45,11 @@ Il s'agit de douleurs à la tête qui dure depuis plus de 2 semaines.
 
 En ce qui concerne les maux de tête, l'infirmier doit s'attacher à recueuillir un maximum d'informations sur les circonstances d'apparition des douleurs, leur intensité et leur siège.
 
-#### Intensité de la douleur :
+#### Intensité de la douleur
 
 l'intensité peut être jugée sur : les pleurs, les attitudes antalgiques (ex. le patient se cache de la lumière, il se roule en boule dans son lit, se tient la tête entre les mains...), l'arrêt des activités quotidiennes...
 
-#### La localisation :
+#### La localisation
 
 Points douloureux, douleur diffuse, en casque...
 
@@ -61,7 +61,7 @@ Matin, fin de journée, nuit.
 
 Troubles de la conscience, convulsions, nausées, vomissements, fièvre...
 
-#### Signes cliniques de l'hypertension intracrânienne :
+#### Signes cliniques de l'hypertension intracrânienne
 
 *   Douleurs à la tête matinales
 *   Nausées

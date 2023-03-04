@@ -107,7 +107,7 @@ N.B. : ne pas oublier que le méchage, surtout postérieur, peut être cause d'h
 
 *   l'épistaxis sur insuffisance rénale aiguë (surveillance accrue des signes d'hypo ou d'hypervolémie, ECBU, urée et créatinémie, ionogramme sanguin, créatinine et sodium urinaire).
 
-#### Cinq mesures d'urgence sont à prendre :
+#### Cinq mesures d'urgence sont à prendre
 
 *   s'assurer d'une voie veineuse périphérique et du groupe rhésus du patient,
 *   s'assurer de la disponibilité rapide de succédanés sanguins et/ou de grosses molécules et /ou de sang isogroupe et isorhésus (ne pas hésiter à utiliser les succédanés sanguins en attendant les résultats biologiques),

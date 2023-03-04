@@ -197,13 +197,13 @@ C'est prendre appui sur le suivi bio-clinique, la prise en compte du contexte de
 
 C'est planifier des temps d'évaluation pédagogique au cours desquels on cherche à faire un bilan des compétences du patient ; cela permet également d'évaluer la qualité du programme d'éducation thérapeutique.
 
-#### a. Pour l'évaluation individuelle du patient :
+#### a. Pour l'évaluation individuelle du patient
 
 *   Est-ce que j'ai prévu dans ma programmation un moment consacré à l'évaluation des acquis du patient ?
 *   Est-ce que j'utilise des outils d'évaluation élaborés entre éducateurs et professionnels de santé de la même équipe ?
 *   Est-ce que j'ai prévu d'évaluer les compétences d'auto soins mais aussi les compétences d'adaptation et psychosociales ?
 
-#### b. Pour l'évaluation du programme d'éducation :
+#### b. Pour l'évaluation du programme d'éducation
 
 *   Est-ce que l'organisation du programme a respecté les principes d'apprentissage en proposant par exemple, des activités progressives, partant des préoccupations des patients, sur la base de problèmes à résoudre ?
 *   Est-ce que le recours à des professionnels différents était pertinent, adapté aux besoins du patient et de son entourage ?

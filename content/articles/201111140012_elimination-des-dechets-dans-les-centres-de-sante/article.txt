@@ -204,7 +204,7 @@ Ces espaces sont destinés à faire circuler de l’air, donc de l’oxygène, q
 Les emballages en plastique des seringues et autres médicaments sont d’excellents starters pour le feu, il faut donc les garder et les mettre dans le bas du fût.  
 Enfin, il faut prévoir un couvercle pour la nuit et pour protéger de la pluie.
 
-#### Incinérer en respectant un horaire régulier :
+#### Incinérer en respectant un horaire régulier
 
 1.  Brûler le matin de bonne heure (arroser éventuellement avec du gazole avant d’allumer), laisser refroidir, vider puis enfouir les cendres.
 2.  Dans la journée, remplir de déchets contaminés et objets piquants/coupants.

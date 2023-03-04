@@ -16,7 +16,7 @@ Exemples : avocat, noix de coco, lait en poudre entier, yaourt ou lait fermenté
 ----  
 Text:
 
-## I. Les objectifs infirmiers sont :
+## I. Les objectifs infirmiers sont
 
 *   Maintenir le poids et la force corporels ;
 *   Remplacer les vitamines et les minéraux perdus ;
@@ -45,7 +45,7 @@ Text:
 *   Manger entre les repas.
 *   Si la personne en est encore capable, il faut l'encourager à continuer ses activités quotidiennes (ménage, travail agricole).
 
-## IV. Actions et surveillance infirmières en cas de perte d'appétit :
+## IV. Actions et surveillance infirmières en cas de perte d'appétit
 
 *   S'adapter au patient, lui donner à manger chaque fois qu'il a faim ;
 *   Donner à boire beaucoup d'eau propre, lait, des yaourts, des soupes, des tisanes des jus tout au long de la journée ;

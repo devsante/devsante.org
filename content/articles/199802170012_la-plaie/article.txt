@@ -43,7 +43,7 @@ Les facteurs de gravité sont les suivants :
 
 Par ailleurs, l'âge (vieillards, nourrissons), l'état de santé, la non-vaccination contre le tétanos seront toujours des facteurs de gravité.
 
-### La conduite à tenir consiste à :
+### La conduite à tenir consiste à
 
 Evaluer l'importance du saignement,
 

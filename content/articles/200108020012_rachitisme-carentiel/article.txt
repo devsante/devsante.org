@@ -65,7 +65,7 @@ Ce stade, dit infraclinique, est dominé par les conséquences de l'hypocalcémi
 
 ### 2. Stade floride
 
-#### Les signes osseux dominent :
+#### Les signes osseux dominent
 
 *   élargissement des zones métaphysaires des os longs (poignets, chevilles),
 *   chapelet costal : les extrémités des côtes forment un bourrelet à la palpation,
@@ -77,7 +77,7 @@ Dans les formes graves, le ramollissement des côtes entraîne une diminution de
 
 Le retard psychomoteur est évident, l'enfant tient à peine assis.
 
-#### Sur le plan radiologique, on note :
+#### Sur le plan radiologique, on note
 
 *   une déminéralisation diffuse,
 *   des fractures spontanées,
@@ -86,7 +86,7 @@ Le retard psychomoteur est évident, l'enfant tient à peine assis.
 (image: i933-3.jpg)
 
 
-#### Biologie :
+#### Biologie
 
     Calcémie basse,  
     Phosphatages alcalines élevées.

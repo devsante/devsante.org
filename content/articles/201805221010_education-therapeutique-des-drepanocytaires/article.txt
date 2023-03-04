@@ -30,12 +30,12 @@ pour buts :
 - Intégré dans la démarche de soins, établi par étapes.
 • Nécessitant une relation de qualité entre patient, parents et soignants
 
-##Pour l' enfant il faut tenir compte de :
+##Pour l' enfant il faut tenir compte de
 – Ses capacités de compréhension
 – Son degré d’autonomie
 – Avec la place de l’adolescent
 
-##Pour les parents :
+##Pour les parents
 – Leur responsabilité
 – À la fois spectateurs et acteurs
 - Avec un réajustement continu de la place respective de chacun
@@ -51,7 +51,7 @@ pour buts :
 -  Déconstruction des idées de mort
 - Diminution de la culpabilité
 
-##À propos des croyances, pour accepter de se soigner il faut :
+##À propos des croyances, pour accepter de se soigner il faut
 - Être **persuadé d’être atteint** de cette maladie.
 - Penser que **cette maladie et ses conséquences peuvent être graves**.
 - Penser que **le traitement peut avoir un effet bénéfique**.

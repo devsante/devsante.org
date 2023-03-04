@@ -62,7 +62,7 @@ Les antigènes figurés correspondent aux protoscolex entiers ou à des coupes d
 
 Les antigènes solubles sont préparés à partir du liquide hydatique. Ils doivent être absolument purifiés pour éviter certaines réactions faussement positives (antigènes de l'hôte dans le liquide). En immunoélectrophorèse, vis-à-vis d'un immunsérum homologue, on observe au moins 10 arcs de précipitation dont l'arc remarquable ou arc 5 correspondant à la fraction antigénique spécifique 5.
 
-#### Les principales techniques sérologiques sont :
+#### Les principales techniques sérologiques sont
 
 *   **L'immunofluorescence indirecte** (IFI) simple de réalisation pour les laboratoires qui préparent leur antigène, elle est sensible dans les localisations hépatiques. Le seuil de positivité est au 1/100. Il existe des réactions croisées avec l'échinococcose à _E. multilocularis_ et la cysticercose. C'est l'une des rares techniques utilisant des antigènes figurés.
 *   **L'agglutination** : des particules de latex sont recouvertes d'antigènes solubles. La méthode est très simple mais manque de spécificité.

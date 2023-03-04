@@ -49,7 +49,7 @@ Lors de l'infestation de l'homme par le Plasmodium, les hématies sont colonisé
 
 Les manifestations cliniques du paludisme simple sont polymorphes et variables selon l'âge, l'état immunitaire du sujet et l'intensité de l'infestation plasmodiale. Les signes cliniques fréquemment rencontrés sont :
 
-#### a) chez l'enfant et l'adulte :
+#### a) chez l'enfant et l'adulte
 
 *   fièvre, frissons, sueurs
 *   inappétence, insomnies, vertige
@@ -57,7 +57,7 @@ Les manifestations cliniques du paludisme simple sont polymorphes et variables s
 *   céphalées, courbatures, arthralgies
 *   urines foncées, asthénie.
 
-#### b) chez le jeune nourrisson :
+#### b) chez le jeune nourrisson
 
 *   refus de téter,
 *   pleurs incessants,
@@ -148,13 +148,13 @@ Sa posologie est de 25mg/kg répartis sur 3 jours (J1 _:_ 10 mg/kg, J2 : 10 mg/k
 
 Certaines erreurs sont souvent rencontrées lors de la prise en charge du paludisme simple.
 
-#### Au niveau communautaire :
+#### Au niveau communautaire
 
 *   traiter les fièvres exclusivement avec des antipyrétiques (aspirine, paracétamol et leurs dérivés) sans la chloroquine,
 *   arrêter la chloroquine dès la disparition de la fièvre,
 *   traiter les fièvres avec des doses insuffisantes de chloroquine.
 
-#### Au niveau des structures sanitaires :
+#### Au niveau des structures sanitaires
 
 *   examen sommaire et incomplet du malade (sans le poids, sans la température, sans rechercher la raideur de nuque ... ),
 *   négligence des examens de laboratoire,
@@ -400,7 +400,7 @@ Il se pose avec différentes maladies graves, selon les manifestations dominante
 
 Une fièvre typhoïde, éruptions virales, infection urinaire, infection ORL, tuberculose, septicémie.
 
-#### En cas de coma ou altération de la conscience :
+#### En cas de coma ou altération de la conscience
 
 Méningo-encéphalite, méningite, coma diabétique.
 

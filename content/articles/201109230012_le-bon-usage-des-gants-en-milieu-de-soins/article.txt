@@ -28,7 +28,7 @@ Text:
 *   **Les gants dits de soin stériles, pour les soins, généralement invasifs, qui ont une exigence d’asepsie**, comme un sondage urinaire, un cathéter vasculaire, etc.
 *   **Les gants dits d’intervention, pour les interventions de courte durée**, comme une suture chirurgicale.
 
-### 3. En fonction de leur composition, on distingue :
+### 3. En fonction de leur composition, on distingue
 
 *   Les gants en **latex naturel**, dont l’**élasticité** et la **résistance** sont remarquables.
 *   Les gants en **caoutchouc synthétique hypo-allergénique**, tel que le néoprène ou le polyuréthane.

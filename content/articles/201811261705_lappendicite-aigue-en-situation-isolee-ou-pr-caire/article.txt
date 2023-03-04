@@ -33,7 +33,7 @@ L'inflammation de l'appendice est souvent due à une infection intestinale banal
 Une fois infecté, l'appendice va évoluer par les étapes habituelles de l'infection : 
 ### 1. Stade inflammatoire
 L'appendice est turgescent, hypervascularisé et tendu. Autour de lui, le péritoine est peu ou pas touché par cette inflammation.
-### 2. Suppuration . L’infection devient purulente, pouvant évoluer : 
+### 2. Suppuration . L’infection devient purulente, pouvant évoluer
 - Soit vers la **péritonite généralisée** (en un temps) par propagation de l’infection de proche en proche dans la cavité péritonéale,
 - Soit vers **l’abcès appendiculaire franc** qui peut lui-même s’ouvrir secondairement en provoquant une péritonite (en deux temps). 
 - Soit vers le **plastron appendiculaire**, sorte de masse mal limitée englobant avec l’appendice le cæcum, les anses grêle et l’épiploon de voisinage, où le facteur inflammatoire (infiltration œdémateuse et hypervascularisée) l’emporte sur le facteur suppuratif (diffus et sans abcès prédominant). Ce plastron peut lui aussi évoluer vers la péritonite généralisée. Son traitement chirurgical « à chaud » peut être malaisé et dangereux (risque de blessure intestinale) et dans un premier temps, si l’on est sûr du diagnostic, on peut lui préférer un traitement médical (cf. infra : « Conduite à tenir »).
@@ -83,7 +83,7 @@ Dans les pays industrialisés, il a fait la preuve de son grand intérêt diagno
 ## Conduite à tenir en pratique
 Au terme de l’examen clinique et des éventuels examens complémentaires :
 
-### 1- Ou bien le tableau clinique est net : 
+### 1- Ou bien le tableau clinique est net
 Il existe une douleur provoquée vive, restant localisée à la FID, et sans autre diagnostic apparent.
 **Il faut se baser sur l’existence ou non de trois facteurs de gravité :**
 - défense ou contracture (signant la péritonite) ;

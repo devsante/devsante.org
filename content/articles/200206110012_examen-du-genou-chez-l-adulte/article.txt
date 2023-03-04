@@ -30,7 +30,7 @@ Text:
 (image: i922-2.jpg)
 
 
-### Le genou est constitué de quatre os :
+### Le genou est constitué de quatre os
 
 *   la partie inférieure du fémur, avec ses 2 gros condyles;
 *   la partie supérieure du tibia, avec son plateau tibial s'emboîtant sous le fémur par ses 2 tubérosités et ses 2 épines tibiales;
@@ -104,7 +104,7 @@ Ces anomalies axiales traduisent l'asymétrie de la charge portée par le genou 
 
 ### 2. Palper
 
-####  Chaleur cutanée :
+####  Chaleur cutanée
 
 Augmentée, elle oriente vers une inflammation.
 
@@ -193,7 +193,7 @@ Il s'agit de : rougeur, augmentation de la chaleur cutanée, gonflement douloure
 
 Dans les deux cas, il est nécessaire d'évacuer vers l'hôpital de référence parce que l'infection relève d'un traitement antibiotique énergique associé à un traitement chirurgical.
 
-#### Cas particulier - la crise douloureuse aiguë du drépanocvtaire :
+#### Cas particulier - la crise douloureuse aiguë du drépanocvtaire
 
 Il faut soulager le patient par des antalgiques puissants (dérivés codeïnés, voire éventuellement de la morphine), réhydrater en attendant de discuter les autres traitements (antibiothérapie préventive, hydroxycarbamide (Hydréa®).
 

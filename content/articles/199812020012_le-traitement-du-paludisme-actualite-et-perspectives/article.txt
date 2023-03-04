@@ -31,7 +31,7 @@ _Produits_ : chloroquine (Nivaquine®, Aralen®, Resochin®) ; amodiaquine -. (F
 
 Alcaloïde naturel du quinquina, la quinine est le plus ancien et le plus utilisé de ces amino-alcools. Ses propriétés pharmacologiques et en particulier la possibilité de l'administrer par voie intraveineuse en font le médicament de choix lors du traitement du paludisme grave, d'autant plus qu'il existe peu de résistances à ce produit (elles sont surtout présentes en Asie). Aux doses thérapeutiques (25 mg/kg/j de quinine base en 3 prises), les effets secondaires sont limités (troubles auditifs avec bourdonnements d'oreilles, vertiges ... ) mais les surdosages entraînent rapidement des troubles cardiaques graves. La voie intramusculaire doit être le plus possible évitée compte tenu des risques de nécrose locale et de paralysie sciatique qui lui sont rattachés ainsi que de son manque d'efficacité dans des formes déjà trop évoluées. Les essais concluants de l'administration en intrarectal de ce produit devraient pouvoir pallier cet inconvénient majeur dans un futur proche.
 
-#### Produits :
+#### Produits
 
 *   injectables : dichlorhydrate de quinine (existence de génériques), formiate de quinine, gluconate de quinine (existe en association avec quinidine, cinchonine, cinchonidine ;
 *   comprimés : chlorhydrate ou sulfate de quinine.
@@ -103,11 +103,11 @@ Ces traitements sont recommandés dans les échecs cliniques :
 *   persistance (ou réapparition) de la fièvre et de parasites au troisième, quatrième, septième ou quatorzième jour suivant un traitement de première intention, ou
 *   les accès palustres graves d'emblée.
 
-#### Lorsque l'état général et digestif le permet :
+#### Lorsque l'état général et digestif le permet
 
 l'association sulfadoxine-pyriméthamine peut être utilisée en Afrique à la dose unique de 1/2 cp/10 kg sans dépasser 3 comprimés chez l'adulte, la quinine à 25 mg/kg/j en 3 prises ou l'artésunate 3,2 mg/kg en une prise le premier jour suivi de 1,6 mg/kg en une prise les jours suivants. Mais pour ces deux derniers produits, le traitement doit être prolongé cinq jours au minimum, ou bien un relais est pris par un médicament à longue durée d'action.
 
-#### Dans les accès graves d'emblée, ou si la voie orale n'est pas possible :
+#### Dans les accès graves d'emblée, ou si la voie orale n'est pas possible
 
 on peut avoir recours à la quinine, mais aussi aux dérivés du ginghaosu par voie parentérale et aux mêmes doses. La quinine, l'artésunate ou l'artéméther intrarectal semblent constituer une alternative efficace qui est en cours de validation chez l'enfant. Le traitement s'effectue en principe sur sept jours avec, pendant cette période, une reprise du traitement _per os_ dès que cela est possible. Pour ce relais par voie orale, on peut utiliser le même produit pendant le nombre de jours restant ou lui préférer une prise unique de sulfadoxine-pyriméthamine.
 

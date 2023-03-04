@@ -19,11 +19,11 @@ Text:
 
 Il existe deux types d'hémorragie:
 
-### 1. L'hémorragie externe:
+### 1. L'hémorragie externe
 
 due à une plaie des parties molles, le sang coule, il est visible. C'est facile.
 
-### 2. L'hémorragie interne:
+### 2. L'hémorragie interne
 
 le malade saigne d'un point quelconque de son corps sans que le sang s'extériorise. L'affaire est alors plus difficile, le malade saigne mais ne s'en aperçoit pas, il viendra nous voir tardivement et il faudra savoir retrouver les signes de l'hémorragie alors que le sang ne coule pas par terre!
 

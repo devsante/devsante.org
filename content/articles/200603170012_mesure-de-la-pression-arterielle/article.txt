@@ -83,7 +83,7 @@ Le sphygmomanomètre utilisé pour la mesure de la pression artérielle par ausc
 
 La lecture peut se faire sur un appareil à mer­cure ou sur un appareil anéroïde.
 
-#### Appareils à mercure :
+#### Appareils à mercure
 
 Il faut choisir un appareil gradué en milli­mètres, dont le brassard peut facilement être changé pour l'adapter à la taille du bras du patient. La colonne de mercure doit être verti­cale, placée à la hauteur des yeux de l'obser­vateur pour éviter les erreurs de lecture. Aucun étalonnage n'est nécessaire, mais l'ap­pareil doit être vérifié au moins une fois par an. Il faut en particulier s'assurer de la présen­ce d'une quantité adéquate de mercure (lorsque la valve de dégonflage est ouverte, le niveau doit être à zéro), de la propreté de la colonne de verre (du mercure oxydé peut s'y déposer), de l'étanchéité des tubulures (bras­sard gonflé et valve fermée, la chute de la pression doit être inférieure à 1 mmHg par seconde), de l'absence de fuite sur la poire de gonflage... _(figure 1)._
 
@@ -93,7 +93,7 @@ Il faut choisir un appareil gradué en milli­mètres, dont le brassard peut fac
 (image: image002-16.jpg)
 
 
-#### Appareils anéroïdes :
+#### Appareils anéroïdes
 
 Ils sont moins précis mais moins fragiles et plus faciles à transporter, ils demeurent utiles au domicile des patients. Ces appareils doi­vent être gradués en millimètres et pouvoir recevoir des brassards de plusieurs dimensions _(figure 2)._ Certains modèles ne peuvent être correctement étalonnés et doivent donc être évités : ceux sur lesquels une butée bloque l'ai­guille au zéro, ceux sur lesquels le cadran peut tourner et ceux sur lesquels une molette per­met de placer le zéro en n'importe quel point du cadran. Leur étanchéité doit être égale­ment contrôlée. Ils devraient être étalonnés au moins tous les six mois sur l'échelle des pres­sions à l'aide d'un manomètre à mercure.
 
@@ -142,15 +142,15 @@ Hypertension
 
 ### 3. Chez l'enfant _(voir figures 3 et 4)_
 
-#### PA normale :
+#### PA normale
 
 Systolique et diastolique infé­rieures au 90° percentile pour l'âge et le sexe.
 
-#### PA normale élevée :
+#### PA normale élevée
 
 Systolique et/ou diasto­lique inférieures entre le 90° et 95° percentile pour l'âge et le sexe.
 
-#### PA élevée :
+#### PA élevée
 
 Systolique et/ou diastolique égale ou supérieures au 95° percentile pour l'âge et le sexe.
 

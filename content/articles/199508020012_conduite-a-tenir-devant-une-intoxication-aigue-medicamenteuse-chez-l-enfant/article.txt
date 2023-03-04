@@ -421,7 +421,7 @@ Plusieurs exemples d'intoxications médicamenteuses de l'enfant sont développé
 *   métabolisme hépatique,
 *   élimination rénale en cas d'absorption massive.
 
-#### Posologies :
+#### Posologies
 
 *   doses thérapeutiques: 50 mg/kg/jour,
 *   doses toxiques: à partir de 150 mg/kg/j.
@@ -461,7 +461,7 @@ Prudence: se méfier du risque de surcharge (oedème pulmonaire aigu).
 *   absorption digestive rapide.
 *   métabolisme hépatique.
 
-#### Posologies :
+#### Posologies
 
 *   doses thérapeutiques: 30 à 50 mg/kg/j,
 *   doses toxiques: 100 mg/kg/j.  
@@ -615,7 +615,7 @@ La confirmation de l'intoxication serait donnée, si on en disposait, par un dos
 *   Absorption digestive intestinale, souvent retardée par rapport à l'ingestion, la chloroquine peut stagner plusieurs heures dans l'estomac,
 *   Métabolisme essentiellement hépatique, élimination rénale pour le reste.
 
-#### Posologies :
+#### Posologies
 
 *   doses toxiques: 25 mg/kg/j chez l'enfant, très proches des doses thérapeutiques.
 

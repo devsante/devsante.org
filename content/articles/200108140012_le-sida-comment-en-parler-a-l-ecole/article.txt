@@ -26,7 +26,7 @@ Le projet qui s'est déroulé sur deux ans (1999 à 2001), et dont nous allons f
 
 Celui-ci a commencé par une enquête dans les écoles pour mieux cerner les attitudes des écoliers dans le domaine de la sexualité, ainsi que leur perception du problème du sida. Dans ce but, un questionnaire a été distribué à un échantillon d'écoliers. Puis, un autre questionnaire a été distribué aux enseignants, enfin un questionnaire spécifique a été distribué aux comités des parents. Au total, trois types de questionnaires ont été remplis et étudiés.
 
-### Il ressort de cette enquête que :
+### Il ressort de cette enquête que
 
 *   Les écoliers ont une information parfois juste, mais souvent très partielle ou même erronée.
 *   Pour certains, le sida est transmis par les vêtements, la vaisselle, les moustiques...
@@ -61,12 +61,12 @@ Les deux formateurs (masculin et féminin) ont commencé par contacter les autor
 
 Il a été prévu que la formation des enseignants se déroulerait en quatre séances d'une heure et demie chacune pour trouver avec eux la manière convenable et efficace de parler du sida à leurs élèves.
 
-#### Chaque enseignant reçoit un matériel pédagogique :
+#### Chaque enseignant reçoit un matériel pédagogique
 
 *   un poster : "jeunes ne devenez pas père ou mère trop vite",
 *   une boîte à images : "le sida et la famille" ainsi que le livre qui l'accompagne ;
 
-#### et 4 brochures :
+#### et 4 brochures
 
 *   le sida, comment en parler à l'élève ?
 *   le sida est là ! Que faire ?
@@ -75,7 +75,7 @@ Il a été prévu que la formation des enseignants se déroulerait en quatre sé
 
 Les 4 brochures précédentes devaient être distribuées à **chaque écolier.** Enfin des tournées théâtrales dans les écoles secondaires concernées par le projet étaient prévues. La troupe "Atelier Théâtr'Actions* " (ATA) est spécialisée dans la sensibilisation aux problèmes de santé. Elle fonctionne grâce à l'assistance de Difäm de Tübingen.
 
-#### On peut résumer ainsi le but de l'ensemble de ce projet :
+#### On peut résumer ainsi le but de l'ensemble de ce projet
 
 *   Ne pas recevoir le VIH (danger mortel).
 *   Ne pas donner le VIH ("tu ne tueras pas").
@@ -108,7 +108,7 @@ Par contre, à la question : "Comment attrape-t-on le sida maintenant ?"
 
 Le préservatif est connu de 80 % des garçons et de 70 % des filles. Quant aux enseignants, 100 % connaissent le préservatif et 70 % déclarent ne pas l'employer. Voici une explication donnée : "si je suis séronégatif et que je l'emploie, c'est que je veux me protéger et l'autre n'aime pas cela", "si je suis séropositif et que je l'emploie, c'est que je suis dangereux, or je ne suis pas malade, donc je ne suis pas dangereux".
 
-#### En ce qui concerne le contact avec les malades :
+#### En ce qui concerne le contact avec les malades
 
 60 % répondent : "je n'ai jamais de contact avec les malades car c'est trop dangereux". La très faible contagiosité n'est pas mentionnée et les notions de compassion et d'assistance ne sont jamais apparues clairement.
 
@@ -116,17 +116,17 @@ Le préservatif est connu de 80 % des garçons et de 70 % des filles. Quant aux 
 
 Il a fallu ajuster la pédagogie en fonction de ce qui intéresse les jeunes et de ce qui fait problème dans la perception des risques.
 
-#### Ce qui intéresse peu les jeunes, ce sont :
+#### Ce qui intéresse peu les jeunes, ce sont
 
 *   les statistiques (alors qu'elles motivent les adultes). Les informer que 13 millions d'Africains sont déjà morts du sida et que 60 % de tous les nouveaux cas observés sont des personnes âgées de 15 à 24 ans ne les touche guère,
 *   l'aspect scientifique de la maladie et son traitement accrochent peu leur attention, y compris le recours au dépistage ainsi que la révélation d'une séropositivité (on ne veut pas savoir) et les affections opportunistes (dans l'esprit des jeunes, cela n'a rien à voir avec le sida). On constate peu d'intérêt pour le mode d'action des médicaments : pour certains, trithérapie = vaccin "que les Blancs ne veulent pas nous donner car nous sommes trop pauvres".
 
-#### En revanche, ce qui intéresse les jeunes, ce sont :
+#### En revanche, ce qui intéresse les jeunes, ce sont
 
 *   Les bandes dessinées, la brochure Monzeli intéresse surtout les jeunes filles, c'est la brochure la plus lue et la plus commentée.  La "flottille de l'espoir" intéresse surtout les garçons. Les deux brochures constituent une base utile de discussions.
 *   Les messages proposés par la troupe théâtrale ont été bien perçus par les jeunes car ils apprécient l'humour et la caricature. Ils acceptent les conseils d'un comédien qui dit la même chose que le moraliste, parce que le comédien propose les choses autrement, parce qu'il présente des situations concrètes et donne aux jeunes l'occasion de s'identifier.
 
-#### Ce qui pose problème :
+#### Ce qui pose problème
 
 *   le sentiment d'invulnérabilité, une fausse perception du risque : "Je suis encore jeune, le sida, c'est pour les adultes",
 *   la recherche d'une cause exogène : on constate rarement la mise en cause de leur propre comportement tant chez les enseignants que chez les élèves, d'où la projection, spécialement dans le milieu familial (influence malveillante de l'oncle maternel, entre autres),

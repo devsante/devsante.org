@@ -64,7 +64,7 @@ Chez le petit enfant, on observe une nuque molle et un bombement de la fontanell
 
 Ces méningites apparaissent à la saison sèche et froide (février, mars), essentiellement chez les enfants âgés de 2 à 6 ans.
 
-### 2. Pour confirmer le diagnostic, il est nécessaire :
+### 2. Pour confirmer le diagnostic, il est nécessaire
 
 De faire (ou faire faire) une ponction lombaire pour examen du LCR en adressant le prélève­ment au laboratoire le plus proche.  
 Le laboratoire effectuera une cytologie et une coloration de Gram et, si possible, un test au latex.
@@ -243,7 +243,7 @@ Utiliser les sol­utions de l'OMS ou du marketing social ou faites vous même vo
 
 *   dans un litre d'eau de boisson, mettre cinq moreaux de sucre et une petite cuillère de sel (ou le contenu d'une capsule de soda). Il est possible d'utiliser l'eau de cuisson du riz ou une décoction de feuilles de goyaviers.
 
-#### b. Si le malade ne peut pas boire :
+#### b. Si le malade ne peut pas boire
 
 il faut perfuser rapidement : Ringer lactate, soluté de Hartmann ou sérum salé à 9 p. mille.
 

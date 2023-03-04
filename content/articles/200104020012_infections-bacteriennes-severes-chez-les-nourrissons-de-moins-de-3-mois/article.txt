@@ -32,20 +32,20 @@ La possibilité d'un début précoce voire anténatal de la maladie donne toute 
 
 ### 1. Facteurs de risques obstétricaux
 
-#### Grossesse :
+#### Grossesse
 
 *   syndrome fébrile dans les semaines précédant l'accouchement
 *   notion d'infection urinaire ou de leucorrhées
 *   rupture prolongée de la poche des eaux (plus de 24 heures).
 
-#### Accouchement :
+#### Accouchement
 
 *   fièvre
 *   travail prolongé, inefficace
 *   liquide amniotique teinté, purée de pois ou fétide
 *   aspect pathologique du placenta.
 
-#### Naissance :
+#### Naissance
 
 *   prématurité
 *   score d'APGAR bas _(voir tableau 1)_
@@ -76,7 +76,7 @@ Il est important de noter d'éventuelles modifications du comportement, du somme
 
 L'examen clinique recherche en particulier les signes de gravité :
 
-#### Troubles hémodynamiques :
+#### Troubles hémodynamiques
 
 *   pâleur, teint gris, cyanose péri-buccale et des extrémités, marbrures
 *   allongement du temps de recoloration cutanée (3 secondes).
@@ -89,7 +89,7 @@ L'examen clinique recherche en particulier les signes de gravité :
 *   mouvements anormaux, convulsions
 *   tension anormale de la fontanelle ( fontanelle bombante, ou déprimée ... ).
 
-#### Signes de détresse respiratoire :
+#### Signes de détresse respiratoire
 
 *   troubles du rythme respiratoire : polypnée, irrégularités, pauses (pauses respiratoires "physiologiques": ne doivent pas excéder 10 secondes et doivent être asymtomatiques, c'est-à-dire sans changement de teint, ni cyanose ni bradycardie).
 *   signes de lutte : tirage intercostal, sus et sous-sternal, entonnoir xyphoïdien, battement des ailes du nez, geignement expiratoire, Score de silverman _(voir tableau 2)_
@@ -185,7 +185,7 @@ Sauf urgence, le premier temps de l'examen clinique est le recueil d'information
 
 L'examen clinique est au mieux réalisé chez un enfant dont la température est normale, calme, éveillé, déshabillé et n'ayant pas faim. Il comporte un temps d'inspection important, puis un examen organe par organe.
 
-#### Evaluation de l'état général :
+#### Evaluation de l'état général
 
 *   poids
 *   taille

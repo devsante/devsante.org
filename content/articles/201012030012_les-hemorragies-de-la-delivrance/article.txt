@@ -27,13 +27,13 @@ Cette définition académique élimine les hémorragies d'origine traumatique pr
 
 ### 1. La délivrance normale
 
-#### Elle évolue en trois phases :
+#### Elle évolue en trois phases
 
 *   **Phase de décollement :** le décollement s'amorce sitôt l'expulsion du foetus : la rétraction utérine provoque un hématome physiologique qui finalise le décollement ; la contraction utérine le termine.
 *   **Phase d'expulsion :** sous l'influence de la contraction et de son poids, le placenta migre à travers la filière génitale avant d'être expulsé.
 *   **Hémostase :** d'abord musculotrope par la contraction utérine, elle est complétée par les mécanismes normaux de la coagulation. Cette phase requiert un utérus vide, des fibres musculaires de bonne qualité et un bilan biologique d'hémostase normal.
 
-#### Chaque étape peut être perturbée :
+#### Chaque étape peut être perturbée
 
 **Décollement**
 
@@ -57,7 +57,7 @@ Cette définition académique élimine les hémorragies d'origine traumatique pr
 
 L'hémostase biologique a pour fonction essentielle de conserver la fluidité du sang tout en maintenant la masse sanguine dans le système vasculaire (caillot hémostatique).
 
-#### Elle se régule classiquement en trois temps :
+#### Elle se régule classiquement en trois temps
 
 **1) L'hémostase primaire :**
 
@@ -71,7 +71,7 @@ Consolidation du thrombus plaquettaire par un caillot de fibrine consécutive à
 
 Destruction _in vivo_ des dépôts de fibrine (rôle de la plasmine, enzyme protéolytique stimulée par trois voies : une voie vasculaire activée par la tPA et deux voies plasmatiques activées par les pro-urokinases et le facteur XII).
 
-#### Chaque étape de l'hémostase peut être altérée :
+#### Chaque étape de l'hémostase peut être altérée
 
 **Vascularites**
 

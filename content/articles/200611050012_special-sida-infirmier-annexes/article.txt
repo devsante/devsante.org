@@ -33,7 +33,7 @@ Sans nausée préalables, sans effort (lors des changements de position).
 *   Troubles respiratoires (bradypnée, pauses),
 *   Hypertension artérielle.
 
-#### Les signes de gravité sont :
+#### Les signes de gravité sont
 
 *   Troubles de la conscience (obnubilation, états confusionnels, coma),
 *   Convulsions, surtout chez les enfants.
@@ -86,7 +86,7 @@ Lors de la période épidémique : chloramphénicol solution huileuse ou ceftria
 
 Les deux produits ont une action dès la première injection.
 
-#### Actions et surveillance infirmières :
+#### Actions et surveillance infirmières
 
 _Si épidémie_
 
@@ -473,7 +473,7 @@ _**Salle d'accouchement**_ (en plus des précautions déjà citées)
 
 ### 3. Conduite à tenir en cas d'AES
 
-#### Respecter strictement les directives nationales de prise en charge des AES :  
+#### Respecter strictement les directives nationales de prise en charge des AES
 **Soins immédiats à effectuer par l'accidenté**
 
 *   _En cas d'exposition à travers la peau suite à une piqûre, coupure, etc._

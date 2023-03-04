@@ -30,7 +30,7 @@ Ces céphalées sont accompagnées de vomissements, sans nausée préalable, san
 
 D'autres signes peuvent également être présents : troubles du rythme cardiaque (pouls ralenti = bradycardie), troubles respiratoires (fréquence ralentie avec pauses respiratoires) et hypertension artérielle.
 
-#### A l'examen clinique, les signes du syndrome méningé sont :
+#### A l'examen clinique, les signes du syndrome méningé sont
 
 *   La **raideur de la nuque** : c'est le signe de méningite le plus précoce et le plus constant. Elle se recherche par la flexion passive de la tête sur le thorax. Le mouvement est limité par la contracture douloureuse des muscles cervicaux postérieurs. Les mouvements latéraux sont moins douloureux et possibles.
 *   **L'attitude « en chien de fusil »** : elle est due à la contracture rachidienne.

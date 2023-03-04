@@ -27,14 +27,14 @@ Text:
 
 Dans le but d'éviter certaines infections opportunistes (toxoplasmose, pneumocystose...) le patient VIH + ayant moins de 350 CD4 par mm3 devrait bénéficier d'un traitement par cotrimoxazole.
 
-### 1. Les contre-indications de ce traitement sont :
+### 1. Les contre-indications de ce traitement sont
 
 *   contre-indication absolue : toutes allergies aux sulfamides ;
 *   l'anémie (qui devra être traitée avant de débuter le traitement) ;
 *   le premier trimestre de la grossesse ;
 *   la présence d'une infection aiguë traitée par un autre sulfamide.
 
-### 2. Les patients devant bénéficier de ce traitement sont :
+### 2. Les patients devant bénéficier de ce traitement sont
 
 *   tout patient symptomatique ;
 *   patient asymptomatique présentant un taux de CD4 < à 350/mm<sup>3</sup>.

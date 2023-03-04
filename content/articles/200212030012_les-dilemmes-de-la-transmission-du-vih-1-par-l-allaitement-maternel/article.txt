@@ -53,7 +53,7 @@ Un guide rédigé par les agences des Nations Unies à l'intention des agents de
 
 Le seul moyen de supprimer le risque de transmission du VIH-1 par l'allaitement maternel est de recourir à un substitut : lait en poudre, lait industriel.
 
-#### Cette méthode expose à plusieurs problèmes :
+#### Cette méthode expose à plusieurs problèmes
 
 *   L'excès de morbidité et de mortalité observé chez les enfants allaités artificiellement reflète à la fois la perte de la protection immunitaire conférée par l'allaitement maternel vis-à-vis des infections, mais aussi l'exposition du jeune enfant à des germes contaminant les préparations de lait artificiel. Ce dernier risque est particulièrement élevé quand les conditions d'hygiène sont médiocres.
 *   Par ailleurs, aucun lait artificiel disponible dans le commerce n'a une composition équivalente à celle du lait maternel (concentration en micronutriments, certains métaux, acides aminés essentiels, immunoglobulines, etc.) ce qui nécessite idéalement au moins un complément en micronutriments chez l'enfant allaité artificiellement.

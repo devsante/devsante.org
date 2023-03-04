@@ -355,11 +355,11 @@ Attention : le lépreux qui a une paralysie faciale abîmera sa cornée sans sou
 
 ### 4. Cas où vous devez référer rapidement
 
-#### Vous ne voyez pas la pupille :
+#### Vous ne voyez pas la pupille
 
 L'atteinte cornéenne est profonde : traitement antibiotique, pansement oculaire, référer au spécialiste.
 
-#### La pupille est en myosis ou irrégulière :
+#### La pupille est en myosis ou irrégulière
 
 *   le malade se plaint parfois de douleurs péri-orbitaires ou de céphalées,
 *   le cercle périkératique est très prononcé,
@@ -371,7 +371,7 @@ L'atteinte cornéenne est profonde : traitement antibiotique, pansement oculaire
 (image: i575-9.jpg)
 
 
-#### La pupille est en mydriase :
+#### La pupille est en mydriase
 
 *   la douleur est très intense et s'accompagne parfois de vomissements,
 *   la vision est abaissée,

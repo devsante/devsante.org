@@ -531,12 +531,12 @@ IV - Surveillance
 
 ### 1. Pour le VIH
 
-#### Si le patient source est séronégatif pour le VIH :
+#### Si le patient source est séronégatif pour le VIH
 
 *   inutile d'effectuer une surveillance
 *   sauf en cas de risque de primo-infection chez la personne source.
 
-#### Si le patient source est séropositif ou de statut inconnu pour le VIH :
+#### Si le patient source est séropositif ou de statut inconnu pour le VIH
 
 *   surveilllance nécessaire jusqu'au 4ème mois en cas de traitement post-exposition.
 *   Puis, suivant l’instauration ou non d’un traitement prophylactique post-exposition (TPE):

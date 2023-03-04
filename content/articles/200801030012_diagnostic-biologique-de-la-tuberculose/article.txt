@@ -63,7 +63,7 @@ En cas de suspicion de tuberculose pulmonai­re, il est conseillé de recueillir
 
 Si les crachats ne sont pas examinés sur place, ils doivent être envoyés à un laboratoire. Le transport doit avoir lieu tous les jours ou au moins 1 ou 2 fois par semaine. Pour la conservation et le transport, des boîtes spéciales pouvant contenir 10 à 20 crachoirs sont utilisées.
 
-#### Les règles suivantes doivent être suivies :
+#### Les règles suivantes doivent être suivies
 
 *   Chaque crachoir doit être soigneusement identifié par une étiquette portant le nom, le prénom et le numéro du registre.
 *   La boîte avec les crachoirs doit être gardée dans un endroit aussi frais que possible. S'il est prévu de faire des cultures à partir de ces échantillons, ils doivent être conservés au réfrigérateur à +4°C.

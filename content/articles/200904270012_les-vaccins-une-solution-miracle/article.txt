@@ -20,7 +20,7 @@ Tous les succès contre les maladies ne sont pas dus aux vaccins. Même pour la 
 
 Pour aboutir à un effet communautaire de la vaccination (en dehors des rares échecs biologiques, le bénéfice individuel est certain), une bonne organisation de l'utilisation des vaccins est nécessaire, comme cela a été le cas pour l'éradication de la variole ou l'instauration du Programme Elargi de Vaccination (PEV). A contrario, on voit actuellement que, si la logistique et l'organisation du PEV sont défaillantes, les résultats en deviennent insuffisants.
 
-### Une politique vaccinale est fondée sur un rationnel clair :
+### Une politique vaccinale est fondée sur un rationnel clair
 
 Choix de la population à vacciner (âge, sexe, fréquence...) en fonction de l'épidémiologie, de la maladie, du bénéfice individuel et collectif attendu.  
 _**La réussite d'une politique vaccinale passe par le respect des recommandations.**_

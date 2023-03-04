@@ -44,14 +44,14 @@ En pratique, le bénéfice escompté du maintien de la vigilance et la plus gran
 
 ## II. Contre-indications
 
-### 1. Les contre-indications absolues sont :
+### 1. Les contre-indications absolues sont
 
 *   l'hypovolémie non corrigée,
 *   les troubles de la coagulation,
 *   le sepsis au point de ponction,
 *   le refus du patient.
 
-### 2. Les contre-indications relatives sont :
+### 2. Les contre-indications relatives sont
 
 *   un déficit neurologique, un terrain migraineux et les maladies médullaires,
 *   un syndrome fébrile,
@@ -191,7 +191,7 @@ On surveille le patient en salle de réveil ou au bloc opératoire jusqu'à la r
 
 Toute anesthésie loco-régionale peut se terminer par une anesthésie générale, en début ou en cours d'intervention et le matériel d'anesthésie générale comprenant le plateau de drogues, la boîte d'intubation et de ventilation doit être prêt. Une bonne collaboration entre le chirurgien et l'anesthésiste est indispensable.
 
-#### a. Lors de la ponction, on peut être confronté à :
+#### a. Lors de la ponction, on peut être confronté à
 
 *   un échec de la ponction,
 *   une absence de bloc moteur et de bloc sensitif 10 minutes après l'injection. Cet échec peut être en rapport avec une dose insuffisante ou un produit inactif ce qui se produit parfois avec la lidocaïne,
@@ -206,7 +206,7 @@ En cas de bloc trop étendu, on peut observer un retentissement cardio-respirato
 *   Une hypotension parfois associée à une bradycardie est la complication la plus fréquente. Elle est liée à un bloc sympathique étendu quand le niveau est supérieur au 10è métamère dorsal, et doit être traitée par les vasopresseurs de façon titrée (éphédrine 6 mg/6 mg) et le remplissage. Le contrôle de la pression artérielle fait plus appel aux vasopresseurs qu'au remplissage dont l'excès peut être nuisible. En cas de bradycardie associée à l'hypotension on utilise l'atropine en 2e intention après les vasopresseurs. On distingue l'hypotension modérée facilement contrôlable et bénéfique pour la chirurgie, de l'hypotension sévère, souvent incontrôlée et dangereuse, qui peut se manifester par des troubles de la conscience (une somnolence, une agitation, ou des convulsions), des nausées et des vomissements.
 *   Un retentissement respiratoire avec une gêne à la toux quand le niveau est supérieur au 10è métamère dorsal, une dyspnée, voire une apnée associée à un collapsus en cas de rachianesthésie totale quand le niveau est supérieur au 4è métamère cervical. La rachianesthésie totale nécessite une ventilation assistée et un traitement par les vasopresseurs de l'hypotension.
 
-#### c. Complications tardives, dominées par :
+#### c. Complications tardives, dominées par
 
 La **rétention d'urine**, avec le globe vésical que l'on évacue par un sondage aller-retour en respectant impérativement les règles d'asepsie.
 

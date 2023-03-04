@@ -34,7 +34,7 @@ Les obstacles sont connus de tous :
 *   les migrations du fait des guerres favorisent encore plus les épidémies ;
 *   la crise économique, dans de nombreux pays, va enfin paralyser le système de santé qui ne peut plus jouer son rôle préventif et curatif.
 
-## Devant ces problèmes colossaux, l'OMS définit trois priorités :
+## Devant ces problèmes colossaux, l'OMS définit trois priorités
 
 *   D'abord achever ce qui est en cours, à savoir l'éradication des maladies telles que la poliomyélite, la rougeole, la lèpre, la dracunculose. Cela n'exigera pas des budgets gigantesques, mais faute de réunir les moyens nécessaires, tout l'acquis pourrait être perdu ;
 *   La deuxième priorité est de s'attaquer aux vieux maux tels que la tuberculose et le paludisme, en faisant disparaître les sources d'infection, en mettant en place une bonne surveillance épidémiologique, et enfin en mettant au point des traitements plus faciles et en particulier des vaccins,

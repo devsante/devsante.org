@@ -93,7 +93,7 @@ Le patient déplace le curseur en fonction de l’intensité de sa douleur.
 (image: reglette.png)
 
 
-## Le traitement de la CVO comporte les actions suivantes :
+## Le traitement de la CVO comporte les actions suivantes
 - Hyperhydrater
 - Traiter efficacement la douleur par les médicaments
 - Utiliser des moyens physiques d’appoint
@@ -148,7 +148,7 @@ Posologie : 0,2 mg/kg/4-6h
 
 La **codéine** (antalgique de palier 2) **n’est plus recommandée chez l’enfant de moins de 12 ans** (chez certains enfants, "métaboliseurs rapides", une accumulation de morphine peut se produire, entaînant une dépression respiratoire).
 
-### Palier 1 + 3 : 
+### Palier 1 + 3
 **Morphine PO** [3] ou IV [4,5,6,7], précédé éventuellement de MEOPA
 *Dans cette situation, le patient est **pris en charge dans une structure hospitalière adaptée.**
 Des examens complémentaires sont réalisés : NFS, réticulocytess, CRP, hémocultures si la température est  38°5, groupes sanguins ABO et Rhésus, Recherche d’Agglutinines Irrégulières (RAI).*
@@ -185,7 +185,7 @@ Des examens complémentaires sont réalisés : NFS, réticulocytess, CRP, hémoc
 
 Certaines crises vaso occlusives graves avec complications (syndrome thoracique aigu) peuvent nécessiter une transfusion sanguine ou un échange transfusionnel qui relèvent d’un centre hospitalier adapté.
 
-#### Traiter la douleur aussi avec des moyens physiques :
+#### Traiter la douleur aussi avec des moyens physiques
 - Par le toucher réalisé par un parent,
 - Par des massages doux,
 - Par des applications de bouillote chaude.

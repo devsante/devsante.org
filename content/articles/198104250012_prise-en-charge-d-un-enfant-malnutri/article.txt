@@ -54,7 +54,7 @@ Cette distinction clinique correspond à une différence biologique: en cas de m
 
 L'interrogatoire de la mère et d'elle seule permet souvent de comprendre l'origine des troubles et d'aborder l'aspect préventif.
 
-### Le mode alimentaire de l'enfant est fondamental à préciser :
+### Le mode alimentaire de l'enfant est fondamental à préciser
 
 *   _en cas de marasme_, il s'agit le plus souvent d'un enfant âgé d'un an ou moins, sevré trop rapidement (dans les premiers mois) et nourri de façon inadaptée au lait artificiel par biberon.
 *   _en_ cas de _Kwashiorkor,_ il s'agit le plus souvent d'un enfant âgé de plus de 18 mois et dont le sevrage s'est effectué à l'âge normal (entre 1 et 2 ans) mais trop brutalement.
