@@ -198,7 +198,7 @@ L'enfant peut sortir de l'hôpital quel que soit son poids si :
 *   sa courbe de poids est ascendante,
 *   sa mère s'occupe bien de lui et a du lait.
 
-#### **Les enfants de petit poids sont des enfants fragiles. **
+#### Les enfants de petit poids sont des enfants fragiles. 
 
 La malnutrition, les maladies infectieuses, le paludisme risquent de les tuer. Ils sont les "clients" prioritaires de la consultation post-natale du Service de Protection Maternelle et Infantile.
 

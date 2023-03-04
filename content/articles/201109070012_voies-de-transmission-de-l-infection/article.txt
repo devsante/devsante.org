@@ -43,7 +43,7 @@ Toutes les maladies dues à  des micro-organismes de la sphère ORL peuvent êt
 A titre d’exemple :  
 Un _éternuement_ produit environ 40 000 gouttelettes, le fait de tousser 3000, et cinq minutes de parole 3000.
 
-#### b. La transmission dite aéroportée par des gouttelettes de salive asséchées, contenant des micro-organismes plus résistants, qui ont supporté la dessication.
+#### b. La transmission dite aéroportée par des gouttelettes de salive asséchées, contenant des micro-organismes plus résistants, qui ont supporté la dessication
 
 Les particules sont plus petites < à 5µm.  
 Elles peuvent être véhiculées sur de plus longues distances, et contiennent des agents infectieux viables.  
