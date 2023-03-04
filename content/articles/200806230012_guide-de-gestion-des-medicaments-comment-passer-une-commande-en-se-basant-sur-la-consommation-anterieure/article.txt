@@ -295,7 +295,7 @@ Calcul de la CMM : 4 526 : 12 = **377,16** On arrondit à l'unité au-dessus : C
 
 Il est recommandé de se faire livrer ou d'aller chercher les commandes tous les mois, ou tous les 2 ou 3 mois au maximum. Les prévi­sions sont en effet plus faciles à faire sur une période courte.
 
-#### Calcul du facteur de réapprovisionne­ment de votre établissement.
+#### Calcul du facteur de réapprovisionne­ment de votre établissement
 
 *   Si les produits sont livrés une fois par mois, l'intervalle entre deux livraisons est de 1 mois, et le **facteur de réapprovisionnement est de 2** (1 x 2 = 2).
 *   Si les produits sont livrés tous les trois mois, l'intervalle entre deux livraisons est de 3 mois, et le **facteur de réapprovisionne­****ment est de 6** (3 x 2 = 6).

@@ -131,7 +131,7 @@ Ce sont les mêmes que pour les simples perfusions. En pratique courante, on uti
 
 En milieu hospitalier, on est parfois tenu de faire un abord de gros troncs veineux centraux (jugulaire, sous-clavière, fémorale). Parfois, il est nécessaire de faire une dénudation veineuse (veine basilique au bras le plus souvent).
 
-### 3. Durée de la transfusion.
+### 3. Durée de la transfusion
 
 Le débit de la transfusion doit s'adapter aux besoins. En cas d'hémorragie abondante, on veille à maintenir une tension artérielle correcte.
 

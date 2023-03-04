@@ -118,7 +118,7 @@ Dans les pays en développement, l'AgHBs est souvent le seul marqueur recherché
 
 A côté des méthodes ELISA, adaptées aux grandes séries,  des  tests  individuels  ont  été  développés. Simples, ne nécessitant ni matériel particulier, ni électricité, ils reposent sur des méthodes d'agglutination, d'immunofiltration  ou  d'immunochromatographie. Un résultat positif est donné par un point ou un trait coloré  ou  une  agglutination  visible à l'œil nu. Ces réactifs sont adaptés aux  structures ayant peu de moyens et/ou recevant un nombre réduit de prélèvements.
 
-#### c. Evolution des marqueurs en fonction de la pathologie (figure3).
+#### c. Evolution des marqueurs en fonction de la pathologie (figure3)
 
 **Hépatite B aiguë**  
 Dans  les  formes  symptomatiques  (qui  ne  représentent que 10 % des cas), après une période d'incubation de 10 semaines en moyenne, suivie d'une phase pré-ictérique de 7 jours environ,  survient  la  phase ictérique. Biologiquement, on observe alors une augmentation  importante des transaminases sériques, qui peuvent atteindre entre 10 et 100 fois la limite supérieure de la normale.  

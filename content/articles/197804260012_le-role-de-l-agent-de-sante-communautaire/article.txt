@@ -39,15 +39,15 @@ La sélection des agents de santé communautaires influence le type d'allégeanc
 
 Les critères de sélection, quant à eux, varient nécessairement d'un pays à l'autre. Par exemple, une analyse effectuée aux Philippines a montré que plus le niveau d'instruction d'un candidat est bas, plus, il est âgé et plus il à d'expérience en matière de santé; on a constaté aussi que plus son enracinement dans la collectivité est profond plus il y a de chances qu'il réussisse comme agents de santé communautaire. La confiance qui peut être accordée à quelqu'un a été prise comme critère de sélection, mais on l'a trouvée difficile à mesurer. On a utilisé aussi l'opinion et le sentiment de la collectivité à l'égard des agents qui la desservent, l'aptitude de ceux-ci à recevoir une formation et la probabilité qu'ils restent dans la collectivité après avoir été formés. En ce qui concerne la nécessité de savoir lire et écrire, les opinions ont considérablement varié. L'exiger n'aurait aucun sens dans des endroits comme le Sahel où presque tout le monde est illettré et de plus, on risquerait de voir se perdre là remarquable capacité de se souvenir qui caractérise si souvent les analphabètes. Mais, par contre, pour tenir des dossiers et effectuer des évaluations quantitatives, il faut des agents sanitaires qui sachent lire et écrire.
 
-### Rattachement hiérarchique.
+### Rattachement hiérarchique
 
 La notion d'allégeance dont nous avons déjà parlé englobe aussi celle de rattachement hiérarchique et si le mode de sélection exerce une grande influence sur celui-ci, d'autres facteurs interviennent aussi. C'est ainsi que celui (ou ceux) qui sélectionne, forme, supervise et rétribue les agents de santé communautaire et la manière dont il le fait, auront une forte influence sur l'orientation et la qualité de leur rattachement hiérarchique. A l'évidence, il faut que la collectivité et le système de soins médico-sanitaires participent pour une part égale à ces diverses tâches, autrement le rôle de l'agent santé communautaire risque de se trouver faussé.
 
-### Inclure les exclus.
+### Inclure les exclus
 
 Dans certaines collectivités, les plus déshérités forment une catégorie de marginaux ou d'exclus dont l'existence n'est pas reconnue par les autres membres. La tradition selon laquelle les notables devraient constituer la principale voie d'entrée dans les collectivités peut contribuer à l'exploitation des plus pauvres, ou au moins perpétuer celle-ci. En choisissant des agents de santé communautaire qui auront des comptes à rendre à l'ensemble de la collectivité, il est donc important de savoir s'ils seront désireux et capables de trouver et de soigner les gens les plus déshérités, laissés jusqu'à présent à l' écart.
 
-### Motivation.
+### Motivation
 
 On a constaté des différences culturelles et nationales parmi les principaux facteurs qui incitent les gens à devenir des agents de santé communautaire. Alors que le revenu, le prestige et, peut être le désire de faire des travaux moins durs semblent des motivations dans un pays, ce sont davantage la fierté et l'intérêt à l'égard de la collectivité qui paraissent intervenir dans un autre.
 
@@ -57,7 +57,7 @@ Il se peut que le fait de connaître la méthodologie de l'enseignements, de l'�
 
 ### Organisation et gestion
 
-### La place de l'agent de santé communautaire.
+### La place de l'agent de santé communautaire
 
 Entre les deux pôles que constituent la collectivité et le système de soins médico-sanitaires, la place de l'agent de santé communautaire varie d'un pays à l'autre. En Indonésie, le programme semble fortement axé sur la collectivité: les agents de santé communautaire sont des bénévoles employés à temps partiel, choisis par là collectivité où ils demeurent, tout en restant cependant proches du système sanitaire représenté par le médecin et le personnel local du centre de santé. Le programme est étroitement lié au développement, de telle sorte que l'**agent de santé** de village est devenu un agent de **développement** de village.
 

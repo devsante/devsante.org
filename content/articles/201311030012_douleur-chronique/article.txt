@@ -38,7 +38,7 @@ Le  schéma ci-dessous résume ce que le clinicien doit conserver à l’esprit
 
 ### 1. Rappel de physiologie de la douleur
 
-#### Le circuit neuronal : « l’électrique ».
+#### Le circuit neuronal : « l’électrique »
 
 L’information « douleur » est captée par les récepteurs appelés nocicepteurs situés dans la peau, les articulations, les viscères. Elle est véhiculée jusqu’à la moelle épinière puis, par des neurones formant un faisceau ascendant, dans le thalamus. Ainsi l’information nociceptive devient douleur.
 

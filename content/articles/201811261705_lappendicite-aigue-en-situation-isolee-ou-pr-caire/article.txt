@@ -31,7 +31,7 @@ En effet, si cette implantation de l’appendice est constante, il n’en va pas
 ## Histoire naturelle de l'appendicite
 L'inflammation de l'appendice est souvent due à une infection intestinale banale, l'appendice réagissant alors comme le ferait un ganglion. Parfois aussi à une obstruction de l'appendice par un stercolithe (petite masse dure de matières fécales) ou par des parasites (oxyures, ascaris). La typhoïde peut aussi se localiser à ce niveau.
 Une fois infecté, l'appendice va évoluer par les étapes habituelles de l'infection : 
-### 1. Stade inflammatoire. 
+### 1. Stade inflammatoire
 L'appendice est turgescent, hypervascularisé et tendu. Autour de lui, le péritoine est peu ou pas touché par cette inflammation.
 ### 2. Suppuration . L’infection devient purulente, pouvant évoluer : 
 - Soit vers la **péritonite généralisée** (en un temps) par propagation de l’infection de proche en proche dans la cavité péritonéale,
@@ -62,7 +62,7 @@ Pour sensibiliser la douleur provoquée, quand elle est peu importante, il faut 
 
 **Les touchers pelviens** (rectal et vaginal) ne sont utiles que si l’on maîtrise bien la technique rigoureuse et douce de ces examens, et la faculté de les interpréter. Ils recherchent essentiellement une douleur en haut et à droite. Cette douleur provoquée n’est pas nécessaire au diagnostic de l’appendicite mais elle signe son extension vers le bas s’il existe par ailleurs une douleur provoquée nette de la FID. Le toucher vaginal est aussi utile pour éliminer une masse pelvienne ou une infection pelvienne de la femme si le diagnostic d’appendicite reste incertain.
 
-## Examens complémentaires.
+## Examens complémentaires
 **Une hyperleucocytose** sur la numération-formule sanguine (10 000 à 12 000 GB au début, puis 20 000 et plus au stade d'abcès) peut manquer. Elle est surtout un critère de décision opératoire rapide quand elle est associée à une douleur provoquée nette de la FID . 
 
 **Le dosage de la CRP**, s’il et réalisable, est rarement normal dans une appendicite aigue. Au dessus de 12 mg/L, il est surtout utile (comme l’hyperleucocytose) pour décider une opération rapide s’il existe une douleur provoquée nette de la FID.

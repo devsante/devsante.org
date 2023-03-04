@@ -62,20 +62,20 @@ Cet hôte intermédiaire peut être un mollusque pour la bilharziose, un poisson
 
 ### Maladies liées à l'eau
 
-#### 1. Infection dont l'agent est véhiculé passivement par l'eau, liée à la qualité de l'eau (Water borne).
+#### 1. Infection dont l'agent est véhiculé passivement par l'eau, liée à la qualité de l'eau (Water borne)
 
 *   Salmonelles, choléra, amibes, rotavirus, diarrhées.
 *   Hépatite A, poliomyélite...
 
-#### 2. Infections dont la fréquence diminue quand augmente la quantité d'eau disponible (Water washed).
+#### 2. Infections dont la fréquence diminue quand augmente la quantité d'eau disponible (Water washed)
 
 *   Conjonctivite, diarrhées, infections cutanées...
 
-#### 3. Maladies dont l'agent causal a un cycle comportant une phase aquatique obligatoire (Water based).
+#### 3. Maladies dont l'agent causal a un cycle comportant une phase aquatique obligatoire (Water based)
 
 *   Bilharziose, douve, ver de Guinée...
 
-#### 4. Maladies dont le vecteur se reproduit ou pique à proximité de l'eau (Water related).
+#### 4. Maladies dont le vecteur se reproduit ou pique à proximité de l'eau (Water related)
 
 *   Moustique : paludisme, fièvre jaune...
 *   Glossine : trypanosomiase.

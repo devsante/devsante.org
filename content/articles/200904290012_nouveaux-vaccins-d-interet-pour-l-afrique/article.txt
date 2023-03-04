@@ -193,7 +193,7 @@ La transmission se fait par voie oro-fécale de personne à personne, ou indirec
 Un premier vaccin, commercialisé en 1998 aux USA, avait été retiré au bout d'un an en raison de la survenue d'invaginations intestinales chez certains enfants vaccinés.  
 Les vaccins actuellement disponibles ont prouvé leur innocuité et leur efficacité. Deux vaccins sont commercialisés. Ce sont des vaccins oraux buvables qui ne doivent jamais être injectés.
 
-#### Vaccin oral vivant monovalent (souche RIX4414 vivante atténuée).
+#### Vaccin oral vivant monovalent (souche RIX4414 vivante atténuée)
 
 Il se conserve entre + 2° C et + 8° C à l'abri de la lumière et ne doit pas être congelé.
 

@@ -23,7 +23,7 @@ Il existe 4 possibilités de transmission :
 - Voie de contact
 
 ## I. Voie aérienne
-### 1. Transmission directe par les gouttelettes de salive et les secrétions respiratoires d’un individu.
+### 1. Transmission directe par les gouttelettes de salive et les secrétions respiratoires d’un individu
 Un éternuement produit environ 40 000 gouttelettes, une toux 3 000 et cinq minutes de parole 3 000.
 Ce sont des particules assez grosses, de taille > à 5 µm. Elles contiennent l’agent infectieux mais elles sédimentent rapidement, ne vont pas plus loin qu’un mètre. Elles se déposent sur les conjonctives ou les muqueuses de l’hôte. La contamination intervient dans un rayon d’un mètre autour du malade ou du porteur.
 

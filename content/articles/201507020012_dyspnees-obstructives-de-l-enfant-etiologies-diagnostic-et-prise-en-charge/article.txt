@@ -12,7 +12,7 @@ Datetime: 2015-07-02 00:00:00
 
 Text: 
 
-## I. L'analyse clinique de toute dyspnée haute constitue la clef du diagnostic et des premiers gestes thérapeutiques.
+## I. L'analyse clinique de toute dyspnée haute constitue la clef du diagnostic et des premiers gestes thérapeutiques
 
 ### 1. L'interrogatoire des parents doit préciser
 
@@ -122,9 +122,9 @@ Il faut savoir différencier les obstacles nasaux ou rhino-pharyngés qui appara
 Chez le nouveau-né, la respiration est uniquement nasale au repos (en dehors des pleurs), ainsi l'obstruction nasale entraîne un tirage typiquement sous-mandibulaire ; la disparition de la dyspnée s'observe quand l'enfant ouvre la bouche.  
 En cas de gêne avec obstruction nasale majeure, en particulier malformative : mettre en place une canule de Mayot.
 
-## II. À chaque tranche d'âge correspondent des pathologies particulières.
+## II. À chaque tranche d'âge correspondent des pathologies particulières
 
-### 1. Les causes de dyspnée laryngée chez les nourrissons de moins de six mois sont la laryngomalacie et l'angiome sous-glottique.
+### 1. Les causes de dyspnée laryngée chez les nourrissons de moins de six mois sont la laryngomalacie et l'angiome sous-glottique
 
 #### a. La laryngomalacie
 
