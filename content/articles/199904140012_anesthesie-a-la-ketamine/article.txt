@@ -8,12 +8,8 @@ Datetime: 1999-04-14 00:00
 ----  
 Text:
 
-**Anesthésie à la kétamine**
-
-**par Christophe Denantes* et Djibo Diango****
-
-* Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France.  
-** Médecin anesthésiste-réanimateur. Hôpital Nianankoro Fromba, Ségou, Mali.
+*Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France.  
+**Médecin anesthésiste-réanimateur. Hôpital Nianankoro Fromba, Ségou, Mali.
 
 La kétamine est un anesthésique intraveineux non barbiturique, d'action rapide et de durée d'action courte. Elle entraîne une anesthésie (dite dissociative) caractérisée par un sommeil superficiel, une analgésie, une amnésie et des manifestations psychiques indésirables au réveil. La kétamine peut être utilisée seule, mais l'association à une benzodiazépine (midazolam/diazépam) permet de diminuer l'incidence des effets secondaires au réveil.
 

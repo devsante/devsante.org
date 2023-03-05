@@ -1,4 +1,4 @@
-Title: Borrélioses
+Title: Borrélioses : fièvres récurrentes à tiques
 
 ---- Author: Fabrice Legros* et Françoise Balédent**
 
@@ -8,13 +8,8 @@ Datetime: 1999-10-14 00:00
 ----  
 Text:
 
-**Borrélioses : fièvres récurrentes à tiques**
-
-**par Fabrice Legros* et Françoise Balédent****
-
-* IDR (ex-0RSTOM)/UR Maladies à vecteurs. Adresse actuelle : CNRMI, Institut Santé et Développement, 15, rue de l'école de Médecine, 75270 Paris cedex 06, France.
-
-'* Biologiste, Saint-Denis, France.
+*IDR (ex-0RSTOM)/UR Maladies à vecteurs. Adresse actuelle : CNRMI, Institut Santé et Développement, 15, rue de l'école de Médecine, 75270 Paris cedex 06, France.
+** Biologiste, Saint-Denis, France.
 
 Les fièvres récurrentes sont dues à des spirochètes du genre _Borrelia_. Elles sont caractérisées cliniquement par des épisodes fébriles successifs séparés par des interphases apyrétiques de durée variable. Selon les espèces de _Borrelia_, la transmission s'effectué par des poux ou des tiques. Les fièvres récurrentes transmises par les tiques sont les plus fréquentes.
 

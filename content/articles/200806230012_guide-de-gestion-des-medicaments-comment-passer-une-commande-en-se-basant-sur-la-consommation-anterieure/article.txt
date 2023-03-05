@@ -298,7 +298,7 @@ Il est recommandé de se faire livrer ou d'aller chercher les commandes tous les
 #### Calcul du facteur de réapprovisionne­ment de votre établissement
 
 *   Si les produits sont livrés une fois par mois, l'intervalle entre deux livraisons est de 1 mois, et le **facteur de réapprovisionnement est de 2** (1 x 2 = 2).
-*   Si les produits sont livrés tous les trois mois, l'intervalle entre deux livraisons est de 3 mois, et le **facteur de réapprovisionne­****ment est de 6** (3 x 2 = 6).
+*   Si les produits sont livrés tous les trois mois, l'intervalle entre deux livraisons est de 3 mois, et le **facteur de réapprovisionne­ment est de 6** (3 x 2 = 6).
 
 ### 3. Seuil de commande
 

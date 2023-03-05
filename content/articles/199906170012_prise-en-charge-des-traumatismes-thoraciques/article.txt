@@ -1,4 +1,4 @@
-Title: Prise en charge des traumatismes thoraciques
+Title: Prise en charge des traumatismes thoraciques : attitudes pratiques
 
 ---- Author: F. Pons* et B. Tremblay**
 
@@ -8,12 +8,8 @@ Datetime: 1999-06-17 00:00
 ----  
 Text:
 
-**Prise en charge des traumas thoraciques : attitudes pratiques**
-
-**par F. Pons* et B. Tremblay****
-
-* Service de chirurgie viscérale et thoracique, hôpital d'Instruction des Armées, Percy, Clamart, France.  
-** Service de chirurgie thoracique et vasculaire, hôpital Avicenne, Bobigny, France.
+*Service de chirurgie viscérale et thoracique, hôpital d'Instruction des Armées, Percy, Clamart, France.  
+**Service de chirurgie thoracique et vasculaire, hôpital Avicenne, Bobigny, France.
 
 Les traumatismes thoraciques sont un problème redouté en particulier lorsque les moyens d'agnostiques et le plateau technique sont limités. L'évolution immédiate ou différée de ces traumatismes peut mettre en jeu la fonction circulatoire et respiratoire et peut évoluer rapidement vers une issue fatale. Pourtant des moyens thérapeutiques simples, au premier plan desquels l'utilisation judicieuse du drainage thoracique, permettent de traiter efficacement 80 % de ces traumatismes.
 

@@ -1,16 +1,12 @@
 Title: Episiotomie
 
----- Author: Philippe Engelmann* Stéphane Saint Léger**
+---- Author: Philippe Engelmann*, Stéphane Saint Léger**
 
 ----  
 Datetime: 1999-12-14 00:00
 
 ----  
 Text:
-
-**Episiotomie**
-
-**par Philippe Engelmann* Stéphane Saint Léger****
 
 *Gynécologue-obstétricien, hôpital Louis Mourier, Colombes, France  
 **Gynécologue-obstétricien, CHI Saint Grégoire, Montreuil, France

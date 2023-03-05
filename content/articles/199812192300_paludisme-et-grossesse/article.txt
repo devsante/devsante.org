@@ -1,16 +1,14 @@
-Title: Paludisme et grossesse
+Title: Paludisme et grossesse : épidémiologie et physiopathologie
 
----- Author: jean-Pierre Coulaud
+---- Author: Jean-Pierre Coulaud*
 
 ----  
 Datetime: 1998-12-19 00:00
 
 ----  
-Text:**Paludisme et grossesse :****épidémiologie et physiopathologie**
+Text:
 
-**par jean-Pierre Coulaud**
-
-Institut de Médecine et d'Épidémiologie africaine, Service des Maladies infectieuses et tropicales, Hôpital Bichat-Claude-Bernard, Paris.
+*Institut de Médecine et d'Épidémiologie africaine, Service des Maladies infectieuses et tropicales, Hôpital Bichat-Claude-Bernard, Paris.
 
 La grossesse est considérée comme une période à haut risque en matière de paludisme : probabilité plus élevée d'accès palustre, sévérité potentielle plus forte, retentissement chez l'enfant, sans oublier les problèmes thérapeutiques. En pratique, seul le _Plasmodium falciparum_ pose réellement problème et c'est de lui seul qu'il sera question ici.
 

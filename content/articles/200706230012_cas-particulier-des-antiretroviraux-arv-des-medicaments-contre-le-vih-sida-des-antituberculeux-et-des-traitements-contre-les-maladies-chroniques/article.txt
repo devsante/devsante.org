@@ -134,7 +134,7 @@ Ne pas commander de médicaments pour ces patients.
 
 </table>
 
-**_Ces données permettent de savoir quelle sera la consommation mensuelle pour le mois suivant (1 + 2 + 3) - (4 + 5 + 6)._**** _Ensuite, il est possible de calculer le seuil de commande comme indiqué plus haut en remplaçant la CMM par la consommation prévue pour le mois suivant._**  
+**_Ces données permettent de savoir quelle sera la consommation mensuelle pour le mois suivant (1 + 2 + 3) - (4 + 5 + 6)._ _Ensuite, il est possible de calculer le seuil de commande comme indiqué plus haut en remplaçant la CMM par la consommation prévue pour le mois suivant._**  
 
 ## II. Pratiques de dispensation spécifiques aux médicaments ARV
 
