@@ -17,11 +17,11 @@ Teaser: Il est très vraisemblable qu’un vaccin contre le Covid 19 dû au Sars
 Text: 
 
 ## Trois problèmes sont à considérer
-1- Certes la recherche vaccinale est bouillonnante dans le domaine  avec plus de 100 projets recensés par l’OMS dont certains progressent rapidement *in vitro* à tel point que quelques essais cliniques de phase 1 sont même déjà en cours. 
+1. Certes la recherche vaccinale est bouillonnante dans le domaine  avec plus de 100 projets recensés par l’OMS dont certains progressent rapidement *in vitro* à tel point que quelques essais cliniques de phase 1 sont même déjà en cours. 
 
-2- Après la mise au point au laboratoire d’un vaccin  qui devrait être efficace et sûr, et un essai de phase 1 sur un nombre limité d’adultes volontaires qui permet de juger avant tout de sa non toxicité mais aussi de sa réponse immunitaire (preuve du concept), pourra alors débuter le long et onéreux processus du développement clinique passant par la phase d’immunogénicité, avec définition de la dose (phase 2), et la phase d’efficacité du vaccin (phase 3).
+2. Après la mise au point au laboratoire d’un vaccin  qui devrait être efficace et sûr, et un essai de phase 1 sur un nombre limité d’adultes volontaires qui permet de juger avant tout de sa non toxicité mais aussi de sa réponse immunitaire (preuve du concept), pourra alors débuter le long et onéreux processus du développement clinique passant par la phase d’immunogénicité, avec définition de la dose (phase 2), et la phase d’efficacité du vaccin (phase 3).
 
-3- Lorsque le (ou les) vaccin(s) sera (seront) considéré(s) comme sûrs(s) et efficace(s) par les autorités sanitaires, commencera alors la phase industrielle de fabrication à large échelle dans des grandes unités dédiées et certifiées de la bio-industrie mondiale. En effet, le nombre de doses nécessaires sera énorme pour ce vaccin qualifié de «"bien public mondial"  lors du *Téléthon* du 5 mai dernier, organisé par l’Union Européenne et qui a rapporté 7,4 milliards d'euros pour cette recherche vaccinale.
+3. Lorsque le (ou les) vaccin(s) sera (seront) considéré(s) comme sûrs(s) et efficace(s) par les autorités sanitaires, commencera alors la phase industrielle de fabrication à large échelle dans des grandes unités dédiées et certifiées de la bio-industrie mondiale. En effet, le nombre de doses nécessaires sera énorme pour ce vaccin qualifié de «"bien public mondial"  lors du *Téléthon* du 5 mai dernier, organisé par l’Union Européenne et qui a rapporté 7,4 milliards d'euros pour cette recherche vaccinale.
 
 L’ensemble de ce processus prendra obligatoirement du temps, même si la préparation des différentes phases peut être anticipée et se chevaucher. Par exemple, certains centres ont déjà commencé à recruter des volontaires pour les études d’immunogénicité. 
 

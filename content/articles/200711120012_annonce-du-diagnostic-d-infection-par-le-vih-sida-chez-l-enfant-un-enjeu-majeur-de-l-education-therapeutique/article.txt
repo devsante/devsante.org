@@ -100,29 +100,29 @@ La connaissance du diagnostic d'infection au VIH/SIDA permet à l'enfant et à l
 
 **_Bibliographie :_**
 
-1- Stephenson & al: Strict adherence to ARV medication is necessary to sustain viral suppression or "virologic success". JAMA ; 281(12), 1999.  
-2- D. Gibb, R. Goodall, V Giacomet et al. Adherence to prescribed ART in HIV-infected children in the PENTA 5 trail. _Pediatr Infect. Dis. J, 22 :56-62, 2003_  
-3- Pradier C, Bentz L, Spire B et al. Efficacy of an educational and counseling intervention on adherence to HAART: _French prospective controlled study. HIC clin trials: 4(2): 121-131, 2003._  
-4- N. Trocmé, G. Vaudre, C. Dolfus. Observance du traitement antirétrouiral de l'adolescent séropositif pour le VIH. _Archives de pédiatrie. 9:1241-47, 2002._  
-5- M. Goode, A. Mc Maugh, J. Wales, JB. Ziegler. Adherence issues in children and adolescents receiving HAART AIDS Care; 15(3):403-8, 2003 Jun.
-6- Haven B, Wiener L. from adolescence through Young adulthood: Psychological adjustment associated with long term suruiual of HIV. J of adol. health; 30: 161-168, 2001.
-7- Dr C.A. Peltier. Présentation orale. Management of children moving from adolescent care to adult clinics. 8th congress on drug therapy in HIV infection Glasgow, 12-16 nou. 2006.  
-8- Dr C.A. Peltier - Présentation orale. Adhésion au traitement ARV: Un défi de tous les jours"De la mère à l'enfant, les défis pour l'avenir"1" colloque francophone médical international - Bruxelles, mars 2003.
-9- C.A. Peltier, M. Hainaut, S. Wibaud, S. Moulinier, C. Bachelerie, J. Leuy. Didactic tools to improve adherence to HAART for children. Poster- 8th European Conference on Clinical Aspects and Treatment of HIV-infection - Athènes/ Grèce, Octobre 2001.  
-10- C.A. Peltier M. Hainaut, S. Wibaut, C. Bachelerie, J. Leuy. Specific pediatric educational program for children infected with HIV-1 to improue adherence to treatment. Poster-3rd world congress of Pediatric Infectious Diseases - Santiago de Chili, Nov 2002.  
-11- Rueda S, Park-Wyllie LY, Bayoumi AM, Tynan AM. Patient support and education for promoting adherence to HAART for HIU/AIDS. Cochrane database Syst Reu, 19; 3: CD001442, 2006 ju l.  
-12- Martin S, Elliot-DeSorbo DK, Wolters PL, Toledo-Tamula MA et al. Patient, caregiver and regimen characteristics associated with adherence to HAART among HIV-infected children and adolescents. Pediatr. Infect. Dis, 26 (1):61-7, 2007 Jan  
-13- Dr A. Waelbrouck, Dr C.A. Peltier, S. Wibaut, P Cyaga, C. Ornes. Prise en charge des adolescents infectés par le VIH au Rwanda et à Bruxelles-poster. 4ème conférence francophone sur le VIH- Paris - Mars 2007.  
-14- C.A. Peltier, M. Hainaut, B. Vantournhout et al . Cross sectionnal eualuation of the virologic results of antiretroviral therapy in a cohort of 118 HIV-1 Infected child Poster3rd wd congress of Ped. Infectious DiseasesSantiago de Chili, nou 2002.  
-15- Osterberg L,Blaschke T Adherence to medication. N Engl J med 2005;353:487-497.  
-16- Dr A. Peltier, Présentation orale-.Outils didactiques créés spécifiquement pour le counseling enfants affectés et infectés par le VIH utilisés au TRAC et en salle de pédiatrie au CHU de Kigali. _International Symposium on Infectious Diseases. Kigali -Août 23-26, 2005._  
-17- Dr A. Peltier- Présentation orale- Prise en charge des adolescents infectés par le VIH2è"1e conférence pédiatrique national organisé par le CNLS à Kigali- 21 au 22 nou 2006.  
-18- Flynn M, Bret J, Douglas S et al. Virologic and Immunologic outcomes after 24 weeks in HIV Type 1 Infected adolescents receiuing HAART JID 2004; 190:271-279 Ann Allergy Asthma Immonul. 95(5):40512; quiz 413-5, 463, 2007 Mai.  
-19- Dr A. Peltier, S. Wibaut, Jeanine Gato, J.Mugabo, J. Nzibizi, F. Ndamage. Specific pediatric educational program for children infected with HIV to improue adherence to follow-up and treatment. Poster- ls' National Conference on Paediatric Treatment Care and Support, Rwanda 2005.  
-20- S. Wibaut, G. André, M. Muhizi, J. Mukakalisa et al. "Support the CD4's" Didactic tools to improue a psychosocial approach with families living with HIV/AIDS. A pilot project in the Clinic TRAC, Rwanda. Présentation orale. PATA Nairobi.  
-21- S. Wibaut, A. Majyambere, J. Mugabo, J. Mukakalisa, C. Karasi-Omes. Groupes de soutien et de parole pour les familles vivant avec le VIH/SIDA, un projet pilote à la clinique du TRACplus - 4- conf. francophone sur le VIH- Paris - Mars 2007.  
-22- Annonce au diagnostic aux enfants infectés par le VIH à l'hôpital Gabriel Touré- Information UNICEF- Mission d'expertise à Bamako (Mali)- Décembre 2006.  
-23- Dr C.A.Peltier- Présentation orale Adherence to antiretroviral therapy in HIV infected children. PENTA (Paediatric European Network for Treatment of AIDS) Investigators Meeting Camogli-Italy - Feb. 28th-march 2nd 2003.  
-24- Lancet 2002; 359 :733-40.
+1. Stephenson & al: Strict adherence to ARV medication is necessary to sustain viral suppression or "virologic success". JAMA ; 281(12), 1999.  
+2. D. Gibb, R. Goodall, V Giacomet et al. Adherence to prescribed ART in HIV-infected children in the PENTA 5 trail. _Pediatr Infect. Dis. J, 22 :56-62, 2003_  
+3. Pradier C, Bentz L, Spire B et al. Efficacy of an educational and counseling intervention on adherence to HAART: _French prospective controlled study. HIC clin trials: 4(2): 121-131, 2003._  
+4. N. Trocmé, G. Vaudre, C. Dolfus. Observance du traitement antirétrouiral de l'adolescent séropositif pour le VIH. _Archives de pédiatrie. 9:1241-47, 2002._  
+5. M. Goode, A. Mc Maugh, J. Wales, JB. Ziegler. Adherence issues in children and adolescents receiving HAART AIDS Care; 15(3):403-8, 2003 Jun.
+6. Haven B, Wiener L. from adolescence through Young adulthood: Psychological adjustment associated with long term suruiual of HIV. J of adol. health; 30: 161-168, 2001.
+7. Dr C.A. Peltier. Présentation orale. Management of children moving from adolescent care to adult clinics. 8th congress on drug therapy in HIV infection Glasgow, 12-16 nou. 2006.  
+8. Dr C.A. Peltier - Présentation orale. Adhésion au traitement ARV: Un défi de tous les jours"De la mère à l'enfant, les défis pour l'avenir"1" colloque francophone médical international - Bruxelles, mars 2003.
+9. C.A. Peltier, M. Hainaut, S. Wibaud, S. Moulinier, C. Bachelerie, J. Leuy. Didactic tools to improve adherence to HAART for children. Poster- 8th European Conference on Clinical Aspects and Treatment of HIV-infection - Athènes/ Grèce, Octobre 2001.  
+10. C.A. Peltier M. Hainaut, S. Wibaut, C. Bachelerie, J. Leuy. Specific pediatric educational program for children infected with HIV-1 to improue adherence to treatment. Poster-3rd world congress of Pediatric Infectious Diseases - Santiago de Chili, Nov 2002.  
+11. Rueda S, Park-Wyllie LY, Bayoumi AM, Tynan AM. Patient support and education for promoting adherence to HAART for HIU/AIDS. Cochrane database Syst Reu, 19; 3: CD001442, 2006 ju l.  
+12. Martin S, Elliot-DeSorbo DK, Wolters PL, Toledo-Tamula MA et al. Patient, caregiver and regimen characteristics associated with adherence to HAART among HIV-infected children and adolescents. Pediatr. Infect. Dis, 26 (1):61-7, 2007 Jan  
+13. Dr A. Waelbrouck, Dr C.A. Peltier, S. Wibaut, P Cyaga, C. Ornes. Prise en charge des adolescents infectés par le VIH au Rwanda et à Bruxelles-poster. 4ème conférence francophone sur le VIH- Paris - Mars 2007.  
+14. C.A. Peltier, M. Hainaut, B. Vantournhout et al . Cross sectionnal eualuation of the virologic results of antiretroviral therapy in a cohort of 118 HIV-1 Infected child Poster3rd wd congress of Ped. Infectious DiseasesSantiago de Chili, nou 2002.  
+15. Osterberg L,Blaschke T Adherence to medication. N Engl J med 2005;353:487-497.  
+16. Dr A. Peltier, Présentation orale-.Outils didactiques créés spécifiquement pour le counseling enfants affectés et infectés par le VIH utilisés au TRAC et en salle de pédiatrie au CHU de Kigali. _International Symposium on Infectious Diseases. Kigali -Août 23-26, 2005._  
+17. Dr A. Peltier- Présentation orale- Prise en charge des adolescents infectés par le VIH2è"1e conférence pédiatrique national organisé par le CNLS à Kigali- 21 au 22 nou 2006.  
+18. Flynn M, Bret J, Douglas S et al. Virologic and Immunologic outcomes after 24 weeks in HIV Type 1 Infected adolescents receiuing HAART JID 2004; 190:271-279 Ann Allergy Asthma Immonul. 95(5):40512; quiz 413-5, 463, 2007 Mai.  
+19. Dr A. Peltier, S. Wibaut, Jeanine Gato, J.Mugabo, J. Nzibizi, F. Ndamage. Specific pediatric educational program for children infected with HIV to improue adherence to follow-up and treatment. Poster- ls' National Conference on Paediatric Treatment Care and Support, Rwanda 2005.  
+20. S. Wibaut, G. André, M. Muhizi, J. Mukakalisa et al. "Support the CD4's" Didactic tools to improue a psychosocial approach with families living with HIV/AIDS. A pilot project in the Clinic TRAC, Rwanda. Présentation orale. PATA Nairobi.  
+21. S. Wibaut, A. Majyambere, J. Mugabo, J. Mukakalisa, C. Karasi-Omes. Groupes de soutien et de parole pour les familles vivant avec le VIH/SIDA, un projet pilote à la clinique du TRACplus - 4- conf. francophone sur le VIH- Paris - Mars 2007.  
+22. Annonce au diagnostic aux enfants infectés par le VIH à l'hôpital Gabriel Touré- Information UNICEF- Mission d'expertise à Bamako (Mali)- Décembre 2006.  
+23. Dr C.A.Peltier- Présentation orale Adherence to antiretroviral therapy in HIV infected children. PENTA (Paediatric European Network for Treatment of AIDS) Investigators Meeting Camogli-Italy - Feb. 28th-march 2nd 2003.  
+24. Lancet 2002; 359 :733-40.
 
 _Développement et Santé, n°187, 2007_

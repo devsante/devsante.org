@@ -72,7 +72,7 @@ Dans ce contexte, la société civile et les ONG peuvent jouer un rôle importan
 
 
 **Références**
-1-  https://ourworldindata.org/covid-deaths
-2- https://ourworldindata.org/coronavirus-testing#tests-per-case-how-many-tests-to-find-one-covid-19-case   et https://ourworldindata.org/mortality-risk-covid#the-current-case-fatality-rate-of-covid-19 
-3- https://www.lemonde.fr/les-decodeurs/article/2020/05/05/coronavirus-age-mortalite-departements-pays-suivez-l-evolution-de-l-epidemie-en-cartes-et-graphiques_6038751_4355770.html paragraphe répartition des déces 
-4- https://www.pnas.org/content/117/18/9696
+1.  https://ourworldindata.org/covid-deaths
+2. https://ourworldindata.org/coronavirus-testing#tests-per-case-how-many-tests-to-find-one-covid-19-case   et https://ourworldindata.org/mortality-risk-covid#the-current-case-fatality-rate-of-covid-19 
+3. https://www.lemonde.fr/les-decodeurs/article/2020/05/05/coronavirus-age-mortalite-departements-pays-suivez-l-evolution-de-l-epidemie-en-cartes-et-graphiques_6038751_4355770.html paragraphe répartition des déces 
+4. https://www.pnas.org/content/117/18/9696

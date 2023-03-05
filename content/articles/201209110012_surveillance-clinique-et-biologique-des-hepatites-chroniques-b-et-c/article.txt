@@ -208,16 +208,16 @@ La surveillance à 3 reprises pendant un an du taux des transaminases et de l�
 En cas d’hépatite chronique C à transaminases normales ou d’hépatite chronique minime, la surveillance repose sur un examen clinique et un dosage semestriel des transaminases. L’évaluation histologique biou triennale par marqueurs sériques et/ou fribroscan, enfin la PBH tous les 5 ans.
 
 _Références_  
-1- Lai CL, Yuen MF. The natural history and treatment of chronic  hepatitis  B  :  a  critical  evaluation  of  standard treatment criteria and end points. Ann Intern Med 2007; 174 : 58-61  
-2- Zoulim F, Kay A, Merle P, trepo C. Virologie de l’hépatite B. In : Hépatologie. Volume III. Paris : Elsevier, 2007 : 7-015-B-030.  
-3- Lok AS, McMahon BJ. Chronic hepatitus B. Hepatology 2001 ; 34 : 1225-41.  
-4- Lok AS, Heathcote EJ, Hoofnagle JH. Management of hepatitis B : 2000-Summary of a workshop. Gastroenterology 2001 ; 120 :1828-53.  
-5- Ganem D, Prince AM. Hepatitis B virus infection natu rel history and clinical. New Engl J Med, 2004 ; 350 : 1118-29.  
-6- De Franchis R, Meucci G, Vecchi M et al. The natural history of asymptomatic hepatitis B surface antigen carriers. Ann Intern Med 1993 ; 118 :191-4.  
-7- Schalm SW. Heathcote J Cianciara J et al. Lamivudine and alpha interferon combination treatment of patients with chronics hepatitis B infections randomized trial. Gut 2000 ; 46 :562-8.  
-8- Valla D.  EASL  International  Consensus  Conference Statement on hepatitis B, J Hepatol 2003 ; 38 :533-40.  
-9- Bruix J, Sherman M.  Management  of  hepatocellular carcinoma. Hepatology 2005 ; 42 :1208-36.  
-10- Hsu YS, Chien RN, Ych CT, Sheen IS. Chiou hy, Chu CM, et al. Long term outcome after spontaneous HBc ag seroconversion in patients with chronic hepatitis B. Hepatology 2002 ; 35 : 1522-27.  
-11- Manno N, Camma C Schepis F et al. Natural history of chronic HBV carriers in northern Italy : morbidity and mortality after 30 years. Gastroenterology 2004 ; 127 : 756-63.  
-12- Nakamura Y Motokura T, Fujita A et al. Severe hepatitis related to chemotherapy in hepatitis B virus carries with hematologic malignancies. Cancers 1996 ; 2210-5.  
-13- Saadeh S. Cammel G. Carey WD. Younossi Z. Barnes D. Easley K. The role of liver biopsy in chronic hepatitis C. Hepatology 2001;33: 196-200.
+1. Lai CL, Yuen MF. The natural history and treatment of chronic  hepatitis  B  :  a  critical  evaluation  of  standard treatment criteria and end points. Ann Intern Med 2007; 174 : 58-61  
+2. Zoulim F, Kay A, Merle P, trepo C. Virologie de l’hépatite B. In : Hépatologie. Volume III. Paris : Elsevier, 2007 : 7-015-B-030.  
+3. Lok AS, McMahon BJ. Chronic hepatitus B. Hepatology 2001 ; 34 : 1225-41.  
+4. Lok AS, Heathcote EJ, Hoofnagle JH. Management of hepatitis B : 2000-Summary of a workshop. Gastroenterology 2001 ; 120 :1828-53.  
+5. Ganem D, Prince AM. Hepatitis B virus infection natu rel history and clinical. New Engl J Med, 2004 ; 350 : 1118-29.  
+6. De Franchis R, Meucci G, Vecchi M et al. The natural history of asymptomatic hepatitis B surface antigen carriers. Ann Intern Med 1993 ; 118 :191-4.  
+7. Schalm SW. Heathcote J Cianciara J et al. Lamivudine and alpha interferon combination treatment of patients with chronics hepatitis B infections randomized trial. Gut 2000 ; 46 :562-8.  
+8. Valla D.  EASL  International  Consensus  Conference Statement on hepatitis B, J Hepatol 2003 ; 38 :533-40.  
+9. Bruix J, Sherman M.  Management  of  hepatocellular carcinoma. Hepatology 2005 ; 42 :1208-36.  
+10. Hsu YS, Chien RN, Ych CT, Sheen IS. Chiou hy, Chu CM, et al. Long term outcome after spontaneous HBc ag seroconversion in patients with chronic hepatitis B. Hepatology 2002 ; 35 : 1522-27.  
+11. Manno N, Camma C Schepis F et al. Natural history of chronic HBV carriers in northern Italy : morbidity and mortality after 30 years. Gastroenterology 2004 ; 127 : 756-63.  
+12. Nakamura Y Motokura T, Fujita A et al. Severe hepatitis related to chemotherapy in hepatitis B virus carries with hematologic malignancies. Cancers 1996 ; 2210-5.  
+13. Saadeh S. Cammel G. Carey WD. Younossi Z. Barnes D. Easley K. The role of liver biopsy in chronic hepatitis C. Hepatology 2001;33: 196-200.

@@ -246,15 +246,15 @@ Dépendant du degré d'intoxication, elle est mar­quée par différents signes 
 
 Dans les cas où l'on ignore la nature du produit, cinq principes sont à connaître :
 
-1- Toute intoxication potentielle doit être considérée comme une intoxication réelle.
+1. Toute intoxication potentielle doit être considérée comme une intoxication réelle.
 
-2- On doit considérer que la quantité absorbée est maximale.
+2. On doit considérer que la quantité absorbée est maximale.
 
-3- Le délai entre l'heure de la découverte de l'intoxication et le prernier geste efficace doit être le plus court possible.
+3. Le délai entre l'heure de la découverte de l'intoxication et le prernier geste efficace doit être le plus court possible.
 
-4- Une intoxication par ingestion orale nécessite une évacuation gastrique en l'absence de contre­indications, une intoxication par voie rectale un lavement évacuateur.
+4. Une intoxication par ingestion orale nécessite une évacuation gastrique en l'absence de contre­indications, une intoxication par voie rectale un lavement évacuateur.
 
-5- Tout intoxiqué doit être maintenu en observation en milieu hospitalier au moins 24 heures.
+5. Tout intoxiqué doit être maintenu en observation en milieu hospitalier au moins 24 heures.
 
 L'association coma et hyperapnée dans un contexte fébrile doit faire penser à une intoxication salicylée. Dans les formes sévères :
 

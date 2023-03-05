@@ -293,61 +293,61 @@ Comme pour le VHB, le deuxième problème est le mode d'administration de l'inte
 **En conclusion**, le traitement des hépatites B et C a fait des progrès remarquables ces dernières années en raison du développement de nouvelles molécules de plus en plus efficaces pour le VHB avec très peu de  résistance.  Pour  le  VHC,  l'apparition  des  anti-protéases et bientôt des anti-polymérases fait espérer que la production de ces molécules pourra être accélérée  et  compte  tenu  du  marché,  à  des  prix  plus raisonnables.
 
 Bibliographie  
-1- Hatzakis A, Wait S, Bruix J, Buti M, et al. The state of hepatitis B and C in Europe: report from the hepatitis B and C summit conference. J Viral Hepat. 2011 Sep;18 Suppl 1:1-16.  
-2- Negro F, Alberti A. The global health burden of hepatitis C virus infection. Liver Int. 2011 Jul;31 Suppl 2:1-3.  
-3- Perz JF, Armstrong GL, Farrington LA, Hutin YJ, Bell BP. The contributions of hepatitis B virus and hepatitis C virus infections  to  cirrhosis  and  primary  liver  cancer  worldwide. Journal of Hepatology. 2006;45(4):529–538.  
-4- McGlynn KA,  London  WT.  The global epidemiology  of hepatocellular carcinoma: present and future. Clin Liver Dis. 2011 May.  
-5- Grimm D, Thimme R, Blum HE. HBV life cycle and novel drug targets. Hepatol Int. 2011 Jun;5(2):644-53.  
-6- Dienstag JL.  Hepatitis B virus  infection.  N Engl J Med. 2008;359(14):1486–1500.  
-7- Urban S, Schulze A, Dandri M, Petersen J. The replication cycle of hepatitis B virus. J Hepatol. 2010;52(2):282–284.  
-8- Kay A, Zoulim F. (2007). Hepatitis B virus genetic variability and evolution. Virus Research, 127:164–176.  
-9- Schaefer S (2007). Hepatitis B virus taxonomy and hepatitis B virus genotypes. World Journal of Gastroenterology, 13(1) : 14-21  
-10- Stuyver LJ, Locamini SA, Lok A, Richman DD, Carman WF, Dienstag JL, Schinazi RF. (2001). Nomenclature for antiviral-resistant human hepatitis B virus mutations in the polymerase region. 33(3): p.751-7.  
-11- Hou J, Lui Z, Gu F. Epidemiology and prevention of hepatitis B virus infection. International J Med Sci 2005; 2:50-7.  
-12- Otegbayo JA, Fasola FA, Abja A. Prevalence of hepatitis B surface and e antigens, risk factors for viral acquisition and serum transaminase among blood donors in Ibadan, Nigeria. Trop Gastroenterol 2003; 24:196-7.  
-13- Uneke CJ, Ogbu O, Inyama PU, Anyanwu GI, Njoku MO, et al. Prevalence of hepatitis-B surface antigen among blood donors and human immunodeficiency virus-infected patients in Jos, Nigeria. Mem Inst Oswaldo Cruz. 2005; 100:13-6.  
-14- Vray M, Debonne JM, Sire JM, Tran N, Chevalier B, Plantier JC, et al. Molecular epidemiology of hepatitis B virus in Dakar, Senegal. J Med Virol. 2006; 78:329-34.  
-15- Matee MI, Magesa PM, Lyamuya EF. Seroprevalence of human immunodeficiency  virus, hepatitis B and C viruses and syphilis infections among blood donors at the Muhimbili National Hospital in Dar Es Salaam, Tanzania. BMC Public Health 2006;6:21.  
-16- Calvin Q. Pan et Jin X. Zhang. (2005). Natural History and Clinical Consequences of Hepatitis B Virus Infection. International Journal of Medical Sciences; 2(1):36-40.  
-17- Ayoub WS, Keeffe EB. Current antiviral therapy of chronic hepatitis    B.    Aliment    Pharmacol    Ther.  2011 Nov; 34(10):1145-58.  
-18- Fung J, Lai CL, Seto WK, Yuen MF. Nucleoside/nucleotide analogues in the treatment of chronic hepatitis B. J Antimicrob Chemother. 2011 Oct 7.  
-19- Wiersma ST, McMahon B, Pawlotsky JM, Thio CL, et al. World Health Organization Department of Immunization, Vaccines and Biologicals. Treatment of chronic hepatitis B virus infection in resource-constrained settings: expert panel consensus. Liver Int. 2011 Jul;31(6):755-61.  
-20- European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of chronic hepatitis B. J Hepatol 2009;50.  
-21- Lavanchy D. Hepatitis B virus epidemiology, disease burden, treatment, and current and emerging prevention and control measures. J Viral Hepat. 2004;11:97–107.  
-22- Marcellin P, Lau GK, Bonino F, Farci P, et al. Peginterféron Alfa-2a HBeAg-Negative Chronic Hepatitis B Study Group. Peginterféron alfa-2a alone, lamivudine alone, and the two in combination in patients with HBeAg-negative chronic hepatitis B. N Engl J Med. 2004 Sep 16;351(12):1206-17.  
-23- Thibault V, Benhamou Y, Seguret C, et al. Hepatitis B virus (HBV) mutations associated with resistance to lamivudine in patients coinfected with HBV and human immunodeficiency virus. J Clin Microbiol. 1999 Sep;37(9):3013-6.  
-24- Bartholomeusz A, Locarnini S. Hepatitis B virus mutations associated with antiviral therapy. J Med Virol. 2006;78 Suppl 1:S52-5.  
-25- Matee MI, Magesa PM, Lyamuya EF. Seroprevalence of human immunodeficiency virus, hepatitis B and C viruses and syphilis infections among blood donors at the Muhimbili National Hospital in Dar Es Salaam, Tanzania. BMC Public Health 2006;6:21.  
-26- Konopnicki D, Mocroft A, de Wit S, et al. Hepatitis B and HIV: prevalence, AIDS progression, response to highly active antiretroviral therapy and increased mortality in the Euro-SIDA cohort. AIDS. 2005 Mar 24;19(6):593-601.  
-27- Soriano V, Mocroft A, Peters L, et al. EuroSIDA. Predictors of  hepatitis  B  genotype  and  viraemia  in  HIV-infected patients  with  chronic  hepatitis  B  in  Europe.  J  Antimicrob Chemother 2010 Mar;65(3):548-55.  
-28- Matthews GV, Bartholomeusz A, Locarnini S, et al. Characteristics of drug resistant HBV in an international collaborative study of HIV-HBV-infected individuals on extended lamivudine therapy. AIDS. 2006 Apr 4;20(6):863-70.  
-29- Mendes-Correa MC, Pinho JR, Locarnini S, Yuen L, et al. High frequency of lamivudine resistance mutations in Brazilian patients co-infected with HIV and hepatitis B. J Med Virol. 2010 Sep;82(9):1481-8.  
-30- Hughes SA, Wedemeyer H, Harrison PM. Hepatitis delta virus. Lancet. 2011 Jul 2;378(9785):73-85.  
-31- Farci.P. Delta hepatitis: an update. J Hepatol 2003; 39:212-19.  
-32- Farci P. Treatment of chronic Hepatitis D : New Advances, old challenges. Hepatology 2006; 44:536-9.  
-33- Brody H. Hepatitis C. Nature. 2011 Jun 8;474(7350):S1.  
-34- Ashfaq UA, Javed T, Rehman S, Nawaz Z, Riazuddin S. An overview of HCV molecular biology, replication and immune responses. Virol J. 2011 Apr 11;8:161.  
-35- EASL Clinical Practice Guidelines: management of hepatitis C virus infection. European Association For The Study Of The Liver. J Hepatol. 2011 Aug;55(2):245-64  
-36- Fontaine H, Sogni P, Pol S. New treatments of chronic hepatitis C. Presse Med. 2011 Nov 4.  
-37- Connell LE, Salihu HM, Salemi JL, August EM, Weldeselasse H, Mbah AK. Maternal hepatitis B and hepatitis C carrier status and perinatal outcomes. Liver Int. 2011  
+1. Hatzakis A, Wait S, Bruix J, Buti M, et al. The state of hepatitis B and C in Europe: report from the hepatitis B and C summit conference. J Viral Hepat. 2011 Sep;18 Suppl 1:1-16.  
+2. Negro F, Alberti A. The global health burden of hepatitis C virus infection. Liver Int. 2011 Jul;31 Suppl 2:1-3.  
+3. Perz JF, Armstrong GL, Farrington LA, Hutin YJ, Bell BP. The contributions of hepatitis B virus and hepatitis C virus infections  to  cirrhosis  and  primary  liver  cancer  worldwide. Journal of Hepatology. 2006;45(4):529–538.  
+4. McGlynn KA,  London  WT.  The global epidemiology  of hepatocellular carcinoma: present and future. Clin Liver Dis. 2011 May.  
+5. Grimm D, Thimme R, Blum HE. HBV life cycle and novel drug targets. Hepatol Int. 2011 Jun;5(2):644-53.  
+6. Dienstag JL.  Hepatitis B virus  infection.  N Engl J Med. 2008;359(14):1486–1500.  
+7. Urban S, Schulze A, Dandri M, Petersen J. The replication cycle of hepatitis B virus. J Hepatol. 2010;52(2):282–284.  
+8. Kay A, Zoulim F. (2007). Hepatitis B virus genetic variability and evolution. Virus Research, 127:164–176.  
+9. Schaefer S (2007). Hepatitis B virus taxonomy and hepatitis B virus genotypes. World Journal of Gastroenterology, 13(1) : 14-21  
+10. Stuyver LJ, Locamini SA, Lok A, Richman DD, Carman WF, Dienstag JL, Schinazi RF. (2001). Nomenclature for antiviral-resistant human hepatitis B virus mutations in the polymerase region. 33(3): p.751-7.  
+11. Hou J, Lui Z, Gu F. Epidemiology and prevention of hepatitis B virus infection. International J Med Sci 2005; 2:50-7.  
+12. Otegbayo JA, Fasola FA, Abja A. Prevalence of hepatitis B surface and e antigens, risk factors for viral acquisition and serum transaminase among blood donors in Ibadan, Nigeria. Trop Gastroenterol 2003; 24:196-7.  
+13. Uneke CJ, Ogbu O, Inyama PU, Anyanwu GI, Njoku MO, et al. Prevalence of hepatitis-B surface antigen among blood donors and human immunodeficiency virus-infected patients in Jos, Nigeria. Mem Inst Oswaldo Cruz. 2005; 100:13-6.  
+14. Vray M, Debonne JM, Sire JM, Tran N, Chevalier B, Plantier JC, et al. Molecular epidemiology of hepatitis B virus in Dakar, Senegal. J Med Virol. 2006; 78:329-34.  
+15. Matee MI, Magesa PM, Lyamuya EF. Seroprevalence of human immunodeficiency  virus, hepatitis B and C viruses and syphilis infections among blood donors at the Muhimbili National Hospital in Dar Es Salaam, Tanzania. BMC Public Health 2006;6:21.  
+16. Calvin Q. Pan et Jin X. Zhang. (2005). Natural History and Clinical Consequences of Hepatitis B Virus Infection. International Journal of Medical Sciences; 2(1):36-40.  
+17. Ayoub WS, Keeffe EB. Current antiviral therapy of chronic hepatitis    B.    Aliment    Pharmacol    Ther.  2011 Nov; 34(10):1145-58.  
+18. Fung J, Lai CL, Seto WK, Yuen MF. Nucleoside/nucleotide analogues in the treatment of chronic hepatitis B. J Antimicrob Chemother. 2011 Oct 7.  
+19. Wiersma ST, McMahon B, Pawlotsky JM, Thio CL, et al. World Health Organization Department of Immunization, Vaccines and Biologicals. Treatment of chronic hepatitis B virus infection in resource-constrained settings: expert panel consensus. Liver Int. 2011 Jul;31(6):755-61.  
+20. European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of chronic hepatitis B. J Hepatol 2009;50.  
+21. Lavanchy D. Hepatitis B virus epidemiology, disease burden, treatment, and current and emerging prevention and control measures. J Viral Hepat. 2004;11:97–107.  
+22. Marcellin P, Lau GK, Bonino F, Farci P, et al. Peginterféron Alfa-2a HBeAg-Negative Chronic Hepatitis B Study Group. Peginterféron alfa-2a alone, lamivudine alone, and the two in combination in patients with HBeAg-negative chronic hepatitis B. N Engl J Med. 2004 Sep 16;351(12):1206-17.  
+23. Thibault V, Benhamou Y, Seguret C, et al. Hepatitis B virus (HBV) mutations associated with resistance to lamivudine in patients coinfected with HBV and human immunodeficiency virus. J Clin Microbiol. 1999 Sep;37(9):3013-6.  
+24. Bartholomeusz A, Locarnini S. Hepatitis B virus mutations associated with antiviral therapy. J Med Virol. 2006;78 Suppl 1:S52-5.  
+25. Matee MI, Magesa PM, Lyamuya EF. Seroprevalence of human immunodeficiency virus, hepatitis B and C viruses and syphilis infections among blood donors at the Muhimbili National Hospital in Dar Es Salaam, Tanzania. BMC Public Health 2006;6:21.  
+26. Konopnicki D, Mocroft A, de Wit S, et al. Hepatitis B and HIV: prevalence, AIDS progression, response to highly active antiretroviral therapy and increased mortality in the Euro-SIDA cohort. AIDS. 2005 Mar 24;19(6):593-601.  
+27. Soriano V, Mocroft A, Peters L, et al. EuroSIDA. Predictors of  hepatitis  B  genotype  and  viraemia  in  HIV-infected patients  with  chronic  hepatitis  B  in  Europe.  J  Antimicrob Chemother 2010 Mar;65(3):548-55.  
+28. Matthews GV, Bartholomeusz A, Locarnini S, et al. Characteristics of drug resistant HBV in an international collaborative study of HIV-HBV-infected individuals on extended lamivudine therapy. AIDS. 2006 Apr 4;20(6):863-70.  
+29. Mendes-Correa MC, Pinho JR, Locarnini S, Yuen L, et al. High frequency of lamivudine resistance mutations in Brazilian patients co-infected with HIV and hepatitis B. J Med Virol. 2010 Sep;82(9):1481-8.  
+30. Hughes SA, Wedemeyer H, Harrison PM. Hepatitis delta virus. Lancet. 2011 Jul 2;378(9785):73-85.  
+31. Farci.P. Delta hepatitis: an update. J Hepatol 2003; 39:212-19.  
+32. Farci P. Treatment of chronic Hepatitis D : New Advances, old challenges. Hepatology 2006; 44:536-9.  
+33. Brody H. Hepatitis C. Nature. 2011 Jun 8;474(7350):S1.  
+34. Ashfaq UA, Javed T, Rehman S, Nawaz Z, Riazuddin S. An overview of HCV molecular biology, replication and immune responses. Virol J. 2011 Apr 11;8:161.  
+35. EASL Clinical Practice Guidelines: management of hepatitis C virus infection. European Association For The Study Of The Liver. J Hepatol. 2011 Aug;55(2):245-64  
+36. Fontaine H, Sogni P, Pol S. New treatments of chronic hepatitis C. Presse Med. 2011 Nov 4.  
+37. Connell LE, Salihu HM, Salemi JL, August EM, Weldeselasse H, Mbah AK. Maternal hepatitis B and hepatitis C carrier status and perinatal outcomes. Liver Int. 2011  
 Jun 7.  
-38- Birguel J, Ndong JG, Akhavan S, Moreau G, et  al.  Viral markers of hepatitis B, C and D and HB vaccination status of a health care team in a rural district of Cameroon. Med Trop (Mars). 2011 Apr;71(2):201-2. French.  
-39- Thomas DL, Astemborski J, Rai RM, et  al.  The  natural history of hepatitis C virus infection: host, viral, and environmental factors. Jama 2000, 284:450-456.  
-40- Lunel-Fabiani F PC: Outils virologiques dans le diagnostic et le suivi des hépatites C : utilisation et apport de nouveaux tests. Gastroenterol Clin Biol 2003, 27:718-726.  
-41- Boursier J, Dib N, Oberti F, Cales P: Characteristics and interpretation of blood tests for liver fibrosis. Gastroenterol Clin Biol 2007, 31:511-523; quiz 500, 531-512.  
-42- Cales P, Oberti F, Michalak S, Hubert-Fouchard I, Rousselet MC, Konate A, Gallois Y, Ternisien C, Chevailler A, Lunel F: A novel panel of blood markers to assess the degree of liver fibrosis. Hepatology 2005, 42:1373-1381.  
-43- Cales P, de Ledinghen V, Halfon P, Bacq Y, Leroy V, Boursier J, Foucher J, Bourliere M, de Muret A, Sturm N, et al. Evaluating the accuracy and increasing the reliable diagnosis rate of blood tests for liver fibrosis in chronic hepatitis C. Liver Int 2008.  
-44- O'Brien TR, Everhart JE, Morgan TR, et al. HALT-C Trial Group.  An  IL28B  genotype-based  clinicalprediction model for treatment  of  chronic  hepatitis  C.  PLoS  One.  2011; 6(7):e20904.  
-45- Gonzalez SA, Keeffe EB. IL-28B As a Predictor of Sustained Virologic Response in Patients with Chronic Hepatitis C Virus Infection. Gastroenterol Hepatol (N Y). 2011 Jun;7(6):366-73.  
-46- Soriano V, Vispo E, Poveda E, Labarga P, Martin-Carbonero L, Fernandez-Montero JV, Barreiro P. Directly acting antivirals against hepatitis C virus. J Antimicrob Chemother. 2011 Aug;66(8):1673-86.  
-47- Sulkowski MS. Viral hepatitis and HIV coinfection. J Hepatol 2008, 48:353-367.  
-48- Sherman KE, Rouster SD, Chung RT, Rajicic N: Hepatitis C Virus prevalence among patients infected with Human Immunodeficiency Virus: a cross-sectional analysis of the US adult AIDS Clinical Trials Group. Clin Infect Dis 2002, 34:831-837.  
-49- Eyster ME, Diamondstone LS, Lien JM, Ehmann WC, Quan S, Goedert JJ: Natural history of hepatitis C virus infection  in  multitransfused  hemophiliacs:  effect  of  coinfection with human immunodeficiency virus. The Multicenter Hemophilia  Cohort  Study.  J  Acquir  Immune  Defic  Syndr  1993, 6:602-610.  
-50- Pol S, Lamorthe B, Thi NT, Thiers V, Carnot F, Zylberberg H, Berthelot P, Brechot C, Nalpas B:  Retrospective analysis of the impact of HIV infection and alcohol use on chronic hepatitis C in a large cohort of drug users. J Hepatol 1998, 28:945-950.  
-51- Graham CS, Baden LR, Yu E, Mrus JM, Carnie J, Heeren T, Koziel MJ: Influence of human immunodeficiency virus infection on the course of hepatitis C virus infection: a meta- analysis. Clin Infect Dis 2001, 33:562-569.  
-52- Carrat F, Bani-Sadr F, Pol S, et al. Pégylated interferon alfa-2b vs standard interferon alfa-2b, plus ribavirin, for chronic hepatitis C in HIV-infected patients: a randomized controlled trial. Jama 2004, 292:2839-2848.  
-53- H. Le Guillou-Guillemette, P. Calès, F. Lunel.  Actualités sur  les  co-infections  VIH-VHC.  Antibiotiques  (2008)  10, 167-175.  
-54- Soriano V, Puoti M, Sulkowski M, Cargnel A, Benhamou Y, Peters M, Mauss S, Brau N, Hatzakis A, Pol S, et al. Care of patients coinfected with HIV and hepatitis C virus: 2007 updated recommendations from the HCV-HIV International Panel. Aids 2007, 21:1073-1089.  
-55- Payan C, Pivert A, Morand P, Fafi-Kremer S, Carrat F, Pol S, Cacoub P, Perronne C, Lunel F: Rapid and early virological  response  to  chronic  hepatitis  C  treatment  with  IFN alpha2b or PEG-IFN alpha2b plus ribavirin in HIV/HCV co-infected patients. Gut 2007, 56:1111-1116.
+38. Birguel J, Ndong JG, Akhavan S, Moreau G, et  al.  Viral markers of hepatitis B, C and D and HB vaccination status of a health care team in a rural district of Cameroon. Med Trop (Mars). 2011 Apr;71(2):201-2. French.  
+39. Thomas DL, Astemborski J, Rai RM, et  al.  The  natural history of hepatitis C virus infection: host, viral, and environmental factors. Jama 2000, 284:450-456.  
+40. Lunel-Fabiani F PC: Outils virologiques dans le diagnostic et le suivi des hépatites C : utilisation et apport de nouveaux tests. Gastroenterol Clin Biol 2003, 27:718-726.  
+41. Boursier J, Dib N, Oberti F, Cales P: Characteristics and interpretation of blood tests for liver fibrosis. Gastroenterol Clin Biol 2007, 31:511-523; quiz 500, 531-512.  
+42. Cales P, Oberti F, Michalak S, Hubert-Fouchard I, Rousselet MC, Konate A, Gallois Y, Ternisien C, Chevailler A, Lunel F: A novel panel of blood markers to assess the degree of liver fibrosis. Hepatology 2005, 42:1373-1381.  
+43. Cales P, de Ledinghen V, Halfon P, Bacq Y, Leroy V, Boursier J, Foucher J, Bourliere M, de Muret A, Sturm N, et al. Evaluating the accuracy and increasing the reliable diagnosis rate of blood tests for liver fibrosis in chronic hepatitis C. Liver Int 2008.  
+44. O'Brien TR, Everhart JE, Morgan TR, et al. HALT-C Trial Group.  An  IL28B  genotype-based  clinicalprediction model for treatment  of  chronic  hepatitis  C.  PLoS  One.  2011; 6(7):e20904.  
+45. Gonzalez SA, Keeffe EB. IL-28B As a Predictor of Sustained Virologic Response in Patients with Chronic Hepatitis C Virus Infection. Gastroenterol Hepatol (N Y). 2011 Jun;7(6):366-73.  
+46. Soriano V, Vispo E, Poveda E, Labarga P, Martin-Carbonero L, Fernandez-Montero JV, Barreiro P. Directly acting antivirals against hepatitis C virus. J Antimicrob Chemother. 2011 Aug;66(8):1673-86.  
+47. Sulkowski MS. Viral hepatitis and HIV coinfection. J Hepatol 2008, 48:353-367.  
+48. Sherman KE, Rouster SD, Chung RT, Rajicic N: Hepatitis C Virus prevalence among patients infected with Human Immunodeficiency Virus: a cross-sectional analysis of the US adult AIDS Clinical Trials Group. Clin Infect Dis 2002, 34:831-837.  
+49. Eyster ME, Diamondstone LS, Lien JM, Ehmann WC, Quan S, Goedert JJ: Natural history of hepatitis C virus infection  in  multitransfused  hemophiliacs:  effect  of  coinfection with human immunodeficiency virus. The Multicenter Hemophilia  Cohort  Study.  J  Acquir  Immune  Defic  Syndr  1993, 6:602-610.  
+50. Pol S, Lamorthe B, Thi NT, Thiers V, Carnot F, Zylberberg H, Berthelot P, Brechot C, Nalpas B:  Retrospective analysis of the impact of HIV infection and alcohol use on chronic hepatitis C in a large cohort of drug users. J Hepatol 1998, 28:945-950.  
+51. Graham CS, Baden LR, Yu E, Mrus JM, Carnie J, Heeren T, Koziel MJ: Influence of human immunodeficiency virus infection on the course of hepatitis C virus infection: a meta- analysis. Clin Infect Dis 2001, 33:562-569.  
+52. Carrat F, Bani-Sadr F, Pol S, et al. Pégylated interferon alfa-2b vs standard interferon alfa-2b, plus ribavirin, for chronic hepatitis C in HIV-infected patients: a randomized controlled trial. Jama 2004, 292:2839-2848.  
+53. H. Le Guillou-Guillemette, P. Calès, F. Lunel.  Actualités sur  les  co-infections  VIH-VHC.  Antibiotiques  (2008)  10, 167-175.  
+54. Soriano V, Puoti M, Sulkowski M, Cargnel A, Benhamou Y, Peters M, Mauss S, Brau N, Hatzakis A, Pol S, et al. Care of patients coinfected with HIV and hepatitis C virus: 2007 updated recommendations from the HCV-HIV International Panel. Aids 2007, 21:1073-1089.  
+55. Payan C, Pivert A, Morand P, Fafi-Kremer S, Carrat F, Pol S, Cacoub P, Perronne C, Lunel F: Rapid and early virological  response  to  chronic  hepatitis  C  treatment  with  IFN alpha2b or PEG-IFN alpha2b plus ribavirin in HIV/HCV co-infected patients. Gut 2007, 56:1111-1116.
 
 Développement et Santé, N° 200, 2012

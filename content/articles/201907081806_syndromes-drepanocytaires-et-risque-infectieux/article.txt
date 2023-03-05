@@ -204,16 +204,16 @@ Le guide de prise en charge de la drépanocytose en Afrique vient de paraître, 
 
 
 **Bibliographie**
-1- Oligbu G, and all .Risk of Invasive Pneumococcal Disease in Children with Sickle Cell Disease in England: A National Observational Cohort Study, 2010–2015. Arch Dis Child 2018;103:643–647.
-2-  Rankine-Mullings AE, Owusu-Ofori S. Prophylactic antibiotics for preventing pneumococcal infection in children with sickle cell disease : Cochrane Database Syst Rev . 10 octobre 2017: CD003427. doi: 10.1002 / 14651858.CD003427.pub4. La revue.
-3- Diagne I 1 , Soares GM , Gueye A , Diagne Gueye-NR , Fall L , N'Diaye O , Camara B , Diouf S , Automne M. Infections chez les enfants et les adolescents sénégalais souffranrt d'anémie falciforme: aspects épidémiologiques. Dakar Med. 2000; 45 (1): 55-8.
-4- Zarkowsky HS , Gallagher D , Gill FM , Wang WC , Falletta JM , WM Lande , Levy PS , Verter JI , Wethers D. Bactériémia in sickle cell hemoglobinopathies: J Pediatr. 1986 oct. 109 (4): 579-85.
-5- Quinet B. Actualités vaccinales chez l’enfant porteur d’une drépanocytose. MT pédiatrie 2017 ; 20(4) : 269-75 
-6- Milligan R 1 , Paul M , Richardson M , Neuberger A . vaccine for preventing  typhoide fever  2018 :The Cochrane Database of Systematic Review 2018;31 mai; 5.
-7- PNDS Syndromes drépanocytaires majeurs de l'enfant et l'adolescent https://www.has-sante.fr/portail/jcms/c_938888/fr/ald-n-10-pnds-sur-syndromes-drepanocytaires-majeurs-de-l-enfant-et-de-l-adolescent.
-8- Risque bactériémique et prise en charge des drépanocytaires fébriles de moins de trois ans . Marie Saunier-Pernaudet : thèse pour le doctorat en médecine Paris Descartes 2015:https://dumas.ccsd.cnrs.fr/dumas-01252840/document. 
-9- Alima Yanda et al. Burden and spectrum of bacterial infections among sickle cell disease children living in Cameroon:  BMC Infectious Diseases (2017) 17:211.
-10- Guide de prise en charge La drépanocytose en Afrique parrainé par le Gouvernement Princier de Monaco.
+1. Oligbu G, and all .Risk of Invasive Pneumococcal Disease in Children with Sickle Cell Disease in England: A National Observational Cohort Study, 2010–2015. Arch Dis Child 2018;103:643–647.
+2.  Rankine-Mullings AE, Owusu-Ofori S. Prophylactic antibiotics for preventing pneumococcal infection in children with sickle cell disease : Cochrane Database Syst Rev . 10 octobre 2017: CD003427. doi: 10.1002 / 14651858.CD003427.pub4. La revue.
+3. Diagne I 1 , Soares GM , Gueye A , Diagne Gueye-NR , Fall L , N'Diaye O , Camara B , Diouf S , Automne M. Infections chez les enfants et les adolescents sénégalais souffranrt d'anémie falciforme: aspects épidémiologiques. Dakar Med. 2000; 45 (1): 55-8.
+4. Zarkowsky HS , Gallagher D , Gill FM , Wang WC , Falletta JM , WM Lande , Levy PS , Verter JI , Wethers D. Bactériémia in sickle cell hemoglobinopathies: J Pediatr. 1986 oct. 109 (4): 579-85.
+5. Quinet B. Actualités vaccinales chez l’enfant porteur d’une drépanocytose. MT pédiatrie 2017 ; 20(4) : 269-75 
+6. Milligan R 1 , Paul M , Richardson M , Neuberger A . vaccine for preventing  typhoide fever  2018 :The Cochrane Database of Systematic Review 2018;31 mai; 5.
+7. PNDS Syndromes drépanocytaires majeurs de l'enfant et l'adolescent https://www.has-sante.fr/portail/jcms/c_938888/fr/ald-n-10-pnds-sur-syndromes-drepanocytaires-majeurs-de-l-enfant-et-de-l-adolescent.
+8. Risque bactériémique et prise en charge des drépanocytaires fébriles de moins de trois ans . Marie Saunier-Pernaudet : thèse pour le doctorat en médecine Paris Descartes 2015:https://dumas.ccsd.cnrs.fr/dumas-01252840/document. 
+9. Alima Yanda et al. Burden and spectrum of bacterial infections among sickle cell disease children living in Cameroon:  BMC Infectious Diseases (2017) 17:211.
+10. Guide de prise en charge La drépanocytose en Afrique parrainé par le Gouvernement Princier de Monaco.
 annexe 1.
 
 **Annexe 1 : Calendrier vaccinal français** 

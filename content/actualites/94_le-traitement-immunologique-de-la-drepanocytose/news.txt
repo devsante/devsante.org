@@ -16,19 +16,19 @@ Teaser:
 
 Text: 
 
-1- L’adhérence des globules rouges à l’endothélium vasculaire est un élément déterminant de la crise vaso-occlusive dans la drépanocytose. Cette adhérence est, entre autres, médiée par la molécule d’adhésion P-sélectine transférée à la surface des cellules endothéliales activées lors de l’inflammation.
+1. L’adhérence des globules rouges à l’endothélium vasculaire est un élément déterminant de la crise vaso-occlusive dans la drépanocytose. Cette adhérence est, entre autres, médiée par la molécule d’adhésion P-sélectine transférée à la surface des cellules endothéliales activées lors de l’inflammation.
 La P-sélectine présente sur les cellules endothéliales adhère aux globules rouges drépanocytaires in vitro, entraînant une occlusion vasculaire chez la souris transgénique. En outre, les plaquettes activées provoquent une agrégation des neutrophiles induite par la P-sélectine et contribuent à la vaso-occlusion chez l’homme comme chez la souris [1]. Enfin, la souris transgénique drépanocytaire déficiente en P et E-sélectine ne recrute pas les agrégats leucocytaires lors de l’induction d’une crise vaso-occlusive expérimentale [2].
 
-2- Le crizanlizumab est un anticorps monoclonal qui reconnait la P-sélectine et bloque l’interaction cellulaire de la P-sélectine avec ses récepteurs cellulaires. Un essai clinique en double aveugle a comparé 67 patients drépanocytaires SS/S ß thalassémiques recevant une forte dose d’anticorps monoclonal anti-P-sélectine et 66 patients SS/S ß thalassémiques recevant une faible dose du même anticorps à 65 patients SS/S ß thalassémiques recevant un placebo [2]. 
+2. Le crizanlizumab est un anticorps monoclonal qui reconnait la P-sélectine et bloque l’interaction cellulaire de la P-sélectine avec ses récepteurs cellulaires. Un essai clinique en double aveugle a comparé 67 patients drépanocytaires SS/S ß thalassémiques recevant une forte dose d’anticorps monoclonal anti-P-sélectine et 66 patients SS/S ß thalassémiques recevant une faible dose du même anticorps à 65 patients SS/S ß thalassémiques recevant un placebo [2]. 
 
-3- Les critères d’évaluation ont été la survenue de crises vaso-occlusives pendant l’année du traitement comparée au nombre de crises survenues dans l’année précédant le traitement.
+3. Les critères d’évaluation ont été la survenue de crises vaso-occlusives pendant l’année du traitement comparée au nombre de crises survenues dans l’année précédant le traitement.
 Dans le groupe recevant une forte dose d’anticorps, le nombre de crises survenues sous traitement a été significativement diminué par rapport au nombre de crises survenues pendant la période non traitée.
 Il n’a pas été observé de différence dans la survenue de crises avant et pendant le traitement entre le groupe placebo et le groupe recevant une dose faible d’anticorps.
 
-4- En conclusion, la réduction de l’adhérence des globules rouges à l’endothélium des vaisseaux et de la formation des agrégats leucocytaires P-sélectine dépendants est efficace dans la prévention des crises vaso-occlusives chez les patients drépanocytaires traités par un anticorps monoclonal anti-P-sélectine.
+4. En conclusion, la réduction de l’adhérence des globules rouges à l’endothélium des vaisseaux et de la formation des agrégats leucocytaires P-sélectine dépendants est efficace dans la prévention des crises vaso-occlusives chez les patients drépanocytaires traités par un anticorps monoclonal anti-P-sélectine.
 Des essais utilisant cet anticorps en association à d’autres traitements préventifs de la crise vaso-occlusive chez des patients drépanocytaires sont en cours d’évaluation [2].
 
 
 ***Bibliographie***
-1- Polanowska-Grabowska R, Wallace K, Field JJ, et al. P-selectin-mediated platelet-neutrophil aggregate formation activates neutrophils in mouse and human sickle cell disease. Arterioscler Thromb Vasc Biol, 2010 ; 30 : 2392-9. 
-2- Crizanlizumab for the prevention of pain crises in sickle cell disease. New Engl J Med, 2017 ; 376 : 429-39.
+1. Polanowska-Grabowska R, Wallace K, Field JJ, et al. P-selectin-mediated platelet-neutrophil aggregate formation activates neutrophils in mouse and human sickle cell disease. Arterioscler Thromb Vasc Biol, 2010 ; 30 : 2392-9. 
+2. Crizanlizumab for the prevention of pain crises in sickle cell disease. New Engl J Med, 2017 ; 376 : 429-39.
