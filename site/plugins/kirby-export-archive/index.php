@@ -140,14 +140,7 @@ function kirbytextNewlineToMarkdown($kirbytext)
     );
 }
 
-function kirbytextNumberedListToMarkdown($kirbytext)
-{
-    return preg_replace("/^(\d+)- /m", "$1. ", $kirbytext);
-}
-
 function kirbytextToMarkdown($kirbytext)
 {
-    return kirbytextNewlineToMarkdown(
-        kirbytextNumberedListToMarkdown(kirbytextImageToMarkdown($kirbytext))
-    );
+    return kirbytextNewlineToMarkdown(kirbytextImageToMarkdown($kirbytext));
 }
