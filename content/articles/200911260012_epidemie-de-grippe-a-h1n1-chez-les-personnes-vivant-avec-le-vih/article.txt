@@ -19,7 +19,7 @@ D'ici là, n'hésitez pas à nous tenir informés des difficultés rencontrées 
 Nous ne pouvons pas nous engager à apporter des réponses au cas par cas aux difficultés rencontrées. Pour ce faire, adressez-vous aux associations de lutte contre le sida proches de  
 chez vous, dont vous trouverez les coordonnées sur les sites web de Sida Info Service, ARCAT et AIDES.  
 
-****Sommaire :****  
+**Sommaire :**  
 Pourquoi des recommandations spécifiques aux personnes vivant avec le VIH ?  
 I - Informations générales sur la grippe A(H1N1)  
 II - Vaccination et dispositif de vaccination des personnes séropositives  
@@ -112,14 +112,14 @@ Les autorités de santé et l'ANRS (Agence Nationale de Recherche sur le Sida et
 La campagne de vaccination contre la grippe A(H1N1) débutera le 12 novembre pour les personnes appartenant aux groupes de la population identifiés comme prioritaires, et notamment pour les séropositifs.  
 Vous recevrez, de la Caisse primaire d'assurance maladie ou du service hospitalier dans lequel vous êtes suivi, une lettre vous invitant à aller vous faire vacciner.  
 
-****Vous pourrez être vacciné :****
+**Vous pourrez être vacciné :**
 
 *   soit dans l'hôpital dans lequel vous êtes suivi pour le VIH s'il organise lui-même la vaccination. Dans ce cas, la lettre que vous recevrez vous invitera à vous présenter dans le service dans lequel vous êtes suivi. Il établira un bon de vaccination et vous serez vacciné ;
 *   soit dans le centre de vaccination le plus proche de chez vous si l'hôpital dans lequel vous êtes suivi pour le VIH n'organise pas la vaccination. Dans ce cas, la lettre que vous recevrez vous invitera à vous présenter au centre d'accueil de l'Assurance maladie le plus proche de chez eux (Caisse Primaire d'Assurance Maladie, CPAM, par exemple), pour y retirer le bon de vaccination. Vous serez orienté vers le centre de vaccination le plus proche de chez vous (un peu plus de 1000 centres de vaccinations ont été établis sur tout le territoire).
 
 ### Cas particuliers
 
-****Que faire si vous ne recevez pas de courrier d'invitation à la vaccination ?****  
+**Que faire si vous ne recevez pas de courrier d'invitation à la vaccination ?**  
 Vous pourrez bien sûr avoir accès à la vaccination en vous rendant au centre d'accueil de l'Assurance maladie le plus proche de chez vous (CPAM) pour vous faire remettre un bon de vaccination. Vous serez ensuite orienté vers le centre de vaccination le plus proche.
 
 **Si votre service hospitalier organise la vaccination, pourrez-vous malgré tout aller dans un autre centre de vaccination ?**  
