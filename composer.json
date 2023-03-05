@@ -1,6 +1,7 @@
 {
   "require": {
-    "getkirby/cms": "^3.0"
+    "getkirby/cms": "^3.0",
+    "ueberdosis/pandoc": "^0.9.0"
   },
   "scripts": {
     "batch-index": "php -c php.ini site/plugins/kirby-algolia/batch-index.php"

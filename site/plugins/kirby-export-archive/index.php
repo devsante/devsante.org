@@ -70,7 +70,9 @@ Kirby::plugin("mlbrgl/kirby-export-archive", [
                             "</div>"
                         : null;
                     $frontmatter = arrayToFrontmatter($frontmatterFields);
-                    $text = kirbytextToMarkdown($page->text()->value());
+                    $text = processPandoc(
+                        kirbytextImageToMarkdown($page->text()->value() ?? "")
+                    );
                     $page_path = "{$page->parent()->slug()}/{$page->slug()}";
 
                     file_put_contents(
@@ -125,22 +127,26 @@ function kirbytextImageToMarkdown($kirbytext)
     );
 }
 
-function kirbytextNewlineToMarkdown($kirbytext)
+// This is mostly used to turn newlines into markdown newlines (two spaces at
+// the end of a line) but introduces side-effects that are fixed a posteriori.
+function processPandoc($markdown)
 {
-    return preg_replace(
-        // add two spaces at the end a line to force a newline in markdown (handled
-        // previously by kirbytext). This captures the vast majority of legitimate
-        // cases where we would want a visual new line (i.e. sentences finishing
-        // with a ".", followed by a single line feed in code), but leaves out some
-        // very rare and questionable cases, which are often best rewritten as
-        // lists.
-        "/\. ?\n([^\n])/",
-        ".  \n$1",
-        $kirbytext
-    );
-}
+    $processed = (new \Pandoc\Pandoc())
+        ->from("gfm+hard_line_breaks")
+        ->input($markdown)
+        ->to("gfm")
+        ->option("wrap", "preserve")
+        ->run();
 
-function kirbytextToMarkdown($kirbytext)
-{
-    return kirbytextNewlineToMarkdown(kirbytextImageToMarkdown($kirbytext));
+    // Some post-processing fixes:
+    // - Pandoc converts **test ** to \*\*test \*\* due to the extra space
+    //   between "test" and the second "**". This should ideally be fixed in the
+    //   source document, but is good enough for now.
+    // - Pandoc converts standalone "<" to "\<" and ">" to "\>", which are not
+    //   recognized by Honkit and is printed respectively as "\<" and "\>".
+    return preg_replace(
+        "/\\\\\*\\\\\*\s*(.+?)\s*\\\\\*\\\\\*/",
+        "**$1**",
+        str_replace(["\<", "\>"], ["<", ">"], $processed)
+    );
 }
