@@ -24,44 +24,44 @@ pour buts :
 - d'aider le patient ou l’enfant et ses parents à acquérir et maintenir des compétences permettant une gestion optimale de la vie  avec la maladie 
 - de transformer la relation patient/parent/soignant.
 
-#L'éducation thérapeutique	
+# L'éducation thérapeutique	
 - Est un processus personnalisé, constructif et continu.
 - Tenant compte des besoins, du vécu, des croyances et des représentations.
 - Intégré dans la démarche de soins, établi par étapes.
 • Nécessitant une relation de qualité entre patient, parents et soignants
 
-##Pour l' enfant il faut tenir compte de
+## Pour l' enfant il faut tenir compte de
 – Ses capacités de compréhension
 – Son degré d’autonomie
 – Avec la place de l’adolescent
 
-##Pour les parents
+## Pour les parents
 – Leur responsabilité
 – À la fois spectateurs et acteurs
 - Avec un réajustement continu de la place respective de chacun
 
-##Quelques principes  pour éduquer un patient
+## Quelques principes  pour éduquer un patient
 - Education  à chaque étape des soins
 - Formation individuellement par tous les soignants selon un programme personnalisé
 - Complétée par des séances collectives
 
-##Les aspects psychologiques
+## Les aspects psychologiques
 - Impact de l'éducation sur la dépression du patient
 - Diminution de l'aspect affectif de la douleur
 -  Déconstruction des idées de mort
 - Diminution de la culpabilité
 
-##À propos des croyances, pour accepter de se soigner il faut
+## À propos des croyances, pour accepter de se soigner il faut
 - Être **persuadé d’être atteint** de cette maladie.
 - Penser que **cette maladie et ses conséquences peuvent être graves**.
 - Penser que **le traitement peut avoir un effet bénéfique**.
 - Penser que** les bienfaits du traitement vont contrebalancer avantageusement les contraintes psychologiques**, financières et sociales engendrées par le traitement.
 
-##Comment le patient voit il sa place dans le contrôle de sa maladie ?
+## Comment le patient voit il sa place dans le contrôle de sa maladie ?
 - Le contrôle est extérieur : la malchance, le mauvais sort, l’environnement, Dieu….**c’est aux soignants de tout faire...**
 - Le contrôle est intérieur : la santé du patient dépend exclusivement de lui : **il se sent capable de tout maîtriser?**
 
-#Principes de l'apprentissage
+# Principes de l'apprentissage
 **L’apprentissage est un processus**
 - Individuel
 - Actif
@@ -71,7 +71,7 @@ pour buts :
 – Traite activement l’information nouvelle
 – Modifiant ainsi sa structure cognitive
 
-##Principes de psychologie cognitive
+## Principes de psychologie cognitive
 - L’apprentissage est l’établissement de liens entre de nouvelles informations et des connaissances antérieures.
 - Ces connaissances antérieures constituent des points d’ancrage sur lesquelles le patient construit de nouvelles connaissances.
 - Le scénario efficace pour la construction du savoir part toujours des connaissances antérieures du patient.
@@ -79,7 +79,7 @@ pour buts :
  -Si les connaissances sont erronées, l’éducateur doit chercher les événements qui ont donné de la validité à ces connaissances et ne pas chercher à contredire le patient.
 - Les connaissances erronées ne sont modifiables que si le patient constate les limites de ses connaissances antérieures, ou s’il considère les nouvelles connaissances intelligibles ou utiles.
 
-##Implications pour les soignants
+## Implications pour les soignants
 - Reconnaître les besoins des patients.
 - Aider les patients à organiser leur vie.
 - Communiquer de façon empathique.
@@ -87,22 +87,22 @@ pour buts :
 - Adapter les comportements.
 - Evaluer les résultats et ajuster les pratiques.
 
-##Quelques écueils à éviter
+## Quelques écueils à éviter
 - Une relation médico-centrée
 - Un enseignement scolaire
 - Un savoir plus encyclopédique qu’utile
 - Des jugements de valeur
 - L’arbitrage de conflits parents-enfants
 
-##L'enseignement individuel, ses avantages
+## L'enseignement individuel, ses avantages
 - Personnalisation
 - Besoins spécifiques
 - Rythme propre
 - Meilleur contact
 - Vécu du patient
 
-#La démarche d'éducation comporte 
-##Le diagnostic éducatif
+# La démarche d'éducation comporte 
+## Le diagnostic éducatif
 **Qu'est-ce qu'il a ?**
 - Nommer sa maladie
 - Décrire son état, l’évolution
@@ -138,7 +138,7 @@ pour buts :
 - Quel a été le résultat de son action ?
 - Peut il expliquer cette crise ?
 
-##Un contrat d'apprentissage
+## Un contrat d'apprentissage
 - SAVOIR  (cognitif) ce qu'il veut savoir
 - SAVOIR FAIRE (sensori-moteur) ce qu'il veut savoir faire
 - ATTITUDE (psycho-affectif) 
@@ -162,7 +162,7 @@ pour buts :
 - Exprimer son ressenti
 - Anticiper
 
-##L'évaluation
+## L'évaluation
 - Est intégrée à l’apprentissage
 - Les indicateurs d’efficacité
     –	Crises

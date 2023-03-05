@@ -30,7 +30,7 @@ Par ailleurs, le rôle de la rate est majeur dans la lutte anti-microbienne tant
 
 Durant les premiers mois de vie, le taux de l’hémoglobine fœtale (HbF) est très élevé et sa présence avec l’HbS anormale va protéger le nourrisson en général pendant quelques mois et c’est souvent à partir de l’âge de 6 mois que les premiers signes vont apparaître
 
-##1. Devant un nourrisson
+## 1. Devant un nourrisson
 
 Il faudra évoquer la drépanocytose devant un nourrisson jusque là bien potelé et vif mais dont la **courbe pondérale s’infléchit** sans raison apparente. Cela peut être dû à l’installation progressive d’une anémie chronique.
 Ce peut-être devant une manifestation aiguë telle que la "crise de séquestration splénique" : les globules rouges, coincés dans la rate, sont responsables d’une anémie aiguë révélée par une **pâleur inhabituelle** et une diminution du tonus et de l’appétit. Il faut savoir la détecter en regardant la couleur des paumes des mains et des conjonctives et rechercher une **augmentation du volume de la rate (splénomégalie)**. Il s’agit d’une urgence vitale pouvant nécessiter une transfusion en urgence. 
@@ -40,7 +40,7 @@ Le plus souvent, ce sera devant un **gonflement du dos des pieds et des mains (s
                                                                        
 Il est important de rechercher à l’interrogatoire la notion de décès précoce dans la fratrie ou de signes identiques déjà observés dans la famille
 
-##2. Devant un enfant
+## 2. Devant un enfant
 
 Il faudra évoquer la drépanocytose devant un enfant **douloureux au niveau des membres** qui peuvent présenter des tuméfactions ou devant des **douleurs abdominales inexpliquées**.
 Devant un enfant fatigable, maigre avec distension abdominale, il faudra rechercher une anémie chronique pouvant révéler la drépanocytose.

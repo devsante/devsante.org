@@ -197,7 +197,7 @@ L'interrogatoire et l'examen permettent de déterminer l'origine de la dyspnée,
 
 En cas de détresse respiratoire aiguë, si l'on ne dispose d'aucun matériel d'intubation ni de trachéotomie et que le transfert est impossible, il faut mettre en place deux à trois aiguilles intraveineuses ou un cathéter n°14 en trans-trachéal, ce qui shunte toutes les causes de dyspnée jusqu'à la sous-glotte comprise, et permet un minimum d'hématose compatible avec un transfert.
 
-###Matériel nécessaire au dispensaire
+### Matériel nécessaire au dispensaire
 
 **Un abaisse-langue, un laryngoscope, une pince de Magill, un jeu de sondes d'intubation, un bistouri et des cathéters n°14 ou des aiguilles équivalentes,  des canules de Mayo.**
 

@@ -4,7 +4,7 @@ Title: L'association
 
 Text:
 
-##Qui sommes-nous ?
+## Qui sommes-nous ?
 
 Notre association assure un rôle de formation continue des personnels de santé dans les pays du sud, notamment l'Afrique francophone, au travers :
 - de son site internet qui contient une base documentaire de plus de 700 articles,
@@ -12,11 +12,11 @@ Notre association assure un rôle de formation continue des personnels de santé
 - de tests de connaissances donnant directement le taux de bonnes réponses et les solutions (corrigé),
 - de sessions locales de formation animées par des acteurs nationaux qualifiés et agréés par notre association et utilisant le matériel pédagogique mis à leur disposition.
 
-##Les membres de l'association
+## Les membres de l'association
 Président d'honneur : Pr Philippe REINERT †
 Président honoraire : Pr Bernard LAGARDÈRE
 
-###Conseil d'administration
+### Conseil d'administration
 Présidente : Dr Françoise BALÉDENT
 Vice-président : Christian FREYNET
 Vice-président : Dr Christian MONGIN
@@ -26,12 +26,12 @@ Programmes de formation : Dr Jean-Loup REY
 Programme drépanocytose : Pr Robert GIROT
 Administrateurs : Dr Pierre BERIEL, Jean-Claude LEPINAY
 
-###Autres membres 
+### Autres membres 
 Dr Micheline AMZALLAG, Dr Olivier BISMUTH, Pr Patrice BOURÉE, Dr Christophe DENANTES,  Dr Sophie LEMERLE, Bernard MIQUEL, Pr Chérif RAHIMI, Pr Pierre SALIOU
 
 Tous les membres de l'association sont bénévoles
 
-##A l'attention des lecteurs
+## A l'attention des lecteurs
 
 Notre base documentaire est en cours d'actualisation.
 

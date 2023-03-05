@@ -61,7 +61,7 @@ Ils peuvent également être augmentés au cours de maladies intestinales (malad
 ***Cristaux de sulfates de calcium***
 Ils ressemblent à de longues baguettes incolores ou à des prismes allongés. On les rencontre rarement et toujours dans les urines acides.
 
-###2. Dans l'urine alcaline
+### 2. Dans l'urine alcaline
 Les principaux cristaux présents dans l'urine alcaline sont les phosphates.
 Les phosphates de calcium (brushite) et de magnésium sont moins solubles que les phosphates de sodium et potassium. Tous sont dissous lorsque le pH est acide, en particulier lorsque l'on ajoute de l'acide chlorhydrique dilué.
 (image: i820-4.jpg)
@@ -97,16 +97,16 @@ Incolores, transparents ou jaune pâles, ils ont une biréfringence gris terne o
 On observe ces cristaux, ainsi que des gouttelettes lipidiques, en cas de fistules lympho-urinaires avec chylurie (filariose).
 (image: i820-5.jpg)
 
-###2. La bilirubine
+### 2. La bilirubine
 Les cristaux de bilirubine sont pléiomorphes, jaune-brun, souvent granuleux, parfois de forme losangique ou en regroupement d'aiguilles.
 Observés au cours de maladies hépatiques, les taux sanguins de bilirubine sont également augmentés, et les urines sont acides.
 
-###3. La cystine
+### 3. La cystine
 Beaucoup plus rarement, les cristaux de cystine sont retrouvés dans les urines au pH acide.
 Ils se présentent sous forme de plaques hexagonales incolores et réfringentes, parfois accolées deux à deux.
 Ils peuvent être confondus avec des cristaux d'acide urique, parfois hexagonaux, mais ils ne polarisent pas la lumière, contrairement à l'acide urique. D'autre part, même si ces deux types de cristaux sont solubles dans l'ammoniaque, seuls les cristaux de cystine sont solubles dans l'acide chlorhydrique dilué (pH < 2). La présence de ces cristaux a une grande valeur clinique puisqu'elle est quasi pathognomonique de la cystinurie. Très rarement elle peut être observée en cas d'intoxication par les métaux lourds ou au cours d'acidose rénale d'origine tubulaire.
 
-###4. La tyrosine
+### 4. La tyrosine
 Les cristaux de tyrosine sont caractéristiques, en forme d'aiguilles plus ou moins fines, regroupées en bouquets, gerbes, ou en touffes. Ils sont incolores ou jaune pâles-verdâtres, mais paraissent foncés ou noirs du fait de leur accumulation. En polarisation, ils sont biréfringents brillants. Ils sont particulièrement nets après réfrigération des urines. Peu solubles, ils sont précipités dans l'alcool.
 (image: i820-6.jpg)
  

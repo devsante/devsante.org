@@ -107,7 +107,7 @@ Par des boissons abondantes peu sucrées ou hyperhydratation par voie veineuse a
 ex. : soit un enfant de 6 ans pesant 18 kg ; sa SC est (4 x 18) + 7 / (18 + 90) = 0,73 m2
 il faut lui apporter 2,5 l x 0,73 / j soit 1,825 l/ 24h soit 450 ml environ toutes les 6 heures.*
 
-###Traiter la douleur par des médicaments [1]
+### Traiter la douleur par des médicaments [1]
 On utilise les médicaments correspondant à l’intensité de la douleur évaluée autant que possible par les 3 paliers. 
 - Les **douleurs de faible intensité** se traitent avec paracétamol + AINS. 
 - Les **douleurs plus intenses** se traitent avec l’association Paracétamol + AINS + tramadol ou nalbuphine. 

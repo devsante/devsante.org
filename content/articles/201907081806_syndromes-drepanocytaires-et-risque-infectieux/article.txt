@@ -47,7 +47,7 @@ Ils représentent un risque de transmission transfusionnelle.
 **Grippe** : elle est responsable d’une importante morbidité chez les sujets drépanocytaires et une vaccination annuelle est recommandée, y compris chez l’enfant drépanocytaire à partir de 6 mois.
 
 ## Formes d'infections
-###Bactériémie
+### Bactériémie
 Dans une étude prospective multicentrique américaine de 1986 [4] , 66 % des bactériémies étaient dues au pneumocoque chez les enfants drépanocytaires de moins de 6 ans ; au-delà de 6 ans, 50 % étaient dues à des bacilles Gram-négatifs. 
 **Les septicémies à pneumocoques** sont souvent caractérisées par leur évolution rapide et sévère avec choc infectieux et coagulation intravasculaire disséminée .
 Le taux de létalité est élevé ; dans les pays industrialisés, il variait de 11 à 24 %  avant l’ère de la prophylaxie antibiotique. Il est évalué à 15 % en Grande Bretagne [1].

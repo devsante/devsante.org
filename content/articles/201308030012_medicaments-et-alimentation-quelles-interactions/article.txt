@@ -642,7 +642,7 @@ Les possibilités d’interactions entre alimentation et médicaments sont nombr
 
 Les précautions nécessaires pour les éviter (horaires des prises par rapport aux repas, aliments à ne pas consommer…) sont indiquées sur les notices contenues dans les boîtes de médicament qu’il faut donc lire attentivement. Néanmoins, la plupart des médicaments peuvent être administrés sans tenir compte du repas.
 
-##Définitions
+## Définitions
 
 - Acide faible : un acide faible est un acide qui ne se dissocie pas totalement dans l'eau.
 - Acide fort : un acide fort est un acide qui se dissocie totalement dans l’eau.
