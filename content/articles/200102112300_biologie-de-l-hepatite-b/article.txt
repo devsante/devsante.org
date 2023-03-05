@@ -234,31 +234,23 @@ Convalescence
 
 +
 
--
+\-
 
 </td>
 
 <td>
 
--
+\-
 
--
+\-
 
--
+\-
 
 </td>
 
 <td>
 
 +
-
-+
-
-+
-
-</td>
-
-<td>
 
 +
 
@@ -270,18 +262,6 @@ Convalescence
 
 +
 
--
-
--
-
-</td>
-
-<td>
-
--
-
-+
-
 +
 
 </td>
@@ -290,9 +270,29 @@ Convalescence
 
 +
 
--
+\-
 
--
+\-
+
+</td>
+
+<td>
+
+\-
+
++
+
++
+
+</td>
+
+<td>
+
++
+
+\-
+
+\-
 
 </td>
 
@@ -304,17 +304,9 @@ Convalescence
 
 <td style="width: 26px;">
 
--
+\-
 
--
-
-</td>
-
-<td>
-
-+
-
--
+\-
 
 </td>
 
@@ -322,23 +314,31 @@ Convalescence
 
 +
 
+\-
+
+</td>
+
+<td>
+
++
+
 +
 
 </td>
 
 <td>
 
--
+\-
 
--
+\-
 
 </td>
 
 <td>
 
--
+\-
 
--
+\-
 
 </td>
 
@@ -352,9 +352,9 @@ Convalescence
 
 <td>
 
--
+\-
 
--
+\-
 
 </td>
 
