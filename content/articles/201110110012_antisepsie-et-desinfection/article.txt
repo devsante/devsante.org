@@ -97,43 +97,43 @@ Povidone iodée
 
 <td>
 
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
 </td>
 
 <td style="width: 66px;">
 
-+
+\+
 
 </td>
 
 <td style="width: 44px;">
 
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
 </td>
 
 <td style="width: 38px;">
 
-+
+\+
 
 </td>
 
 <td style="width: 61px;">
 
-+
+\+
 
 </td>
 

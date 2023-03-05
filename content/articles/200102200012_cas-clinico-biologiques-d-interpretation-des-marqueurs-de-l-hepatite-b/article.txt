@@ -80,25 +80,25 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -194,13 +194,13 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -212,7 +212,7 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -308,7 +308,7 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -326,13 +326,13 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -438,7 +438,7 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -450,7 +450,7 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -562,7 +562,7 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 

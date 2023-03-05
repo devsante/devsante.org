@@ -236,9 +236,9 @@ Hépatite aiguë
 
 <td style="width: 5px; ">
 
-+
+\+
 
-+
+\+
 
 \-
 
@@ -256,27 +256,27 @@ Hépatite aiguë
 
 <td style="width: 41px; ">
 
-+
+\+
 
-+
+\+
 
-+
-
-</td>
-
-<td>
-
-+
-
-+
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
+
+\+
+
+\+
+
+</td>
+
+<td>
+
+\+
 
 \-
 
@@ -288,15 +288,15 @@ Hépatite aiguë
 
 \-
 
-+
+\+
 
-+
+\+
 
 </td>
 
 <td style="width: 52px; ">
 
-+
+\+
 
 \-
 
@@ -320,7 +320,7 @@ Hépatite aiguë
 
 <td style="width: 71px; ">
 
-+
+\+
 
 \-
 
@@ -328,9 +328,9 @@ Hépatite aiguë
 
 <td style="width: 41px; ">
 
-+
+\+
 
-+
+\+
 
 </td>
 
@@ -400,9 +400,9 @@ Hépatite chronique à IT
 
 <td style="width: 5px; ">
 
-+  
-+  
-+
+\+
+\+
+\+
 
 </td>
 
@@ -416,9 +416,9 @@ Hépatite chronique à IT
 
 <td style="width: 41px; ">
 
-+  
-+  
-+
+\+
+\+
+\+
 
 </td>
 
@@ -432,9 +432,9 @@ Hépatite chronique à IT
 
 <td>
 
-+  
+\+
 +>-  
-+
+\+
 
 </td>
 

@@ -463,19 +463,19 @@ R
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -515,7 +515,7 @@ S
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -555,13 +555,13 @@ R
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -595,13 +595,13 @@ V
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -649,7 +649,7 @@ Résultat
 
 <td style="width: 224px;" valign="top">
 
-+
+\+
 
 </td>
 
