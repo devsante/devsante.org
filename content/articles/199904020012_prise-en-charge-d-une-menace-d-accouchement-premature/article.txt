@@ -71,7 +71,7 @@ Une menace d'accouchement prématuré a en général peu d'effet secondaire mate
 
 #### Fœtal et son bien-être
 
-*   Rythme _cardiaque f__œ__tal_ : rythme de base, bonnes oscillations et variabilité satisfaisante.
+*   Rythme _cardiaque fœtal_ : rythme de base, bonnes oscillations et variabilité satisfaisante.
 *   _Échographie_ : vitalité (mouvements respiratoires et des extrémités), croissance, environnement (quantité de liquide amniotique, qualité et localisation du placenta).
 
 Des scores de bien-être fœtal écho-cardiotocographique permettent de codifier et d'évaluer l'évolution.
@@ -93,7 +93,7 @@ Des scores de bien-être fœtal écho-cardiotocographique permettent de codifier
 #### Appréciation paraclinique
 
 *   _Gravité de l'infection_ : CRP, leucocytose, numération des germes aux prélèvements urinaire, vaginal ou amniotique.
-*   _Présence de souffrance f__œ__tale_ au cardiotopographe ou à l'échographie.
+*   _Présence de souffrance fœtale_ au cardiotopographe ou à l'échographie.
 *   _Évolution_ _des modifications cervico-vaginales_ à l'étude échographique du col.
 
 Le bilan n'omettra pas de juger l'état général maternel à la recherche de contre-indications à une stratégie thérapeutique curative de la menace d'accouchement prématuré.
