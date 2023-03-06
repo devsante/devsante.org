@@ -123,4 +123,4 @@ Selon la situation clinique ou l’âge, de nombreux patients ne peuvent pas ing
 
 Liste de médicaments ayant fait l'objet d'études concernant l'ouverture ou l'écrasement des comprimés/gélules
 
-[http://pharmacie.hug-ge.ch/infomedic/utilismedic/tab_couper_ecraser.pdf](http://pharmacie.hug-ge.ch/infomedic/utilismedic/tab_couper_ecraser.pdf)
+<http://pharmacie.hug-ge.ch/infomedic/utilismedic/tab_couper_ecraser.pdf>

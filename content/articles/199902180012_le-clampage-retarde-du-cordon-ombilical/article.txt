@@ -21,6 +21,6 @@ Il s'agit d'une étude randomisée réalisée dans une maternité du Guatemala. 
 
 Voir également l'article : Pour éviter l'anemie néonatale 
 
-[http://devsante.org/actualites/pour-eviter-lanemie-neonatale](http://devsante.org/actualites/pour-eviter-lanemie-neonatale)
+<http://devsante.org/actualites/pour-eviter-lanemie-neonatale>
 
 _Développement et Santé, n°139, février 1999_

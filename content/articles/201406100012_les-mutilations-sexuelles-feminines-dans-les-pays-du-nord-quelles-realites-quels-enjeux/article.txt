@@ -148,7 +148,7 @@ L’enquête socio-démographique Excision et Handicap, réalisée en France en 
 
 3. Kaplan-Marcusan, A., Toran-Monserrat, P., Moreno-Navarro, J., Castany Fabregas, M.J., Munoz-Ortiz, L., 2009. Perception of primary health professionals about female genital mutilation: from healthcare to intercultural competence. BMC Health Services Research 9, 11.
 
-4. [http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf](http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf)
+4. <http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf>
 
 5. Andro, A., Lesclingand, M., Cambois, E., Cirbeau, C., 2009. Volet quantitatif du projet Excision et Handicap (ExH): Mesure des lésions et traumatismes et évaluation des besoins en chirurgie réparatrice. Rapport final. fileadmin/CRIDUP/Rapport_final_ExH_volet_quantitatif.pdf  (The QuantitativePart of the “Excision and Handicap” (ExH) Project: Measuring Lesions and Trauma and Evaluating the Need for Reconstructive Surgery. Final report).
 

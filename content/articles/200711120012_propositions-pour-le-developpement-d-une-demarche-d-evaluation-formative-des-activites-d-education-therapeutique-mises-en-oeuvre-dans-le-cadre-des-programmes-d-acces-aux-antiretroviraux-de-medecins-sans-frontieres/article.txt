@@ -42,7 +42,7 @@ Il convient de rappeler que ces huit critères correspondent spécifiquement aux
 
 ### 3. L'élaboration d'un outil permettant l'évaluation formative
 
-A partir des critères et des indicateurs sélectionnés, un outil a été formalisé. Il s'agit d'un ensemble de documents constituant les supports à utiliser pour réaliser l'évaluation (disponible sur le site [http://educ.sida.free.fr](http://educ.sida.free.fr/)). L'outil peut être utilisé par un évaluateur extérieur (référent du siège, coordinateur de terrain...) ou en autoévaluation par les équipes elles mêmes, ce qui implique d'identifier un responsable de l'évaluation et de prévoir des entretiens et des réunions d'équipe.
+A partir des critères et des indicateurs sélectionnés, un outil a été formalisé. Il s'agit d'un ensemble de documents constituant les supports à utiliser pour réaliser l'évaluation (disponible sur le site <http://educ.sida.free.fr/>). L'outil peut être utilisé par un évaluateur extérieur (référent du siège, coordinateur de terrain...) ou en autoévaluation par les équipes elles mêmes, ce qui implique d'identifier un responsable de l'évaluation et de prévoir des entretiens et des réunions d'équipe.
 
 **Cet outil comprend un "questionnaire" d'une quinzaine de pages, incluant :**
 
