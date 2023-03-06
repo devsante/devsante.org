@@ -16,7 +16,7 @@ Text:
 
 Un gros travail de coordination est réalisé en amont et en aval de ces missions, permettant de mener des programmes cohérents, en partenariat avec les acteurs locaux; selon les pays et les missions, l’aide sera centrée sur la formation, la logistique, l’accès à l’eau, la nutrition, la santé de la mère et de l’enfant, l’hygiène, l’apport de petit matériel, notamment consommables ...  
 Ceux qui souhaitent plus de détails sur Pédiatres du Monde et les différentes missions peuvent se rendre sur le site  
-[www.pediatres-du-monde.org](http://www.pediatres-du-monde.org/)
+<http://www.pediatres-du-monde.org/>
 
 Comme nombre d’ONG, PDM reçoit de nombreuses sollicitations. L'une d'elles, reçue en janvier 2013 et émanant d’un pédiatre travaillant en CHU à Abidjan, le Docteur Cissé, retient notre attention : il parle de formation, de travail en équipe, de réseau périnatal, de transfert de compétences... PDM souhaite répndre à cette demande de conseils sur l'organisation des soins périnataux et d'aide à la création d'un véritable réseau périnatal.
 
