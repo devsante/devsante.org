@@ -80,7 +80,7 @@ Les 4 brochures précédentes devaient être distribuées à **chaque écolier.*
 *   Ne pas recevoir le VIH (danger mortel).
 *   Ne pas donner le VIH ("tu ne tueras pas").
 
-*Atelier-Théatr'Actions, 3e rue N° 253, Q. Industriel, BP 1549, Kinshasa-Limete, République démocratique du Congo. E-mail : [jovias-ata@hotmail.com](mailto:jovias-ata@hotmail.com)
+*Atelier-Théatr'Actions, 3e rue N° 253, Q. Industriel, BP 1549, Kinshasa-Limete, République démocratique du Congo. E-mail : <mailto:jovias-ata@hotmail.com>
 
 ## Il. Les difficultés rencontrées et l'adaptation pendant la réalisation du projet
 

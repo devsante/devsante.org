@@ -14,7 +14,7 @@ L'enfant pour l'enfant *
 
 **par M. Horeau**
 
-**_* Le siège francophone du mouvement initié par le pédiatre anglais David Morley (child-to-child) est basé à Paris. Il assure la formation de formateurs et élabore du matériel d'éducation à la santé à l'attention des enfants d'âge scolaire. (EPE, Institut Santé & Développement, 15, rue de l'École de Médecine, 75006 Paris. Tél./Fax: (+33) 1 43 29 33 74, e-mail: [halley@cer.jussieu.fr](mailto:halley@cer.jussieu.fr))._**
+**_* Le siège francophone du mouvement initié par le pédiatre anglais David Morley (child-to-child) est basé à Paris. Il assure la formation de formateurs et élabore du matériel d'éducation à la santé à l'attention des enfants d'âge scolaire. (EPE, Institut Santé & Développement, 15, rue de l'École de Médecine, 75006 Paris. Tél./Fax: (+33) 1 43 29 33 74, e-mail: <mailto:halley@cer.jussieu.fr>)._**
 
 (image: i870-1.jpg)
 

@@ -52,6 +52,6 @@ Un premier rendez-vous HIFA-EVIPNet est prévu en septembre sur la sécurité de
 
 Enfin, au travers de ces rencontres mensuelles, nous pouvons envisager de développer des actions spécifiques sur des sujets qui mériteraient d'être approfondis avec les différents partenaires.
 
-Si vous avez des questions sur le déroulement de ce rendez-vous mensuel, vous pouvez prendre directement contact à l’adresse suivante : [hugueti@who.int](mailto:hugueti@who.int), Isabelle HUGUET-WACHSMUTH, gestionnaire du forum HIFA-EVIPNet.
+Si vous avez des questions sur le déroulement de ce rendez-vous mensuel, vous pouvez prendre directement contact à l’adresse suivante : <mailto:hugueti@who.int>, Isabelle HUGUET-WACHSMUTH, gestionnaire du forum HIFA-EVIPNet.
 
 Pour s'inscrire au forum HIFA-EVIPNet francophone : <http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/>
