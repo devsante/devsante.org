@@ -66,4 +66,4 @@ Réseau de politique reposant sur des bases factuelles
 1211 Geneva  
 Tél:+41227913175  
 Email: [hugueti@who.int](mailto:hugueti@who.int)  
-Website: [www.who.int/evidence/](http://www.who.int/evidence/ "www.who.int/evidence/")
+Website: <http://www.who.int/evidence/>

@@ -272,7 +272,7 @@ L'association coma et hyperapnée dans un contexte fébrile doit faire penser à
 
 - Administration de charbon végétal activé.
 
-- Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation _(voir le site : [www.devsante.org](http://www.devsante.org "www.devsante.org"))._
+- Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation _(voir le site : <http://www.devsante.org>)._
 
 **b) Intoxication au paracétamol**
 

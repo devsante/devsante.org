@@ -19,7 +19,7 @@ Plusieurs études cliniques ont été présentées au congrès de l’AFEF (Asso
 
 ### En pratique
 
-L’examen, prescrit par le médecin et effectué dans tout laboratoire, nécessite un simple prélèvement sanguin à jeun. L’analyse, réalisée en moins de cinq jours, évalue 6 paramètres : plaquettes, taux de prothrombine, ASAT, hyaluronate, urée, alpha 2 macroglobuline. Les valeurs de ces dosages, ainsi que le sexe et l’âge du patient, sont saisis sur le site internet [www.biols.fr](http://www.biols.fr "www.biols.fr") qui, au moyen d’un calculateur, donne et commente le résultat qui indique la probabilité d’avoir une cirrhose. Le résultat est communiqué au biologiste, au médecin prescripteur et au patient.
+L’examen, prescrit par le médecin et effectué dans tout laboratoire, nécessite un simple prélèvement sanguin à jeun. L’analyse, réalisée en moins de cinq jours, évalue 6 paramètres : plaquettes, taux de prothrombine, ASAT, hyaluronate, urée, alpha 2 macroglobuline. Les valeurs de ces dosages, ainsi que le sexe et l’âge du patient, sont saisis sur le site internet <http://www.biols.fr> qui, au moyen d’un calculateur, donne et commente le résultat qui indique la probabilité d’avoir une cirrhose. Le résultat est communiqué au biologiste, au médecin prescripteur et au patient.
 
 ### Conclusion
 

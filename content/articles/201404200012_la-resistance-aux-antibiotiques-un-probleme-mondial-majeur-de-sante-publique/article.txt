@@ -127,7 +127,7 @@ Une sensibilisation de tous est indispensable, du prescripteur au consommateur.
 
 Il est important d’améliorer le diagnostic des maladies bactériennes pour :
 
-*   Confirmer qu’il s’agit d’une infection bactérienne et non virale grâce aux tests de diagnostic rapide (voir l’article « Tests de diagnostic rapide » [http://devsante.org/base-documentaire/examens-complementaires/tests-de-d...](http://devsante.org/base-documentaire/examens-complementaires/tests-de-diagnostic-rapide-en-pathologie-infectieuse-interet "http://devsante.org/base-documentaire/examens-complementaires/tests-de-diagnostic-rapide-en-pathologie-infectieuse-interet")) à un laboratoire permettant l’isolement des bactéries et si possible leur antibiogramme. Beaucoup d’antibiotiques sont encore prescrits de façon inutile ou inadaptée.
+*   Confirmer qu’il s’agit d’une infection bactérienne et non virale grâce aux tests de diagnostic rapide (voir l’article « Tests de diagnostic rapide » <http://devsante.org/base-documentaire/examens-complementaires/tests-de-diagnostic-rapide-en-pathologie-infectieuse-interet>) à un laboratoire permettant l’isolement des bactéries et si possible leur antibiogramme. Beaucoup d’antibiotiques sont encore prescrits de façon inutile ou inadaptée.
 *   Les antibiotiques doivent être préservés. Le choix de l’antibiotique est donc fondamental.
 
 ### 3. Renforcer l’hygiène

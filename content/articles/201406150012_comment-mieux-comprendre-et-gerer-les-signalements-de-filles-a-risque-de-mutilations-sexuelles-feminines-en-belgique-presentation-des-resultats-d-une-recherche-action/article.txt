@@ -95,7 +95,7 @@ Nous avons spécialement développé pour ce kit une échelle de risque à 5 niv
 *   les indicateurs qui permettent de classer la situation sur l’échelle de risque ;
 *   les actions à entreprendre en fonction du niveau de risque (arbre décisionnel).
 
-Nous avons également développé des lignes directrices claires par secteur (maternité, services de médecine préventive préscolaire, services de médecine scolaire, services d’asile). Tous ces documents sont disponibles sur le site du réseau des Stratégies concertées ([www.strategiesconcertees-mgf.be](http://www.strategiesconcertees-mgf.be "www.strategiesconcertees-mgf.be"))
+Nous avons également développé des lignes directrices claires par secteur (maternité, services de médecine préventive préscolaire, services de médecine scolaire, services d’asile). Tous ces documents sont disponibles sur le site du réseau des Stratégies concertées (<http://www.strategiesconcertees-mgf.be>)
 
 ## Discussion
 

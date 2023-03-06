@@ -97,6 +97,6 @@ Le meilleur médicament de l’inobservance c’est la relation médecin malade 
 
 Référence :  
 WHO :Adherence to Long-term Therapies ; Evidence for action, 2003  
-[www.who.int](http://www.who.int "www.who.int")
+<http://www.who.int>
 
-Voir également : [http://devsante.org/base-documentaire/education-sanitaire/lobservance-un...](http://devsante.org/base-documentaire/education-sanitaire/lobservance-un-enjeu-majeur-du-traitement-des-maladies-chroniq "http://devsante.org/base-documentaire/education-sanitaire/lobservance-un-enjeu-majeur-du-traitement-des-maladies-chroniq")
+Voir également : <http://devsante.org/base-documentaire/education-sanitaire/lobservance-un-enjeu-majeur-du-traitement-des-maladies-chroniq>

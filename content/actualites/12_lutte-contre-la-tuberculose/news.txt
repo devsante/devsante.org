@@ -44,4 +44,4 @@ Le financement de la lutte contre la tuberculose continue à croître, et attein
 
 Entre 1995 et 2009, 41 millions de patients souffrant de tuberculose ont été soignés avec succès par les programmes DOTS, et on a pu sauver la vie de 6 millions de personnes.
 
-Des profils sont disponibles en ligne pour tous les pays: [www.who.int/tb/data](http://www.who.int/tb/data "www.who.int/tb/data")
+Des profils sont disponibles en ligne pour tous les pays: <http://www.who.int/tb/data>

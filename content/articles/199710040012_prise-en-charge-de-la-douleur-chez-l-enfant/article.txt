@@ -271,7 +271,7 @@ Contrairement à l'opinion trop largement répandue, il est fréquent de rencont
 
 <tr>
 
-<td valign="top">PEDIADOL. Une banque de données spécifiquement destinée à l'évaluation, au traitement et à la prévention de la douleur de l'enfant, pour les professionnels de la santé, est accessible par Internet au : [http://www.invivo.net/pediadol](http://www.invivo.net/pediadol "http://www.invivo.net/pediadol")  
+<td valign="top">PEDIADOL. Une banque de données spécifiquement destinée à l'évaluation, au traitement et à la prévention de la douleur de l'enfant, pour les professionnels de la santé, est accessible par Internet au : <http://www.invivo.net/pediadol>  
 ou directement par minitel, réseau Transpac : 33 1 36 27 36 01</td>
 
 </tr>

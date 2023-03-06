@@ -24,7 +24,7 @@ Ayant déjà remporté plusieurs distinctions, Karangué espère pouvoir dévelo
 
 Le lauréat sera invité à la Silicone Valley afin de rencontrer des investisseurs potentiels et de partager son expérience au niveau du fab lab d’Orange Silicone Valley.
 
-[http://www.karangue.com](http://www.karangue.com "http://www.karangue.com")
+<http://www.karangue.com>
 
 ----
 

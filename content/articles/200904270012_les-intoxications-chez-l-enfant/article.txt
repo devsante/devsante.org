@@ -231,7 +231,7 @@ Les dosages ne sont pas toujours possibles dans les centres de santé.
 
 *   Evacuation gastrique
 *   Administration de charbon végétal activé.
-*   Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation (voir le site : [www.devsante.org](http://www.devsante.org "www.devsante.org")).
+*   Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation (voir le site : <http://www.devsante.org>).
 
 #### b) Intoxication au paracétamol
 

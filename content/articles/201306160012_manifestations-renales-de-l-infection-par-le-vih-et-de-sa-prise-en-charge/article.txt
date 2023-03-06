@@ -23,7 +23,7 @@ La fonction rénale est classiquement estimée par le **dosage de la créatinin�
 
 Il est donc nécessaire de recourir aux formules de Cockroft et Gault et, encore mieux, à celle du MDRD pour faire un diagnostic précis de l'insuffisance rénale.
 
-Il est possible de calculer directement la formule MDRD sur le site de la Société de néphrologie : [http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm](http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm "http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm").
+Il est possible de calculer directement la formule MDRD sur le site de la Société de néphrologie : <http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm>.
 
 La **recherche d'une protéinurie à la bandelette** fait aussi partie du bilan de base de la fonction rénale.  
 En cas de positivité de la bandelette, il faut si possible confirmer le résultat par une protéinurie sur échantillon rapportée à la créatinurie (ce qui est beaucoup  plus juste que la protéinurie des 24h).

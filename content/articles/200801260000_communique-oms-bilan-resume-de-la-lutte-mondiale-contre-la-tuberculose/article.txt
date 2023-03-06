@@ -6,7 +6,7 @@ Datetime: 2008-01-26 00:00
 ----  
 Teaser:
 
-[http://www.who.int/tb/publications/global_report/2008/key_points/fr/inde...](http://www.who.int/tb/publications/global_report/2008/key_points/fr/index.ht "http://www.who.int/tb/publications/global_report/2008/key_points/fr/index.ht")
+<http://www.who.int/tb/publications/global_report/2008/key_points/fr/index.ht>
 
 ----  
 Text:

@@ -180,6 +180,6 @@ Si la cause n'est pas un problème d'alimentation électrique ou combustible, r�
 - Immunization in practice - A practical guide forhealth stqff.; World Health Organization, 2004.  
 - EPI Essentials - A guide for program officers. jSI,1989.  
 - Training course for mid level managers. World Health Organization, 2004.  
-- EPIVAC, [www.epivac.org](http://www.epivac.org "www.epivac.org")
+- EPIVAC, <http://www.epivac.org>
 
 Développement et Santé, n°195, 2009

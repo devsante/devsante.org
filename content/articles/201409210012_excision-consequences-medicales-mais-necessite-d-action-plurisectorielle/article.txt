@@ -25,7 +25,7 @@ L'expérience de l'initiative HIFA-EVIPNET de l'OMS montre bien que la santé d�
 ## II. Les études de l'OMS sur l'excision
 
 L'OMS s'est intéressée depuis de nombreuses années à la pratique de l'excision. Plusieurs des études qu’elle a menées font aujourd'hui référence quant à ses conséquences médicales sur la santé des populations.  
-Nous pouvons ainsi suggérer la lecture de quelques-unes d'entre elles. Les points clés suivants ont été listés par l’OMS en 2014 ([http://www.who.int/mediacentre/factsheets/fs241/fr/](http://www.who.int/mediacentre/factsheets/fs241/fr/ "http://www.who.int/mediacentre/factsheets/fs241/fr/")) :
+Nous pouvons ainsi suggérer la lecture de quelques-unes d'entre elles. Les points clés suivants ont été listés par l’OMS en 2014 (<http://www.who.int/mediacentre/factsheets/fs241/fr/>) :
 
 *   Les mutilations génitales féminines sont des interventions qui altèrent ou lèsent intentionnellement les organes génitaux externes de la femme pour des raisons non médicales.
 *   Ces pratiques ne présentent aucun avantage pour la santé des jeunes filles et des femmes.
@@ -87,7 +87,7 @@ Si les conséquences sont médicales, tant sur le plan physique que psychologiqu
 
 L'action seule des professionnels de santé n'est pas de nature à stopper cette pratique. On constate par exemple que la prévalence de l'excision évolue peu sur certains pays africains, alors même que des  programmes y sont en place depuis de nombreuses années.  
 Ainsi, le dernier rapport publié en juillet 2014 indique, que malgré des baisses enregistrées ces dernières décennies, le nombre de victimes à l'avenir pourrait augmenter du fait de la croissance démographique.  
-[http://www.un.org/apps/newsFr/storyF.asp?NewsID=33005#.U-HwIxZvzC8](http://www.un.org/apps/newsFr/storyF.asp?NewsID=33005#.U-HwIxZvzC8 "http://www.un.org/apps/newsFr/storyF.asp?NewsID=33005#.U-HwIxZvzC8")
+<http://www.un.org/apps/newsFr/storyF.asp?NewsID=33005#.U-HwIxZvzC8>
 
 Cette situation interpelle fortement les acteurs qui ne peuvent considérer comme acquise une situation qui ne verra pas d'amélioration très sensible et au moins un abandon total s'opérer rapidement.
 
@@ -111,7 +111,7 @@ Le schéma ci-dessous montre de manière synthétique comment les différentes �
 
 L'exemple de l'excision montre clairement que l'action des professionnels de santé est nécessaire mais pas suffisante. L'appareil éducatif, au travers duquel on voit l'impact sur la pratique de l'excision, doit pleinement jouer son rôle de levier majeur bien en amont, afin d’améliorer la capacité des individus à comprendre les messages de santé et à être conscients des mauvaises pratiques à abandonner.
 
-Référence sur les déterminants sociaux de la santé SDH Portal : [http://www.dssbr.org](http://www.dssbr.org "http://www.dssbr.org").
+Référence sur les déterminants sociaux de la santé SDH Portal : <http://www.dssbr.org>.
 
 ## VIII. Conclusions
 
@@ -121,7 +121,7 @@ De ce fait, l'OMS ne peut qu'encourager des visions plus holistiques qui prennen
 L'initiative HIFA-EVIPNET agissant avec les décideurs de santé et les chercheurs africains, mettra l'accent sur l'importance d'une vision plus globale et de fait sur les responsabilités élargies.  
 Nous prévoyons d'organiser en janvier 2015 un rendez-vous sur le sujet de l'excision avec nos experts de l'OMS et en collaboration avec le collectif francophone Excision, parlons-en. Ce rendez-vous sera l'occasion de débattre des stratégies menées qui ont été pertinentes ou insuffisantes, des approches novatrices à approfondir pour tendre vers un abandon massif et rapide.  
 A noter que nous organiserons également en mars 2015 un rendez-vous mensuel sur les déterminants de santé, afin d'identifier les facteurs externes au milieu médical mais qui influencent fortement la santé des populations. L'OMS a régulièrement produit des analyses sur les déterminants et dispose de solides compétences internes sur le sujet, encore sous exploité au sein des politiques publiques de santé.  
-[http://apps.who.int/gb/ebwha/pdf_files/EB124/B124_R6-en.pdf?ua=1](http://apps.who.int/gb/ebwha/pdf_files/EB124/B124_R6-en.pdf?ua=1 "http://apps.who.int/gb/ebwha/pdf_files/EB124/B124_R6-en.pdf?ua=1")
+<http://apps.who.int/gb/ebwha/pdf_files/EB124/B124_R6-en.pdf?ua=1>
 
 ## IX. Perspectives et proposition de l'OMS
 

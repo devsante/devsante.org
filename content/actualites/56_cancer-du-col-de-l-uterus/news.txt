@@ -28,4 +28,4 @@ _Références_
 
  1. Jaquet A. Cancers du col de l’utérus et infection à VIH en Afrique de l’Ouest : Epidémiologie descriptive, déterminants et dépistage. Bordeaux 2 ; 2012. <http://www.theses.fr/2012BOR21979>).  
 2. [Ann Med Health Sci Res.](http://www.ncbi.nlm.nih.gov/pubmed/24116304 "Annals of medical and health sciences research.") 2013 Jul;3(3):306-312.  
-3. [http://www.afro.who.int/fr/groupes-organiques-et-programmes/ddc/preventi...](http://www.afro.who.int/fr/groupes-organiques-et-programmes/ddc/prevention-et-lutte-contre-les-maladies-non-transmissibles/npc-features/2258-l-prevention-du-cancer-du-col.html "http://www.afro.who.int/fr/groupes-organiques-et-programmes/ddc/prevention-et-lutte-contre-les-maladies-non-transmissibles/npc-features/2258-l-prevention-du-cancer-du-col.html").
+3. <http://www.afro.who.int/fr/groupes-organiques-et-programmes/ddc/prevention-et-lutte-contre-les-maladies-non-transmissibles/npc-features/2258-l-prevention-du-cancer-du-col.html>.
