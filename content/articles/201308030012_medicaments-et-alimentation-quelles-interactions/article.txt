@@ -63,7 +63,7 @@ Elles dépendent de différents facteurs liés au médicament, au patient lui-m�
 *   Les propriétés physicochimiques des médicaments : solubilité, capacité à traverser les membranes digestives…
 *   Les interactions physicochimiques de l’alimentation avec les médicaments : modification du pH du contenu gastrique, formation de substances insolubles (chélation), liaison aux graisses contenues dans les aliments, modification de la résorption en présence de fibres…
 *   Les effets physiologiques liés à l’alimentation : influence du volume et de la composition des repas sur la motilité gastro-intestinale. La vitesse de la vidange gastrique est inversement proportionnelle au volume, à la teneur calorique, à la température et à la viscosité de l’alimentation.
-*   Divers paramètres physiologiques - température corporelle, pression artérielle… ou encore horaire des repas – ou pathologiques (affection digestive, cardiaque…) peuvent aussi influencer le devenir du médicament dans l’organisme.
+*   Divers paramètres physiologiques - température corporelle, pression artérielle… ou encore horaire des repas - ou pathologiques (affection digestive, cardiaque…) peuvent aussi influencer le devenir du médicament dans l’organisme.
 *   Le contenu de certains aliments : voir plus loin.
 
 # II. Principaux aliments impliqués

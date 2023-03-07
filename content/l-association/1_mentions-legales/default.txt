@@ -9,7 +9,7 @@ Formation permanente Développement et Santé (FP/DS)
 3 rue Robert Schuman, 95880 Enghien-Les-Bains
 Mail : contact@devsante.org
 Directeur de la publication : Dr Françoise BALÉDENT
-Développement : Matthieu BERGEL – hello@matthieubergel.org
+Développement : Matthieu BERGEL - hello@matthieubergel.org
 
 ## Objectifs du site
 Les informations fournies sur le site devsante.org sont avant tout destinées à la formation continue des professionnels de santé des pays en développement. L’accès à l’ensemble des données contenues sur le site est totalement libre et gratuit.

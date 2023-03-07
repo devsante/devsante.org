@@ -10,7 +10,7 @@ Text:
 
 ## Introduction
 
-L’excision - mutilations sexuelles féminines (MSF) – est définie par l’Organisation Mondiale de la Santé comme « toutes les interventions incluant l’ablation partielle ou totale des organes génitaux externes de la femme ou autre lésion des organes génitaux féminins pratiquées pour des raisons non médicales [1].
+L’excision - mutilations sexuelles féminines (MSF) - est définie par l’Organisation Mondiale de la Santé comme « toutes les interventions incluant l’ablation partielle ou totale des organes génitaux externes de la femme ou autre lésion des organes génitaux féminins pratiquées pour des raisons non médicales [1].
 
 On estime à plus de 125 millions le nombre de jeunes filles et de femmes victimes de mutilations sexuelles qui sont pratiquées dans 29 pays d’Afrique et du Moyen-Orient, régions où ces pratiques sont concentrées. Trente millions de filles sont exposées au risque d’être excisées d’ici à la prochaine décennie [2].
 
@@ -551,4 +551,4 @@ _**Références bibliographiques**_
 7. O'Connell HE1, Sanjeevan KV, Hutson JM. Anatomy of the clitoris. J Urol. 2005 Oct; 174 (4 Pt 1):1189 - 95.  
 8. O'Connell HE, Hutson JM, Anderson CR, Plenter RJ. Anatomical relationship between urethra and clitoris. J Urol. 1998 Jun; 159(6):1892-7.  
 9. Foldes P, Louis-Sylvestre C. Results of surgical repair after ritual excision: 453 cases: Gynecol Obstet Fertil.2006 dec; 34 (12):1137-41.  
-10. Johnsdotter S, Essen B. Sexual health among young Somali women in Sweden: living with conflicting culturally determined sexual ideologies. International Network to Analyze, Communicate and Transform the Campaign against Female Genital Cutting, Female Genital Mutilation, Female Circumcision (INTACT) conference; Alexandria, Egypt; Oct 10–12, 2004. <http://www.mbali.info/doc311.htm>. consulté le 23 juin 2014.
+10. Johnsdotter S, Essen B. Sexual health among young Somali women in Sweden: living with conflicting culturally determined sexual ideologies. International Network to Analyze, Communicate and Transform the Campaign against Female Genital Cutting, Female Genital Mutilation, Female Circumcision (INTACT) conference; Alexandria, Egypt; Oct 10-12, 2004. <http://www.mbali.info/doc311.htm>. consulté le 23 juin 2014.

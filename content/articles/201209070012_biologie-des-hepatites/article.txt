@@ -41,7 +41,7 @@ Leur taux s’élève dans les hépatites :
 <td>
 
 Rappel sur les méthodes de détection  
-Le diagnostic biologique des différentes étapes de la maladie est effectué par la détection des marqueurs virologiques de l’infection. Il s’agit soit de méthodes immuno-enzymatiques de type ELISA (Enzyme Linked Immuno–Sorbent Assay) réalisables dans des laboratoires de routine, soit de techniques moléculaires, détectant et/ou quantifiant la séquence de l’ADN ou l’ARN du virus (charge virale), qui relèvent de laboratoires spécialisés.
+Le diagnostic biologique des différentes étapes de la maladie est effectué par la détection des marqueurs virologiques de l’infection. Il s’agit soit de méthodes immuno-enzymatiques de type ELISA (Enzyme Linked Immuno-Sorbent Assay) réalisables dans des laboratoires de routine, soit de techniques moléculaires, détectant et/ou quantifiant la séquence de l’ADN ou l’ARN du virus (charge virale), qui relèvent de laboratoires spécialisés.
 
 Méthodes ELISA  
 Elles reposent sur l'utilisation d'un support solide recouvert soit d'antigènes viraux pour la détection des anticorps, soit d'anticorps monoclonaux pour la détection des antigènes.  

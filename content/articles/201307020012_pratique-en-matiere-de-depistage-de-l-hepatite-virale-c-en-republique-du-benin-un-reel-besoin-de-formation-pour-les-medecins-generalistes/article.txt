@@ -15,7 +15,7 @@ Text:
 
 ## I. Matériel et méthodes
 
-Il s’agissait d’une étude prospective descriptive et transversale, réalisée de décembre 2008 à octobre 2009. La population étudiée était les médecins généralistes exerçant dans les villes de Cotonou (800 000 habitants) et Abomey – Calavi (350 000 habitants).
+Il s’agissait d’une étude prospective descriptive et transversale, réalisée de décembre 2008 à octobre 2009. La population étudiée était les médecins généralistes exerçant dans les villes de Cotonou (800 000 habitants) et Abomey - Calavi (350 000 habitants).
 
 ## II. Résultats
 
@@ -285,17 +285,17 @@ La République du Bénin semble être un pays de haute endémicité pour l’HVC
 
 _**Références**_
 
-1.  Organisation Mondiale de la Santé. Hépatite C. Prévalence mondiale. Rel Epidemiol Hebd 1999 ; 74 : 421 – 428.
-2.  Desenclos JC. L‘infection par le virus de l‘hépatite C dans le monde : importance en santé publique, modes de transmission et perspectives. [Vir](http://www.jle.com/fr/revues/bio_rech/vir/sommaire.phtml?cle_parution=808&type=text.html)ology 2003 ; 7 (3) : 177 – 191.
-3.  Sehonou J, Atadokpede F, Abdoulaye I, Kodjoh N, Zohoun I. Séroprévalence des anticorps antivirus de l’hépatite C dans une population de jeunes recrues au Bénin. J Afr Hepato Gastroenterol 2007 ; 1 : 103 – 105
-4.  Abdoulaye I, Siebertz B, Akpona S,  Soumanou M,     Gbadamassi Bo, Agossou B. Prévalence des marqueurs sérologiques sur les dons de sang au Bénin. Le Bénin Médical 2004 ; 28 : 5 – 9
+1.  Organisation Mondiale de la Santé. Hépatite C. Prévalence mondiale. Rel Epidemiol Hebd 1999 ; 74 : 421 - 428.
+2.  Desenclos JC. L‘infection par le virus de l‘hépatite C dans le monde : importance en santé publique, modes de transmission et perspectives. [Vir](http://www.jle.com/fr/revues/bio_rech/vir/sommaire.phtml?cle_parution=808&type=text.html)ology 2003 ; 7 (3) : 177 - 191.
+3.  Sehonou J, Atadokpede F, Abdoulaye I, Kodjoh N, Zohoun I. Séroprévalence des anticorps antivirus de l’hépatite C dans une population de jeunes recrues au Bénin. J Afr Hepato Gastroenterol 2007 ; 1 : 103 - 105
+4.  Abdoulaye I, Siebertz B, Akpona S,  Soumanou M,     Gbadamassi Bo, Agossou B. Prévalence des marqueurs sérologiques sur les dons de sang au Bénin. Le Bénin Médical 2004 ; 28 : 5 - 9
 5.  Mongin C. Histoire naturelle des hépatites virales. Développement et Santé 2012 ; 200 : 7-10.
 6.  Gautier A, Jestin C. Pratiques de dépistage des hépatites virales par les médecins généralistes, France, 2009. BEHWeb 2011 (1) ; 4 pages. <http://www.invs.sante.fr/> behweb/2011/01/r-2.htm
 7.  Jestin C, Gautier A. Dépistage des hépatites virales en médecine générale. Baromètre santé médecins généralistes 2009. Saint Denis. INPES 2009 ; 119-133.
 8.  Ouzan D, Hofliger P, Cavailler P, et coll. Enquête de pratique en médecine générale sur le dépistage et la prise en charge de l’hépatite C dans les Alpes-Maritimes et l’Est du Var. Gastroentérol Clin Biol 2003 ; 27 : 90-3
 9.  Bonny C, Rayssiguer R, Ughetto S, et coll. Pratiques et attentes des médecins généralistes en matière d’hépatite C dans la région Auvergne. Gastroentérol Clin Biol 2003 ; 27 : 1021-25
 10.  Meffre C, Le Strat Y, Delarocque-Astagneau E, et coll. Prévalence des hépatites B et C en France en 2004. Saint-Maurice. Institut de veille sanitaire, 2006 ; 114 p.
-11.  Shepard C W, Finelli L, Alter M J. Global epidemiology of hepatitis C virus infection.  The Lancet Infectious Diseases 2005 ; 5 (9) : 558–67
+11.  Shepard C W, Finelli L, Alter M J. Global epidemiology of hepatitis C virus infection.  The Lancet Infectious Diseases 2005 ; 5 (9) : 558-67
 12.  Jeannel D, Fretz C, Traore Y, Kodjoh N, Bigot A, Gamy EP, et al. Evidence for high genetic diversity and long-term endemicity of hepatitis C virus genotype 1 and 2 in West Africa. J Med Virol, 1998 ; 55, 2, 92-97
 13.  Sehonou J, Ade G, Azon Kouanou A, Zannou DM, Adjanohoun S, Bigot A, et al. Séroprévalence et facteurs associés au portage des anticorps anti virus de l’hépatite C chez des patients insuffisants rénaux traités par hémodialyse à Cotonou. Journal de la Société de Biologie Clinique 2012 ; 016 : 34-38
 14.  Haute Autorité de Santé. Stratégies de dépistage biologique des hépatites virales B et C, argumentaire. Saint Denis. Haute Autorité de Santé 2011 ; 114 pages

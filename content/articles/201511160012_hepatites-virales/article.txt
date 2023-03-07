@@ -308,7 +308,7 @@ La décision de traiter tient compte :
 
     *   Le facteur limitant la prescription de ces nouveaux traitements est leur coût très élevé, ce qui les rend inaccessibles pour le moment à la grande majorité des malades, notamment ceux des pays en développement.
 
-## IV. Prévention – Education pour la santé
+## IV. Prévention - Education pour la santé
 
 Pour un problème mondial de santé publique tel que les hépatites virales, maladies évitables et surtout éradicables en ce qui concerne l’hépatite B grâce à la vaccination, la prévention et la sensibilisation constituent la réponse globale. Il n’y a pas de vaccin contre les hépatites C et E.
 

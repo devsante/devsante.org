@@ -295,12 +295,12 @@ Comme pour le VHB, le deuxième problème est le mode d'administration de l'inte
 Bibliographie  
 1. Hatzakis A, Wait S, Bruix J, Buti M, et al. The state of hepatitis B and C in Europe: report from the hepatitis B and C summit conference. J Viral Hepat. 2011 Sep;18 Suppl 1:1-16.  
 2. Negro F, Alberti A. The global health burden of hepatitis C virus infection. Liver Int. 2011 Jul;31 Suppl 2:1-3.  
-3. Perz JF, Armstrong GL, Farrington LA, Hutin YJ, Bell BP. The contributions of hepatitis B virus and hepatitis C virus infections  to  cirrhosis  and  primary  liver  cancer  worldwide. Journal of Hepatology. 2006;45(4):529–538.  
+3. Perz JF, Armstrong GL, Farrington LA, Hutin YJ, Bell BP. The contributions of hepatitis B virus and hepatitis C virus infections  to  cirrhosis  and  primary  liver  cancer  worldwide. Journal of Hepatology. 2006;45(4):529-538.  
 4. McGlynn KA,  London  WT.  The global epidemiology  of hepatocellular carcinoma: present and future. Clin Liver Dis. 2011 May.  
 5. Grimm D, Thimme R, Blum HE. HBV life cycle and novel drug targets. Hepatol Int. 2011 Jun;5(2):644-53.  
-6. Dienstag JL.  Hepatitis B virus  infection.  N Engl J Med. 2008;359(14):1486–1500.  
-7. Urban S, Schulze A, Dandri M, Petersen J. The replication cycle of hepatitis B virus. J Hepatol. 2010;52(2):282–284.  
-8. Kay A, Zoulim F. (2007). Hepatitis B virus genetic variability and evolution. Virus Research, 127:164–176.  
+6. Dienstag JL.  Hepatitis B virus  infection.  N Engl J Med. 2008;359(14):1486-1500.  
+7. Urban S, Schulze A, Dandri M, Petersen J. The replication cycle of hepatitis B virus. J Hepatol. 2010;52(2):282-284.  
+8. Kay A, Zoulim F. (2007). Hepatitis B virus genetic variability and evolution. Virus Research, 127:164-176.  
 9. Schaefer S (2007). Hepatitis B virus taxonomy and hepatitis B virus genotypes. World Journal of Gastroenterology, 13(1) : 14-21  
 10. Stuyver LJ, Locamini SA, Lok A, Richman DD, Carman WF, Dienstag JL, Schinazi RF. (2001). Nomenclature for antiviral-resistant human hepatitis B virus mutations in the polymerase region. 33(3): p.751-7.  
 11. Hou J, Lui Z, Gu F. Epidemiology and prevention of hepatitis B virus infection. International J Med Sci 2005; 2:50-7.  
@@ -313,7 +313,7 @@ Bibliographie
 18. Fung J, Lai CL, Seto WK, Yuen MF. Nucleoside/nucleotide analogues in the treatment of chronic hepatitis B. J Antimicrob Chemother. 2011 Oct 7.  
 19. Wiersma ST, McMahon B, Pawlotsky JM, Thio CL, et al. World Health Organization Department of Immunization, Vaccines and Biologicals. Treatment of chronic hepatitis B virus infection in resource-constrained settings: expert panel consensus. Liver Int. 2011 Jul;31(6):755-61.  
 20. European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of chronic hepatitis B. J Hepatol 2009;50.  
-21. Lavanchy D. Hepatitis B virus epidemiology, disease burden, treatment, and current and emerging prevention and control measures. J Viral Hepat. 2004;11:97–107.  
+21. Lavanchy D. Hepatitis B virus epidemiology, disease burden, treatment, and current and emerging prevention and control measures. J Viral Hepat. 2004;11:97-107.  
 22. Marcellin P, Lau GK, Bonino F, Farci P, et al. Peginterféron Alfa-2a HBeAg-Negative Chronic Hepatitis B Study Group. Peginterféron alfa-2a alone, lamivudine alone, and the two in combination in patients with HBeAg-negative chronic hepatitis B. N Engl J Med. 2004 Sep 16;351(12):1206-17.  
 23. Thibault V, Benhamou Y, Seguret C, et al. Hepatitis B virus (HBV) mutations associated with resistance to lamivudine in patients coinfected with HBV and human immunodeficiency virus. J Clin Microbiol. 1999 Sep;37(9):3013-6.  
 24. Bartholomeusz A, Locarnini S. Hepatitis B virus mutations associated with antiviral therapy. J Med Virol. 2006;78 Suppl 1:S52-5.  

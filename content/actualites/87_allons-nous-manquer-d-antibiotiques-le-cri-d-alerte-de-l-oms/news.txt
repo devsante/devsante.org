@@ -16,7 +16,7 @@ Teaser:
 
 Text: 
 
-L’OMS a publié le mois dernier un rapport sur le développement clinique des antibactériens (*Antibacterial agents in clinical development – an analysis of the antibacterial clinical development pipeline, including tuberculosis*).
+L’OMS a publié le mois dernier un rapport sur le développement clinique des antibactériens (*Antibacterial agents in clinical development - an analysis of the antibacterial clinical development pipeline, including tuberculosis*).
 
 L’organisation internationale lance un cri d’alerte : le nombre de nouveaux antibiotiques en cours de développement ou ayant prouvé leur efficacité est nettement insuffisant pour répondre à la menace croissante de l’antibiorésistance.
 De plus, il existe peu de molécules nouvelles et innovantes. La plupart des antibiotiques à l’étude concernent des modifications souvent mineures de produits qui existent déjà. Ils ne pourront au mieux que donner un répit passager à cette lutte sans répit contre l’émergence de nouvelles souches d’agents pathogènes. Pour les infections déjà résistantes aux antibiotiques, ce rapport est pessimiste notamment en ce qui concerne la tuberculose pharmacorésistante qui tue chaque année 250 000 personnes.

@@ -323,7 +323,7 @@ C'est une zoonose des ruminants transmise par les Aedes. Elle sévit en Afrique 
 
 ### Le virus Zika 
 
-Il a été isolé en 1947 chez des singes en Ouganda, puis chez l’homme en 1952. Ce virus, transmis par un _Aedes_,  est présent en Afrique, en Inde, en Asie du sud-est et dans le Pacifique. Fin 2013 – début 2014, la fièvre Zika a sévi en Polynésie et a essaimé dans de nombreuses iles du Pacifique. Outre le syndrome grippal, les patients présentent des troubles neurologiques. Cette affection est considérée comme bénigne mais le risque de survenue d’un syndrome de Guillain-Barré a été signalé. Le virus est recherché dans le sang ou la salive. Le traitement n’est que symptomatique. Le diagnostic différentiel est parfois difficile avec la dengue (tableau III), d’autant plus que ces deux affections peuvent co-exister comme actuellement en Polynésie.
+Il a été isolé en 1947 chez des singes en Ouganda, puis chez l’homme en 1952. Ce virus, transmis par un _Aedes_,  est présent en Afrique, en Inde, en Asie du sud-est et dans le Pacifique. Fin 2013 - début 2014, la fièvre Zika a sévi en Polynésie et a essaimé dans de nombreuses iles du Pacifique. Outre le syndrome grippal, les patients présentent des troubles neurologiques. Cette affection est considérée comme bénigne mais le risque de survenue d’un syndrome de Guillain-Barré a été signalé. Le virus est recherché dans le sang ou la salive. Le traitement n’est que symptomatique. Le diagnostic différentiel est parfois difficile avec la dengue (tableau III), d’autant plus que ces deux affections peuvent co-exister comme actuellement en Polynésie.
 
 <table>
 <caption>Tableau III. Diagnostic différentiel entre les trois flavivirus principaux</caption>

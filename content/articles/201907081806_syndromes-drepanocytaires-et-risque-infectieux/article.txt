@@ -165,11 +165,11 @@ Devant une suspicion d’infection, il est recommandé de débuter un traitement
 - pour tout enfant de moins de 3 ans, avec une fièvre supérieure à 38,5 °C ; 
 - pour tout enfant, quel que soit son âge, se présentant avec une altération de l’état général et/ou de la conscience et/ou une fièvre supérieure à 39,5 °C : dans ce cas l’administration de céfotaxime  ou de ceftriaxone est recommandée avant la réalisation des examens complémentaires, s’ils risquent de retarder le traitement ; 
 - pour tout enfant, quel que soit son âge, ayant une température inférieure à 39,5 °C sans altération de l’état général mais avec un antécédent de septicémie et/ou présentant l’une des anomalies suivantes : 
-    – radiographie de thorax ou saturation artérielle en oxygène anormale, 
-    – hyperleucocytose > 30 000/μl ou leucopénie < 5 000/μl, 
-    – thrombopénie < 150 000/μl, 
-    – anémie avec un taux plasmatique d’hémoglobine < 6 g/dl, 
-    – altération de l’état de conscience. 
+    - radiographie de thorax ou saturation artérielle en oxygène anormale, 
+    - hyperleucocytose > 30 000/μl ou leucopénie < 5 000/μl, 
+    - thrombopénie < 150 000/μl, 
+    - anémie avec un taux plasmatique d’hémoglobine < 6 g/dl, 
+    - altération de l’état de conscience. 
 
 **Une antibiothérapie ambulatoire est possible**
 - pour les patients de plus de 3 ans avec fièvre inférieure à 39,5 °C, sans altération de l’état général et sans intolérance digestive ; 
@@ -204,7 +204,7 @@ Le guide de prise en charge de la drépanocytose en Afrique vient de paraître, 
 
 
 **Bibliographie**
-1. Oligbu G, and all .Risk of Invasive Pneumococcal Disease in Children with Sickle Cell Disease in England: A National Observational Cohort Study, 2010–2015. Arch Dis Child 2018;103:643–647.
+1. Oligbu G, and all .Risk of Invasive Pneumococcal Disease in Children with Sickle Cell Disease in England: A National Observational Cohort Study, 2010-2015. Arch Dis Child 2018;103:643-647.
 2.  Rankine-Mullings AE, Owusu-Ofori S. Prophylactic antibiotics for preventing pneumococcal infection in children with sickle cell disease : Cochrane Database Syst Rev . 10 octobre 2017: CD003427. doi: 10.1002 / 14651858.CD003427.pub4. La revue.
 3. Diagne I 1 , Soares GM , Gueye A , Diagne Gueye-NR , Fall L , N'Diaye O , Camara B , Diouf S , Automne M. Infections chez les enfants et les adolescents sénégalais souffranrt d'anémie falciforme: aspects épidémiologiques. Dakar Med. 2000; 45 (1): 55-8.
 4. Zarkowsky HS , Gallagher D , Gill FM , Wang WC , Falletta JM , WM Lande , Levy PS , Verter JI , Wethers D. Bactériémia in sickle cell hemoglobinopathies: J Pediatr. 1986 oct. 109 (4): 579-85.

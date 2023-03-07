@@ -219,7 +219,7 @@ C’est la complication la plus fréquente. En l’absence de traitement, on est
 
 #### Gestes urgents à effectuer 
 
-*   Prélèvements sanguins pour groupage sanguin – rhésus, taux d’hémoglobine, taux d’hématocrite... Les signes biologiques de gravité sont : Hb < 10g / dl,  hématocrite < 30%.
+*   Prélèvements sanguins pour groupage sanguin - rhésus, taux d’hémoglobine, taux d’hématocrite... Les signes biologiques de gravité sont : Hb < 10g / dl,  hématocrite < 30%.
 *   Pose d’une voie d’abord veineuse (sérum glucosé ou sérum salé isotonique)
 *   Placer une sonde gastrique si le saignement persiste
 *   Débuter le remplissage vasculaire par les macromolécules en attendant que le sang soit disponible
