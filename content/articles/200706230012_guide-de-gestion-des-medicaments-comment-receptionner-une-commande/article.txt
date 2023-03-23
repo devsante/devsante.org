@@ -49,7 +49,7 @@ Toute livraison est accompagnée d'un **bor­dereau d'expédition ou livraison**
 *   Vous devez conserver ces pièces de transport dans un dossier spécial : des colis qui vous étaient destinés peuvent avoir été livrés par erreur à un autre établissement, d'autres peuvent avoir disparu Si vous avez correctement archivé ces documents, vous pourrez plus facile­ment régler les problèmes qui pourraient survenir.
 *   Il est bon que dans le même dossier, vous gardiez un document qui contient les ren­seignements suivants :
     *   **Date de livraison**
-    *   **Numéro de la commande (**identi­fiant la commande).
+    *   **Numéro de la commande** (identi­fiant la commande).
     *   **Numéro du bon de livraison**, s'il existe ; le fournisseur peut attribuer un numéro supplémentaire à la comman­de qui sert à identifier la commande expédiée. Ce numéro est aussi appelé **Numéro de colisage.**
     *   **Numéro d'immatriculation du véhicule qui a livré.**
     *   **Nom du livreur et sa signature**

@@ -111,7 +111,7 @@ Il s'agit essentiellement d'érythroblastes polychromatophiles ou acidophiles (f
 - Le taux de réticulocytes est très élevé, sauf en cas d'érythroblastopénie ;
 - l'hémolyse est confirmée par la bilirubine libre qui est augmentée et l'haptoglobine qui est effondrée.
 
-**b. Le test d’EMMEL ou test de falciformation **
+**b. Le test d’EMMEL ou test de falciformation**
 L'examen du frottis sanguin peut être négatif, il est alors possible de déclencher au laboratoire la falciformation des globules rouges en les plaçant dans un milieu désoxygéné, soit en rajoutant du métabisulfite au sang du malade, soit en créant artificiellement une atmosphère pauvre en oxygène.
 On observe alors à l'état frais, entre lame et lamelle, les hématies qui prennent progressivement la forme typique en "faucille".
 Le test d’Emmel révèle la présence de l’hémoglobine drépanocytaire S dans les hématies. Ce test a une haute valeur qualitative mais il ne permet pas de différencier les porteurs sains AS des sujets atteints d’un syndrome drépanocytaire majeur (SS, SC, Sβ°thalassémique, Sβ+thalassémique …).

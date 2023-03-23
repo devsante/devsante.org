@@ -78,20 +78,21 @@ Observée dans environ 20 % des cas, elle est due à une contamination directe p
 
 Le diagnostic est établi sur la mise en évidence du bacille de Yersin dans le pus du ganglion, dans l’expectoration ou dans le sang. Au microscope, il apparaît conne un bâtonnet de 1 à 3 microns de long x 0,5 à 0,8 microns de large, Gram négatif, avec une coloration bipolaire (figure 8). Le test de recherche d’antigène F1 permet de faire un diagnostic rapide. Les prélèvements d’un patient atteints de peste sont très contagieux et doivent être manipulés avec d’extrêmes précautions.
 
-**                                Figure 8. _Yersinias pestis_**
+(image: fig-8-yersinia-pestis.jpg)
 
-                 (image: fig-8-yersinia-pestis.jpg)
-
+**Figure 8. _Yersinias pestis_**
 
 ## V. Traitement : croyances populaires puis antibiotiques
 
 Dans l’Antiquité, Hippocrate recommandait d’allumer des feux dans les places publiques pour « brûler les miasmes ». Au Moyen-âge, le traitement des sujets pestiférés se limitait à des prières à St Roch (patron des pesteux et d’ailleurs toujours représenté avec un bubon) (figure 9), des processions, des flagellations et le bûcher pour quelques personnes (les hérétiques et les lépreux) soupçonnées de propager la maladie (figure 10).
 
 (image: fig-9-st-roch.JPG)
-          (image: fig-10-procession.jpg)
 
+**Figure 9. Saint Roch**
 
-**Figure 9. Saint Roch                      Figure 10. Processions pour invoquer la protection divine contre la peste**
+(image: fig-10-procession.jpg)
+
+**Figure 10. Processions pour invoquer la protection divine contre la peste**
 
 Les classiques purges et saignées aggravaient le patient au lieu de le soulager. A partir du XVIème siècle, les patients sont isolés, leurs habitations subissent des fumigations et les morts sont incinérés. La mise en quarantaine des navires ayant à bord un patient suspect d’avoir une peste a permis d’éviter la propagation de la maladie dans les ports puis dans les autre villes. Tout manquement à cette règle pouvait être responsable d’une épidémie (comme dans le cas de la peste de Marseille en 1720) (figure 11).
 

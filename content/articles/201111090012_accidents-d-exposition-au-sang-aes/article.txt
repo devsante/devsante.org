@@ -34,13 +34,15 @@ Les liquides biologiques concernés sont :
 
 En effet, certains de ces pathogènes peuvent être concentrés dans d’autres liquides biologiques que le sang : VIH dans le liquide céphalo-rachidien ou le liquide spermatique, virus des hépatites dans le liquide d’ascite.
 
-**Selon les circonstances de survenue des AES, on distingue :** **Les AES dits professionnels (accidents de travail):**
+**Selon les circonstances de survenue des AES, on distingue :** 
+
+**Les AES dits professionnels (accidents de travail):**
 
 *   touchant essentiellement le personnel de santé exposé lors de la réalisation de soins plus ou moins invasifs mettant en jeu différents liquides biologiques, les personnels de laboratoire qui manipulent les échantillons.
 *   les personnels d’entretien sont également concernés : ils peuvent être en contact avec du matériel contaminé, en particulier par piqûre avec du matériel injectable jeté dans une poubelle…
 *   mais aussi  toute profession potentiellement exposante (sportifs, forces de police...).
 
-*** Les AES dits non professionnels qui concernent :**
+**Les AES dits non professionnels qui concernent :**
 
 *   avant tout les rapports sexuels à risque non protégés,
 *   mais aussi les échanges de matériel injectable ou toute autre situation chez les usagers de drogue intraveineuse,

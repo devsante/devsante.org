@@ -21,11 +21,11 @@ Comme tous les tests rapides, la micro CRP a l'avantage de pouvoir être effectu
 
 #### Méthode classique
 
-**Prélèvement **
+**Prélèvement**
 
 Avec une lancette, prélever 20 microlitres de sang dans un tube capillaire.
 
-**Lecture **
+**Lecture**
 
 Le tube capillaire est mis en présence d’une solution contenant des anticorps anti CRP marqués par un colorant. Cette solution est ensuite filtrée à travers une membrane. Les anticorps se lient à la CRP immobilisée sur la membrane qui devient rouge-marron en fonction du taux de CRP. Un lecteur, en fonction de la coloration affiche la concentration de CRP. Le matériel coute environ 4000 euros ; le coût de l’examen étant inférieur à 3 euros. Ce matériel n’est pas facilement transportable.
 

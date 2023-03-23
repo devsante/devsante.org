@@ -38,7 +38,9 @@ Elles sont nombreuses : infections, sarcome de Kaposi, VIH, traitements antirét
 **Faire un bilan entrées/sorties**.  
 Tracer sur une feuille deux colonnes. Dans la première colonne marquer tout ce que le patient boit (quantité ml) : eau, jus, soupe, SRO...+ perfusion et dans la deuxième colonne noter tous ce qui sort du patient : urines, selles... (quantité ml). Le recueil des informations se fait sur 12h, ou mieux sur 24 h.
 
-**Ex.**1<sup>e</sup> colonne = entrée  
+**Ex.**
+
+1<sup>e</sup> colonne = entrée  
 150 + 200 + 100+ 500 = 950 ml
 
 2 <sup>e</sup> colonne = sortie  

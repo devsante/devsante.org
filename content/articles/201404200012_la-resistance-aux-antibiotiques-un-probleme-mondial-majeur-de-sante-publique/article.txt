@@ -156,7 +156,7 @@ Le phénomène de résistance aux anti-infectieux est très répandu et en progr
 
 La tuberculose multirésistante (MDR), qui correspond à une résistance à l’isoniazide et à la rifampicine, est désormais très répandue au niveau mondial. Selon l’OMS, en 2011, sur les 12 millions de cas de tuberculose, on a dénombré 630 000 nouveaux cas de tuberculose MDR dont près de 10 % étaient des tuberculoses extrêmement résistantes XDR (résistance à de multiples antibiotiques). Ces cas surviennent en majorité dans des zones pauvres, avec souvent un traitement conduit de façon inappropriée ou incomplète. Le risque de mortalité est beaucoup plus élevé et le coût du traitement multiplié par 100.
 
-**Figure 2. Nouveaux cas de tuberculose multirésistante (pourcentages) dans le monde **
+**Figure 2. Nouveaux cas de tuberculose multirésistante (pourcentages) dans le monde**
 
 (image: resistance-antibiotiques-carte-fig-2.jpg)
 

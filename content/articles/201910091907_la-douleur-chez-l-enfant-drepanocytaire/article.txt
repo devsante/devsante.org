@@ -174,7 +174,7 @@ Des examens complémentaires sont réalisés : NFS, réticulocytess, CRP, hémoc
 - Dose maximale sur 4 heures = débit continu des 4 heures + 10 bolus
 - S’assurer que la dose totale est < 3 mg/kg/j
 
-** Effets secondaires à rechercher et à combattre :**
+**Effets secondaires à rechercher et à combattre :**
 - **Dépression respiratoire** (la fréquence respiratoire FR doit rester > 15/mn entre 1 et 5 ans et > 10/mn après 6 ans ; surtout, la FR doit être vérifiée pendant le sommeil) ; elle n’est observée que pour des doses élevées au delà de 3 mg/kg/j ; arrêt respiratoire : injecter 1 ampoule de naloxone (1 ml = 0,4 mg) ; en cas de dépression respiratoire, diluer 1 ampoule de naloxone à 10 ml, puis l’injecter en IVD ml par ml jusqu’à la levée de la dépression respiratoire.
 - ** Prurit** : nalbuphine 0,1 mg/kg/j IVC ou naloxone  0,25µg/kg/h IVC.
 - **Nausées et vomissements** : rares ; s’améliorent le plus souvent avec le temps.

@@ -31,14 +31,26 @@ Peut être dangereuse car une baisse de la pression d'oxygène va provoquer une 
 2.  **Une hypotension artérielle plus ou moins prolongée.**
 3.  **Une hypothermie.**
 
-**En pratique, il faut : ** **A - D'abord reconnaître la drépanocytose** Chez tout jeune Africain qui doit subir une intervention chirurgicale, sous anesthésie générale. Il faut bien se souvenir que le porteur d'hémoglobine AS (hétérozygote) peut sembler en parfaite santé (cas n° 2 du champion de saut à la perche). Donc, systématiquement chez tous les enfants et adolescents qui doivent être opérés, il faut demander au laboratoire :
+**En pratique, il faut :** 
+
+**A - D'abord reconnaître la drépanocytose**
+
+Chez tout jeune Africain qui doit subir une intervention chirurgicale, sous anesthésie générale. Il faut bien se souvenir que le porteur d'hémoglobine AS (hétérozygote) peut sembler en parfaite santé (cas n° 2 du champion de saut à la perche). Donc, systématiquement chez tous les enfants et adolescents qui doivent être opérés, il faut demander au laboratoire :
 
 1.  **Numération - formule sanguine,** chez l'homozygote SS l'anémie est constante.
 2.  **Dosage d'hémoglobine,** un dosage inférieur à 60 % (8 grammes) fait soupçonner une drépanocytose homozygote SS.
 3.  **Un test d'Emmel,** facile à réaliser, qui montre les hématies falciformes.
 4.  **Seule l'électrophorèse de l'hémoglobine** permet de distinguer la forme homozygote SS de la forme hétérozygote AS.
 
-Malheureusement, c'est un examen plus complexe qui ne peut être fait que dans un hôpital bien équipé. La drépanocytose ainsi reconnue, même si l'on n'a pas pu faire l'électrophorèse, le chirurgien doit éviter les opérations qui ne sont pas strictement indispensables, par exemple, ne pas opérer une hernie ombilicale qui ne risque pas de s'étrangler. Et chaque fois que cela est possible, il utilisera une anesthésie locale beaucoup moins dangereuse chez le drépanocytaire qu'une anesthésie générale. **B - Si l'intervention est indispensable sous anesthésie générale** Par exemple, devant une hernie étranglée ou une fracture ouverte de jambe, il faut prendre certaines précautions surtout chez l'homozygote SS qui est très exposé. **1 - Avant l'intervention** Si l'urgence n'est pas extrême, il faut se baser sur la numération et le dosage d'hémoglobine. Si l'anémie est importante avec un taux d'hémoglobine inférieur à 6 grammes, il faut **transfuser** du sang non drépanocytaire en quantité importante, jusqu'à remplacer environ 70 % de la masse sanguine. Si l'anémie est nulle ou modérée (hémoglobine supérieure à 6 grammes) il vaut mieux ne pas transfuser avant l'opération. Certains auteurs conseillent de placer une perfusion de sérum bicarbonaté intra-veineux (3,3 ml par kg, par heure) pour alcaliniser le milieu sanguin, l'acidose favorisant la formation d'hématies falciformes. Enfin, la prémédication doit être très légère, ou comporter seulement de l'atropine. **2 -** Pendant **l'opération,** il faut :
+Malheureusement, c'est un examen plus complexe qui ne peut être fait que dans un hôpital bien équipé. La drépanocytose ainsi reconnue, même si l'on n'a pas pu faire l'électrophorèse, le chirurgien doit éviter les opérations qui ne sont pas strictement indispensables, par exemple, ne pas opérer une hernie ombilicale qui ne risque pas de s'étrangler. Et chaque fois que cela est possible, il utilisera une anesthésie locale beaucoup moins dangereuse chez le drépanocytaire qu'une anesthésie générale. 
+
+**B - Si l'intervention est indispensable sous anesthésie générale** 
+
+Par exemple, devant une hernie étranglée ou une fracture ouverte de jambe, il faut prendre certaines précautions surtout chez l'homozygote SS qui est très exposé.
+
+**1 - Avant l'intervention** Si l'urgence n'est pas extrême, il faut se baser sur la numération et le dosage d'hémoglobine. Si l'anémie est importante avec un taux d'hémoglobine inférieur à 6 grammes, il faut **transfuser** du sang non drépanocytaire en quantité importante, jusqu'à remplacer environ 70 % de la masse sanguine. Si l'anémie est nulle ou modérée (hémoglobine supérieure à 6 grammes) il vaut mieux ne pas transfuser avant l'opération. Certains auteurs conseillent de placer une perfusion de sérum bicarbonaté intra-veineux (3,3 ml par kg, par heure) pour alcaliniser le milieu sanguin, l'acidose favorisant la formation d'hématies falciformes. Enfin, la prémédication doit être très légère, ou comporter seulement de l'atropine.
+
+**2 - Pendant l'opération,** il faut :
 
 *   éviter **l'emploi d'un garrot,** si celui-ci est indispensable, il faut bien vider avec une bande d'Esmach le sang du membre, avant de poser le garrot;
 *   éviter **l'hypotension,** limiter au maximum les pertes sanguines et transfuser au fur et à mesure pour remplacer ces pertes sanguines;

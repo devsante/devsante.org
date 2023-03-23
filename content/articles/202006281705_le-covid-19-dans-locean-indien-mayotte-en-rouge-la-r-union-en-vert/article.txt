@@ -72,7 +72,7 @@ Selon les dernières mises au point de l’ARS de Mayotte, au 25 mai 2020, le vi
 </tbody>
 </table>
 
-$1** Tableau I. Cas de coronavirus à Mayotte (SpF).**
+**Tableau I. Cas de coronavirus à Mayotte (SpF).**
 (image: image001.jpg)
 **Figure 1. Evolution du nombre de cas de Covid-19 par date et courbe de cas cumulés à Mayotte -SpF).**
 
