@@ -63,8 +63,7 @@ Sur le plan clinique, on distingue 2 types de paludisme :
 
 Il n'y a pas de signes cliniques spécifiques au paludisme simple. Il s'agit d'un ensemble de signes fonctionnels, polymorphes pouvant simuler n'importe quelle maladie infectieuse, mais dont la particularité est l'absence de signes physiques. Parmi ces signes fonction­nels, la fièvre est présente, associée à un frisson, des courbatures, une asthénie et des céphalées.
 
-**(image: image002.jpg)
-**
+(image: image002.jpg)
 
 Le diagnostic positif repose sur un faisceau d'arguments :
 

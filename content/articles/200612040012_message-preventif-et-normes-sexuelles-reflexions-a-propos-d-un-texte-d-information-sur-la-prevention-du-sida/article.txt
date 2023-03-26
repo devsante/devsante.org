@@ -120,4 +120,4 @@ pourrons-nous alors, plutôt que d'espérer faire entrer des groupes humains dan
 
 </table>
 
-*** Le nombre de locuteurs est indicatif. Ne s'agissant pas ici d'une étude linguistique nous n'envisageons pas les différences entre langue maternelle et langue véhiculaire, ni les questions de variations dialectales.**
+\* **Le nombre de locuteurs est indicatif. Ne s'agissant pas ici d'une étude linguistique nous n'envisageons pas les différences entre langue maternelle et langue véhiculaire, ni les questions de variations dialectales.**
