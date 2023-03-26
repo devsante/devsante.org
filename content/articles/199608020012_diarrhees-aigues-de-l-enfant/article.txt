@@ -90,7 +90,7 @@ Des limites nettes ont été tracées quant à l'utilisation des antibiotiques e
 
 *   Ne prescrire des antibiotiques que dans les cas suivants :
 
-- Amibiase : lorsque le traitement antibiotique d'une diarrhée hémorragique attribuée à une infection à _Shigella_ a échoué ou lorsqu'on a trouvé dans les selles des trophozoïdes d_'Entamoeba histolytica_ contenant des hématies ;
+- Amibiase : lorsque le traitement antibiotique d'une diarrhée hémorragique attribuée à une infection à _Shigella_ a échoué ou lorsqu'on a trouvé dans les selles des trophozoïdes d'_Entamoeba histolytica_ contenant des hématies ;
 
 - Giardiase : lorsque la diarrhée dure depuis au moins quatorze jours et que l'on a trouvé des kystes ou des trophozoïdes de _Giadia_ _intestinales._
 
