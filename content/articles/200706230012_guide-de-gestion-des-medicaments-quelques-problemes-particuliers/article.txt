@@ -244,11 +244,7 @@ _Vous pouvez avoir une idée plus exacte de vos besoins réels en calculant pour
 D est le résultat de la soustraction C - CMM (elle figure en italique dans le tableau).  
 Le pourcentage de surconsommation du mois de mars sur la CMM est le résultat de la règle de trois :_
 
-<pre>
-D x 100  
---------- = 18 x 100: 54 = 1800 : 54 = 33,3  
-CMM
-</pre>
+D x 100 / CMM = 18 x 100 / 54 = 1800 / 54 = 33,3  
 
 _Au mois de mars, on a consommé un tiers de plus que la CMM prévue._
 
