@@ -157,7 +157,7 @@ Lorsque des cristaux sont observés à température ambiante, il est bon de chau
 On commencera par noter l'aspect et la couleur du culot de centrifugation, et par mesurer le pH de l'urine.
 En dehors de l'aspect morphologique des cristaux, de leur couleur et de l'aspect en lumière polarisée lorsque cela est possible, on peut s'aider des caractères de solubilité de ces cristaux.
 
-Des** renseignements cliniques sont indispensables**, précisant :
+Des **renseignements cliniques sont indispensables**, précisant :
 - le diagnostic présumé,  
 - le ou les traitements en cours,  
 - la composition des derniers repas,  

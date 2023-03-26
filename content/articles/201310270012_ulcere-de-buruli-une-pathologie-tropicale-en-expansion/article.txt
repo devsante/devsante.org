@@ -319,15 +319,15 @@ Des rechutes sont possibles dans 15 à 30 % des cas sans antibiotiques et dans 3
 *   **Rifampicine** (10 mg/kg)+ **streptomycine** (15 mg/kg)
 *   **Durée** **:**            8 semaines
 *   **Approches différentes suivant les lésions**
-    *   **Cat 1 **: lésions simples: < 5 cm
-    *   **Cat 2 **: lésions simples: 5 - 15 cm
-    *   **Cat 3 **: lésions simples: > 15 cm, lésions multiples, osseuses, faciales et génitales
+    *   **Cat 1** : lésions simples: < 5 cm
+    *   **Cat 2** : lésions simples: 5 - 15 cm
+    *   **Cat 3** : lésions simples: > 15 cm, lésions multiples, osseuses, faciales et génitales
 
 #### Recommandations de l’OMS (2012)
 
-*   **Cat 1 **:  Antibiotiques uniquement
-*   **Cat 2 **:  Terminer les antibiotiques avant toute chirurgie 
-*   **Cat 3 **:  Terminer si possible les antibiotiques avant chirurgie
+*   **Cat 1** :  Antibiotiques uniquement
+*   **Cat 2** :  Terminer les antibiotiques avant toute chirurgie 
+*   **Cat 3** :  Terminer si possible les antibiotiques avant chirurgie
 
 #### Traitements alternatifs
 
@@ -337,7 +337,7 @@ Des rechutes sont possibles dans 15 à 30 % des cas sans antibiotiques et dans 3
 #### Traitement antibiotique : conclusion
 
 *   **Petites lésions et lésions précoces :**  antibiotiques sans chirurgie
-*   **Larges lésions : **antibiotiques + chirurgie
+*   **Larges lésions :** antibiotiques + chirurgie
 *   L’**utilité** et le **moment** de la chirurgie devraient être clarifiés.
 *   **Le soin des plaies** après antibiothérapie doit être amélioré
 

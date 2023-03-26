@@ -18,24 +18,24 @@ Text:
 On distingue deux sous-ordres. Les microchiroptères (ou Yangochiroptères) (figure 1) regroupant 800 espèces de petite taille, sont insectivores, ont une activité nocturne et ont une faculté d’écholocation. Les mégachiroptères (ou Yinptérochiroptères) (ou « roussettes ») (figure 2), de grande taille (pouvant atteindre 2 mètres d’envergure), sont frugivores (fleurs, pollens, légumes) et ont une activité crépusculaire.
 
 (image: fig-1-chauve-souris.jpg)
-    (image: fig-2-roussette.jpg)
 
+_**Figure 1. Chauve-souris**_
 
-_**Figure 1. Chauve-souris                                         Figure 2. Roussette**_
+(image: fig-2-roussette.jpg)
+
+_**Figure 2. Roussette**_
 
 Le phénomène de l’écholocation des microchiroptères a été démontré en 1791 par Lazzaro Spallanzani : des chiroptères rendus aveugles continuent à voler normalement, alors que ces mêmes animaux rendus sourds ne peuvent plus se déplacer. Cette écholocation est due à une protéine de l’oreille interne, la prestine. Les microchiroptères, actifs la nuit, se dirigent dans l’obscurité en émettant, par la contraction des muscles laryngés, des ultra-sons par la bouche et le nez, dont elles captent le retour par les oreilles (principe du sonar) (figure 3). Ceci leur permet de localiser leurs proies et d’éviter les obstacles. Ils peuvent détecter un fil de 0,1mm de diamètre à 10 mètres de distance ! Les mégachiroptères se dirigent plus à la vue et à l’odorat. En outre, ces mammifères s’orientent grâce au champ magnétique terrestre. Ces animaux communiquent dans un spectre d’ultra-sons (de 10kHz à 120 kHz) non accessible à l’homme (dont le spectre d’audition va de 20Hz à 20kHz), ces sons étant propres à chaque espèce.
 
-                      (image: fig-3-echolocation.gif)
+(image: fig-3-echolocation.gif)
 
-
-                      _**Figure 3. Echolocation **_
+_**Figure 3. Echolocation**_
 
 Les chiroptères se reposent environ 20 heures par jour en se suspendant, la tête en bas,  aux aspérités par les griffes de leurs orteils (figure 4). Ils ne se posent qu’exceptionnellement sur le sol. L’aile des chiroptères est formée d’un tissu qui est le tissu du règne animal qui se régénère le plus vite du règne animal. Sa grande vascularisation permet la régulation thermique de l’animal. Par ailleurs, le vol des chiroptères est plus efficace et plus économe en énergie que celui des oiseaux de même taille. Ils peuvent vivre plusieurs dizaines d’années. Les distances de vol sont de quelques kilomètres par nuit pour la recherche de nourriture mais peuvent atteindre plusieurs milliers de kilomètres pour les espèces migratrices. 
 
-                       (image: fig-4-chauves-souris-au-repos.jpg)
+(image: fig-4-chauves-souris-au-repos.jpg)
 
-
-                      _**Figure 4. Chauves-souris au repos**_
+_**Figure 4. Chauves-souris au repos**_
 
 ## II. Respecter l’hibernation
 

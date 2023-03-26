@@ -59,11 +59,11 @@ La morphine est toujours efficace, ne coûte pas cher et ne conduit pas à la to
 On ne doit pas laisser souffrir un drépanocytaire, d’autant que l’on sait l’intensité de la douleur dans certaines crises.
 
 *   **Morphine IV**
-    *   **​**Dose de charge : 0,1 mg/kg IV lente en 5 minutes (maximum : 5 mg).
+    *   Dose de charge : 0,1 mg/kg IV lente en 5 minutes (maximum : 5 mg).
     *   Ensuite : 0,003 mg/kg/5 minutes jusqu’au soulagement.
     *   Dose de relais : 1 mg/kg/24 heures en IVC.
 *   ​**Morphine orale**
-    *   **S**uspension 
+    *   Suspension 
     *   Dose de charge : 0,4à 0,5 mg/kg (maximum 20 mg).
     *   Relais : 0,2 à 0, 4 mg/kg toutes les 30 minutes jusqu’au soulagement.
     *   Résultat incomplet: 0,2 à 0,3 mg/kg toutes les 2 à 4 heures (en plus du relais).

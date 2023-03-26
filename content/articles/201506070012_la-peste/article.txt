@@ -96,10 +96,9 @@ Dans l’Antiquité, Hippocrate recommandait d’allumer des feux dans les place
 
 Les classiques purges et saignées aggravaient le patient au lieu de le soulager. A partir du XVIème siècle, les patients sont isolés, leurs habitations subissent des fumigations et les morts sont incinérés. La mise en quarantaine des navires ayant à bord un patient suspect d’avoir une peste a permis d’éviter la propagation de la maladie dans les ports puis dans les autre villes. Tout manquement à cette règle pouvait être responsable d’une épidémie (comme dans le cas de la peste de Marseille en 1720) (figure 11).
 
-                          (image: fig-11-peste-de-marseille.jpg)
+(image: fig-11-peste-de-marseille.jpg)
 
-
-                          ** Figure 11. Epidémie de peste à Marseille (peinture de M. Serre)  **
+**Figure 11. Epidémie de peste à Marseille (peinture de M. Serre)**
 
 <table>
 

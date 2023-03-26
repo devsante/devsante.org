@@ -221,7 +221,7 @@ _**Pour mettre en évidence le virus en cause**_ : examens sérologiques et de 
 L’hépatite chronique B est affirmée devant la persistance de l’AgHBs pendant plus de 6 mois.  
 L’hépatite chronique C est affirmée devant la persistance de l’ARN du VHC pendant plus de 6 mois.
 
-_**Autres examens **_: ils ont surtout pour but d’évaluer la sévérité et la gravité de l’hépatopathie.
+_**Autres examens**_ : ils ont surtout pour but d’évaluer la sévérité et la gravité de l’hépatopathie.
 
 *   Examens de biologie moléculaire  
     Détermination de la charge virale

@@ -84,7 +84,7 @@ Convenablement, comme nous l'avons vu précédemment, sur les emplacements pré�
 
 Immédiatement sur les fiches de stock correspondantes? Créez de nouvelles fiches pour les produits nouveaux ou dont la pré­sentation est nouvelle ou dont le condition­nement est différent.
 
-*   Si, par exemple, l**'unité** adoptée jusqu'ici est la boîte de 20 comprimés et que vous recevez des boîtes de 50 comprimés (de même dosage), il faut créer une fiche nouvelle pour les boîtes de 50.
+*   Si, par exemple, l'**unité** adoptée jusqu'ici est la boîte de 20 comprimés et que vous recevez des boîtes de 50 comprimés (de même dosage), il faut créer une fiche nouvelle pour les boîtes de 50.
 *   Ou bien, vous pouvez changer d'unité et créer une nouvelle fiche :
     *   si les boîtes de 20 et les boîtes de 50 contiennent des plaquettes de 10 com­primés, vous pouvez prendre comme nouvelle unité les plaquettes de 10 comprimés, ou encore, adopter le comprimé comme unité.
     *   que vous ayez choisi comme unité les plaquettes de 10 ou le comprimé, il faur refaire l'inventaire du produit afin de noter le stock sur la nouvelle fiche.
@@ -103,15 +103,15 @@ Mettez-les à part pour les renvoyer ou les détruire.
 
 ### 2. Vérifiez l'état général de chaque pro­duit livré
 
-*   **_Produits endommagés ou détério­rés_**. Des produits qui ont subi des mani­pulations intempestives sont dangereux.** _Ne les acceptez pas._**
+*   **_Produits endommagés ou détério­rés_**. Des produits qui ont subi des mani­pulations intempestives sont dangereux. **_Ne les acceptez pas._**
 
-*   **_Couleur des vaccins et des médica­ments_**. Si les médicaments ou les vaccins ont changé de couleur, ils sont détériorés.** _Ne les acceptez pas_.**
+*   **_Couleur des vaccins et des médica­ments_**. Si les médicaments ou les vaccins ont changé de couleur, ils sont détériorés. **_Ne les acceptez pas._**
 *   **_Conditionnements cassés, fuites de liquide_**. En cas de fuites de liquide, retirez et **_éliminez tous les produits endommagés._**
-*   **_Conditionnements non scellés, produits ne portant pas d'étiquettes_**. Les produits conservés dans des condition­nements non scellés peuvent avoir été manipulés.** _Ne les acceptez pas_**.
+*   **_Conditionnements non scellés, produits ne portant pas d'étiquettes_**. Les produits conservés dans des condition­nements non scellés peuvent avoir été manipulés. **_Ne les acceptez pas_**.
 *   **_Comprimés et gélules_**. N'ouvrez les conditionnements scellés que si vous sus­pectez une détérioration. Une fois la boîte ouverte, vérifiez la qualité. Sentez le conte­nu de la boîte. Versez quelques comprimés ou gélules sur une surface propre, par exemple sur une feuille de papier posée sur une table.  
     Si les comprimés ou gélules :
-    *   ont une odeur inhabituelle, ils peuvent avoir été détériorés.** _Ne les acceptez pas._**
-    *   sont cassés, réduits en poudre, poisseux, fendus ou gonflés, ils peuvent avoir été endommagés.** _Ne les acceptez pas._**
+    *   ont une odeur inhabituelle, ils peuvent avoir été détériorés. **_Ne les acceptez pas._**
+    *   sont cassés, réduits en poudre, poisseux, fendus ou gonflés, ils peuvent avoir été endommagés. **_Ne les acceptez pas._**
 *   **Solutions injectables**. Agitez le flacon. Observez-le à la lumière. Une solution lim­pide ne doit pas contenir de particules réfléchissant la lumière. La présence de petites particules indique que le produit est détérioré. _**N'acceptez pas le flacon**_.
 
 ## V. Conduite à tenir après l'inspection de la livraison

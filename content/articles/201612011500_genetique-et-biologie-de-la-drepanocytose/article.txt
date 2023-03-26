@@ -194,6 +194,6 @@ Chaque laboratoire doit définir sa compétence et doit travailler en réseau av
 Les biologistes qui portent les diagnostics de maladies génétiques de l’hémoglobine doivent prendre conscience qu’ils engagent leur responsabilité dans le domaine du conseil génétique, même en validant un résultat apparemment aussi simple que celui du trait AS ou celui de β-thalassémie hétérozygote.
 
 ***Glossaire***
-**Ontogénie **: développement progressif d'un organisme depuis sa conception jusqu'à sa forme mûre.
-**Gène ** : "morceau" d'ADN, unité d'hérédité contrôlant un caractère particulier, située à un endroit précis (locus) sur un chromosome.Locus = emplacement précis d'un gène sur un chromosome.
-**Allèle  **: une des différentes formes que peut prendre un gène sur un chromosome. Les allèles d'un gène occupent la même position (locus) sur un chromosome.
+**Ontogénie** : développement progressif d'un organisme depuis sa conception jusqu'à sa forme mûre.
+**Gène** : "morceau" d'ADN, unité d'hérédité contrôlant un caractère particulier, située à un endroit précis (locus) sur un chromosome.Locus = emplacement précis d'un gène sur un chromosome.
+**Allèle** : une des différentes formes que peut prendre un gène sur un chromosome. Les allèles d'un gène occupent la même position (locus) sur un chromosome.

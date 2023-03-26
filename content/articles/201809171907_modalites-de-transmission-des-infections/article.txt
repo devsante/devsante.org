@@ -67,7 +67,7 @@ La pénétration de bactéries entraîne les réactions de défense de l’organ
 - Le **nettoyage des plaies** avec élimination des grains de terre et de sable est d’une grande importance.
 - La **vaccination contre le tétanos** est indispensable.
 
-Les **morsures par les animaux **provoquent fréquemment des contaminations, pasteurelloses, infections à anaérobies, rage (très grave, voir article sur le site).
+Les **morsures par les animaux** provoquent fréquemment des contaminations, pasteurelloses, infections à anaérobies, rage (très grave, voir article sur le site).
 **La prévention est la protection des contacts avec l’animal, notamment chez les enfants, et la vaccination contre la rage des animaux domestiques**.
 
 Les **piqûres d’insectes** transmettront toutes les maladies qui peuvent être apportées par ces vecteurs : paludisme, fièvre jaune, dengue, maladie du sommeil, etc.
@@ -79,7 +79,7 @@ Les **piqûres d’insectes** transmettront toutes les maladies qui peuvent êtr
 
 ### 2. Pénétration par voie sanguine
 Tout objet qui pénètre sous la peau et dans les veines doit être absolument stérile, toute injection à partir d’un matériel non stérile est dangereuse. C’est le cas des aiguilles et seringues qui ont été seulement bouillies et non stérilisées et peuvent contenir encore des virus, comme ceux des hépatites B et C et du SIDA, ou des spores de bacilles anaérobies particulièrement résistants à la chaleur (tétanos).
-Pour toutes ces raisons,** le matériel à usage unique ne doit en aucun cas être "restérilisé" ni réutilisé**.
+Pour toutes ces raisons, **le matériel à usage unique ne doit en aucun cas être "restérilisé" ni réutilisé**.
 
 Les pansements, les aiguilles à perfusion, les cathéters endoveineux, après avoir été posés de manière aseptique, ne doivent ne plus être touchés avec des mains non aseptisées une fois mis en place : les germes sont mobiles, et à partir de la peau ils remontent facilement le long du cathéter ou de l’aiguille et peuvent ainsi contaminer le sang du patient, provoquant des réactions et infections locales (phlébites) ou même générales (septicémies).
 Les médecins, le personnel soignant et la direction des hôpitaux ont une très grande responsabilité dans ce domaine, notamment du fait  des injections ou des prises de sang qui y sont réalisées.
