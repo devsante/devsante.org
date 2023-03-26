@@ -286,7 +286,7 @@ Cette pratique exige une très grande rigueur : il ne faut préparer qu'un seul 
 
 ## IV. Où mettre le réfrigérateur ?
 
-S'il s'agit d'un **réfrigérateur électrique**, vous pouvez le mettre dans le local pharmacie si ce local a un **volume supérieur à 10 m<sup>3</sup>**(s'il est plus petit le réfrigérateur va élever la température de la pièce).
+S'il s'agit d'un **réfrigérateur électrique**, vous pouvez le mettre dans le local pharmacie si ce local a un **volume supérieur à 10 m<sup>3</sup>** (s'il est plus petit le réfrigérateur va élever la température de la pièce).
 
 **Dans tous les autres cas** (local pharmacie plus petit, réfrigérateur à gaz ou à pétrole etc.) il faut le placer dans une autre pièce convena­blement aérée.
 
