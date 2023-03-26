@@ -129,7 +129,7 @@ Les morphiniques : ils ne sont pas tous identiques. On les classe en fonction de
 
 *   leur puissance : il est classique d'effectuer une différence entre morphiniques "faibles" et morphiniques " forts". L'utilisation des premiers est habituellement limitée par l'apparition d'effets secondaires inacceptables lors de l'augmentation des doses ; ces médicaments sont donc réservés aux douleurs considérées comme modérées;
 *   leur action sur les récepteurs morphiniques (il existe un certain nombre de récepteurs mu, kappa, sigma, delta) ;
-*   la relation dose-effet qui permet d'individualiser quatre classes de produits _(figu_re _n° 2) :_
+*   la relation dose-effet qui permet d'individualiser quatre classes de produits (_figure n° 2_) :
     *   agonistes qui se lient aux récepteurs qu'ils activent, entràinant une réponse dose dépendante (exemple la morphine),
     *   agonistes partiels qui se lient aussi aux récepteurs qu'ils activent mais qui n'entraînent jamais une réponse maximale malgré l'augmentation des doses (effet plafond) (exemple la buprénorphine),
     *   les antagonistes qui sont des morphiniques n'ont pas d'action propre mais ils sont capables de lever l'action d'un agoniste en le déplaçant de son récepteur (exemple la naloxone) : il s'agit des produits que l'on utilise dans les surdosages morphiniques,

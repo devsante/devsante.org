@@ -15,11 +15,11 @@ Text:
 
 ## I. Amoébose
 
-L’amoébose (nouvelle appellation de l’amibiase) est extrêmement répandue dans les pays tropicaux, atteignant environ 10 % de la population mondiale. L’homme s’infeste par ingestion de kystes d_’Entamoeba histolytica_ avec les crudités, les fruits ou l’eau de boisson. Chez les sujets en bonne santé, les kystes se transforment en formes _minuta_, non pathogènes, puis ces formes se multiplient et s’enkystent. Ces kystes sont éliminés dans les selles et disséminés dans la nature. En cas de résistance amoindrie du sujet, les amibes grossissent, prennent la forme hématophage et attaquent la muqueuse intestinale (abcès en « bouton de chemise ») puis diffusent vers le foie ou le poumon.
+L’amoébose (nouvelle appellation de l’amibiase) est extrêmement répandue dans les pays tropicaux, atteignant environ 10 % de la population mondiale. L’homme s’infeste par ingestion de kystes d'_Entamoeba histolytica_ avec les crudités, les fruits ou l’eau de boisson. Chez les sujets en bonne santé, les kystes se transforment en formes _minuta_, non pathogènes, puis ces formes se multiplient et s’enkystent. Ces kystes sont éliminés dans les selles et disséminés dans la nature. En cas de résistance amoindrie du sujet, les amibes grossissent, prennent la forme hématophage et attaquent la muqueuse intestinale (abcès en « bouton de chemise ») puis diffusent vers le foie ou le poumon.
 
 ### 1. Clinique
 
-La grossesse ou les suites d’accouchement ou d’avortement, sont des circonstances favorables pour l’amibiase et provoquent l’apparition de symptômes graves, en raison, probablement, de l’imprégnation hormonale due à la grossesse (élévation des 17-hydroxycorticostéroides et du cholestérol) qui favorise le développement d_’Entamoeba histolytica_. L’amibiase serait la principale cause de décès maternel en Tanzanie. Aussi, en zone tropicale, ne faut-il jamais négliger les « petites diarrhées » chez les femmes enceintes. Apparaissent vite des selles liquides avec des glaires et du sang, s’accompagnant d’intenses douleurs abdominales.
+La grossesse ou les suites d’accouchement ou d’avortement, sont des circonstances favorables pour l’amibiase et provoquent l’apparition de symptômes graves, en raison, probablement, de l’imprégnation hormonale due à la grossesse (élévation des 17-hydroxycorticostéroides et du cholestérol) qui favorise le développement d'_Entamoeba histolytica_. L’amibiase serait la principale cause de décès maternel en Tanzanie. Aussi, en zone tropicale, ne faut-il jamais négliger les « petites diarrhées » chez les femmes enceintes. Apparaissent vite des selles liquides avec des glaires et du sang, s’accompagnant d’intenses douleurs abdominales.
 
 En cas **d’amibiase aiguë**, l’état général s’effondre rapidement, l’abdomen est tendu, ballonné et douloureux. L’anus béant et le sphincter atonique laissent sourdre des pertes sanguinolentes. Le bilan biologique montre une hémoconcentration, une acidose, des pertes ioniques, et confirme la présence d’amibes dans les selles. En cas d’amibiase viscérale, l’échographie abdominale ou la radiographie pulmonaire et le sérodiagnostic permettent d’affirmer le diagnostic. Le recours à la ponction hépatique (pus « chocolat ») est devenu rarissime.
 
@@ -253,7 +253,7 @@ Le traitement est basé sur le nifurtimox (10 mg/kg/j pendant 3 mois) ou le benz
 
 ### 1. Giardiose
 
-La giardiose est une parasitose intestinale due à _Giardia_  _intestinalis_. Elle se manifeste par des épigastralgies plus ou moins rythmées par les repas, évoquant un ulcère d’estomac ou une pancréatite avec des selles abondantes et luisantes. Le diagnostic est établi par l’examen parasitologique des selles ou le tubage gastrique. Dans la grande majorité des cas, les troubles sont peu marqués et la prescription thérapeutique n’est pas urgente et peut attendre l’accouchement. Mais la giardiase peut, parfois, provoquer une malabsorption avec déshydratation.
+La giardiose est une parasitose intestinale due à _Giardia intestinalis_. Elle se manifeste par des épigastralgies plus ou moins rythmées par les repas, évoquant un ulcère d’estomac ou une pancréatite avec des selles abondantes et luisantes. Le diagnostic est établi par l’examen parasitologique des selles ou le tubage gastrique. Dans la grande majorité des cas, les troubles sont peu marqués et la prescription thérapeutique n’est pas urgente et peut attendre l’accouchement. Mais la giardiase peut, parfois, provoquer une malabsorption avec déshydratation.
 
 Il n’y a pas de transmission congénitale de la giardiose. Cependant, en raison du risque de transmission de cette parasitose par les mains souillées, il est important de traiter pour éviter une giardiose néonatale. Le traitement en cure unique par le tinidazole (4 comprimés) est efficace et très bien supporté.
 
@@ -279,7 +279,7 @@ La **trichinellose** provoque un syndrome très caractéristique : fièvre à 4
 
 ### 6. Taeniasis et distomatoses
 
-Les **taeniasis** et les **distomatoses** provoquent des troubles digestifs et généraux variés, mais sans retentissement sur le fœtus. Leur traitement peut être différé jusqu’à l’accouchement. Mais, en cas de troubles trop prononcés, la trédémine (4 comp.) ou le biltricide (1 comp.) sont bien tolérés. La complication du _Taenia_  _solium_, ou neurocysticercose provoque des céphalées et des convulsions, à différencier d’une éclampsie.
+Les **taeniasis** et les **distomatoses** provoquent des troubles digestifs et généraux variés, mais sans retentissement sur le fœtus. Leur traitement peut être différé jusqu’à l’accouchement. Mais, en cas de troubles trop prononcés, la trédémine (4 comp.) ou le biltricide (1 comp.) sont bien tolérés. La complication du _Taenia solium_, ou neurocysticercose provoque des céphalées et des convulsions, à différencier d’une éclampsie.
 
 ### 7. Hydatidose
 

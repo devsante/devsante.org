@@ -219,7 +219,7 @@ Chalouper la plaque d'opaline d'un mouvement circulaire horizontal légèrement 
 
 S'il y a passage d'éléments d'une zone de réaction à une autre, il faut recommencer le test.
 
-_Résultats (tableau n° 4_) _:_
+_Résultats (tableau n° 4) :_
 
 Réaction positive : les hématies agglutinées apparaissent comme des conglomérats rouges espacés de liquide clair et limpide de la couleur du réactif initial ou du sérum du patient.
 

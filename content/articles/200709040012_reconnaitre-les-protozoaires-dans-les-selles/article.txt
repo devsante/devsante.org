@@ -12,7 +12,7 @@ Text:
 
 ### 1) Formes végétatives (trophozoïtes)
 
-_**Taille** _: 20 à 30 µm - 40 µm.
+_**Taille**_ : 20 à 30 µm - 40 µm.
 
 _**Mobilité**_ : +; dans les selles, l'amibe se déplace en émettant des pseudopodes courts, un peu transparents qui se forment lentement autour d'elle ; elle bouge peu et fait du "sur place".
 
@@ -169,9 +169,9 @@ Clichés : Dr. A.M. Deluol_
 
 _**Taille**_ : 5 à 10 µm maximum.
 
-_**Mobilité** _: ++ ; pseudopodes hyalins.
+_**Mobilité**_ : ++ ; pseudopodes hyalins.
 
-_**Cytoplasme** _: présence de petites vacuoles mais peu d'inclusions.
+_**Cytoplasme**_ : présence de petites vacuoles mais peu d'inclusions.
 
 _**Noyau**_ : difficile à voir à l'état frais ; on distingue une chromatine périphérique épaisse, en amas, avec un caryosome de grande taille en général central.
 

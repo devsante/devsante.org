@@ -235,7 +235,7 @@ On dispose également de TDR pour la détection des anticorps IgG, IgM et IgA de
 **c. Infections respiratoires**
 
 **Grippe**  
-Des tests rapides reposent sur une détection des antigènes nucléoprotéiniques d_’Orthomyxovirus influenzae,_ agents de la grippe A et B.
+Des tests rapides reposent sur une détection des antigènes nucléoprotéiniques d'_Orthomyxovirus influenzae_, agents de la grippe A et B.
 
 Ils sont réalisés sur des prélèvements effectués au niveau du rhinopharynx et sur les secrétions nasales, les résultats sont obtenus en 15 minutes.
 
@@ -299,7 +299,7 @@ Diagnostic sur bandelette à partir des selles ou d’un écouvillonnage rectal,
 
 Plusieurs espèces de _Shigella_ sont responsables de la dysenteie bacillaire ou Shigellose, diarrhée sanglante grave très répandue en milieu tropical (165 millions de cas et plus de 1 million de morts chaque année, enfants de moins de 5 ans dans plus de 60 % des cas). La majorité des décès est due à _Shigella flexneri_ 2a, sérotype dominant dans les pays en développement. _Shigella dysenteriae_ type 1 est plutôt responsable de formes épidémiques.
 
-Il existe un test pour le dépistage de_Shigella flexneri_ 2a, la forme endémique, et un test pour le dépistage de la forme épidémique _Shigella dysenteriae_ type 1.
+Il existe un test pour le dépistage de _Shigella flexneri_ 2a, la forme endémique, et un test pour le dépistage de la forme épidémique _Shigella dysenteriae_ type 1.
 
 Il s’agit de bandelettes permettant un diagnostic rapide et fiable chez les patients souffrant de diarrhée, directement introduite dans le tube contenant les selles du malade, la lecture étant faite après 5 à 15 minutes.
 

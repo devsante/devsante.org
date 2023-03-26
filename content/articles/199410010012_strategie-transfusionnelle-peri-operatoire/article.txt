@@ -72,9 +72,9 @@ On distingue des anémies arégénératives par manque de production des globule
 
 Les anémies les plus fréquemment rencontrées sont :
 
-*   **les anémies arégénératives par** **carence** en fer et en acide folique, d'origine alimentaire, aggravées par l'ingestion de terre et de thé ;
+*   **les anémies arégénératives par carence** en fer et en acide folique, d'origine alimentaire, aggravées par l'ingestion de terre et de thé ;
 
-*   **les anémies hémolytiques, héréditaires** par anomalie _congénitale_ des globules rouges (drépanocytose, thalassémie, déficit en GPD), _infectieuses_ au cours du palu_disme, immunologiques_ lors des accidents transfusionnels, en particulier dans le groupe ABO;
+*   **les anémies hémolytiques, héréditaires** par anomalie _congénitale_ des globules rouges (drépanocytose, thalassémie, déficit en GPD), _infectieuses_ au cours du paludisme, _immunologiques_ lors des accidents transfusionnels, en particulier dans le groupe ABO;
 
 *   **les anémies par saignement aigu** lors d'un traumatisme, d'une chirurgie ou chronique lors de maladies parasitaires (ankylostomiase), de lésions du tube digestif (Ulcère, hémorroïdes), et chez la femme en période d'activité génitale.
 

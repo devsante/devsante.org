@@ -19,19 +19,19 @@ Un « ventre chirurgical », est un état pathologique _aigu et généralisé_
 
 Les causes sont nombreuses, mais on peut les regrouper en trois principales :
 
-*   _Les péritonites aiguës _: présence de liquide plus ou moins infecté dans la cavité péritonéale provenant de l’infection aiguë d’un organe (comme une appendicite ou un abcès du foie) ou de la perforation du tube digestif (comme un ulcère de l’estomac ou du duodénum, ou une perforation typhique de l’intestin).
-*   _Les occlusions intestinales _: les gaz et les matières ne peuvent plus s’évacuer parce que l’intestin est :
+*   _Les péritonites aiguës_ : présence de liquide plus ou moins infecté dans la cavité péritonéale provenant de l’infection aiguë d’un organe (comme une appendicite ou un abcès du foie) ou de la perforation du tube digestif (comme un ulcère de l’estomac ou du duodénum, ou une perforation typhique de l’intestin).
+*   _Les occlusions intestinales_ : les gaz et les matières ne peuvent plus s’évacuer parce que l’intestin est :
     *   soit bouché par une tumeur, un corps étranger avalé ou le développement de parasites (occlusion par obstruction) ;
     *   soit tordu sur lui-même (par exemple le volvulus d’un côlon trop long) ou étranglé (par exemple dans une hernie ou au contact d’une bride, sorte de ficelle cicatricielle tendue d’un point de l’abdomen à un autre).
     *   **NB** :  Il faut savoir qu’une occlusion négligée peut finir par se compliquer  d’une péritonite par perforation de l’intestin distendu, et qu’une péritonite négligée peut finir par se compliquer d’une occlusion par paralysie de l’intestin.
-*   _Les hémorragies internes _: à distinguer des hémorragies externes qui s’extériorisent par la bouche ou l’anus. Exemples : la grossesse extra-utérine (GEU) rompue et tous les traumatismes (avec ou sans plaie de la paroi) pouvant intéresser des vaisseaux ou des  organes très vascularisés comme le foie ou la rate.
+*   _Les hémorragies internes_ : à distinguer des hémorragies externes qui s’extériorisent par la bouche ou l’anus. Exemples : la grossesse extra-utérine (GEU) rompue et tous les traumatismes (avec ou sans plaie de la paroi) pouvant intéresser des vaisseaux ou des  organes très vascularisés comme le foie ou la rate.
 
 ## III. A l'arrivée du malade
 
 Vous avez reçu le malade. Vous l’avez écouté et interrogé (s'il s'agit d'une femme, est-elle enceinte ?). Vous avez pris sa température, son pouls et sa tension. Vous pouvez parfois penser déjà à un ventre chirurgical :
 
 *   _Systématiquement si le malade se présente ou est amené en urgence parce qu’il a mal au ventre_. C’est ce qu’on appelle la _douleur spontanée_. Bien sûr, il ne s’agit pas toujours d’un ventre chirurgical, mais c’est à une urgence chirurgicale que vous devez penser en premier et jusqu’à preuve du contraire. A l’inverse, on peut écarter toute urgence chirurgicale chez un malade conscient qui ne se plaint pas de douleur abdominale. 
-*   _Surtout si la douleur spontanée est accompagnée _:
+*   _Surtout si la douleur spontanée est accompagnée_ :
 
     *   de **vomissements** répétés ou d’un arrêt net des matières et des gaz, mettant sur la piste d’une occlusion intestinale ;
 
@@ -222,7 +222,7 @@ Gardez le malade en observation en répétant l’examen toutes les deux heures.
 Au bout de 24 heures : 
 
 *   s’il est nettement amélioré vous le gardez encore une journée ;
-*   s’il s’aggrave ou si vous retrouvez toujours une douleur provoquée au même endroit, mieux vaut le transférer dans le doute, au  besoin après un contact téléphonique pour demander conseil_._ En effet :
+*   s’il s’aggrave ou si vous retrouvez toujours une douleur provoquée au même endroit, mieux vaut le transférer dans le doute, au  besoin après un contact téléphonique pour demander conseil. En effet :
     *   _il peut s’agir d’une lésion d’organe localisé_ comme une appendicite, une cholécystite, un pyosalpynx (abcès de la trompe), un abcès du foie, une GEU débutante . 
     *   _ces lésions localisées sont aussi des urgences chirurgicales_ qu’il faut opérer avant qu’elles ne s’étendent en devenant un « ventre chirurgical » beaucoup plus grave.
 

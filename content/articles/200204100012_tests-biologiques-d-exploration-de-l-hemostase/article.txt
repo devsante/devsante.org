@@ -141,7 +141,7 @@ Il explore l'activité de tous les facteurs de la voie endogène et les plaquett
 
 ### 6. Temps de céphaline + activateur (TCA)
 
-Test global qui explore la voie intrinsèque de la coagulation incluant les facteurs de la phase contact : prékallicréine (PK), kininogène de haut poids moléculaire (KHPM), facteurs XI, XII_,_ et les facteurs IX, VIII, X, ainsi que la voie commune avec la fibrinoformation : facteurs V, II, I.
+Test global qui explore la voie intrinsèque de la coagulation incluant les facteurs de la phase contact : prékallicréine (PK), kininogène de haut poids moléculaire (KHPM), facteurs XI, XII, et les facteurs IX, VIII, X, ainsi que la voie commune avec la fibrinoformation : facteurs V, II, I.
 
 Il est exprimé en secondes par rapport à un témoin (normale inférieure à 1,2 fois le temps du témoin exprimé en secondes soit par exemple un temps inférieur ou égal à 36 s pour un témoin à 30 s).
 

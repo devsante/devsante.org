@@ -67,7 +67,7 @@ Trois messages ont paru primordiaux : le lavage des mains surtout après déféc
 ## V. Réduction de la mortalité par diarrhée  
 grâce à la supplémentation en _vitamine A_
 
-Dans les populations où le déficit en vitami_ne_ A est fréquent, il est bien démontré que la supplémentation en _vitamine A_ réduit de manière importante la mortalité globale et la mortalité spécifiquement due aux maladies diarrhéiques (10).
+Dans les populations où le déficit en _vitamine A_ est fréquent, il est bien démontré que la supplémentation en _vitamine A_ réduit de manière importante la mortalité globale et la mortalité spécifiquement due aux maladies diarrhéiques (10).
 
 Sur les cinq essais au niveau communautaire, de grande taille, randomisés contre placebo, quatre ont abouti à des diminutions de la mortalité par diarrhée et de la mortalité globale (de 19 à 54 %), au Népal, au Ghana et en Inde, tandis qu'un essai au Soudan n'a pas montré de diminution de la mortalité par diarrhée. Deux méta-analyses avant inclus 4 de ces essais, dont celui défavorable, ont cependant conclu à une réduction significative de la mortalité par diarrhée, de l'ordre de 30 %.
 
@@ -75,7 +75,7 @@ Les effets de la supplémentation en _vitamine A_ sur la sévérité des épisod
 
 ## En conclusion
 
-Encourager l'allaitement maternel, donner des conseils pour le sevrage, rappeler l'importance de l'hygiène personnelle et domestique, et assurer une supplémentation en vita_mine A_ aux enfants carencés, doivent faire partie des activités de prévention dans les populations pauvres.
+Encourager l'allaitement maternel, donner des conseils pour le sevrage, rappeler l'importance de l'hygiène personnelle et domestique, et assurer une supplémentation en _vitamine A_ aux enfants carencés, doivent faire partie des activités de prévention dans les populations pauvres.
 
 Mais l'hygiène personnelle et domestique, notamment le nettoyage des ustensiles servant à l'alimentation des nourrissons lors du sevrage, dépend de la facilité d'accès à l'eau. L'éducation sanitaire peut limiter la " casse ", mais ce sont les décisions politiques visant à favoriser un accès plus aisé à l'eau qui apparaissent comme primordiales pour diminuer la forte mortalité des enfants par maladies diarrhéiques dans la majorité des régions du monde.
 

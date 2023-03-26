@@ -57,7 +57,7 @@ Les différentes méthodes de mesure de l'observance utilisées sont les suivant
 
 Il n'existe donc pas de méthode standard pour l'évaluation de l'observance.
 
-En fait, la technique la plus simple est souvent la plus efficace. Il se dessine actuellement un consensus pour évaluer simplement l'observance médicamenteuse : il suffirait de demander au patient combien de fois il a oublié une prise de médicaments dans les sept derniers jours. Il faut ensuite noter sa réponse dans son dossier, comme on le fait pour l'évaluation de la douleur. D'ailleurs, des échelles visuelles analogiques du même type que celles qui existent pour la douleur sont actuellement testées afin d'évaluer l'évolution du niveau d'observan_ce chez_ un patient donné.
+En fait, la technique la plus simple est souvent la plus efficace. Il se dessine actuellement un consensus pour évaluer simplement l'observance médicamenteuse : il suffirait de demander au patient combien de fois il a oublié une prise de médicaments dans les sept derniers jours. Il faut ensuite noter sa réponse dans son dossier, comme on le fait pour l'évaluation de la douleur. D'ailleurs, des échelles visuelles analogiques du même type que celles qui existent pour la douleur sont actuellement testées afin d'évaluer l'évolution du niveau d'observance chez un patient donné.
 
 ## III. Les déterminants de l'observance
 
@@ -118,6 +118,6 @@ Vis à vis du patient, il peut y avoir un soutien informatif (fiches récapitula
 
 Il faut également mener des actions sur le contexte institutionnel afin que l'organisation des soins soit mieux adaptée aux besoins des patients : respect de l'anonymat et de la confidentialité, accompagnement social, dossier médical, etc.
 
-Une bonne observance est donc le résultat de nombreux facteurs qui sont rarement tous réunis. Cependant, s'il faut veiller à l'amélioration de chacun d'entre eux, n'oublions pas que le facteur principal est la relation que le soignant établit_._
+Une bonne observance est donc le résultat de nombreux facteurs qui sont rarement tous réunis. Cependant, s'il faut veiller à l'amélioration de chacun d'entre eux, n'oublions pas que le facteur principal est la relation que le soignant établit.
 
 _Développement et Santé, n° 172, 2004_

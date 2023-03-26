@@ -103,7 +103,7 @@ L'administration intraveineuse peut se faire soit en bolus, soit en perfusion co
 
 *   Administration en bolus. La dose initiale est de 2 à 4 mg/kg. Les réinjections se font par doses fractionnées de la moitié de la dose d'induction (1 à 2 mg/kg).
 
-*   _Administration en intraveineuse conti_nue. On administre en perfusion rapide une dose starter de 2 à 5 mg/kg puis dès la perte de conscience on ralentit le débit à 0,01 à 0,05 mg/kg/min.
+*   _Administration en intraveineuse continue_. On administre en perfusion rapide une dose starter de 2 à 5 mg/kg puis dès la perte de conscience on ralentit le débit à 0,01 à 0,05 mg/kg/min.
 
 (image: i833-1.jpg)
 

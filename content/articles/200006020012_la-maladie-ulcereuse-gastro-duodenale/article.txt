@@ -59,7 +59,7 @@ Ils peuvent jouer un rôle dans l'exacerbation de l'activité d'un ulcère.
 
 Bacille spiralé Gram négatif multiflagelle avec une affinité pour un environnement micro-aérophile ; le germe n'envahit pas les tissus, il réside dans le gel muqueux enrobant les cellules épithéliales.
 
-La colonisation duodénale par _Helicobacter pylo_ri est limitée aux régions de métaplasie gastrique. C'est un facteur important dans la pathogénie ulcéreuse. Cette bactérie est retrouvée dans 90 % des ulcères duodénaux au niveau de la muqueuse antrale et dans 70 % des ulcères gastriques. Il est démontré que son éradication entraîne la cicatrisation durable de l'ulcère duodénal et gastrique. Cela peut correspondre à un simple facteur permissif puisque la bactérie est fréquemment retrouvée dans des populations présentant une pathologie gastrique non ulcéreuse.
+La colonisation duodénale par _Helicobacter pylori_ est limitée aux régions de métaplasie gastrique. C'est un facteur important dans la pathogénie ulcéreuse. Cette bactérie est retrouvée dans 90 % des ulcères duodénaux au niveau de la muqueuse antrale et dans 70 % des ulcères gastriques. Il est démontré que son éradication entraîne la cicatrisation durable de l'ulcère duodénal et gastrique. Cela peut correspondre à un simple facteur permissif puisque la bactérie est fréquemment retrouvée dans des populations présentant une pathologie gastrique non ulcéreuse.
 
 La vie en collectivité constitue le facteur de risque de transmission le plus important. L'infection se transmet de proche en proche au sein de petits foyers endémiques. Des cas de transmission professionnelle ont été rapportés (endoscopistes). Le mécanisme de transmission _d'Helicobacter pylori_ reste mal connu. Le modèle le plus cohérent est celui d'une transmission inter-humaine directe principalement acquise pendant l'enfance, le passage de bactéries se faisant directement à partir de la salive, du liquide gastrique ou des selles.
 
@@ -235,7 +235,7 @@ On dispose de nombreuses méthodes diagnostiques parmi lesquelles :
 
 ### 1. Test à l'uréase
 
-L'uréase de la bactérie transforme l'urée en ammoniac et CO<sub>2</sub>, l'ammoniac fait virer un indicateur coloré sensible au pH (du jaune au rouge) ; on dépose en pratique 1 ou 2 biopsies antrales de la région angulaire dans un gel coloré en jaune. Le délai de virement varie de quelques minutes à un maximum de 3 heures en cas d'infection antrale à _Helico_bacter _pylori_. La sensibilité et la spécificité sont de l'ordre de 90 %.C'est un examen rapide et peu coûteux.
+L'uréase de la bactérie transforme l'urée en ammoniac et CO<sub>2</sub>, l'ammoniac fait virer un indicateur coloré sensible au pH (du jaune au rouge) ; on dépose en pratique 1 ou 2 biopsies antrales de la région angulaire dans un gel coloré en jaune. Le délai de virement varie de quelques minutes à un maximum de 3 heures en cas d'infection antrale à _Helicobacter pylori_. La sensibilité et la spécificité sont de l'ordre de 90 %.C'est un examen rapide et peu coûteux.
 
 ### 2. Sérologie
 

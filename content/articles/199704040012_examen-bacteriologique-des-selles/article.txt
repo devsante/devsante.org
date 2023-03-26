@@ -87,7 +87,7 @@ Au cas où le diagnostic biochimique conduit à l'identification de Salmonella o
 
 Pour les Salmonella qui comportent plus de 2000 sérotypes, on peut utiliser les sérums OMA et OMB qui sont des mélanges d'agglutinines anti 0 des principaux groupes rencontrés en pathologie humaine. Si le laboratoire en a les moyens, l'identification est poursuivie avec les sérums anti 0 monovalents. Pour cette partie du diagnostic qui demande à être détaillée, nous renvoyons le lecteur aux manuels de microbiologie.
 
-Pour les Shigella_,_ il existe quatre sérums pour l'identification antigénique :
+Pour les Shigella, il existe quatre sérums pour l'identification antigénique :
 
 **Sous-groupe A** _(S. dysenteriae)_
 

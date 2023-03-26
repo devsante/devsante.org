@@ -226,7 +226,7 @@ Leur fréquence s'explique par l'accessibilité des médicaments dans nos maison
 
 - L'acide acétylsalicylique est métabolisé par le foie :
 
-25 % sont oxydés, 75 % sont éliminés sous forme d'acide salicylique dans les urines. Cette excrétion urinaire dépend beaucoup du pH urinaire (elle est multipliée par 5 si le pH est <_ 7,5).
+25 % sont oxydés, 75 % sont éliminés sous forme d'acide salicylique dans les urines. Cette excrétion urinaire dépend beaucoup du pH urinaire (elle est multipliée par 5 si le pH est < 7,5).
 
 -Trois organes sont atteints : le foie, le rein, le système nerveux.
 

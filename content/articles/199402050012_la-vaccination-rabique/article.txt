@@ -16,7 +16,7 @@ Malgré les mesures associant de plus en plus souvent la lutte contre la rage hu
 
 * Pasteur-Mérieux Sérums et Vaccins, 12, boulevard de Port-Royal, 75005 Paris.
 
-Pendant plus de Mans, tous les vaccins rabiques utilisés aussi bien chez l'animal que chez l'homme, étaient généralement préparés à partir de substances nerveuses de divers animaux, pour une activité immuno_gène_ variable avec des incidents post vaccinaux graves qui les faisaient réserver aux cas de contact quasi certains avec un animal enragé.
+Pendant plus de Mans, tous les vaccins rabiques utilisés aussi bien chez l'animal que chez l'homme, étaient généralement préparés à partir de substances nerveuses de divers animaux, pour une activité immunogène variable avec des incidents post vaccinaux graves qui les faisaient réserver aux cas de contact quasi certains avec un animal enragé.
 
 Afin d'éliminer le risque encéphalomyélitique, on a cherché à produire des vaccins rabiques dépourvus de facteur de sensibilisation. Les incidents post vaccinaux ont été réduits par l'utilisation de vaccins préparés à partir de substances nerveuses d'animaux nouveau-nés, ou d'embryons aviaires.
 
@@ -168,6 +168,6 @@ Les enquêtes épidémiologiques et épizootiques, effectuées par les organisat
 
 La situation est donc préoccupante et la lutte systématique contre la rage devient plus que jamais à l'ordre du jour.
 
-Le risque humain de rage existe partout où la rage animale est installée à l'état _endé_mique et le nombre de cas humains est directement lié à l'importance des foyers animaux.
+Le risque humain de rage existe partout où la rage animale est installée à l'état endémique et le nombre de cas humains est directement lié à l'importance des foyers animaux.
 
 Le développement récent de vaccins rabiques produits à partir de cultures cellulaires, a complètement bouleversé la prophylaxie rabique. D'après les travaux mondiaux, ces vaccins se sont révélés peu réactogènes, à antigénicité élevée, avec absence de neurotoxicité et acquisition rapide des anticorps, aussi bien en prévention qu'en traitement post exposition.

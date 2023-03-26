@@ -164,7 +164,7 @@ La transfusion de plaquettes doit précéder ou accompagner la transfusion de pl
 
 La transfusion de plasma, après la transfusion de plaquettes, si le saignement persiste, est indiquée pour compenser la baisse de facteurs de la coagulation.
 
-En pratique, on propose comme seuil minimal en présence d'une hémorragie au-delà duquel il est légitime de transfuser : un taux d'hémoglobine à 8 g/dl ou d'hématocrite à 26%, un taux de plaquettes à 50 000 à 75 000 g/dl_,_ un taux de fibrinogène < 0,8 g/l, un TP < 30-35% et un TCA > 1,8 fois le témoin.
+En pratique, on propose comme seuil minimal en présence d'une hémorragie au-delà duquel il est légitime de transfuser : un taux d'hémoglobine à 8 g/dl ou d'hématocrite à 26%, un taux de plaquettes à 50 000 à 75 000 g/dl, un taux de fibrinogène < 0,8 g/l, un TP < 30-35% et un TCA > 1,8 fois le témoin.
 
 **Indications de l'autotransfusion pré et per-opératoire**
 

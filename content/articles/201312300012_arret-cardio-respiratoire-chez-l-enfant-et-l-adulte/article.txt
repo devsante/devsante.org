@@ -146,19 +146,22 @@ Elle concerne les enfants prépubères, victimes de noyade, de traumatisme ou d�
 
 #### a) Libération des voies aériennes (LVA)
 
-Après avoir diagnostiqué l’absence de ventilation, mettre la tête en hyperextension ou subluxer la mandibule ( figure 2).
+Après avoir diagnostiqué l’absence de ventilation, mettre la tête en hyperextension ou subluxer la mandibule (figure 2).
+
+_**Figure 2**_
+
+(image: image001-2.jpg)
 
 #### b) Ventilation
 
-Le sauveteur fait 5 insufflations par bouche à bouche chez les enfants âgés de plus de1 an  
+Le sauveteur fait 5 insufflations par bouche à bouche chez les enfants âgés de plus de 1 an  
 (figure 3), ou bouche à bouche + nez chez les enfants âgés de moins de 1 an. Les insufflations durent 1 à 1,5 s, avec une pression suffisante pour soulever le thorax.
 
 La ventilation est efficace quand il y a une expansion thoracique lors des insufflations. En cas de ventilation inefficace, une obstruction des voies aériennes par un corps étranger est à envisager.
 
-_**Figure 2** _                                                                                         _ **Figure 3**_
+                                                                                _**Figure 3**_
 
-(image: image001-2.jpg)
-                    (image: image002-1.gif)
+(image: image002-1.gif)
 
 
 #### c) Massage cardiaque externe (MCE)
@@ -167,8 +170,8 @@ Il est débuté après une prise de pouls par un soignant ; la recherche du poul
 
 **La technique du MCE varie selon l’âge :**
 
-*   chez le nourrisson et jusqu’à l’âge de 1 an, on peut utiliser la “technique des 2 pouces encerclant le thorax” ( figure 4) ou la “technique des 2 doigts d’une main” ( figure 5).
-*   chez les enfants âgés de plus de 1 an, on utilise la “technique à 1 main” ( figure 6) ou la “technique à 2 mains” ( figure 7).
+*   chez le nourrisson et jusqu’à l’âge de 1 an, on peut utiliser la “technique des 2 pouces encerclant le thorax” (figure 4) ou la “technique des 2 doigts d’une main” (figure 5).
+*   chez les enfants âgés de plus de 1 an, on utilise la “technique à 1 main” (figure 6) ou la “technique à 2 mains” (figure 7).
 
 _**Figure 4**_
 
@@ -244,7 +247,7 @@ Les étapes de mise en place d’un défibrillateur automatisé externe sont tou
 
 Le tracé électrocardiographique permet de distinguer les rythmes “défibrillables” (fibrillation ventriculaire, tachycardie ventriculaire) des rythmes “non défibrillables” (asystolie, activité
 
-électrique sans pouls). Cette distinction conditionne la suite de la prise en charge comme le montre l’arbre décisionnel de défibrillation ( figure 8).
+électrique sans pouls). Cette distinction conditionne la suite de la prise en charge comme le montre l’arbre décisionnel de défibrillation (figure 8).
 
 _**Figure 8**_
 
