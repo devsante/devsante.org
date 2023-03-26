@@ -23,7 +23,7 @@ Pour répondre à ces craintes, des chercheurs ont examiné les données concern
 Il n’a donc pas été mis en évidence de différence significative du nombre d’antigènes vaccinaux reçus par chaque enfant, entre les deux groupes.  
 Ces résultats sont en faveur d’une non-augmentation du risque infectieux par le programme de vaccination pédiatrique actuel. 
 
-*Ref.
+_Ref.
 Association between estimated cumulative vaccine antigen exposure through the first 23 months of life and non-vaccine-targeted-infections from 24 through 47 months of age.
 Glanz J, Newcomer SR, Daley MF, et al.
-JAMA. 2018 ; 319 : 906-913
+JAMA. 2018 ; 319 : 906-913_

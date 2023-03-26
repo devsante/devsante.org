@@ -107,8 +107,7 @@ Les  non-réponses  sont  plus  fréquentes  chez  les patients avec une 
 On dispose d'essais randomisés/contrôlés qui comparent  l'efficacité à un an du  traitement de l'hépatite chronique B par les différentes molécules disponibles : l'interféron  alpha  pégylé,  la  lamivudine,  l'adéfovir, l'entécavir, la telbivuline et le ténofovir.  
 Comme indiqué dans les figures 3a et 3b, chez les patients Ag HBe+, probablement porteurs d'un virus dit "sauvage", l'obtention d'une séroconversion HBe, c'est-à-dire  l'apparition d'anticorps anti-HBe avec disparition des Ag HBe associée à une négativation durable de l'ADN du VHB, est obtenue plus souvent avec  l'interféron  qu'avec les analogues. Cependant, ce ne sont que des résultats après un an de traitement, les analogues sont généralement prescrits plus longtemps.
 
-_**Figure 3a : résultats des essais thérapeutiques conduits  
-chez des patients Ag HBe+**_
+_**Figure 3a : résultats des essais thérapeutiques conduits chez des patients Ag HBe+**_
 
 (image: page-58-trait-fig-3-bat.jpg)
 
@@ -119,8 +118,9 @@ La finalité du traitement est l'obtention d'une disparition de l'Ag HBs avec un
 La figure 3b montre les taux de disparition de l'ADN du VHB avec les différentes molécules. En cas de traitement par les analogues, une non-réponse ou un échappement viral  (remontée  de  l'ADN  après  une baisse de ce dernier) feront craindre une résistance.  
 Le  problème de la résistance sera traité dans le chapitre co-infections.
 
-_** Figure 3b : résultats des essais thérapeutiques conduits  
-chez des patients Ag HBe-**_(image: page-61-trait-fig-4-bat.jpg)
+_**Figure 3b : résultats des essais thérapeutiques conduits chez des patients Ag HBe-**_
+
+(image: page-61-trait-fig-4-bat.jpg)
 
 
 ### 4. Co-infections par le VHB et le VIH

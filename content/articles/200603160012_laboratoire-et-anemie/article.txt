@@ -124,7 +124,7 @@ Ainsi :
 *   Les constantes permettent de mieux préciser les caractères de cette anémie (normochrome normocytaire, hypochrome macrocytaire...).
 
 #### b) l'analyse morphologique permet par­fois à elle seule d'établir un diagnostic  
-Exemples :**
+Exemples :
 
 *   drépanocytose avec présence d'hématies falciformes (drépanocytes) ;
 *   paludisme avec présence de Plasmodium à l'intérieur des hématies.

@@ -8,8 +8,8 @@ Datetime: 2000-06-14 00:00
 ----  
 Text:
 
-*Médecin, SAMU 93 (Service d'Aide Médicale d'Urgence), hôpital Avicenne, Bobigny, France.
-**Médecin anesthésiste, DAR, hôpital Avicenne, Bobigny, France.
+\* Médecin, SAMU 93 (Service d'Aide Médicale d'Urgence), hôpital Avicenne, Bobigny, France.
+\*\* Médecin anesthésiste, DAR, hôpital Avicenne, Bobigny, France.
 
 L'incidence des traumatismes médullaires est d'environ 20 à 30 patients par million d'habitants en Europe et probablement plus importante dans les pays en développement. Les principales causes sont les accidents de la voie publique (70 %), les chutes d'une hauteur et les accidents de sport (plongeon). Parmi les patients décédés dans un accident de la route, 20 % des autopsies révèlent la présence d'une lésion du rachis cervical, celle-ci intéresse la charnière C1/C2 dans 80 % des cas. Les lésions graves du rachis cervical au cours d'un accident de voiture sont rares (< 5 %) lorsque le patient a attaché sa ceinture de sécurité. La majorité des traumatismes graves du rachis cervical est associée à un polytraumatisme (70 %) et près de 10 % des lésions médullaires cervicales sont associées à des fractures vertébrales intéressant d'autres régions.
 

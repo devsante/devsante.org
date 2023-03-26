@@ -115,7 +115,7 @@ Un effort important doit porter sur sa prévention, c'est-à-dire sur l'identifi
 
 ## I. Diagnostic ou reconnaissance de l’Arrêt Cardio-Respiratoire (ACR)
 
-C’est un arrêt brutal de la circulation et de la ventilation qui se manifeste par une absence de signe de vie. Le patient inconscient ne répond pas aux stimulations et ne ventile pas ou présente une respiration agonique (gasp*). Le témoin non secouriste n’a pas à rechercher l’absence de pouls. La rapidité du diagnostic d’arrêt cardiorespiratoire est primordiale (moins de 10 secondes).
+C’est un arrêt brutal de la circulation et de la ventilation qui se manifeste par une absence de signe de vie. Le patient inconscient ne répond pas aux stimulations et ne ventile pas ou présente une respiration agonique (gasp). Le témoin non secouriste n’a pas à rechercher l’absence de pouls. La rapidité du diagnostic d’arrêt cardiorespiratoire est primordiale (moins de 10 secondes).
 
 ## II. Réanimation cardio-pulmonaire (RCP) de base
 

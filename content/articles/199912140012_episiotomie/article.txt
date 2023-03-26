@@ -8,8 +8,8 @@ Datetime: 1999-12-14 00:00
 ----  
 Text:
 
-*Gynécologue-obstétricien, hôpital Louis Mourier, Colombes, France  
-**Gynécologue-obstétricien, CHI Saint Grégoire, Montreuil, France
+\* Gynécologue-obstétricien, hôpital Louis Mourier, Colombes, France  
+\*\* Gynécologue-obstétricien, CHI Saint Grégoire, Montreuil, France
 
 L'épisiotomie sectionne le périnée à partir de l'anneau vulvaire et facilite le dégagement. C'est l'intervention chirurgicale la plus communément pratiquée en France .
 
@@ -26,9 +26,9 @@ Le but est double. D'une part, prévenir les déchirures périnéales ; d'autre 
 
 Le périnée est un ensemble de formations cutanéo-musculo-aponévrotiques comportant principalement la carène des releveurs, elle-même formée de 2 couches :
 
-*une couche externe ou sphinctérienne comprenant 3 faisceaux :Pubo-coccygien, cliococcygien, ischio-coccygien ;
+- une couche externe ou sphinctérienne comprenant 3 faisceaux : Pubo-coccygien, cliococcygien, ischio-coccygien ;
 
-*une couche interne ou élévatrice ou faisceau puborectal.
+- une couche interne ou élévatrice ou faisceau puborectal.
 
 Le rôle **des releveurs** et donc du périnée est multiple. Il intervient dans :
 
@@ -124,17 +124,17 @@ La réparation de l'épisiotomie doit être précoce, généralement immédiatem
 
 **En fin d'intervention :**
 
-*Vérifier l'hémostase
+- Vérifier l'hémostase
 
-*Enlever le tampon repère
+- Enlever le tampon repère
 
-*Vérifier le globe utérin et les saignements
+- Vérifier le globe utérin et les saignements
 
-*Au moindre doute faire un toucher rectal de contrôle pour s'assurer qu'aucun point n'a transfixié la muqueuse rectale. La découverte d'un fil dans la lumière rectale doit entraîner son ablation immédiate.
+- Au moindre doute faire un toucher rectal de contrôle pour s'assurer qu'aucun point n'a transfixié la muqueuse rectale. La découverte d'un fil dans la lumière rectale doit entraîner son ablation immédiate.
 
-*Faire un compte-rendu opératoire écrit et signé
+- Faire un compte-rendu opératoire écrit et signé
 
-*Faire un contrôle en post partum
+- Faire un contrôle en post partum
 
 **III- Après l'épisiotomie**
 

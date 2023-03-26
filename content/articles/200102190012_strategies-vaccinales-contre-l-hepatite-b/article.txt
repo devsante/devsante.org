@@ -189,7 +189,7 @@ Naissance
 
 <td style="width: 111px;" valign="top">
 
-BCG, VPO* 0
+BCG, VPO\* 0
 
 </td>
 
@@ -213,7 +213,7 @@ HB 1
 
 <td style="width: 111px;" valign="top">
 
-DTC** 1, VPO 1
+DTC\*\* 1, VPO 1
 
 </td>
 
@@ -308,9 +308,9 @@ Fièvre jaune<sup>2</sup>
 
 _Source: OMS / EPI / GEN / 95. 3_
 
-_* VPO : vaccin poliomyélitique oral_
+_\* VPO : vaccin poliomyélitique oral_
 
-_** DTC : vaccin associé diphtérie-tétanos-coqueluche_
+_\*\* DTC : vaccin associé diphtérie-tétanos-coqueluche_
 
 _1. Le schéma A est recommandé dans les pays où la transmission périnatale du virus de l'hépatite B est très répandue (ex. l'Asie du Sud-Est). Le schéma B est utilisé dans les pays où la transmission périnatale du virus est moins fréquente (ex. l'Afrique subsaharienne)._
 

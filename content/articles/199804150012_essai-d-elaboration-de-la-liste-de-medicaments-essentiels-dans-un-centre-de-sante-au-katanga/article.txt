@@ -8,13 +8,13 @@ Datetime: 1998-04-15 00:00
 ----  
 Text:
 
-**Essai d'élaboration de la liste de médicaments essentiels dans un centre de santé au Katanga* : cas de l'entreprise minière Gécamine**
+**Essai d'élaboration de la liste de médicaments essentiels dans un centre de santé au Katanga\* : cas de l'entreprise minière Gécamine**
 
-* **République Démocratique du Congo**
+\* **République Démocratique du Congo**
 
-**par 0. Stanis Wembonyama*, Albert Mutangala**
+**par 0. Stanis Wembonyama\*, Albert Mutangala**
 
-* Professeur de pédiatrie, Université de Mbujimayi, Directeur du Centre de L'Enfant Africain.
+\* Professeur de pédiatrie, Université de Mbujimayi, Directeur du Centre de L'Enfant Africain.
 
 Dans la déclaration d'Alma-Ata de septembre 1978 sur les soins de santé primaires (SSP), le point 3 du chapitre VII indique clairement que les médicaments essentiels constituent la 8<sup>è</sup> composante des SSP, car ils sont un outil précieux pour l'exécution des autres composantes, notamment la vaccination contre les grandes maladies infectieuses (5<sup>è</sup> composante), la prévention et le contrôle des endémies locales (6<sup>è</sup> composante) et le traitement des maladies et des lésions courantes (7<sup>è</sup> composante).
 

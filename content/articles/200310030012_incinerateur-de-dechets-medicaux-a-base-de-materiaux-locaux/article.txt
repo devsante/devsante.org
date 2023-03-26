@@ -8,9 +8,9 @@ Datetime: 2003-10-03 00:00
 ----  
 Text:
 
-\*Docteur en Médecine, Chef de Service de Santé communautaire. Délégation Provinciale de la Santé publique du Littoral. BP 1115 - DOUALA - Tél / Fax (237) 342 36 33. <mailto:bitaandre@yahoo.fr> 
-\*\*Polytechnicien. Ingénieur du Projet, Douala, Cameroun.
-\*\*\*Docteur en Médecine, Conseiller Technique du Délégué Provincial de la Santé publique du Littoral, Douala, Cameroun. 
+\* Docteur en Médecine, Chef de Service de Santé communautaire. Délégation Provinciale de la Santé publique du Littoral. BP 1115 - DOUALA - Tél / Fax (237) 342 36 33. <mailto:bitaandre@yahoo.fr> 
+\*\* Polytechnicien. Ingénieur du Projet, Douala, Cameroun.
+\*\*\* Docteur en Médecine, Conseiller Technique du Délégué Provincial de la Santé publique du Littoral, Douala, Cameroun. 
 
 **Introduction** 
 L'abandon progressif des matériels réutilisables au profit du matériel à usage unique non réutilisé explique l'accumulation des déchets médicaux, tels que seringues et aiguilles qui s'ajoutent à ceux que nous avions l'habitude de voir gérer sans grande rigueur : flacons, cathéters, pansements, déchets liquides etc. L'on ne peut plus se permettre de jeter les déchets médicaux dans un simple trou à ordures ni multiplier les sites de stockage qui sont dangereux. Brûler ces déchets à l'air libre n'est pas suffisant (combustion incomplète, résidus abondants), n'est pas sécurisant pour le personnel ou la population (la destruction de tous les micro-organismes n'est pas garantie lors d'une combustion incomplète, les risques de piqûres et blessures restent importants) et n'est pas respectueux de l'environnement (abondantes fumées toxiques, accumulation de déchets incomplètement détruits). L'incinération est devenue la méthode de choix pour la destruction des déchets : elle consiste non seulement à les brûler (combustion simple) mais, par une température de combustion supérieure à 700°C, pouvant même atteindre 1 100°C, à les réduire en cendres, détruisant tous les micro-organismes, réduisant leur volume et leur poids, supprimant les risques de blessure et de coupure. Il est indispensable de former les personnels de santé à la gestion des déchets médicaux : plus généralement à l'hygiène hospitalière et à la prévention des infections nosocomiales, et particulièrement à la technique de l'incinération. 

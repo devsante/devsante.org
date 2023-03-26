@@ -76,7 +76,7 @@ C’est avant tout lui qui va vous permettre de prendre une décision.
     *   qu’elles ne soient pas faussées par une agitation ou des cris (notamment chez l’enfant).rendant l’examen ininterprétable. Il ne faut pas hésiter alors à reprendre l’examen une demi-heure après avoir administré un calmant ou un antalgique fort (morphine au besoin !) ;
     *   qu’elles soient permanentes, sans relâchement (même pendant quelques secondes) au cours de l’examen, autre raison pour recommencer l’examen un peu plus tard si on a un doute.
 
-#### Devez-vous faire un toucher rectal (TR) ou vaginal* ? 
+#### Devez-vous faire un toucher rectal (TR) ou vaginal\* ? 
 
 **Oui, mais à trois conditions :**
 
@@ -87,7 +87,7 @@ C’est avant tout lui qui va vous permettre de prendre une décision.
 Si ces trois conditions sont réunies, cet examen peut être utile en retrouvant une douleur vive à bout de doigt au niveau du cul de sac péritonéal, évoquant une péritonite ou une hémorragie interne.  
 Si ces trois conditions ne sont pas réunies, mieux vaut vous en abstenir
 
-* La technique des touchers pelviens est décrite dans le manuel « [Pratique chirurgicale pour médecins isolés/ Chirurgie générale et viscérale](http://devsante.org/sites/default/files/pdf/ManuelChirViscGenV5Red.pdf) » (pages 52-53), consultable sur le site devsante.org à la rubrique « Modules de formation ».
+\* La technique des touchers pelviens est décrite dans le manuel « [Pratique chirurgicale pour médecins isolés/ Chirurgie générale et viscérale](http://devsante.org/sites/default/files/pdf/ManuelChirViscGenV5Red.pdf) » (pages 52-53), consultable sur le site devsante.org à la rubrique « Modules de formation ».
 
 ### Peut-on se passer d'examens complémentaires ?
 

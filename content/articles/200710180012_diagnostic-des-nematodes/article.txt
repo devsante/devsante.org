@@ -301,7 +301,7 @@ Comp à 600 mg ; 200 µg/kg en 1 fois
 
 <tr>
 
-<td colspan="2" style="width: 138px;">* Traitement de l'anguillulose et des filarioses</td>
+<td colspan="2" style="width: 138px;">\* Traitement de l'anguillulose et des filarioses</td>
 
 </tr>
 

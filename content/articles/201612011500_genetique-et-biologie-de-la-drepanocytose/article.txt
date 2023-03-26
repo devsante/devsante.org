@@ -16,7 +16,7 @@ Teaser: La drépanocytose, encore appelée anémie falciforme, est une maladie g
 
 Text:
 
-Formules moléculaires, ontogénie* et gènes* des hémoglobines humaines
+Formules moléculaires, ontogénie *et gènes* des hémoglobines humaines
 Les hémoglobines humaines fœtales et adultes normales sont des doubles dimères faits de :
 2 chaînes α-globine et de 2 chaînes γ (hémoglobine F-α2γ2), 
 2 chaînes α-globine et de 2 chaînes β (hémoglobine A-α2β2) 
