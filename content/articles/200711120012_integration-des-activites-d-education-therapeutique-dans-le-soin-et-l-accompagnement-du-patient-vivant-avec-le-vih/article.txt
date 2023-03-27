@@ -236,7 +236,7 @@ Notre langage doit être adapté aux patients. Il faut prendre du temps pour les
 
 </table>
 
-$1<table>
+<table>
 
 <tbody>
 

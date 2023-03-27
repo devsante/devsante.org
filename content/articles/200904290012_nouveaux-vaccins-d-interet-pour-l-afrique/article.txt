@@ -155,7 +155,7 @@ PNEUMO 23 : 2 mois plus tard puis tous les 3 à 5 ans</td>
 
 </table>
 
-$1<table>
+<table>
 
 <thead>
 

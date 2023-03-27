@@ -226,7 +226,7 @@ Aérobies : entérobacteries, <em>Staphylococcus, Enterococcus, Pseudomonas</em>
 
 </table>
 
-$1<table>
+<table>
 <caption>Tableau 2 : zones normalement stériles</caption>
 
 <tbody>

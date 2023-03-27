@@ -254,7 +254,7 @@ Noter la petite encoche caractéristique, qui se trouve au bout de l’extrémit
 
 </table>
 
-$1<table>
+<table>
 <caption>Tableau II : traitement des nématodes intestinaux</caption>
 
 <thead>

@@ -101,7 +101,7 @@ Ce document de 4 pages présentant la vision de l’action et les modalités de 
 
 </table>
 
-$1<table>
+<table>
 
 <tbody>
 

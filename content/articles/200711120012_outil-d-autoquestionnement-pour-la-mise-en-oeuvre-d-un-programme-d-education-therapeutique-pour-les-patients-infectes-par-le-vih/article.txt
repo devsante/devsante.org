@@ -164,7 +164,7 @@ matériel pédagogique, outils de suivi<ul><li>Existe-t-il des supports d'éduca
 
 </table>
 
-$1<table>
+<table>
 
 <tbody>
 

@@ -93,7 +93,7 @@ Tube de mesure trop froid, ou trop court
 
 </table>
 
-$1<table>
+<table>
 <caption>Tableau 2 : variations pathologiques de la VS</caption>
 
 <thead>

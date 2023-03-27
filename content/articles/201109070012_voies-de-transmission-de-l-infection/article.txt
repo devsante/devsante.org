@@ -143,7 +143,7 @@ C’est la connaissance des voies de transmission de l’infection qui va permet
 
 </table>
 
-$1<table>
+<table>
 <caption>MST dues à des bactéries</caption>
 
 <thead>

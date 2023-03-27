@@ -228,7 +228,7 @@ Par ailleurs, les services de santé ont été durement touchés, ce qui retenti
 </tbody>
 </table>
 
-$1**Tableau IV. Personnel soignant contaminé par le Covid-19 à Mayotte (SpF)**.
+**Tableau IV. Personnel soignant contaminé par le Covid-19 à Mayotte (SpF)**.
 
 ### Vingt et un décès                               
 Sur l’ensemble des cas, 63% ont entre 18 et 44 ans, l’âge médian étant de 37 ans, (allant de 1 an à 93 ans) avec une variation selon le sexe : 35 ans pour les femmes et 41 ans pour les hommes (alors que l’âge médian de la population de Mayotte est de 18 ans). 

@@ -46,7 +46,7 @@ Text:
 
 </table>
 
-$1<table>
+<table>
 
 <tbody>
 
@@ -86,7 +86,7 @@ $1<table>
 
 </table>
 
-$1<table>
+<table>
 
 <tbody>
 
@@ -126,7 +126,7 @@ Topiques gastro-intestinaux : espacer la prise d'au moins 2 heures après la pri
 
 </table>
 
-$1<table>
+<table>
 
 <tbody>
 
@@ -166,7 +166,7 @@ Associations à surveiller : tout médicament hépatotoxique.
 
 </table>
 
-$1<table>
+<table>
 
 <tbody>
 
@@ -206,7 +206,7 @@ $1<table>
 
 </table>
 
-$1<table>
+<table>
 
 <tbody>
 
